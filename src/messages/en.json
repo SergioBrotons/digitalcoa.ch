@@ -13,6 +13,11 @@
       "rights": "© {year} DigitalCoa.ch. All rights reserved.",
       "location": "Geneva, Switzerland",
       "confidential": "Confidential & Human-led"
+    },
+    "cookies": {
+      "text": "This site uses essential cookies to ensure the best user experience.",
+      "link": "Privacy Policy",
+      "accept": "Accept"
     }
   },
   "Home": {
