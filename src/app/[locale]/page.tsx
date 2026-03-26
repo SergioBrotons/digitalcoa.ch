@@ -92,20 +92,20 @@ export default async function Home({params}: {params: Promise<{locale: string}>}
         {/* AUDIENCE SEGMENTS */}
         <Section variant="gray" spacing="md">
           <div className="max-w-6xl mx-auto">
-            <h2 className="text-xs font-bold uppercase tracking-[0.3em] text-text-muted mb-12 border-b border-brand-border pb-6">
+            <h2 className="text-[10px] md:text-xs font-bold uppercase tracking-[0.3em] text-text-muted mb-12 border-b border-brand-border pb-6 opacity-80">
               {t('audienceSegments.title')}
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 group">
               {['executives', 'boards', 'teams', 'professionals'].map((key) => (
-                <div key={key} className="bg-brand-bg p-8 hover:bg-brand-surface premium-transition group/item border border-brand-border shadow-sm hover:shadow-xl transition-all">
-                  <div className="text-[10px] font-bold uppercase tracking-[0.2em] text-primary mb-6">{t(`audienceSegments.items.${key}.label`)}</div>
-                  <h3 className="text-2xl font-bold text-text-primary mb-6 leading-tight group-hover/item:text-white premium-transition">
+                <div key={key} className="bg-brand-bg p-8 hover:bg-brand-surface premium-transition group/item border border-brand-border shadow-sm hover:shadow-xl transition-all h-full flex flex-col">
+                  <div className="text-[9px] font-bold uppercase tracking-[0.25em] text-primary/80 mb-6">{t(`audienceSegments.items.${key}.label`)}</div>
+                  <h3 className="text-xl md:text-2xl font-bold text-text-primary mb-6 leading-[1.2] group-hover/item:text-white premium-transition max-w-[90%] tracking-tight">
                     {t(`audienceSegments.items.${key}.problem`)}
                   </h3>
-                  <p className="text-text-muted text-base mb-10 leading-relaxed italic">
+                  <p className="text-text-muted text-sm md:text-base mb-10 leading-relaxed italic opacity-90">
                     {t(`audienceSegments.items.${key}.solution`)}
                   </p>
-                  <Link href="/services" className="inline-flex items-center text-xs font-bold uppercase tracking-widest text-text-primary group-hover/item:text-primary premium-transition">
+                  <Link href="/services" className="mt-auto inline-flex items-center text-[10px] font-bold uppercase tracking-widest text-text-primary group-hover/item:text-primary premium-transition">
                     {t(`audienceSegments.items.${key}.cta`)}
                     <ArrowRight className="ml-2 h-3 w-3" />
                   </Link>
