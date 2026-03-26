@@ -1,0 +1,314 @@
+{
+  "Common": {
+    "title": "DigitalCoa.ch",
+    "nav": {
+      "services": "Services",
+      "who": "Who This Is For",
+      "about": "About",
+      "contact": "Contact",
+      "insights": "Insights"
+    },
+    "footer": {
+      "tagline": "Strategic clarity for the algorithmic age.",
+      "rights": "© {year} DigitalCoa.ch. All rights reserved.",
+      "location": "Geneva, Switzerland",
+      "confidential": "Confidential & Human-led"
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "Executive decision architecture for the age of AI",
+      "subtitle": "Clarity for higher-stakes decisions.",
+      "description": "I help executives, boards, teams, and independent professionals design clearer decision systems, stronger governance, and practical AI use without adding chaos.",
+      "cta": "Start the conversation",
+      "cta2": "See who this is for"
+    },
+    "problemStatement": {
+      "title": "If this sounds familiar...",
+      "items": [
+        "Organization adopting AI faster than governance",
+        "Decisions taking too long (not due to missing data, but clarity)",
+        "Leadership team escalates everything",
+        "Decision boundaries unclear"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Strategic clarity for every role",
+      "items": {
+        "executives": {
+          "label": "Executives",
+          "problem": "Decisions slowed by noise, fragmentation, unclear escalation",
+          "solution": "Decision systems that preserve clarity and authority",
+          "cta": "Explore executive support"
+        },
+        "boards": {
+          "label": "Boards",
+          "problem": "Missing governance dilutes strategic judgment",
+          "solution": "Frameworks separating oversight from execution",
+          "cta": "Discover the approach"
+        },
+        "teams": {
+          "label": "Teams",
+          "problem": "Collaboration generates more noise than clarity",
+          "solution": "Architectures amplifying collective judgment",
+          "cta": "View formats"
+        },
+        "professionals": {
+          "label": "Professionals",
+          "problem": "Judgment as primary asset, but tools diluting it",
+          "solution": "Personal cognitive OS",
+          "cta": "Build your OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Deep architecture, precisely delivered",
+      "items": {
+        "diagnostic": {
+          "title": "Executive Decision Diagnostic",
+          "duration": "2-5 days",
+          "desc": "Map decision flows and identify friction points."
+        },
+        "architecture": {
+          "title": "Decision & Governance Architecture",
+          "duration": "6-12 weeks",
+          "desc": "Scalable structure for the algorithmic age."
+        },
+        "os": {
+          "title": "Personal Decision Infrastructure",
+          "duration": "3-4 sessions",
+          "desc": "Build your cognitive operating system."
+        }
+      }
+    },
+    "process": {
+      "title": "Process",
+      "steps": {
+        "diagnose": { "title": "Diagnose", "desc": "Map decision flows, friction points, information gaps" },
+        "design": { "title": "Design", "desc": "Simplify priorities, roles, escalation paths" },
+        "deploy": { "title": "Deploy", "desc": "Help teams adopt new way of working" }
+      }
+    },
+    "valuePropsFull": {
+      "title": "Why DigitalCoa.ch?",
+      "items": {
+        "governance": { "title": "Governance-first", "desc": "I build boundaries before bots." },
+        "confidentiality": { "title": "Confidential", "desc": "High-stakes, Geneva-based advisory." },
+        "pragmatism": { "title": "Practical", "desc": "I deliver systems that scale without adding noise." }
+      }
+    },
+    "badges": {
+      "geneva": "Geneva-based",
+      "governance": "Governance-first",
+      "confidential": "Confidential",
+      "human": "Human-led"
+    },
+    "finalCta": {
+      "title": "Ready to clarify your decisions?",
+      "cta": "Start the conversation"
+    }
+  },
+  "About": {
+    "title": "About | Sergio Brotons",
+    "hero": {
+      "title": "I help leaders make better decisions. That's it.",
+      "subtitle": "DigitalCoa.ch exists because I believe better decisions come from better structures. Not from more technology."
+    },
+    "founder": {
+      "title": "The Founder",
+      "text": "I'm Sergio Brotons: founder of DigitalCoa.ch. After 15 years helping leaders navigate digital transformation, governance challenges, and strategic complexity, I kept seeing the same pattern: the problem was rarely a lack of tools or data. It was a lack of decision clarity."
+    },
+    "values": {
+      "clarity": {
+        "title": "Clarity",
+        "text": "I believe good decisions come from clear frameworks, not more information."
+      },
+      "governance": {
+        "title": "Governance",
+        "text": "I put structure in service of agility, not against it."
+      },
+      "pragmatism": {
+        "title": "Pragmatism",
+        "text": "I prioritize what works over what's theoretically perfect."
+      },
+      "confidentiality": {
+        "title": "Confidentiality",
+        "text": "What stays here, stays here. Always."
+      }
+    }
+  },
+  "Legal": {
+    "notice": {
+      "title": "Legal Notice",
+      "publisher": "Publisher: DigitalCoa Advisory, Sergio Brotons",
+      "address": "Address: Geneva, Switzerland",
+      "contact": "Contact: sergio@digitalcoa.ch"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "text": "I respect your privacy. This site does not use invasive tracking. Any information shared via contact forms is treated with strict confidentiality."
+    }
+  },
+  "Services": {
+    "title": "Services",
+    "subtitle": "AI Governance & Decision Architecture",
+    "list": {
+      "diagnostic": {
+        "title": "Executive Decision Diagnostic",
+        "subtitle": "For executives & boards",
+        "description": "Analysis of decision flows, friction points, and AI readiness. The problem isn't the tools, it's the structure.",
+        "duration": "2-5 days",
+        "deliverables": ["Decision map", "Friction analysis", "Governance recommendations", "Prioritized next steps"]
+      },
+      "architecture": {
+        "title": "Decision & Governance Architecture",
+        "subtitle": "For organizations & leadership teams",
+        "description": "Strategic frameworks separating oversight from execution. Creating structure for scalable AI adoption.",
+        "duration": "6-12 weeks",
+        "deliverables": ["Governance framework", "Decision protocols", "Escalation architecture", "Implementation roadmap"]
+      },
+      "os": {
+        "title": "Personal Decision Infrastructure",
+        "subtitle": "For senior professionals & advisors",
+        "description": "Design your personal cognitive operating system. Manage complexity with discipline and clarity.",
+        "duration": "3-4 sessions",
+        "deliverables": ["Personalized decision system", "Weekly rituals", "Tool architecture", "Knowledge workflow"]
+      }
+    },
+    "deliverablesLabel": "What you receive:",
+    "durationLabel": "Duration:",
+    "enquireCta": "Enquire about this service",
+    "cta": "Ready to clarify your decisions?"
+  },
+  "Who": {
+    "title": "Who I Help",
+    "subtitle": "Strategic clarity adapted to your role and context.",
+    "challengeLabel": "The Challenge:",
+    "solutionLabel": "The Solution:",
+    "viewServices": "View relevant services",
+    "executives": {
+      "title": "Executives",
+      "problem": "Decisions slowed by noise, fragmentation, and unclear escalation.",
+      "solution": "Decision systems that preserve clarity and authority."
+    },
+    "boards": {
+      "title": "Boards",
+      "problem": "Missing governance dilutes strategic judgment.",
+      "solution": "Frameworks separating oversight from execution."
+    },
+    "teams": {
+      "title": "Leadership Teams",
+      "problem": "Collaboration generates more noise than clarity.",
+      "solution": "Architectures amplifying collective judgment."
+    },
+    "professionals": {
+      "title": "Senior Professionals",
+      "problem": "Judgment is your primary asset, but tools often dilute it.",
+      "solution": "Your personal cognitive operating system."
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Let's start with a conversation.",
+    "intro": "Every engagement begins with a 30-minute diagnostic conversation. No commitment, no pitch, just a structured exchange to see if I can help with your specific situation.",
+    "options": {
+      "book": "Book a call",
+      "send": "Send a message"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message"
+    }
+  },
+  "Insights": {
+    "title": "Insights",
+    "subtitle": "Strategic perspectives on AI governance and decision systems.",
+    "readMore": "Read more",
+    "back": "Back to all insights",
+    "posts": {
+      "personal-cognitive-os": {
+        "title": "For Professionals – A Personal Cognitive Operating System",
+        "date": "March 5, 2026",
+        "excerpt": "How to build a personal environment that preserves judgment and clarity in a world of algorithmic noise.",
+        "content": "A cognitive operating system isn't about collecting tools; it's about protecting attention. As a senior professional, your judgment is your core asset. If your environment is fragmented, so is your judgment.",
+        "listTitle": "Core rules:",
+        "list": [
+          "Minimal toolset: Only tools that serve thinking.",
+          "Localized caches: Keep current context instantly available.",
+          "Routine automation with checkpoints: Automate process, not judgment.",
+          "Decision logs: Track why decisions were made, not just the outcome.",
+          "Weekly tidy ritual: Regularly clear the cognitive workspace."
+        ]
+      },
+      "collective-judgment": {
+        "title": "For Teams – Architectures that Amplify Collective Judgment",
+        "date": "March 5, 2026",
+        "excerpt": "Designing team environments that reduce noise and focus on strategic judgment.",
+        "content": "Collaboration without structure generates noise. Teams need architectural boundaries to separate execution updates from strategic debate. When the lines blur, decisions are delayed by consensus-seeking.",
+        "listTitle": "Foundations:",
+        "list": [
+          "Single source of truth: One unified hub for reality.",
+          "Role clarity: Define who decides vs. who advises.",
+          "Lightweight rituals: Meetings with strict, protective agendas.",
+          "Local error budgets: Allow decentralized execution safely.",
+          "Compact documentation: Write to be understood quickly, not exhaustively."
+        ]
+      },
+      "oversight-vs-execution": {
+        "title": "For Boards – Frameworks that Separate Oversight from Execution",
+        "date": "March 5, 2026",
+        "excerpt": "Governance structures that ensure accountability without micro-management.",
+        "content": "A board's role is oversight, not operation. When governance frameworks are weak, boards accidentally drift into management. Strong decision architecture builds a clear moat around executive action.",
+        "listTitle": "Core commitments:",
+        "list": [
+          "Rule-based escalation: Clear triggers for when the board must step in.",
+          "Auditable trails: Transparent logic for executive actions.",
+          "Boundary contracts: Agreed limits on executive autonomy.",
+          "Metric-first reporting: Let the data speak before the narrative.",
+          "Renewal and sunset: Regular reviews of existing policies."
+        ]
+      }
+    }
+  },
+  "Metadata": {
+    "Home": {
+      "title": "Executive Decision Architecture | DigitalCoa.ch",
+      "description": "Helping executives and Swiss SMBs create strategic clarity in the age of algorithmic noise."
+    },
+    "About": {
+      "title": "About | Sergio Brotons - DigitalCoa.ch",
+      "description": "Learn about the founder, Sergio Brotons, and the core values of precise, confidential AI governance."
+    },
+    "Services": {
+      "title": "Services | AI Governance & Decision Architecture",
+      "description": "Executive decision architecture services. Decision diagnostics, governance frameworks, and AI integration for executives and boards."
+    },
+    "Who": {
+      "title": "Who DigitalCoa.ch Is For | Decision Makers & Executives",
+      "description": "Strategic clarity adapted to Executives, Boards, Leadership Teams, and Senior Professionals."
+    },
+    "Contact": {
+      "title": "Contact - DigitalCoa.ch",
+      "description": "Book a 30-minute structured diagnostic or contact Sergio Brotons directly."
+    },
+    "Insights": {
+      "title": "Insights & Governance Perspectives | DigitalCoa.ch",
+      "description": "Strategic perspectives on AI governance and decision systems."
+    },
+    "Common": {
+      "keywords": [
+        "AI Governance", "Executive AI Advisory", "Decision Architecture", 
+        "Strategic Clarity", "Bespoke AI Strategy", "Geneva Executive Advisor", 
+        "Corporate Governance AI", "Digital Transformation", "Sergio Brotons"
+      ],
+      "schema": {
+        "orgDesc": "Executive decision architecture and AI governance for boards and leadership teams.",
+        "siteDesc": "Strategic clarity for higher-stakes decisions in the age of AI.",
+        "jobTitle": "Executive AI Advisor",
+        "personDesc": "Sergio Brotons helps executives design clearer decision systems and AI governance."
+      }
+    }
+  }
+}

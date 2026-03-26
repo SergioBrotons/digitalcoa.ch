@@ -1,0 +1,9 @@
+/* TEAM */
+Founder: Sergio Brotons
+Site: https://digitalcoa.ch
+Location: Geneva, Switzerland
+
+/* THANKS */
+Design: Swiss Grid Principles
+Tech: Next.js, Tailwind CSS, TypeScript
+Powered by: DigitalCoa Advisory

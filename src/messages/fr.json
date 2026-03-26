@@ -1,0 +1,314 @@
+{
+  "Common": {
+    "title": "DigitalCoa.ch",
+    "nav": {
+      "services": "Prestations",
+      "who": "Pour qui",
+      "about": "À Propos",
+      "contact": "Contact",
+      "insights": "Analyses"
+    },
+    "footer": {
+      "tagline": "La clarté stratégique à l'ère des algorithmes.",
+      "rights": "© {year} DigitalCoa.ch. Tous droits réservés.",
+      "location": "Genève, Suisse",
+      "confidential": "Confidentiel & Dirigé par l'humain"
+    }
+  },
+  "Home": {
+    "hero": {
+      "title": "Architecture décisionnelle exécutive pour l'ère de l'IA",
+      "subtitle": "La clarté pour les décisions à enjeux élevés.",
+      "description": "J'aide les dirigeants, les conseils d'administration, les équipes et les professionnels indépendants à concevoir des systèmes de décision plus clairs, une gouvernance plus solide et une utilisation pratique de l'IA sans ajouter de chaos.",
+      "cta": "Démarrer la conversation",
+      "cta2": "Voir pour qui"
+    },
+    "problemStatement": {
+      "title": "Si cela vous semble familier...",
+      "items": [
+        "L'organisation adopte l'IA plus vite que sa gouvernance",
+        "Les décisions prennent trop de temps (pas par manque de données, mais de clarté)",
+        "L'équipe de direction gère toutes les escalades",
+        "Les limites de décision sont floues"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Une clarté stratégique pour chaque rôle",
+      "items": {
+        "executives": {
+          "label": "Dirigeants",
+          "problem": "Décisions ralenties par le bruit, la fragmentation, une escalade floue",
+          "solution": "Des systèmes de décision qui préservent la clarté et l'autorité",
+          "cta": "Explorer le soutien exécutif"
+        },
+        "boards": {
+          "label": "Conseils d'administration",
+          "problem": "L'absence de gouvernance dilue le jugement stratégique",
+          "solution": "Des cadres séparant la surveillance de l'exécution",
+          "cta": "Découvrir l'approche"
+        },
+        "teams": {
+          "label": "Équipes de direction",
+          "problem": "La collaboration génère plus de bruit que de clarté",
+          "solution": "Des architectures amplifiant le jugement collectif",
+          "cta": "Voir les formats"
+        },
+        "professionals": {
+          "label": "Professionnels indépendants",
+          "problem": "Le jugement est votre atout principal, mais les outils le diluent",
+          "solution": "Système d'exploitation cognitif personnel",
+          "cta": "Construire votre OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Architecture profonde, livraison précise",
+      "items": {
+        "diagnostic": {
+          "title": "Diagnostic Décisionnel Exécutif",
+          "duration": "2-5 jours",
+          "desc": "Cartographier les flux de décision et identifier les frictions."
+        },
+        "architecture": {
+          "title": "Architecture de Gouvernance & Décision",
+          "duration": "6-12 semaines",
+          "desc": "Structure évolutive pour l'ère algorithmique."
+        },
+        "os": {
+          "title": "Infrastructure Décisionnelle Personnelle",
+          "duration": "3-4 sessions",
+          "desc": "Construisez votre système d'exploitation cognitif."
+        }
+      }
+    },
+    "process": {
+      "title": "Processus",
+      "steps": {
+        "diagnose": { "title": "Diagnostiquer", "desc": "Cartographier les flux de décision, points de friction, lacunes d'information" },
+        "design": { "title": "Concevoir", "desc": "Simplifier les priorités, les rôles, les chemins d'escalade" },
+        "deploy": { "title": "Déployer", "desc": "Aider les équipes à adopter une nouvelle méthode de travail" }
+      }
+    },
+    "valuePropsFull": {
+      "title": "Pourquoi DigitalCoa.ch ?",
+      "items": {
+        "governance": { "title": "Gouvernance d'abord", "desc": "Je fixe les limites avant les bots." },
+        "confidentiality": { "title": "Confidentiel", "desc": "Conseil de haut niveau, basé à Genève." },
+        "pragmatism": { "title": "Pratique", "desc": "Je conçois des systèmes qui évoluent sans ajouter de bruit." }
+      }
+    },
+    "badges": {
+      "geneva": "Basé à Genève",
+      "governance": "Gouvernance d'abord",
+      "confidential": "Confidentiel",
+      "human": "Dirigé par l'humain"
+    },
+    "finalCta": {
+      "title": "Prêt à clarifier vos décisions ?",
+      "cta": "Démarrer la conversation"
+    }
+  },
+  "About": {
+    "title": "À Propos | Sergio Brotons",
+    "hero": {
+      "title": "J'aide les leaders à prendre de meilleures décisions. C'est tout.",
+      "subtitle": "DigitalCoa.ch existe parce que je crois que de meilleures décisions proviennent de meilleures structures. Pas de plus de technologie."
+    },
+    "founder": {
+      "title": "Le Fondateur",
+      "text": "Je suis Sergio Brotons : fondateur de DigitalCoa.ch. Après 15 ans à aider les dirigeants à naviguer dans la transformation numérique, les défis de gouvernance et la complexité stratégique, j'ai toujours vu le même schéma : le problème était rarement un manque d'outils ou de données. C'était un manque de clarté décisionnelle."
+    },
+    "values": {
+      "clarity": {
+        "title": "Clarity",
+        "text": "Je crois que les bonnes décisions viennent de cadres clairs, pas de plus d'informations."
+      },
+      "governance": {
+        "title": "Gouvernance",
+        "text": "Je mets la structure au service de l'agilité, pas contre elle."
+      },
+      "pragmatism": {
+        "title": "Pragmatisme",
+        "text": "Je privilégie ce qui fonctionne plutôt que ce qui est théoriquement parfait."
+      },
+      "confidentiality": {
+        "title": "Confidentialité",
+        "text": "Ce qui reste ici, reste ici. Toujours."
+      }
+    }
+  },
+  "Legal": {
+    "notice": {
+      "title": "Mentions Légales",
+      "publisher": "Éditeur : DigitalCoa Advisory, Sergio Brotons",
+      "address": "Adresse : Genève, Suisse",
+      "contact": "Contact : sergio@digitalcoa.ch"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "text": "Je respecte votre vie privée. Ce site n'utilise pas de suivi invasif. Toute information partagée via les formulaires de contact est traitée avec une confidentialité stricte."
+    }
+  },
+  "Services": {
+    "title": "Prestations",
+    "subtitle": "Gouvernance IA & Architecture Décisionnelle",
+    "list": {
+      "diagnostic": {
+        "title": "Diagnostic Décisionnel Exécutif",
+        "subtitle": "Pour dirigeants & conseils d'administration",
+        "description": "Analyse des flux de décision, des points de friction et de l'état de préparation à l'IA. Le problème n'est pas l'outil, c'est la structure.",
+        "duration": "2-5 jours",
+        "deliverables": ["Carte des décisions", "Analyse des frictions", "Recommandations de gouvernance", "Prochaines étapes prioritaires"]
+      },
+      "architecture": {
+        "title": "Architecture de Gouvernance & Décision",
+        "subtitle": "Pour organisations & équipes de direction",
+        "description": "Cadres stratégiques séparant la supervision de l'exécution. Création d'une structure pour une adoption de l'IA à grande échelle.",
+        "duration": "6-12 semaines",
+        "deliverables": ["Cadre de gouvernance", "Protocoles de décision", "Architecture d'escalade", "Feuille de route d'implémentation"]
+      },
+      "os": {
+        "title": "Infrastructure Décisionnelle Personnelle",
+        "subtitle": "Pour experts & conseillers indépendants",
+        "description": "Concevez votre système d'exploitation cognitif personnel. Gérez la complexité avec discipline et clarté.",
+        "duration": "3-4 sessions",
+        "deliverables": ["Système décisionnel personnalisé", "Rituels hebdomadaires", "Architecture des outils", "Workflow de connaissances"]
+      }
+    },
+    "deliverablesLabel": "Ce que vous recevez :",
+    "durationLabel": "Durée :",
+    "enquireCta": "Se renseigner sur cette prestation",
+    "cta": "Prêt à clarifier vos décisions ?"
+  },
+  "Who": {
+    "title": "Qui j'aide",
+    "subtitle": "La clarté stratégique adaptée à votre rôle et votre contexte.",
+    "challengeLabel": "Le Défi :",
+    "solutionLabel": "La Solution :",
+    "viewServices": "Voir les prestations concernées",
+    "executives": {
+      "title": "Dirigeants",
+      "problem": "Décisions ralenties par le bruit, la fragmentation et une escalade peu claire.",
+      "solution": "Des systèmes de décision qui préservent la clarté et l'autorité."
+    },
+    "boards": {
+      "title": "Conseils d'administration",
+      "problem": "L'absence de gouvernance dilue le jugement stratégique.",
+      "solution": "Des cadres séparant la supervision de l'exécution."
+    },
+    "teams": {
+      "title": "Équipes de direction",
+      "problem": "La collaboration génère plus de bruit que de clarté.",
+      "solution": "Des architectures amplifiant le jugement collectif."
+    },
+    "professionals": {
+      "title": "Experts Indépendants",
+      "problem": "Votre jugement est votre principal atout, mais les outils le diluent souvent.",
+      "solution": "Votre système d'exploitation cognitif personnel."
+    }
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Commençons par un échange.",
+    "intro": "Chaque collaboration commence par une conversation diagnostique de 30 minutes. Sans engagement, sans argumentaire de vente, juste un échange structuré pour voir si je peux vous aider dans votre situation spécifique.",
+    "options": {
+      "book": "Réserver un appel",
+      "send": "Envoyer un message"
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer le message"
+    }
+  },
+  "Insights": {
+    "title": "Analyses",
+    "subtitle": "Perspectives stratégiques sur la gouvernance de l'IA et les systèmes de décision.",
+    "readMore": "Lire la suite",
+    "back": "Retour aux analyses",
+    "posts": {
+      "personal-cognitive-os": {
+        "title": "Pour les Professionnels – Un Système d'Exploitation Cognitif Personnel",
+        "date": "5 Mars 2026",
+        "excerpt": "Comment construire un environnement personnel qui préserve le jugement et la clarté dans un monde de bruit algorithmique.",
+        "content": "Un système d'exploitation cognitif ne consiste pas à accumuler des outils, mais à protéger l'attention. En tant que professionnel, votre jugement est votre atout principal. Si votre environnement est fragmenté, votre jugement le sera aussi.",
+        "listTitle": "Règles fondamentales :",
+        "list": [
+          "Ensemble d'outils minimal : Uniquement les outils qui servent la réflexion.",
+          "Caches localisés : Garder le contexte actuel instantanément disponible.",
+          "Automatisation de routine : Automatiser le processus, pas le jugement.",
+          "Journaux de décision : Suivre pourquoi les décisions ont été prises.",
+          "Rituel de rangement hebdomadaire : Dégager régulièrement l'espace cognitif."
+        ]
+      },
+      "collective-judgment": {
+        "title": "Pour les Équipes – Des Architectures qui Amplifient le Jugement Collectif",
+        "date": "5 Mars 2026",
+        "excerpt": "Concevoir des environnements d'équipe qui réduisent le bruit et se concentrent sur le jugement stratégique.",
+        "content": "La collaboration sans structure génère du bruit. Les équipes ont besoin de limites architecturales pour séparer les mises à jour d'exécution du débat stratégique. Lorsque les limites s'estompent, les décisions sont ralenties.",
+        "listTitle": "Fondations :",
+        "list": [
+          "Source unique de vérité : Un centre unifié pour la réalité.",
+          "Clarté des rôles : Définir qui décide vs. qui conseille.",
+          "Rituels allégés : Des réunions avec des ordres du jour stricts.",
+          "Budgets d'erreur locaux : Permettre une exécution décentralisée.",
+          "Documentation compacte : Écrire pour être compris rapidement."
+        ]
+      },
+      "oversight-vs-execution": {
+        "title": "Pour les Conseils – Des Cadres qui Séparent la Supervision de l'Exécution",
+        "date": "5 Mars 2026",
+        "excerpt": "Des structures de gouvernance qui garantissent la responsabilité sans micro-management.",
+        "content": "Le rôle d'un conseil d'administration est la supervision, pas l'opération. Lorsque les cadres de gouvernance sont faibles, les conseils dérivent vers la gestion. Une architecture de décision solide construit une frontière claire.",
+        "listTitle": "Engagements fondamentaux :",
+        "list": [
+          "Escalade basée sur des règles : Déclencheurs clairs d'intervention.",
+          "Pistes auditables : Logique transparente pour les actions exécutives.",
+          "Contrats de limites : Limites convenues sur l'autonomie exécutive.",
+          "Reporting axé sur les métriques : Laisser les données parler avant le récit.",
+          "Renouvellement et expiration : Examens réguliers des politiques."
+        ]
+      }
+    }
+  },
+  "Metadata": {
+    "Home": {
+      "title": "Architecture décisionnelle exécutive | DigitalCoa.ch",
+      "description": "Aider les dirigeants et les PME suisses à créer une clarté stratégique à l'ère du bruit algorithmique."
+    },
+    "About": {
+      "title": "À Propos | Sergio Brotons - DigitalCoa.ch - Genève",
+      "description": "Découvrez le fondateur, Sergio Brotons, et les valeurs fondamentales de la gouvernance IA précise et confidentielle."
+    },
+    "Services": {
+      "title": "Prestations | Gouvernance IA & Architecture décisionnelle",
+      "description": "Services d'architecture de décision pour dirigeants. Diagnostics de décision, cadres de gouvernance et intégration de l'IA pour cadres et conseils d'administration."
+    },
+    "Who": {
+      "title": "Pour Qui | Décideurs & Dirigeants",
+      "description": "Clarté stratégique adaptée aux Dirigeants, Conseils d'administration, Équipes de direction et Professionnels experts."
+    },
+    "Contact": {
+      "title": "Contact - DigitalCoa.ch",
+      "description": "Réservez un diagnostic structuré de 30 minutes ou contactez Sergio Brotons."
+    },
+    "Insights": {
+      "title": "Perspectives sur la Gouvernance IA | DigitalCoa.ch",
+      "description": "Perspectives stratégiques sur la gouvernance de l'IA et les systèmes de décision."
+    },
+    "Common": {
+      "keywords": [
+        "Gouvernance IA", "Conseil IA Exécutif", "Architecture décisionnelle", 
+        "Clarté stratégique", "Stratégie IA sur mesure", "Conseiller exécutif Genève", 
+        "Gouvernance d'entreprise IA", "Transformation numérique", "Sergio Brotons"
+      ],
+      "schema": {
+        "orgDesc": "Architecture de décision exécutive et gouvernance de l'IA pour les conseils d'administration et les équipes de direction.",
+        "siteDesc": "Clarté stratégique pour les décisions à enjeux élevés à l'ère de l'IA.",
+        "jobTitle": "Conseiller IA Exécutif",
+        "personDesc": "Sergio Brotons aide les dirigeants à concevoir des systèmes de décision plus clairs et une gouvernance de l'IA."
+      }
+    }
+  }
+}
