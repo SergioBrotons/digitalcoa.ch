@@ -65,60 +65,33 @@ export default async function Contact({params}: {params: Promise<{locale: string
               </div>
             </div>
 
-            <div className="bg-brand-surface p-10 md:p-16 border border-brand-border no-radius">
-              <h3 className="text-xl font-bold uppercase tracking-tight mb-8 text-text-primary">{t('options.send')}</h3>
-              
-              <form 
-                action="https://formspree.io/f/xpwzgvjq" 
-                method="POST"
-                className="space-y-6"
-              >
-                <div>
-                  <label htmlFor="name" className="block text-[10px] uppercase tracking-widest font-bold text-text-muted mb-2">
-                    {t('form.name')}
-                  </label>
-                  <input 
-                    type="text" 
-                    id="name" 
-                    name="name" 
-                    required 
-                    className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius"
-                  />
-                </div>
+            <div className="flex flex-col justify-center">
+              <div className="bg-brand-surface p-10 md:p-16 border border-brand-border no-radius">
+                <h3 className="text-xl font-bold uppercase tracking-tight mb-8 text-text-primary">
+                  {t('options.send')}
+                </h3>
+                <p className="text-text-muted mb-12 leading-relaxed">
+                  I typically respond to new enquiries within 24 hours. For urgent strategic matters or board-level diagnostics, please mention this in your email subject.
+                </p>
                 
-                <div>
-                  <label htmlFor="email" className="block text-[10px] uppercase tracking-widest font-bold text-text-muted mb-2">
-                    {t('form.email')}
-                  </label>
-                  <input 
-                    type="email" 
-                    id="email" 
-                    name="email"
-                    required 
-                    className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius"
-                  />
-                </div>
-                
-                <div>
-                  <label htmlFor="message" className="block text-[10px] uppercase tracking-widest font-bold text-text-muted mb-2">
-                    {t('form.message')}
-                  </label>
-                  <textarea 
-                    id="message" 
-                    name="message"
-                    required 
-                    rows={6}
-                    className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius resize-none"
-                  ></textarea>
-                </div>
-                
-                <button 
-                  type="submit" 
-                  className="w-full bg-primary text-brand-bg py-5 text-sm font-bold uppercase tracking-widest hover:bg-white premium-transition no-radius"
+                <a 
+                  href="mailto:sergio@digitalcoa.ch"
+                  className="w-full bg-primary text-brand-bg py-5 text-center text-sm font-bold uppercase tracking-widest hover:bg-white premium-transition no-radius block mb-6 transition-all"
                 >
-                  {t('form.submit')}
-                </button>
-              </form>
+                  {t('options.send')} via Email
+                </a>
+
+                <div className="text-center">
+                  <span className="text-[10px] uppercase tracking-widest text-text-muted font-bold">— OR —</span>
+                </div>
+
+                <a 
+                  href="https://cal.com/sergiobrotons/diagnostic"
+                  className="w-full bg-transparent border border-brand-border text-text-primary py-5 text-center text-sm font-bold uppercase tracking-widest hover:bg-brand-surface-muted premium-transition no-radius block mt-6"
+                >
+                   Book on Cal.com
+                </a>
+              </div>
             </div>
           </div>
         </Section>
