@@ -2,6 +2,7 @@ import {NextIntlClientProvider} from 'next-intl';
 import {getMessages} from 'next-intl/server';
 import '../globals.css';
 import {getTranslations} from 'next-intl/server';
+import Script from 'next/script';
 
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
@@ -123,6 +124,18 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <head>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=GT-KDZ9XN2K`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'GT-KDZ9XN2K');
+          `}
+        </Script>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
