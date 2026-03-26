@@ -41,7 +41,9 @@ export default async function Contact({params}: {params: Promise<{locale: string
                     <h3 className="font-bold uppercase tracking-widest text-xs text-text-muted mb-2">{t('options.book')}</h3>
                     <p className="text-sm text-text-muted mb-4 italic">30-minute structured diagnostic</p>
                     <a 
-                      href="#" 
+                      href="https://cal.com/sergiobrotons/diagnostic" 
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="inline-block text-lg font-bold border-b-2 border-primary text-text-primary hover:text-primary premium-transition pb-1"
                     >
                       Book on Cal.com
@@ -66,7 +68,11 @@ export default async function Contact({params}: {params: Promise<{locale: string
             <div className="bg-brand-surface p-10 md:p-16 border border-brand-border no-radius">
               <h3 className="text-xl font-bold uppercase tracking-tight mb-8 text-text-primary">{t('options.send')}</h3>
               
-              <form className="space-y-6">
+              <form 
+                action="https://formspree.io/f/xpwzgvjq" 
+                method="POST"
+                className="space-y-6"
+              >
                 <div>
                   <label htmlFor="name" className="block text-[10px] uppercase tracking-widest font-bold text-text-muted mb-2">
                     {t('form.name')}
@@ -74,6 +80,7 @@ export default async function Contact({params}: {params: Promise<{locale: string
                   <input 
                     type="text" 
                     id="name" 
+                    name="name" 
                     required 
                     className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius"
                   />
@@ -86,6 +93,7 @@ export default async function Contact({params}: {params: Promise<{locale: string
                   <input 
                     type="email" 
                     id="email" 
+                    name="email"
                     required 
                     className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius"
                   />
@@ -97,6 +105,7 @@ export default async function Contact({params}: {params: Promise<{locale: string
                   </label>
                   <textarea 
                     id="message" 
+                    name="message"
                     required 
                     rows={6}
                     className="w-full bg-brand-bg border border-brand-border px-4 py-3 text-text-primary focus:border-primary focus:ring-0 outline-none premium-transition no-radius resize-none"
