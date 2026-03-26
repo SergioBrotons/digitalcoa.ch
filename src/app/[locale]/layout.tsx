@@ -3,6 +3,7 @@ import {getMessages} from 'next-intl/server';
 import '../globals.css';
 import {getTranslations} from 'next-intl/server';
 import Script from 'next/script';
+import CookieBanner from '@/components/ui/CookieBanner';
 
 export async function generateMetadata({params}: {params: Promise<{locale: string}>}) {
   const {locale} = await params;
@@ -144,6 +145,7 @@ export default async function LocaleLayout({
       <body className="min-h-screen flex flex-col no-radius">
         <NextIntlClientProvider locale={locale} messages={messages}>
           {children}
+          <CookieBanner />
         </NextIntlClientProvider>
       </body>
     </html>
