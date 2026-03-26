@@ -43,8 +43,8 @@ export const Header = () => {
           
           <div className="h-4 w-px bg-brand-border mx-2"></div>
           
-          {/* @ts-expect-error Next-intl dynamic active pathname handling */}
-          <Link href={pathname} locale={nextLocale} className="text-xs font-bold text-text-muted hover:text-primary premium-transition uppercase tracking-widest px-2">
+          {/* @ts-ignore - dynamic locale switching for shared pathnames */}
+          <Link href={pathname as any} locale={nextLocale} className="text-xs font-bold text-text-muted hover:text-primary premium-transition uppercase tracking-widest px-2">
             {nextLocale}
           </Link>
           
