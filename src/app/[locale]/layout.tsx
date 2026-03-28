@@ -60,11 +60,11 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
       images: ['/og-image.png'],
     },
     robots: {
-      index: true,
-      follow: true,
+      index: process.env.NEXT_PUBLIC_APP_URL === 'https://digitalcoa.ch',
+      follow: process.env.NEXT_PUBLIC_APP_URL === 'https://digitalcoa.ch',
       googleBot: {
-        index: true,
-        follow: true,
+        index: process.env.NEXT_PUBLIC_APP_URL === 'https://digitalcoa.ch',
+        follow: process.env.NEXT_PUBLIC_APP_URL === 'https://digitalcoa.ch',
         'max-video-preview': -1,
         'max-image-preview': 'large',
         'max-snippet': -1,

@@ -1,12 +1,20 @@
 import {MetadataRoute} from 'next';
 
 export default function robots(): MetadataRoute.Robots {
+  const isProduction = process.env.NEXT_PUBLIC_APP_URL === 'https://digitalcoa.ch';
+
   return {
     rules: {
       userAgent: '*',
-      allow: '/',
-      disallow: ['/api/', '/_next/'],
+      ...(isProduction
+        ? {
+            allow: '/',
+            disallow: ['/api/', '/_next/'],
+          }
+        : {
+            disallow: '/',
+          }),
     },
-    sitemap: 'https://digitalcoa.ch/sitemap.xml',
+    sitemap: `${process.env.NEXT_PUBLIC_APP_URL || 'https://digitalcoa.ch'}/sitemap.xml`,
   };
 }
