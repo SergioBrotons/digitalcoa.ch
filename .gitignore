@@ -39,3 +39,5 @@ next-env.d.ts
 # User specific extraction stuff that shouldn't be in main repo code
 digitalcoach-extraction/
 build.log
+/
+public/
