@@ -1,65 +1,44 @@
 # Pre-Booking Intake Form
 
-## Purpose
-Capture lead context before the Cal.com booking call — qualify + warm up the conversation.
+## Status
+- Cal.com is confirmed self-hosted at booking.digitaloa.ch ✅
+- API is accessible but requires authentication for event type queries
+
+## Implementation Options
+
+### Option A: Cal.com Built-in Forms (simplest)
+Uses Cal.com's native "routing forms" or custom booking questions.
+- Go to: booking.digitalcoa.ch/routing-forms
+- Configure custom questions in each event type
+
+### Option B: Custom Form → Webhook → CRM
+1. Create form on your Node.js server (first-party)
+2. Webhook posts to Cal.com or CRM
+
+### Option C: External Form → Cal.com Redirect
+- Typeform or custom form
+- Redirect to Cal.com with pre-filled data
 
 ## Proposed Fields
 
-### Required
-1. **Name** — Full name
-2. **Email** — Business email
-3. **Company** — Organization name
-4. **Role** — Job title
+### Must have
+- Name
+- Email (business)
+- Company
+- Role
 
-### Important (differentiates)
-5. **Primary challenge** — What's the main friction?
-   - Decision paralysis
-   - AI governance / trust
-   - Process inefficiency
-   - Scaling decisions
-   - Other (open text)
+### Differentiators
+- Primary challenge (dropdown)
+- Timeline (dropdown)
+- Budget range (dropdown)
 
-6. **Timeline** — When do you need a decision?
-   - Urgent (< 1 month)
-   - This quarter
-   - This year
-   - Exploring only
-
-7. **Budget range** — Investment context
-   - Under 10K
-   - 10K–50K
-   - 50K–100K
-   - 100K+
-   - Prefer not to say
-
-### Optional (warm up)
-8. **How did you find me?** — Source tracking
-   - LinkedIn
-   - Search
-   - Referral (who?)
-   - Newsletter
-   - Other
-
-9. **One thing I can help with** — Open
+### Nice to have
+- How did you find me?
+- One thing I can help with
 
 ---
 
-## Options
-
-### Option A: Multi-step form
-1. Basic info (name, email, company)
-2. Challenge + context
-3. Cal.com booking (auto-filled)
-
-### Option B: Inline questions
-- 3-4 questions only
-- Brief, no friction
-
-### Option C: Typeform-style
-- More polished, embedded
-
----
-
-## Next action
-- Decide: fields to include?
-- Decide: form platform (custom, Typeform, Cal.com built-in)?
+## Next Steps
+1. Choose option (A, B, or C)
+2. Decide fields to include
+3. I build/configure
