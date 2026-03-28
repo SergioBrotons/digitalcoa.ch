@@ -218,6 +218,7 @@
     "intro": "Chaque collaboration commence par une conversation diagnostique de 30 minutes. Sans engagement, sans argumentaire de vente, juste un échange structuré pour voir si je peux vous aider dans votre situation spécifique.",
     "options": {
       "book": "Réserver un appel",
+      "description": "Choisissez un créneau pour un premier diagnostic de 30 minutes.",
       "send": "Envoyer un message",
       "discoveryCall": "Appel Découverte",
       "directEmail": "Email Direct"

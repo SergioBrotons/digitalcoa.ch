@@ -56,8 +56,8 @@ export default async function Contact({params}: {params: Promise<{locale: string
                 <h3 className="text-xl font-bold uppercase tracking-tight mb-8 text-text-primary">
                   {t('options.book')}
                 </h3>
-                <p className="text-text-muted mb-12 leading-relaxed italic">
-                  {t('intro')}
+                <p className="text-text-muted mb-12 leading-relaxed italic text-sm">
+                  {t('options.description')}
                 </p>
                 
                 <button 
