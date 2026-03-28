@@ -76,7 +76,7 @@ export default async function Contact({params}: {params: Promise<{locale: string
                 </button>
 
                 <div className="text-center">
-                  <span className="text-[10px] uppercase tracking-widest text-text-muted font-bold">— OR —</span>
+                  <span className="text-[10px] uppercase tracking-widest text-text-muted font-bold">OR</span>
                 </div>
 
                 <a 
