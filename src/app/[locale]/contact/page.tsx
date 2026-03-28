@@ -57,17 +57,22 @@ export default async function Contact({params}: {params: Promise<{locale: string
                   {t('options.book')}
                 </h3>
                 <p className="text-text-muted mb-12 leading-relaxed italic">
-                  Let's schedule a 30-minute diagnostic exchange.
+                  {t('intro')}
                 </p>
                 
                 <button 
                   data-cal-namespace="30min"
                   data-cal-link="sergio/30min"
-                  data-cal-config={calConfig}
+                  data-cal-config={JSON.stringify({
+                    layout: "month_view",
+                    useSlotsViewOnSmallScreen: "true",
+                    theme: "dark",
+                    locale: locale
+                  })}
                   className="w-full bg-primary text-brand-bg py-5 text-center text-sm font-bold uppercase tracking-widest hover:bg-white premium-transition no-radius flex items-center justify-center group mb-6"
                 >
                   <Calendar className="mr-3 h-5 w-5 group-hover:text-primary transition-colors" />
-                  Discovery Call
+                  {t('options.discoveryCall')}
                 </button>
 
                 <div className="text-center">
@@ -78,7 +83,7 @@ export default async function Contact({params}: {params: Promise<{locale: string
                   href="mailto:sergio@digitalcoa.ch"
                   className="w-full bg-transparent border border-brand-border text-text-primary py-5 text-center text-sm font-bold uppercase tracking-widest hover:bg-brand-surface-muted premium-transition no-radius block mt-6"
                 >
-                  Direct Email
+                  {t('options.directEmail')}
                 </a>
               </div>
             </div>

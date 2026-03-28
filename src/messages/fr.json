@@ -218,7 +218,9 @@
     "intro": "Chaque collaboration commence par une conversation diagnostique de 30 minutes. Sans engagement, sans argumentaire de vente, juste un échange structuré pour voir si je peux vous aider dans votre situation spécifique.",
     "options": {
       "book": "Réserver un appel",
-      "send": "Envoyer un message"
+      "send": "Envoyer un message",
+      "discoveryCall": "Appel Découverte",
+      "directEmail": "Email Direct"
     },
     "form": {
       "name": "Nom",

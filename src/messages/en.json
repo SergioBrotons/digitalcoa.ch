@@ -218,7 +218,9 @@
     "intro": "Every engagement begins with a 30-minute diagnostic conversation. No commitment, no pitch, just a structured exchange to see if I can help with your specific situation.",
     "options": {
       "book": "Book a call",
-      "send": "Send a message"
+      "send": "Send a message",
+      "discoveryCall": "Discovery Call",
+      "directEmail": "Direct Email"
     },
     "form": {
       "name": "Name",
