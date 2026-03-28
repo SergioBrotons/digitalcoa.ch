@@ -41,3 +41,6 @@ digitalcoach-extraction/
 build.log
 /
 public/
+-e 
+# Local credentials (never push)
+research/private/.credentials/
