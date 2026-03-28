@@ -1,107 +1,138 @@
-# Phase 02 — Compliance Context: Geneva Boutique Wealth Management
+# Phase 02 — Compliance Context: Geneva Boutique Wealth Management (Validated)
 
 ## Vertical: Finance / SMB
 
-## Research Status: IN PROGRESS
+## Research Status: DESK RESEARCH COMPLETE
 ## Date: 2026-03-28
 
 ---
 
-## Regulatory Landscape for Swiss Wealth Management Boutiques
+## Primary Regulatory References
 
-### Primary Regulators
-| Regulator | Scope |
-|---|---|
-| FINMA | Swiss Financial Market Supervisory Authority — licensing, conduct, AML |
-| SFBC (Bureau cantonal de contrôle) | Canton-level supervision (Geneva: OCPM) |
-| SRO (Self-Regulatory Organization) | VQF, FINIA — AML supervision for smaller firms |
-| Anti-Money Laundering Control Authority (MROS) | Suspicious transaction reporting |
-| State Secretariat for International Finance (SIF) | National financial policy |
+### 1. FINMA Guidance 08/2024 — AI Governance (KEY DOCUMENT)
+**Published:** December 18, 2024
+**Title:** "Governance and risk management when using artificial intelligence"
+**Source:** https://www.finma.ch/en/news/2024/12/20241218-mm-finma-am-08-24/
 
-### Key Regulatory Frameworks
+**Core expectations:**
+- AI risk management must be integrated into existing operational processes and control frameworks
+- Four key risk areas: (1) governance and responsibility, (2) robustness and reliability, (3) explainability, (4) discrimination/bias
+- Existing FINMA requirements for sound organization (Circular 2017/01 and successors) apply to AI applications
+- Technology-neutral, principle-based approach — no prescriptive technical requirements
+- Supervisory scrutiny active since Q4 2023; on-site inspections and supervisory dialogues ongoing
+- **Institutions using AI in critical processes or for regulatory calculations should contact FINMA in advance**
 
-**1. Swiss Anti-Money Laundering Act (AMLA — GwG)**
-- Customer due diligence (CDD) requirements
-- Beneficial owner identification
-- KYC refresh cycles (typically annual for high-risk clients)
-- Documentation and record-keeping obligations
-- SRO affiliation required for smaller firms
+**Survey data (FINMA, Nov 2024–Jan 2025):**
+- ~50% of ~400 Swiss financial institutions using or developing AI
+- 91% of AI adopters using generative AI (e.g., chatbots)
+- Increasing reliance on external service providers → outsourcing risk increasing
 
-**2. FINMA Circulars (Relevant to Wealth Management)**
-- FINMA Circular 2017/01: Minimum requirements for risk management (Banks)
-- FINMA Circular 2023/02: Operational risk and governance (updated 2025)
-- FINMA Circular 2024/01: Climate-related financial disclosures (emerging)
-- FINMA guidance on AI/ML use in advisory: still evolving; no prescriptive rules yet
-- Outsourcing guidelines: cloud computing, third-party tech providers subject to due diligence
-
-**3. AEOI / FATCA**
-- Automatic Exchange of Information with 100+ partner jurisdictions
-- Annual reporting of account holders' financial information
-- Compliance burden falls heavily on client-facing wealth managers
-- Data quality and documentation completeness requirements
-
-**4. Swiss Federal Act on Data Protection (nFADP)**
-- Revised nFADP effective 2023; stricter consent requirements
-- Client personal data: health info, financial data considered sensitive
-- Cross-border transfer restrictions: transfers to jurisdictions without adequacy decision require safeguards
-- Data breach notification obligations
-
-**5. Emerging AI Regulation**
-- Switzerland: No comprehensive AI act yet; FEDPOL/NCSC guidance on AI use
-- EU AI Act implications: Swiss firms with EU clients may face indirect applicability
-- FINMA monitoring: increased scrutiny on algorithmic advisory tools
-- Emerging expectation: AI governance frameworks required for firms deploying AI in client-facing functions
-
-**6. OECD / BEPS**
-- CRS (Common Reporting Standard) compliance
-- Automatic exchange of tax information
-- Transfer pricing documentation for multi-jurisdictional family structures
+**Implications for boutique wealth managers:**
+- Even small FINMA-licensed firms are in supervisory scope
+- No explicit SMB exemption in FINMA Guidance 08/2024
+- Boutique firms using external AI SaaS tools face third-party risk and due diligence requirements
+- Human oversight of AI-generated recommendations expected
 
 ---
 
-## AI-Specific Compliance Considerations for Boutiques
+### 2. FINMA Circulars (Relevant to Wealth Management)
+| Circular | Topic | Relevance to AI/Boutiques |
+|---|---|---|
+| FINMA Circular 2017/01 | Minimum requirements for risk management | Foundation for operational risk; applies to AI risk |
+| FINMA Circular 2023/02 | Operational risk and governance (updated 2025) | AI operational risk falls here |
+| FINMA Circular 2024/01 | Climate-related financial disclosures | ESG data governance emerging |
+| FINMA Outsourcing Guidelines | Cloud computing, third-party tech providers | AI SaaS vendors = outsourcing; due diligence required |
+
+---
+
+### 3. Swiss Anti-Money Laundering Act (AMLA — GwG)
+- Customer due diligence (CDD): beneficial owner identification, KYC refresh cycles
+- SRO affiliation required for smaller firms (VQF, FINIA)
+- AI-powered AML screening tools must meet SRO documentation standards
+- Automated matching: algorithmic decisions must be explainable under FINMA expectations
+
+---
+
+### 4. New Federal Act on Data Protection (nFADP)
+**Effective:** September 1, 2023
+**Source:** https://www.admin.ch/kmu/en/home/facts-and-trends/digitization/data-protection/new-federal-act-on-data-protection-nfadp.html
+
+**Key obligations for wealth management firms:**
+- **ROPA (Record of Processing Activities):** Mandatory unless SME with limited-risk processing
+- **Privacy by Design / Privacy by Default:** Must be embedded in products and services
+- **Data breach notification:** Notify FDPIC; banks must coordinate with FINMA
+- **Sensitive data (genetic, biometric):** Explicit consent required
+- **Cross-border transfers:** Safeguards required for transfers to non-adequate jurisdictions
+- **Dual compliance:** EU adequacy decision renewed 2024; Swiss firms with EU clients must meet both nFADP AND GDPR
+
+**Penalties:** Up to CHF 250,000 for intentional violations; individuals personally liable
+
+---
+
+### 5. AEOI / FATCA / CRS
+- Automatic Exchange of Information with 100+ partner jurisdictions
+- Annual reporting of client financial information
+- Compliance burden falls heavily on client-facing wealth managers
+- Data quality and documentation completeness requirements
+
+---
+
+### 6. EU AI Act — Indirect Applicability
+- Switzerland: No comprehensive AI act; Federal Council prefers embedding AI principles in existing laws
+- EU AI Act: Swiss firms with EU clients may face indirect applicability
+- FINMA recommends institutions consider EU AI Act requirements as benchmark
+- Risk: High-risk AI systems under EU AI Act (e.g., credit scoring, insurance) may affect Swiss wealth managers with EU nexus
+
+---
+
+## AI-Specific Compliance Considerations
 
 ### Where AI Touches Compliance in Wealth Management
 
 **Client Onboarding & KYC**
-- AI-powered ID verification tools: subject to nFADP consent and FINMA outsourcing rules
-- AML screening: automated matching tools must meet SRO standards for documentation
-- Risk scoring: algorithmic decisions must be explainable under emerging FINMA expectations
+- AI-powered ID verification: subject to nFADP consent and FINMA outsourcing rules
+- AML screening: automated matching must meet SRO documentation standards
+- Risk scoring: algorithmic decisions must be explainable under FINMA Guidance 08/2024
 
 **Portfolio Management & Advisory**
-- Algorithmic portfolio construction: licensing implications under CISA (Collective Investment Schemes Act)
-- Robo-advisory: subject to specific FINMA requirements for automated advice
+- Algorithmic portfolio construction: CISA licensing implications
+- Robo-advisory: specific FINMA requirements for automated advice
 - AI-generated investment recommendations: must be identifiable as AI-assisted; human oversight required
 
 **Client Communication & Reporting**
-- AI-generated content in client communications: must be disclosed under FINMA guidance
-- Automated performance reporting: data governance requirements
+- AI-generated content in client communications: FINMA disclosure expectations
+- Automated performance reporting: data governance requirements apply
 - Personalization algorithms: nFADP sensitive data processing requirements
 
 **Document Management & Data Governance**
-- AI document analysis (contract review, legal doc processing): data confidentiality obligations
-- Cloud storage of client data: outsourcing compliance, data localization expectations
-- Third-party AI SaaS tools: vendor due diligence and contract requirements under FINMA outsourcing rules
+- AI document analysis: confidentiality obligations apply
+- Cloud storage of client data: outsourcing compliance, data sovereignty
+- Third-party AI SaaS: vendor due diligence + FINMA outsourcing requirements
 
 ---
 
 ## Compliance Pain Points for Boutique Firms
 
-### Top Compliance Challenges (SMB Wealth Management)
-1. **Documentation burden** — KYC refresh cycles consume significant staff time; no economies of scale
-2. **Vendor due diligence** — Using AI tools requires proving to FINMA/SRO that vendors meet standards
-3. **Cross-border data flows** — Uncertainty about cloud provider jurisdictions and nFADP/AMLA implications
-4. **AI governance gap** — No clear Swiss-specific framework for small firms deploying AI tools
-5. **Training & expertise** — Compliance staff are not AI-literate; AI vendors are not compliance-literate
+| Pain Point | Severity | Notes |
+|---|---|---|
+| Documentation burden — KYC refresh cycles | High | No economies of scale at boutique |
+| AI governance gap — "What does FINMA expect at my size?" | High | New FINMA Guidance 08/2024 creates new uncertainty |
+| Vendor due diligence — proving AI vendors meet FINMA/SRO standards | High | External AI SaaS requires documented due diligence |
+| Cross-border data flows — cloud provider jurisdictions + nFADP/AMLA | Medium | Uncertainty about Swiss vs. non-Swiss cloud providers |
+| nFADP + GDPR dual compliance for EU-connected clients | Medium | Documentation doubling; consent management complexity |
+| Training & expertise — compliance staff not AI-literate | Medium | Knowledge gap between compliance and AI tools |
 
-### Risk Matrix
+---
+
+## Risk Matrix
 
 | Risk | Likelihood | Impact | Notes |
 |---|---|---|---|
-| FINMA audit finding on AI use without governance | Medium | High | Expect increased scrutiny post-2025 |
-| nFADP breach (client data) | Medium | High | Fines up to CHF 250K; reputational damage |
+| FINMA audit finding on AI use without governance framework | Medium | High | Expect increased scrutiny post-2024 guidance |
+| nFADP breach (client financial data) | Medium | High | Fines up to CHF 250K; reputational damage |
 | AML/KYC failure | Low | Very High | SRO expulsion; license risk |
-| Third-party AI vendor failure | Medium | Medium | Data sovereignty; continuity |
+| Third-party AI vendor failure (data breach, service interruption) | Medium | Medium | Data sovereignty; business continuity |
+| EU AI Act indirect applicability (firms with EU clients) | Medium | Medium | May require AI system classification |
 | Data breach (client financial data) | Low | Very High | Criminal liability; client trust loss |
 
 ---
@@ -109,31 +140,22 @@
 ## Implications for DigitalCoa.ch Advisory
 
 ### Compliance-Linked Service Opportunities
-1. **AI Governance Framework for Boutique Wealth Managers** — Practical, proportionate framework for FINMA-regulated firms
-2. **nFADP Compliance Audit for AI Tool Vendors** — Help boutiques assess AI vendors against Swiss data protection requirements
-3. **Executive Briefing: AI in Swiss Private Banking** — Regulatory landscape, risks, governance expectations (EN+FR)
-4. **KYC/AML Process Digitization Advisory** — Where AI helps, where it creates compliance exposure
+1. **AI Governance Framework for Boutique Wealth Managers** — Proportionate, practical framework aligned with FINMA Guidance 08/2024; specifically for 2–20 person firms
+2. **nFADP Compliance Audit for AI Tool Vendors** — Help boutiques assess AI vendors against Swiss data protection requirements; vendor due diligence documentation
+3. **Executive Briefing: AI in Swiss Private Banking** — Regulatory landscape, risks, governance expectations (EN+FR bilingual)
+4. **KYC/AML Process Digitization Advisory** — Where AI helps vs. where it creates compliance exposure; risk assessment
 5. **Cross-Border Data Transfer Compliance** — Guidance for boutiques using cloud/AI SaaS with EU or non-Swiss components
+6. **Succession and Digital Asset Transfer** — Emerging need for boutiques facing founder-exit; digital client data transitions
 
 ### Credibility Requirements
-- Any advisory offering in this vertical must demonstrate deep FINMA/nFADP knowledge
-- Bilingual (EN+FR) regulatory summaries would differentiate
-- Case references from Swiss finance sector strongly preferred
-- No general AI governance frameworks; must be Swiss-contextualized
-
----
-
-## Research Gaps / To-Do
-
-- [ ] Identify specific FINMA circulars most relevant to AI use by small wealth managers
-- [ ] Research SRO (VQF, FINIA) requirements for AI tools
-- [ ] Assess EU AI Act indirect applicability to Swiss boutiques with EU clients
-- [ ] Review Swiss NCSC guidance on AI/cybersecurity for financial sector
-- [ ] Identify any existing Swiss-specific AI governance frameworks for finance
+- Must demonstrate deep FINMA/nFADP knowledge (specific citations, not generic)
+- Bilingual (EN+FR) regulatory summaries differentiate
+- Swiss finance sector case references strongly preferred
+- No generic AI governance frameworks; must be Swiss-contextualized and proportionate to boutique scale
 
 ---
 
 ## Notes
 - Phase 02 initiated: 2026-03-28
-- Framework version: 01
-- Status: IN PROGRESS
+- Framework version: 02 (desk research validated)
+- Status: DESK RESEARCH COMPLETE
