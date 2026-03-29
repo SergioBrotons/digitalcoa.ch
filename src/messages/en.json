@@ -3,7 +3,7 @@
     "title": "DigitalCoa.ch",
     "nav": {
       "services": "Services",
-      "who": "Who This Is For",
+      "who": "Advisory",
       "about": "About",
       "contact": "Contact",
       "insights": "Insights"
@@ -22,7 +22,7 @@
   },
   "Home": {
     "hero": {
-      "title": "Executive decision architecture for the age of AI",
+      "title": "Decision clarity for leaders under AI pressure",
       "subtitle": "Clarity for higher-stakes decisions.",
       "description": "I help executives, boards, teams, and independent professionals design clearer decision systems, stronger governance, and practical AI use without adding chaos.",
       "cta": "Start the conversation",
@@ -41,7 +41,7 @@
       "title": "Strategic clarity for every role",
       "items": {
         "executives": {
-          "label": "Executives",
+          "label": "Swiss SME Leaders",
           "problem": "Decisions slowed by noise, fragmentation, unclear escalation",
           "solution": "Decision systems that preserve clarity and authority",
           "cta": "Explore executive support"
@@ -282,7 +282,7 @@
   },
   "Metadata": {
     "Home": {
-      "title": "Executive Decision Architecture | DigitalCoa.ch",
+      "title": "Decision Clarity for Leaders Under AI Pressure | DigitalCoa.ch",
       "description": "Helping executives and Swiss SMBs create strategic clarity in the age of algorithmic noise."
     },
     "About": {

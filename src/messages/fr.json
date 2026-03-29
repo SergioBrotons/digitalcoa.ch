@@ -3,7 +3,7 @@
     "title": "DigitalCoa.ch",
     "nav": {
       "services": "Prestations",
-      "who": "Pour qui",
+      "who": "Advisory",
       "about": "À Propos",
       "contact": "Contact",
       "insights": "Analyses"
@@ -22,7 +22,7 @@
   },
   "Home": {
     "hero": {
-      "title": "Architecture décisionnelle exécutive pour l'ère de l'IA",
+      "title": "Clarté décisionnelle pour les dirigeants face à la pression de l'IA",
       "subtitle": "La clarté pour les décisions à enjeux élevés.",
       "description": "J'aide les dirigeants, les conseils d'administration, les équipes et les professionnels indépendants à concevoir des systèmes de décision plus clairs, une gouvernance plus solide et une utilisation pratique de l'IA sans ajouter de chaos.",
       "cta": "Démarrer la conversation",
@@ -41,7 +41,7 @@
       "title": "Une clarté stratégique pour chaque rôle",
       "items": {
         "executives": {
-          "label": "Dirigeants",
+          "label": "PME Suisses",
           "problem": "Décisions ralenties par le bruit, la fragmentation, une escalade floue",
           "solution": "Des systèmes de décision qui préservent la clarté et l'autorité",
           "cta": "Explorer le soutien exécutif"
@@ -282,7 +282,7 @@
   },
   "Metadata": {
     "Home": {
-      "title": "Architecture décisionnelle exécutive | DigitalCoa.ch",
+      "title": "Clarté décisionnelle pour les dirigeants | DigitalCoa.ch",
       "description": "Aider les dirigeants et les PME suisses à créer une clarté stratégique à l'ère du bruit algorithmique."
     },
     "About": {
