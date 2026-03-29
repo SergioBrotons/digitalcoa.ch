@@ -1,6 +1,6 @@
 # Phase Rotation State
 
-## Current Phase: 04 (Geneva healthcare — Cycle 4)
+## Current Phase: 05 (Cross-vertical synthesis — Cycle 4)
 ## Last Updated: 2026-03-29 (Phase 03 Cycle 4 complete → Phase 04 Cycle 4 next)
 
 ## Phase Rotation Order
@@ -44,14 +44,14 @@
 - Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva consulting decision-maker interviews if approved), FDPIC new AI guidance 2026 (quota — Gemini 429), SIF AI Report (quota deferred; not confirmed published)
 - Next Cycle Additions: FDPIC new AI guidance 2026 (quota-dependent), SIF AI Report Geneva implications (quota-dependent), primary research (Geneva consulting decision-maker interviews if approved)
 
-## Phase 04 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
-- Directory: 20260329_phase04_geneva_healthcare_cycle3
-- Deliverables: ICP (swissdamed July 2026 urgency; Vaud extension confirmed ~3,600 physicians; FDPIC May 8 2025 integrated), market signals (ITU AI for Good Summit 2025/2026; Geneva Health Forum 2026; medical assistant shortage structural; clause du besoin July 2025), competitive landscape (named competitors: Lucendra/Congenius/st-consulting/AlpineAI/SwissCyberInstitute/HealthAI — all different segments; first-mover confirmed with evidence), regulatory context (nFADP Art. 5(c) deepest of all verticals; swissdamed mandatory July 1 2026; EU AI Act medical device extension Aug 2027; CoE AI Convention implementation end-2026; Federal Council sector-specific confirmed Feb 2025), lead magnet (3-axis framework: nFADP + Swissmedic + Efficiency; 7-point checklist; 5-question self-assessment; Vaud + FR distribution noted), exec summary, research log
-- Lead magnet: "The Small Medical Practice AI Decision Framework" — 3-axis (nFADP Art. 5(c) + Swissmedic/swissdamed + Efficiency); swissdamed July 1 2026 as concrete deadline; AMGe retirement crisis + clause du besoin framing; Phase 01-04 portfolio consistency confirmed
-- GitHub push: ✅ SUCCESSFUL — commit afb42fb → origin/staging
-- Cycle 3 additions: FDPIC May 8 2025 explicit confirmation integrated (Phase 04 consistent with Phase 01-03); swissdamed mandatory July 1 2026 (NEW); EU AI Act medical device extension Aug 2027 (NEW); Named competitors identified: Lucendra/Congenius (MedTech/device companies), st-consulting (hospitals), AlpineAI (SwissGPT Health = AI tool vendor), Swiss Cyber Institute (AI Governance 360 enterprise), HealthAI (international nonprofit/government), GCG (pharma/industry) — all different segments from small practice advisory; Geneva AI for Good Summit 2025/2026 (ITU hosted) (NEW); Geneva Health Forum 2026 (May + November) (NEW); Vaud extension confirmed: ~830K population, ~3,600 physicians, ~2,000-2,500 addressable practices; CMPR analogous to AMGe; DGVS regulatory context (NEW); Federal Council sector-specific approach confirmed Feb 2025 (NEW); CoE AI Convention implementation consultation expected end-2026 (NEW); Competitive gap confirmed with named evidence (no boutique targeting small medical practice)
-- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva physician interviews if approved), FMH registry validation (quota deferred), Swissmedic AI certification primary document fetch (quota deferred)
-- Next Cycle Additions: Primary research (Geneva + Vaud physician decision-maker interviews if approved), FMH/AMGe/CMPR registry validation, Geneva Health Forum 2026 content positioning
+## Phase 04 Status: COMPLETE [CYCLE 4 — DONE 2026-03-29]
+- Directory: 20260329_phase04_geneva_healthcare_cycle4
+- Deliverables: ICP (FDPIC 2024/2025 Annual Report enforcement confirmed; Vaud dual-market reinforced via CHUV anchor; MGMA Jan 2026 42% governance gap quantified; AI for Good 2026 exact dates Jul 7-10), market signals (FDPIC enforcement trajectory confirmed; CHUV Meditron Swiss medical LLM testing May 2026; MGMA governance gap quantified; AI for Good Global Summit 2026 exact dates), competitive landscape (competitive gap confirmed 4th consecutive cycle; CHUV Meditron reinforces Vaud institutional AI context; Geneva/Vaud dual-market), regulatory context (FDPIC 2024/2025 Annual Report Jul 2025 enforcement confirmed; CHUV Meditron SaMD context; AI for Good 2026 exact dates; FDPIC joint statement AI-generated images Feb 23 2026), lead magnet (FDPIC enforcement + CHUV Meditron + MGMA 42% governance gap added; 3-axis reinforced), exec summary, research log
+- Lead magnet: "The Small Medical Practice AI Decision Framework" — 3-axis (nFADP Art. 5(c) + Swissmedic/swissdamed + Efficiency); FDPIC enforcement active now; CHUV Meditron institutional AI context; MGMA 42% governance gap quantified; swissdamed July 1 2026 ~15 months; Phase 01-06 portfolio consistency confirmed
+- GitHub push: ✅ SUCCESSFUL — commit 0947d2a → origin/phase05-push
+- Cycle 4 additions: FDPIC 2024/2025 Annual Report (Jul 1, 2025): nFADP enforcement trajectory confirmed, healthcare priority; CHUV Meditron Swiss medical LLM testing May 2026 (Lausanne university hospital); AI for Good Global Summit 2026 exact dates July 7-10 confirmed; MGMA Jan 2026: only 42% of medical groups have formal AI governance policies; FDPIC joint statement AI-generated images (Feb 23, 2026) cross-DPA enforcement signal; X/Twitter AI training preliminary investigation Mar 2025 precedent; Geneva/Vaud dual-market reinforced via CHUV anchor; 2 web searches (1 success, 1 x 429 quota)
+- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva + Vaud physician interviews if approved), FDPIC 2024/2025 Annual Report primary doc (integrated via search), CHUV Meditron primary doc (integrated via search), Swissmedic swissdamed implementation guidance (quota deferred), FMH/AMGe/CMPR registry enumeration (quota deferred)
+- Next Cycle Additions: Primary research (Geneva + Vaud physician decision-maker interviews if approved), FDPIC healthcare enforcement case register, Swissmedic swissdamed implementation guidance primary fetch
 
 ## Phase 05 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
 - Directory: 20260329_phase05_synthesis_cycle3
@@ -110,10 +110,13 @@
 | 2026-03-29 | Phase 06 Cycle 1 | SUCCESSFUL | commit 59f2a8d → origin/phase05-push; Geneva RE — 67% AI adoption (highest vertical), nFADP DPIA framework, GAIGI Fall 2025, human accountability principle, lead magnet 5 framework complete |
 | 2026-03-29 | Phase 02 Cycle 4 | SUCCESSFUL | commit 72b035b → origin/phase05-push; FINMA Circ. 2025/02 + AMLA + LETA + CARF; named Swiss AI platforms; no boutique WM competitor (4th cycle); 3 fresh searches, 0 errors |
 | 2026-03-29 | Phase 01 Cycle 4 | SUCCESSFUL | commit 2b1a4e3 → origin/phase05-push; FDJP CoE consultation draft confirmed; ANBLES AI Working Group Feb 2026; ABA AI guidance Mar 2026; first-mover window stable |
+| 2026-03-29 | Phase 04 Cycle 4 | SUCCESSFUL | commit 0947d2a → origin/phase05-push; FDPIC 2024/2025 Annual Report enforcement confirmed; CHUV Meditron May 2026; MGMA 42% governance gap; AI for Good 2026 exact dates Jul 7-10 |
 
 ## Rotation Summary
 - Phase 01 Cycle 4 DONE ✅ — FDJP confirmed; ANBLES Feb 2026; ABA AI guidance Mar 2026; window stable 18–24 months
 - Phase 02 Cycle 4 DONE ✅ — FINMA Circ. 2025/02, AMLA, LETA, CARF 2026 convergence; named Swiss AI platforms; no boutique competitor (4th cycle); 3 fresh searches, 0 errors
-- Phase 03–05 Cycle 4 PENDING
+- Phase 03 Cycle 4 DONE ✅ — EU AI Act GPAI operative Aug 2 2025; dual compliance; advisory window end-2026
+- Phase 04 Cycle 4 DONE ✅ — FDPIC enforcement confirmed; CHUV Meditron; MGMA 42% governance gap; AI for Good 2026 exact dates; competitive gap 4th cycle confirmed
+- Phase 05 Cycle 4 PENDING
 - Phase 06 Cycle 2 PENDING
-- Next: Phase 03 (Cycle 4) — Geneva consulting SMB
+- Next: Phase 05 (Cycle 4) — Cross-vertical synthesis
