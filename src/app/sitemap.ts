@@ -1,5 +1,4 @@
 import {MetadataRoute} from 'next';
-import {blogPosts} from '@/lib/blog-data';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://digitalcoa.ch';
@@ -15,18 +14,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  // Add individual insight post pages
-  const postRoutes = locales.flatMap((locale) =>
-    blogPosts.map((post) => {
-      const slug = post.slugs[locale as keyof typeof post.slugs] || post.slugs.en;
-      return {
-        url: `${baseUrl}/${locale}/insights/${slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'monthly' as const,
-        priority: 0.7,
-      };
-    })
-  );
-
-  return [...routes, ...postRoutes];
+  return routes;
 }
