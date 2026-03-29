@@ -1,15 +1,15 @@
 # Phase Rotation State
 
-## Current Phase: 04 (Geneva healthcare practices — Cycle 2)
-## Last Updated: 2026-03-29 (Phase 03 Cycle 2 complete; rotation → Phase 04 Cycle 2)
+## Current Phase: 05 (Cross-vertical synthesis — Cycle 2)
+## Last Updated: 2026-03-29 (Phase 04 Cycle 2 complete; rotation → Phase 05 Cycle 2)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 2] ✅
 2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE [CYCLE 2] ✅
 3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 2] ✅
-4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 1]; NEXT: Cycle 2
-5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 1]
-→ Rotation continues: Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3) → Phase 02 (Cycle 3) → Phase 03 (Cycle 3)
+4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 2] ✅
+5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 1]; NEXT: Cycle 2
+→ Rotation continues: Phase 05 (Cycle 2) → Phase 01 (Cycle 3) → Phase 02 (Cycle 3) → Phase 03 (Cycle 3) → Phase 04 (Cycle 3)
 
 ## Phase 01 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle2
@@ -38,11 +38,14 @@
 - Skipped: Web research (Gemini 429 quota exhausted — same pattern as Phase 01/02 Cycle 2), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
 - Next Cycle Additions: Primary research (Geneva consulting decision-maker interviews if approved), fresh competitive landscape scan, pricing research for comparable advisory services
 
-## Phase 04 Status: COMPLETE
-- Deliverables: ICP (1,000–1,400 Geneva practices), market signals, competitive landscape (open), regulatory context (nFADP Art. 5(c) + Swissmedic + cantonal), lead magnet concept, exec summary
-- Key findings: Medical assistant shortage driving automation urgency; nFADP highest sensitivity category; no Geneva boutique positioned for small practice AI governance; first-mover window open
-- Lead magnet: "The Small Medical Practice AI Decision Framework"
-- GitHub push: SUCCESSFUL
+## Phase 04 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
+- Directory: 20260329_phase04_geneva_healthcare_cycle2
+- Deliverables: ICP (1,000–1,400 Geneva practices; AMGe retirement data added; clause du besoin July 2025), market signals (medical assistant shortage structural crisis confirmed), competitive landscape (first-mover confirmed + no new entrants), regulatory context (nFADP Art. 5(c) deepened; Swissmedic + cantonal + ISO 42001 stack), lead magnet (3-axis framework refined; nFADP as primary hook), exec summary
+- Lead magnet: "The Small Medical Practice AI Decision Framework" — 3-axis (nFADP + Swissmedic + Efficiency); 7-point nFADP checklist; Phase 05 synthesis integrated
+- GitHub push: ✅ SUCCESSFUL — commit 407ca31 → origin/staging
+- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point confirmed (healthcare sharpest of all verticals); ISO 42001 + nFADP + Swissmedic stack confirmed; first-mover window validated; AMGe retirement crisis (40% aged 60-64 plan retirement at 65) + clause du besoin July 2025 added; lead magnet portfolio aligned (Phase 01, 02, 03, 04 consistent structure)
+- Skipped: Web research (Gemini 429 quota exhausted after 1 successful search + 2 failures), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (attorney interviews if approved), FMH registry validation (quota), Swissmedic AI certification latest update (quota)
+- Next Cycle Additions: Primary research (Geneva physician decision-maker interviews if approved), fresh competitive landscape scan, Swiss French region (Vaud) extension research
 
 ## Phase 05 Status: COMPLETE
 - Directory: phase_05_cross_vertical_synthesis
@@ -67,7 +70,9 @@
 | 2026-03-29 | Phase 01 Cycle 2 | SUCCESSFUL | commit 1970533 → origin/staging; Phase 05 synthesis integrated; Decision 3 added to lead magnet |
 | 2026-03-29 | Phase 02 Cycle 2 | SUCCESSFUL | commit 4657153 → origin/staging; Phase 05 synthesis integrated; nFADP hook strengthened; lead magnet portfolio aligned |
 | 2026-03-29 | Phase 03 Cycle 2 | SUCCESSFUL | commit 3128628 → origin/phase05-push; nFADP wake-up call as lead magnet entry point; compliance checklist added; Phase 05 synthesis integrated across all files |
+| 2026-03-29 | Phase 04 Cycle 2 | SUCCESSFUL | commit 407ca31 → origin/staging; AMGe retirement crisis + clause du besoin July 2025 added; 3-axis lead magnet framework refined; Phase 05 synthesis integrated |
 
-## Rotation Summary (Cycle 1 Complete)
-All 5 phases completed. Rotation loops back to Phase 01 for Cycle 2.
-Cycle 2 of Phase 01 will focus on: fresh market data, competitive landscape update, ICP language refinement based on Phase 05 synthesis learnings.
+## Rotation Summary
+- Cycle 2 complete: Phase 01, 02, 03, 04 all done ✅
+- Next: Phase 05 (Cross-vertical synthesis — Cycle 2)
+- After Phase 05 Cycle 2: Loop back to Phase 01 (Cycle 3) → Phase 02 (Cycle 3) → Phase 03 (Cycle 3) → Phase 04 (Cycle 3) → Phase 05 (Cycle 3)
