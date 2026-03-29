@@ -1,7 +1,7 @@
 # Phase Rotation State
 
-## Current Phase: 01 (Geneva legal — Cycle 3)
-## Last Updated: 2026-03-29 (Phase 05 Cycle 2 complete; Phase 01 Cycle 3 complete → advance to Phase 02 Cycle 3)
+## Current Phase: 02 (Geneva finance/SMB — Cycle 3)
+## Last Updated: 2026-03-29 (Phase 02 Cycle 3 complete → advance to Phase 03 Cycle 3)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 3] ✅
@@ -9,7 +9,7 @@
 3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 2] ✅
 4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 2] ✅
 5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 2] ✅
-→ Rotation continues: Phase 02 (Cycle 3) → Phase 03 (Cycle 3) → Phase 04 (Cycle 3) → Phase 05 (Cycle 3) → Phase 01 (Cycle 4)
+→ Rotation continues: Phase 03 (Cycle 3) → Phase 04 (Cycle 3) → Phase 05 (Cycle 3) → Phase 01 (Cycle 4) → Phase 02 (Cycle 4)
 
 ## Phase 01 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle3
@@ -25,14 +25,14 @@
 - Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), FDPIC May 2025 full document fetch (quota), SBA Guidelines full document fetch (quota), primary research (attorney interviews if approved)
 - Next Cycle Additions: Primary research (attorney interviews if approved), fresh competitive landscape scan, FDPIC May 2025/SBA Guidelines full documents
 
-## Phase 02 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
-- Directory: phase_02_geneva_finance_smb
-- Deliverables: ICP (11 boutique WM firms), market signals, competitive landscape (Domalys, QBIS, Salesforce FSC), compliance context (FINMA 08/2024 + nFADP), lead magnet concept, research log
-- Lead magnet: "The Boutique Wealth Manager's AI Readiness Checklist" — self-assessment with nFADP hook (vendor due diligence angle)
-- GitHub push: ✅ SUCCESSFUL — commit 4657153 → origin/staging
-- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point confirmed, ISO 42001 + nFADP stack as differentiation, first-mover window validated, lead magnet portfolio aligned with Phase 01
-- Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
-- Next Cycle Additions: Primary research validation (WM decision-maker interviews if approved), fresh competitive landscape scan, pricing research for Domalys/QBIS alternatives
+## Phase 02 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
+- Directory: 20260329_phase02_geneva_finance_cycle3
+- Deliverables: ICP (12 firms: 11 from Cycle 2 + Arbra Partners new entrant), market signals (FDPIC May 2025 integration; FINMA 08/2024 operative; 91% external AI SaaS confirmed), competitive landscape (no new boutique AI governance competitor; first-mover window confirmed), compliance context (FINMA 08/2024 + nFADP obligations mapped; FDPIC May 2025 Art. 5(c) + Art. 26 ADMD disclosure + vendor DPA requirements), lead magnet framework (checklist expanded with GDPR dual compliance + health data considerations), research log
+- Lead magnet: "The Boutique Wealth Manager's AI Governance Readiness Checklist" — self-assessment with nFADP + FINMA dual hook; FDPIC May 2025 strengthened nFADP entry point; GDPR dual compliance + health data checklist added
+- GitHub push: ✅ SUCCESSFUL — commit 45c902a → origin/phase05-push
+- Cycle 3 additions: Arbra Partners Geneva (June 2024, $1B+ AUM, 14 Geneva employees) identified as new WM entrant; FDPIC May 2025 explicit confirmation integrated; lead magnet checklist expanded (GDPR dual compliance, health data); competitive absence confirmed (no boutique AI governance competitor); Gemini 429 hit on competitive/pricing searches (fresh scans next rotation)
+- Skipped: Fresh competitive landscape scan (Gemini 429 quota), pricing research Domalys/QBIS (Gemini 429 quota), FINMA circular updates (Gemini 429 quota), nFADP enforcement update (Gemini 429 quota), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (owner approval)
+- Next Cycle Additions: Primary research (WM decision-maker interviews if approved), pricing research (Gemini 429 — next session), fresh FINMA circular scan (Gemini 429 — next session), nFADP enforcement update (Gemini 429 — next session)
 
 ## Phase 03 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
 - Directory: 20260329_phase03_geneva_consulting_cycle2
@@ -78,10 +78,11 @@
 | 2026-03-29 | Phase 02 Cycle 2 | SUCCESSFUL | commit 4657153 → origin/staging; Phase 05 synthesis integrated; nFADP hook strengthened; lead magnet portfolio aligned |
 | 2026-03-29 | Phase 03 Cycle 2 | SUCCESSFUL | commit 3128628 → origin/phase05-push; nFADP wake-up call as lead magnet entry point; compliance checklist added; Phase 05 synthesis integrated across all files |
 | 2026-03-29 | Phase 04 Cycle 2 | SUCCESSFUL | commit 407ca31 → origin/staging; AMGe retirement crisis + clause du besoin July 2025 added; 3-axis lead magnet framework refined; Phase 05 synthesis integrated |
-| 2026-03-29 | Phase 01 Cycle 3 | SUCCESSFUL | Phase 05 Cycle 2 files marked complete; Phase 01 Cycle 3 complete with FDPIC May 2025 + SBA June 2024 + Geneva competitive landscape; pushing now |
+| 2026-03-29 | Phase 01 Cycle 3 | SUCCESSFUL | Phase 05 Cycle 2 files marked complete; Phase 01 Cycle 3 complete with FDPIC May 2025 + SBA June 2024 + Geneva competitive landscape |
+| 2026-03-29 | Phase 02 Cycle 3 | SUCCESSFUL | commit 45c902a → origin/phase05-push; Arbra Partners new entrant; FDPIC May 2025 integrated; competitive absence confirmed; lead magnet framework complete |
 
 ## Rotation Summary
-- Cycle 3 in progress: Phase 01 DONE ✅; Phase 02, 03, 04 pending
-- Phase 05 Cycle 2 now complete ✅
-- Next: Phase 02 (Cycle 3) — Geneva finance/SMB
+- Cycle 3 in progress: Phase 01 DONE ✅; Phase 02 DONE ✅; Phase 03, 04, 05 pending
+- Phase 05 Cycle 2 complete ✅
+- Next: Phase 03 (Cycle 3) — Geneva consulting
 - After Phase 05 (Cycle 3): Loop back to Phase 01 (Cycle 4)
