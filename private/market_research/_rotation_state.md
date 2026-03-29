@@ -1,13 +1,13 @@
 # Phase Rotation State
 
-## Current Phase: 02 (Geneva finance/SMB — Cycle 4)
-## Last Updated: 2026-03-29 (Phase 01 Cycle 4 complete → Phase 02 Cycle 4 next)
+## Current Phase: 04 (Geneva healthcare — Cycle 4)
+## Last Updated: 2026-03-29 (Phase 03 Cycle 4 complete → Phase 04 Cycle 4 next)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 4] ✅
-2. Phase 02: Geneva finance/SMB (boutique wealth management) — NEXT → Phase 02 Cycle 4
-3. Phase 03: Geneva consulting (small firms) — PENDING Phase 03 Cycle 4
-4. Phase 04: Geneva healthcare (practices) — PENDING Phase 04 Cycle 4
+2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE ✅ [CYCLE 4]
+3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 4] ✅
+4. Phase 04: Geneva healthcare (practices) — NEXT → Phase 04 Cycle 4
 5. Phase 05: Cross-vertical synthesis — PENDING Phase 05 Cycle 4
 6. Phase 06: Geneva real estate (small agencies, property managers) — COMPLETE [CYCLE 1] ✅
 → Rotation continues: Phase 01 (Cycle 4) → Phase 02 (Cycle 4) → Phase 03 (Cycle 4) → Phase 04 (Cycle 4) → Phase 05 (Cycle 4) → Phase 06 (Cycle 2) → Phase 01 (Cycle 5)
@@ -26,23 +26,23 @@
 - Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), FDPIC May 2025 full document fetch (quota), SBA Guidelines full document fetch (quota), primary research (attorney interviews if approved)
 - Next Cycle Additions: Primary research (attorney interviews if approved), fresh competitive landscape scan, FDPIC May 2025/SBA Guidelines full documents
 
-## Phase 02 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
-- Directory: 20260329_phase02_geneva_finance_cycle3
-- Deliverables: ICP (12 firms: 11 from Cycle 2 + Arbra Partners new entrant), market signals (FDPIC May 2025 integration; FINMA 08/2024 operative; 91% external AI SaaS confirmed), competitive landscape (no new boutique AI governance competitor; first-mover window confirmed), compliance context (FINMA 08/2024 + nFADP obligations mapped; FDPIC May 2025 Art. 5(c) + Art. 26 ADMD disclosure + vendor DPA requirements), lead magnet framework (checklist expanded with GDPR dual compliance + health data considerations), research log
-- Lead magnet: "The Boutique Wealth Manager's AI Governance Readiness Checklist" — self-assessment with nFADP + FINMA dual hook; FDPIC May 2025 strengthened nFADP entry point; GDPR dual compliance + health data checklist added
-- GitHub push: ✅ SUCCESSFUL — commit 45c902a → origin/phase05-push
-- Cycle 3 additions: Arbra Partners Geneva (June 2024, $1B+ AUM, 14 Geneva employees) identified as new WM entrant; FDPIC May 2025 explicit confirmation integrated; lead magnet checklist expanded (GDPR dual compliance, health data); competitive absence confirmed (no boutique AI governance competitor); Gemini 429 hit on competitive/pricing searches (fresh scans next rotation)
-- Skipped: Fresh competitive landscape scan (Gemini 429 quota), pricing research Domalys/QBIS (Gemini 429 quota), FINMA circular updates (Gemini 429 quota), nFADP enforcement update (Gemini 429 quota), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (owner approval)
-- Next Cycle Additions: Primary research (WM decision-maker interviews if approved), pricing research (Gemini 429 — next session), fresh FINMA circular scan (Gemini 429 — next session), nFADP enforcement update (Gemini 429 — next session)
+## Phase 02 Status: COMPLETE [CYCLE 4 — DONE 2026-03-29]
+- Directory: 20260329_phase02_geneva_finance_cycle4
+- Deliverables: ICP (updated with 2026 regulatory convergence), market signals (7 new signals: FINMA Circ. 2025/02, SIF AI Report, revised AMLA, LETA, CARF/CRS 2.0, FINMA 2026/01, named Swiss AI platforms), competitive landscape (no boutique WM AI governance competitor confirmed 4th consecutive cycle; named Swiss AI vendors identified as non-competitive — technology providers only), regulatory context (2026 compliance convergence timeline: FINMA 2025/02 Jan 2025, CARF Jan 2026, AMLA mid-2026, LETA H2 2026), lead magnet (6-section checklist expanded from 4 sections; new 2026 regulatory wave section added), exec summary, research log
+- Lead magnet: "The Boutique Wealth Manager's AI Governance Readiness Checklist" — expanded to 6 sections; FINMA Circ. 2025/02 + AMLA + LETA + CARF 2026 convergence added; named Swiss AI platforms (InvestGlass, Additiv, Altoo, Neurons Lab, Nevis) confirmed as vendors, not competitors
+- GitHub push: ✅ SUCCESSFUL — commit 72b035b → origin/phase05-push
+- Cycle 4 additions: FINMA Circ. 2025/02 (FinSA/FinSO conduct rules, operative Jan 1 2025); SIF AI Report expected Q4 2025/Q1 2026; revised AMLA (Sep 2025, mid-2026); LETA (Sep 2025, H2 2026); CARF + CRS 2.0 (Jan 1 2026); FINMA Circ. 2026/01 nature risks (Jan 1 2026); named Swiss AI platforms (InvestGlass, Additiv, Altoo, Neurons Lab, Nevis, Linvo) confirmed; no 429 errors (3 fresh searches completed); first-mover window stable (4th consecutive cycle)
+- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (owner approval), FDPIC May 2025 full document fetch (already integrated), SIF AI Report (will integrate when published Q4 2025/Q1 2026), primary research (WM decision-maker interviews if approved)
+- Next Cycle Additions: SIF AI Report integration when published; primary research (Geneva WM decision-maker interviews if approved); FINMA Circ. 2025/02 supervisory feedback; OFL/cantonal registry enumeration
 
-## Phase 03 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
-- Directory: 20260329_phase03_geneva_consulting_cycle3
-- Deliverables: ICP (FDPIC May 8 2025 integrated; Swiss SME AI adoption data 34%/57% added; SMB 6.52% CAGR growth added; Geneva pricing context CHF 5K–20K added), market signals (SAIROP survey data integrated; GenAI 38% adoption added; EU AI Act GPAI Aug 2025 timeline added), competitive landscape (named competitors confirmed KPMG/PwC/Protiviti/BearingPoint/LEXR/SwissCyberInstitute/SwissInfosec; IT/tech sub-segment identified as highest-risk/highest-conversion; no boutique targeting small consulting firms), regulatory context (FDPIC May 8 2025 explicit confirmation added and dated; CoE AI Convention March 2025 added; "as soon as possible" breach notification clarified vs GDPR 72h; ISO 42001 Swiss landscape SQS/EY/KPMG/ACTAGIS added; EU AI Act GPAI Aug 2025 added), lead magnet (FDPIC May 2025 dated confirmation added; market data added; regulatory timeline added; IT/tech sub-segment identified; portfolio alignment confirmed with Phase 01–04), exec summary, research log
-- Lead magnet: "The Small Consulting Firm AI Decision Framework" — FDPIC May 8 2025 explicit confirmation as entry point; 34% Swiss SME AI adoption data; regulatory timeline (CoE Convention, EU AI Act GPAI); IT/tech sub-segment as highest conversion; "as soon as possible" breach notification clarification
-- GitHub push: ✅ SUCCESSFUL
-- Cycle 3 additions: FDPIC May 8 2025 explicit confirmation integrated (Phase 03 now consistent with Phase 01/02); Swiss SME AI adoption stats (34% 2025, 22% 2024, 57% efficiency gains); SMB segment 6.52% CAGR through 2031; CoE AI Convention March 2025 signed by Switzerland; EU AI Act GPAI rules August 2025; Swiss legal amendments expected end-2026; Named competitive landscape confirmed (KPMG, PwC, Protiviti, BearingPoint, LEXR, Swiss Cyber Institute, Swiss Infosec AG); IT/technology consultant sub-segment identified as highest nFADP exposure + fastest conversion; Geneva SMB pricing CHF 5K–20K basic packages; breach notification "as soon as possible" clarified vs GDPR 72h; ISO 42001 Swiss certification landscape (SQS, EY, KPMG, ACTAGIS)
-- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva consulting decision-maker interviews if approved), FDPIC May 2025 full document fetch (already integrated via web search), Top 10 Geneva boutique named scan (Gemini 429 risk)
-- Next Cycle Additions: Primary research (Geneva consulting decision-maker interviews if approved), fresh competitive landscape scan, ISO 42001 CHF certification pricing for small firms
+## Phase 03 Status: COMPLETE [CYCLE 4 — DONE 2026-03-29]
+- Directory: 20260329_phase03_geneva_consulting_cycle4
+- Deliverables: ICP (EU AI Act GPAI operative Aug 2 2025; Federal Council 2026 action plan; advisory window NOW through end-2026; dual compliance challenge sharpened), market signals (GPAI operative creates dual compliance demand; advisory window framing), competitive landscape (GPAI operative creates advisory gap; IT/tech sub-segment faces strongest GPAI pressure), regulatory context (EU AI Act GPAI operative; Federal Council 2026 action plan; FDJP consultation scope: transparency, data protection, non-discrimination, oversight; advisory window confirmed), lead magnet (Section 7 "Advisory Window — Why Now" added; Section 5 GPAI checklist item; Section 6 timeline OPERATIVE marking; dual compliance framing), exec summary, research log
+- Lead magnet: "The Small Consulting Firm AI Decision Framework" — EU AI Act GPAI operative Aug 2 2025 as new trigger; dual compliance (EU AI Act + nFADP) framing; advisory window NOW through end-2026
+- GitHub push: ✅ SUCCESSFUL — commit 4ed6b01 → origin/phase05-push
+- Cycle 4 additions: EU AI Act GPAI now OPERATIVE (Aug 2 2025) — framing from upcoming to active; Federal Council 2026 AI action plan (sector-specific; FDJP consultation end-2026); dual compliance challenge (EU AI Act + nFADP); advisory window NOW through end-2026; IT/tech sub-segment GPAI exposure sharpened; 4 searches (2 hit 429; quota conserved for regulatory signals)
+- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva consulting decision-maker interviews if approved), FDPIC new AI guidance 2026 (quota — Gemini 429), SIF AI Report (quota deferred; not confirmed published)
+- Next Cycle Additions: FDPIC new AI guidance 2026 (quota-dependent), SIF AI Report Geneva implications (quota-dependent), primary research (Geneva consulting decision-maker interviews if approved)
 
 ## Phase 04 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
 - Directory: 20260329_phase04_geneva_healthcare_cycle3
@@ -104,14 +104,16 @@
 | 2026-03-29 | Phase 01 Cycle 3 | SUCCESSFUL | Phase 05 Cycle 2 files marked complete; Phase 01 Cycle 3 complete with FDPIC May 2025 + SBA June 2024 + Geneva competitive landscape |
 | 2026-03-29 | Phase 02 Cycle 3 | SUCCESSFUL | commit 45c902a → origin/phase05-push; Arbra Partners new entrant; FDPIC May 2025 integrated; competitive absence confirmed; lead magnet framework complete |
 | 2026-03-29 | Phase 03 Cycle 3 | SUCCESSFUL | 4 web searches completed (no 429); FDPIC May 8 2025 explicit confirmation; Swiss SME AI adoption data (34%, 57%); SMB CAGR 6.52%; CoE AI Convention March 2025; EU AI Act GPAI Aug 2025; named competitors confirmed; IT/tech sub-segment identified; breach notification clarified; Geneva pricing context added |
+| 2026-03-29 | Phase 03 Cycle 4 | SUCCESSFUL | commit 4ed6b01 → origin/phase05-push; EU AI Act GPAI operative Aug 2 2025; Federal Council 2026 action plan; dual compliance framing; advisory window confirmed NOW through end-2026; 4 searches (2 hit 429; quota conserved) |
 | 2026-03-29 | Phase 04 Cycle 3 | SUCCESSFUL | commit afb42fb → origin/staging; swissdamed July 2026; Geneva AI for Good/Health Forum 2026; Vaud extension; named competitors: Lucendra/Congenius/st-consulting/AlpineAI/SwissCyberInstitute; CoE AI Convention implementation end-2026; Federal Council sector-specific confirmed |
 | 2026-03-29 | Phase 05 Cycle 3 | SUCCESSFUL | 20260329_phase05_synthesis_cycle3 created; 2 web searches (no 429); FDPIC May 2025 + EU AI Act + real estate 67% adoption integrated; 5-vertical competitive map; regulatory timeline updated |
 | 2026-03-29 | Phase 06 Cycle 1 | SUCCESSFUL | commit 59f2a8d → origin/phase05-push; Geneva RE — 67% AI adoption (highest vertical), nFADP DPIA framework, GAIGI Fall 2025, human accountability principle, lead magnet 5 framework complete |
+| 2026-03-29 | Phase 02 Cycle 4 | SUCCESSFUL | commit 72b035b → origin/phase05-push; FINMA Circ. 2025/02 + AMLA + LETA + CARF; named Swiss AI platforms; no boutique WM competitor (4th cycle); 3 fresh searches, 0 errors |
 | 2026-03-29 | Phase 01 Cycle 4 | SUCCESSFUL | commit 2b1a4e3 → origin/phase05-push; FDJP CoE consultation draft confirmed; ANBLES AI Working Group Feb 2026; ABA AI guidance Mar 2026; first-mover window stable |
 
 ## Rotation Summary
 - Phase 01 Cycle 4 DONE ✅ — FDJP confirmed; ANBLES Feb 2026; ABA AI guidance Mar 2026; window stable 18–24 months
-- Phase 02 Cycle 4 NEXT → Geneva wealth management boutique
+- Phase 02 Cycle 4 DONE ✅ — FINMA Circ. 2025/02, AMLA, LETA, CARF 2026 convergence; named Swiss AI platforms; no boutique competitor (4th cycle); 3 fresh searches, 0 errors
 - Phase 03–05 Cycle 4 PENDING
 - Phase 06 Cycle 2 PENDING
-- Next: Phase 02 (Cycle 4) — Geneva finance/SMB; fresh FINMA circular scan if quota available; Arbra Partners integration
+- Next: Phase 03 (Cycle 4) — Geneva consulting SMB
