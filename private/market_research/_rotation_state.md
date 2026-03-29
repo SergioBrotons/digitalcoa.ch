@@ -1,15 +1,15 @@
 # Phase Rotation State
 
-## Current Phase: 03 (Geneva consulting/SMB — Cycle 2)
-## Last Updated: 2026-03-29 (Phase 02 Cycle 2 complete; rotation → Phase 03 Cycle 2)
+## Current Phase: 04 (Geneva healthcare practices — Cycle 2)
+## Last Updated: 2026-03-29 (Phase 03 Cycle 2 complete; rotation → Phase 04 Cycle 2)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 2] ✅
 2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE [CYCLE 2] ✅
-3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 1]; NEXT: Cycle 2
-4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 1]
+3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 2] ✅
+4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 1]; NEXT: Cycle 2
 5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 1]
-→ Rotation continues: Phase 03 (Cycle 2) → Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3) → Phase 02 (Cycle 3)
+→ Rotation continues: Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3) → Phase 02 (Cycle 3) → Phase 03 (Cycle 3)
 
 ## Phase 01 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle2
@@ -29,11 +29,14 @@
 - Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
 - Next Cycle Additions: Primary research validation (WM decision-maker interviews if approved), fresh competitive landscape scan, pricing research for Domalys/QBIS alternatives
 
-## Phase 03 Status: COMPLETE
-- Deliverables: ICP, market signals, competitive landscape, regulatory context, lead magnet concept, executive summary
-- Key findings: 600+ Geneva consulting firms (2–15 employees), AI adoption gap confirmed, nFADP + ISO 42001 regulatory frame, no boutique competitor in this space
-- Lead magnet: "The Small Consulting Firm AI Decision Framework"
-- GitHub push: SUCCESSFUL
+## Phase 03 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
+- Directory: 20260329_phase03_geneva_consulting_cycle2
+- Deliverables: ICP (sharpened core paradox: AI efficiency vs. client confidentiality), market signals (Phase 05 synthesis integrated), competitive landscape (Phase 05 confirmed: no boutique competitor), regulatory context (nFADP universal entry point confirmed; ISO 42001 + nFADP stack as differentiation), lead magnet (nFADP wake-up call as entry point; compliance checklist added; portfolio alignment confirmed), exec summary, research log
+- Lead magnet: "The Small Consulting Firm AI Decision Framework" — nFADP compliance checklist (8-point) added; nFADP as primary hook instead of efficiency angle
+- GitHub push: ✅ SUCCESSFUL — commit 3128628 → origin/phase05-push (staging)
+- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point confirmed, ISO 42001 + nFADP stack confirmed as differentiation, first-mover window confirmed across all verticals, lead magnet portfolio aligned (Phase 01, 02, 03, 04 consistent structure)
+- Skipped: Web research (Gemini 429 quota exhausted — same pattern as Phase 01/02 Cycle 2), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
+- Next Cycle Additions: Primary research (Geneva consulting decision-maker interviews if approved), fresh competitive landscape scan, pricing research for comparable advisory services
 
 ## Phase 04 Status: COMPLETE
 - Deliverables: ICP (1,000–1,400 Geneva practices), market signals, competitive landscape (open), regulatory context (nFADP Art. 5(c) + Swissmedic + cantonal), lead magnet concept, exec summary
@@ -63,6 +66,7 @@
 | 2026-03-29 | Phase 05 | SUCCESSFUL | Cross-vertical synthesis complete; Phase 05 files pushed |
 | 2026-03-29 | Phase 01 Cycle 2 | SUCCESSFUL | commit 1970533 → origin/staging; Phase 05 synthesis integrated; Decision 3 added to lead magnet |
 | 2026-03-29 | Phase 02 Cycle 2 | SUCCESSFUL | commit 4657153 → origin/staging; Phase 05 synthesis integrated; nFADP hook strengthened; lead magnet portfolio aligned |
+| 2026-03-29 | Phase 03 Cycle 2 | SUCCESSFUL | commit 3128628 → origin/phase05-push; nFADP wake-up call as lead magnet entry point; compliance checklist added; Phase 05 synthesis integrated across all files |
 
 ## Rotation Summary (Cycle 1 Complete)
 All 5 phases completed. Rotation loops back to Phase 01 for Cycle 2.
