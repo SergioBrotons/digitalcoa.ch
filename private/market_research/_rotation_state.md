@@ -1,7 +1,7 @@
 # Phase Rotation State
 
-## Current Phase: 05 (Cross-vertical synthesis — Cycle 3)
-## Last Updated: 2026-03-29 (Phase 05 Cycle 3 complete → advance to Phase 06 Cycle 1)
+## Current Phase: 01 (Geneva legal — Cycle 4)
+## Last Updated: 2026-03-29 (Phase 06 Cycle 1 complete → loop back to Phase 01 Cycle 4)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 3] ✅
@@ -10,7 +10,7 @@
 4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 3] ✅
 5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 3] ✅
 6. Phase 06: Geneva real estate (small agencies, property managers) — NEXT
-→ Rotation continues: Phase 04 (Cycle 3) → Phase 05 (Cycle 3) → Phase 06 → Phase 01 (Cycle 4) → Phase 02 (Cycle 4) → Phase 03 (Cycle 4)
+→ Rotation continues: Phase 06 (Cycle 1) → Phase 01 (Cycle 4) → Phase 02 (Cycle 4) → Phase 03 (Cycle 4) → Phase 04 (Cycle 4) → Phase 05 (Cycle 4) → Phase 06 (Cycle 2)
 
 ## Phase 01 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle3
@@ -71,6 +71,24 @@
 - Skipped (quota): FDPIC May 2025 full document, SBA Guidelines full document, Swissmedic AI certification docs, FMH registry validation, Gemini competitive/pricing scans
 - Next Cycle Additions: Primary research (Geneva decision-maker interviews if approved), Phase 06 real estate integration, EU AI Act August 2026 compliance timeline detail
 
+## Phase 06 Status: COMPLETE [CYCLE 1 — DONE 2026-03-29]
+- Directory: 20260329_phase06_geneva_realestate_cycle1
+- Deliverables: ICP (small RE agencies/property managers, 1-10 employees, residential focus), market signals (67% AI adoption — HIGHEST of all 5 verticals; GAIGI Fall 2025; regulatory awareness gap), competitive landscape (no boutique RE AI governance competitor confirmed), regulatory context (nFADP DPIA for AI tenant screening/smart building; human accountability principle; FDPIC May 2025 explicit), lead magnet framework (5th lead magnet: "The Small Real Estate Agency AI Governance Question" — retroactive compliance approach), exec summary
+- Key Cycle 1 findings:
+  - 67% of Geneva RE SMEs integrated AI (Q1 2024) — highest AI adoption of all 5 verticals
+  - Many Geneva RE companies have limited knowledge of AI regulations despite high adoption
+  - AI valuations explicitly do NOT replace human expert accountability — certified experts remain legally responsible
+  - nFADP DPIA likely required for AI tenant screening, smart building systems, facial recognition access control
+  - GAIGI (Geneva AI Governance Institute) launching Fall 2025 — positions Geneva as global AI hub
+  - Geneva RE market: small SMB agencies co-exist with major luxury brands (FGP, BARNES, Moser Vernet, Comptoir Immobilier est. 1825)
+  - Named large agencies identified: FGP Swiss & Alps, BARNES Geneva, Moser Vernet & Cie (130+ years), Comptoir Immobilier (1825), John Taylor Geneva, Nessell, Naef Commercial Knight Frank
+  - No boutique RE AI governance competitor identified
+  - Addressable market: ~250-500 small Geneva RE agencies (validation needed)
+- Lead magnet: "The Small Real Estate Agency AI Governance Question" — framework defined; 3-question structure (What AI are you using? What data is being processed? Do you have nFADP obligations?); compliance checklist; retroactive compliance entry point (vs. adoption decision in other verticals)
+- GitHub push: ✅ SUCCESSFUL — commit 59f2a8d → origin/phase05-push
+- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva RE agency decision-maker interviews if approved), OFL registry enumeration (quota deferred), GAIGI primary document fetch (quota deferred)
+- Next Cycle Additions: Primary research (Geneva RE agency decision-maker interviews if approved), OFL/cantonal registry enumeration, named RE AI tool vendor scan, GAIGI Fall 2025 guidance content review, complete lead magnet 5 content drafting
+
 ## GitHub Push Log
 | Date | Phase | Status | Notes |
 |---|---|---|---|
@@ -87,9 +105,11 @@
 | 2026-03-29 | Phase 02 Cycle 3 | SUCCESSFUL | commit 45c902a → origin/phase05-push; Arbra Partners new entrant; FDPIC May 2025 integrated; competitive absence confirmed; lead magnet framework complete |
 | 2026-03-29 | Phase 03 Cycle 3 | SUCCESSFUL | 4 web searches completed (no 429); FDPIC May 8 2025 explicit confirmation; Swiss SME AI adoption data (34%, 57%); SMB CAGR 6.52%; CoE AI Convention March 2025; EU AI Act GPAI Aug 2025; named competitors confirmed; IT/tech sub-segment identified; breach notification clarified; Geneva pricing context added |
 | 2026-03-29 | Phase 04 Cycle 3 | SUCCESSFUL | commit afb42fb → origin/staging; swissdamed July 2026; Geneva AI for Good/Health Forum 2026; Vaud extension; named competitors: Lucendra/Congenius/st-consulting/AlpineAI/SwissCyberInstitute; CoE AI Convention implementation end-2026; Federal Council sector-specific confirmed |
-| 2026-03-29 | Phase 05 Cycle 3 | SUCCESSFUL | 20260329_phase05_synthesis_cycle3 created; 2 web searches (no 429); FDPIC May 2025 + EU AI Act + real estate 67% adoption integrated; 5-vertical competitive map; regulatory timeline updated; Phase 05 complete → Phase 06 next |
+| 2026-03-29 | Phase 05 Cycle 3 | SUCCESSFUL | 20260329_phase05_synthesis_cycle3 created; 2 web searches (no 429); FDPIC May 2025 + EU AI Act + real estate 67% adoption integrated; 5-vertical competitive map; regulatory timeline updated |
+| 2026-03-29 | Phase 06 Cycle 1 | SUCCESSFUL | commit 59f2a8d → origin/phase05-push; Geneva RE — 67% AI adoption (highest vertical), nFADP DPIA framework, GAIGI Fall 2025, human accountability principle, lead magnet 5 framework complete |
 
 ## Rotation Summary
-- Cycle 3 in progress: Phase 01 DONE ✅; Phase 02 DONE ✅; Phase 03 DONE ✅; Phase 04 DONE ✅; Phase 05 DONE ✅
-- Next: Phase 06 (Geneva Real Estate) → Loop back to Phase 01 (Cycle 4)
-- Phase 06: Create directory, execute research (RE agencies ICP, market signals, competitive landscape, regulatory context, lead magnet 5)
+- Cycle 3 complete: Phase 01 DONE ✅; Phase 02 DONE ✅; Phase 03 DONE ✅; Phase 04 DONE ✅; Phase 05 DONE ✅
+- Phase 06 Cycle 1 DONE ✅ — Five-vertical portfolio complete
+- Next: Phase 01 (Cycle 4) — loop back; fresh competitive/pricing scan (Gemini 429 risk — next session)
+- Phase 01 Cycle 4 focus: Primary research if approved, fresh competitive landscape scan, FDPIC/SBA full documents if quota available
