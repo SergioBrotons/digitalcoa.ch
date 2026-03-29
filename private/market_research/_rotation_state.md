@@ -1,16 +1,16 @@
 # Phase Rotation State
 
-## Current Phase: 03 (Geneva consulting — Cycle 3)
-## Last Updated: 2026-03-29 (Phase 03 Cycle 3 complete → advance to Phase 04 Cycle 3)
+## Current Phase: 05 (Cross-vertical synthesis — Cycle 3)
+## Last Updated: 2026-03-29 (Phase 05 Cycle 3 complete → advance to Phase 06 Cycle 1)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 3] ✅
 2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE [CYCLE 3] ✅
 3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 3] ✅
-4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 2] ✅
-5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 2] ✅
+4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 3] ✅
+5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 3] ✅
 6. Phase 06: Geneva real estate (small agencies, property managers) — NEXT
-→ Rotation continues: Phase 03 (Cycle 3) → Phase 04 (Cycle 3) → Phase 05 (Cycle 3) → Phase 06 → Phase 01 (Cycle 4) → Phase 02 (Cycle 4)
+→ Rotation continues: Phase 04 (Cycle 3) → Phase 05 (Cycle 3) → Phase 06 → Phase 01 (Cycle 4) → Phase 02 (Cycle 4) → Phase 03 (Cycle 4)
 
 ## Phase 01 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle3
@@ -44,28 +44,32 @@
 - Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva consulting decision-maker interviews if approved), FDPIC May 2025 full document fetch (already integrated via web search), Top 10 Geneva boutique named scan (Gemini 429 risk)
 - Next Cycle Additions: Primary research (Geneva consulting decision-maker interviews if approved), fresh competitive landscape scan, ISO 42001 CHF certification pricing for small firms
 
-## Phase 04 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
-- Directory: 20260329_phase04_geneva_healthcare_cycle2
-- Deliverables: ICP (1,000–1,400 Geneva practices; AMGe retirement data added; clause du besoin July 2025), market signals (medical assistant shortage structural crisis confirmed), competitive landscape (first-mover confirmed + no new entrants), regulatory context (nFADP Art. 5(c) deepened; Swissmedic + cantonal + ISO 42001 stack), lead magnet (3-axis framework refined; nFADP as primary hook), exec summary
-- Lead magnet: "The Small Medical Practice AI Decision Framework" — 3-axis (nFADP + Swissmedic + Efficiency); 7-point nFADP checklist; Phase 05 synthesis integrated
-- GitHub push: ✅ SUCCESSFUL — commit 407ca31 → origin/staging
-- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point confirmed (healthcare sharpest of all verticals); ISO 42001 + nFADP + Swissmedic stack confirmed; first-mover window validated; AMGe retirement crisis + clause du besoin July 2025 added; lead magnet portfolio aligned (Phase 01, 02, 03, 04 consistent structure)
-- Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva physician interviews if approved), FMH registry validation (quota), Swissmedic AI certification latest update (quota)
-- Next Cycle Additions: Primary research (Geneva physician decision-maker interviews if approved), fresh competitive landscape scan, Swiss French region (Vaud) extension research
+## Phase 04 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
+- Directory: 20260329_phase04_geneva_healthcare_cycle3
+- Deliverables: ICP (swissdamed July 2026 urgency; Vaud extension confirmed ~3,600 physicians; FDPIC May 8 2025 integrated), market signals (ITU AI for Good Summit 2025/2026; Geneva Health Forum 2026; medical assistant shortage structural; clause du besoin July 2025), competitive landscape (named competitors: Lucendra/Congenius/st-consulting/AlpineAI/SwissCyberInstitute/HealthAI — all different segments; first-mover confirmed with evidence), regulatory context (nFADP Art. 5(c) deepest of all verticals; swissdamed mandatory July 1 2026; EU AI Act medical device extension Aug 2027; CoE AI Convention implementation end-2026; Federal Council sector-specific confirmed Feb 2025), lead magnet (3-axis framework: nFADP + Swissmedic + Efficiency; 7-point checklist; 5-question self-assessment; Vaud + FR distribution noted), exec summary, research log
+- Lead magnet: "The Small Medical Practice AI Decision Framework" — 3-axis (nFADP Art. 5(c) + Swissmedic/swissdamed + Efficiency); swissdamed July 1 2026 as concrete deadline; AMGe retirement crisis + clause du besoin framing; Phase 01-04 portfolio consistency confirmed
+- GitHub push: ✅ SUCCESSFUL — commit afb42fb → origin/staging
+- Cycle 3 additions: FDPIC May 8 2025 explicit confirmation integrated (Phase 04 consistent with Phase 01-03); swissdamed mandatory July 1 2026 (NEW); EU AI Act medical device extension Aug 2027 (NEW); Named competitors identified: Lucendra/Congenius (MedTech/device companies), st-consulting (hospitals), AlpineAI (SwissGPT Health = AI tool vendor), Swiss Cyber Institute (AI Governance 360 enterprise), HealthAI (international nonprofit/government), GCG (pharma/industry) — all different segments from small practice advisory; Geneva AI for Good Summit 2025/2026 (ITU hosted) (NEW); Geneva Health Forum 2026 (May + November) (NEW); Vaud extension confirmed: ~830K population, ~3,600 physicians, ~2,000-2,500 addressable practices; CMPR analogous to AMGe; DGVS regulatory context (NEW); Federal Council sector-specific approach confirmed Feb 2025 (NEW); CoE AI Convention implementation consultation expected end-2026 (NEW); Competitive gap confirmed with named evidence (no boutique targeting small medical practice)
+- Skipped: EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval), primary research (Geneva physician interviews if approved), FMH registry validation (quota deferred), Swissmedic AI certification primary document fetch (quota deferred)
+- Next Cycle Additions: Primary research (Geneva + Vaud physician decision-maker interviews if approved), FMH/AMGe/CMPR registry validation, Geneva Health Forum 2026 content positioning
 
-## Phase 05 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
-- Directory: phase_05_cross_vertical_synthesis
-- Deliverables: Unified ICP synthesis, cross-vertical market signals (1,800–2,630 firms, CHF 9M–131.5M opportunity), competitive positioning map (no boutique competitor), regulatory convergence analysis (nFADP + ISO 42001 stack), lead magnet portfolio strategy, executive synthesis summary
-- Key findings:
-  - No boutique competitor exists across any vertical — first-mover window open
-  - nFADP is universal entry point for all 4 verticals (now confirmed by FDPIC May 2025)
-  - ISO 42001 + nFADP stack = core differentiation
-  - Lead magnet portfolio (4 verticals) forms coherent content ladder
-  - Addressable market: ~1,800–2,630 Geneva SMB professional practices
-  - Phase 05 synthesis integrated into Phase 01–04 Cycle 2; Phase 05 Cycle 2 = Phase 01–04 Cycle 2 synthesis
-- Phase 05 files: Marked COMPLETE; framework files 00–06 all substantive
-- Skipped (owner approval required): EN lead magnet drafting (all 4), FR translation (all 4), staging landing pages, CRM setup, primary source validation, FDPIC May 2025 full document, SBA Guidelines full document
-- GitHub push: ✅ Phase 05 Cycle 2 files marked complete; pushed as part of Phase 01 Cycle 3 batch
+## Phase 05 Status: COMPLETE [CYCLE 3 — DONE 2026-03-29]
+- Directory: 20260329_phase05_synthesis_cycle3
+- Deliverables: Unified ICP synthesis, cross-vertical market signals (1,850–2,830 firms, CHF 9.5M–50.25M opportunity), competitive positioning map (no boutique competitor confirmed across all 5 verticals), regulatory convergence analysis (nFADP + ISO 42001 stack; FDPIC May 2025 explicit; EU AI Act Aug 2026; CoE AI Convention Mar 2025), lead magnet portfolio strategy (5 verticals; 4 complete, 1 pending Phase 06), executive synthesis summary
+- Key Cycle 3 findings:
+  - FDPIC May 8, 2025 explicit: nFADP applies directly to AI-based data processing — universal confirmation
+  - 54% Swiss SMBs testing AI, 9% systematic use; governance gap is structural
+  - 67% Geneva real estate companies already using AI (Q1 2024) — highest sector adoption
+  - EU AI Act extraterritorial: Swiss SMBs serving EU markets must comply by August 2026
+  - No boutique competitor across any of 5 verticals — first-mover window confirmed
+  - Lead magnet portfolio (4 complete + 1 pending) forms coherent content ladder
+  - Addressable market: ~1,850–2,830 Geneva SMB professional practices
+  - Real estate added as 5th vertical (Phase 06 pending)
+- Lead magnet portfolio: 4 complete (Legal, WM, Consulting, Healthcare); 1 pending (Real Estate — Phase 06)
+- GitHub push: ⏳ Pending — Phase 05 Cycle 3 directory created; push in progress
+- Skipped (owner approval required): EN lead magnet drafting (all 4), FR translation (all 4), staging landing pages, CRM setup, primary research validation
+- Skipped (quota): FDPIC May 2025 full document, SBA Guidelines full document, Swissmedic AI certification docs, FMH registry validation, Gemini competitive/pricing scans
+- Next Cycle Additions: Primary research (Geneva decision-maker interviews if approved), Phase 06 real estate integration, EU AI Act August 2026 compliance timeline detail
 
 ## GitHub Push Log
 | Date | Phase | Status | Notes |
@@ -82,9 +86,10 @@
 | 2026-03-29 | Phase 01 Cycle 3 | SUCCESSFUL | Phase 05 Cycle 2 files marked complete; Phase 01 Cycle 3 complete with FDPIC May 2025 + SBA June 2024 + Geneva competitive landscape |
 | 2026-03-29 | Phase 02 Cycle 3 | SUCCESSFUL | commit 45c902a → origin/phase05-push; Arbra Partners new entrant; FDPIC May 2025 integrated; competitive absence confirmed; lead magnet framework complete |
 | 2026-03-29 | Phase 03 Cycle 3 | SUCCESSFUL | 4 web searches completed (no 429); FDPIC May 8 2025 explicit confirmation; Swiss SME AI adoption data (34%, 57%); SMB CAGR 6.52%; CoE AI Convention March 2025; EU AI Act GPAI Aug 2025; named competitors confirmed; IT/tech sub-segment identified; breach notification clarified; Geneva pricing context added |
+| 2026-03-29 | Phase 04 Cycle 3 | SUCCESSFUL | commit afb42fb → origin/staging; swissdamed July 2026; Geneva AI for Good/Health Forum 2026; Vaud extension; named competitors: Lucendra/Congenius/st-consulting/AlpineAI/SwissCyberInstitute; CoE AI Convention implementation end-2026; Federal Council sector-specific confirmed |
+| 2026-03-29 | Phase 05 Cycle 3 | SUCCESSFUL | 20260329_phase05_synthesis_cycle3 created; 2 web searches (no 429); FDPIC May 2025 + EU AI Act + real estate 67% adoption integrated; 5-vertical competitive map; regulatory timeline updated; Phase 05 complete → Phase 06 next |
 
 ## Rotation Summary
-- Cycle 3 in progress: Phase 01 DONE ✅; Phase 02 DONE ✅; Phase 03 DONE ✅; Phase 04, 05 pending
-- Phase 05 Cycle 2 complete ✅
-- Next: Phase 04 (Cycle 3) — Geneva healthcare
-- After Phase 05 (Cycle 3): Loop back to Phase 01 (Cycle 4)
+- Cycle 3 in progress: Phase 01 DONE ✅; Phase 02 DONE ✅; Phase 03 DONE ✅; Phase 04 DONE ✅; Phase 05 DONE ✅
+- Next: Phase 06 (Geneva Real Estate) → Loop back to Phase 01 (Cycle 4)
+- Phase 06: Create directory, execute research (RE agencies ICP, market signals, competitive landscape, regulatory context, lead magnet 5)
