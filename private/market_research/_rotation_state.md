@@ -1,15 +1,15 @@
 # Phase Rotation State
 
-## Current Phase: 02 (Geneva finance/SMB — Cycle 2)
-## Last Updated: 2026-03-29 (Phase 01 Cycle 2 complete; rotation → Phase 02 Cycle 2)
+## Current Phase: 03 (Geneva consulting/SMB — Cycle 2)
+## Last Updated: 2026-03-29 (Phase 02 Cycle 2 complete; rotation → Phase 03 Cycle 2)
 
 ## Phase Rotation Order
 1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 2] ✅
-2. Phase 02: Geneva finance/SMB (boutique wealth management) — IN PROGRESS [CYCLE 2]
-3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 1]
+2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE [CYCLE 2] ✅
+3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 1]; NEXT: Cycle 2
 4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 1]
 5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 1]
-→ Rotation continues: Phase 02 (Cycle 2) → Phase 03 (Cycle 2) → Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3)
+→ Rotation continues: Phase 03 (Cycle 2) → Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3) → Phase 02 (Cycle 3)
 
 ## Phase 01 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
 - Directory: 20260329_phase01_geneva_legal_cycle2
@@ -20,12 +20,14 @@
 - Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
 - Next Cycle Additions: Primary research (attorney interviews if approved), fresh competitive landscape scan, further ICP sharpening
 
-## Phase 02 Status: IN PROGRESS (Cycle 2 — 2026-03-29)
-- Directory: phase_02_geneva_finance_smb (Cycle 1); Cycle 2 directory TBD
-- Next: Fresh WM sector data, Phase 05 synthesis integration (nFADP + ISO 42001 framing), competitive window confirmation
-- Deliverables: ICP (11 boutique WM firms), market signals (FINMA 08/2024, AI adoption stats), competitive landscape (Domalys, QBIS, Salesforce), compliance context (FINMA Guidance 08/2024, nFADP), lead magnet concept
-- Key findings: FINMA Guidance 08/2024 primary AI reference; 50% Swiss FIs using AI; nFADP dual compliance burden
-- GitHub push: SUCCESSFUL
+## Phase 02 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
+- Directory: phase_02_geneva_finance_smb
+- Deliverables: ICP (11 boutique WM firms), market signals, competitive landscape (Domalys, QBIS, Salesforce FSC), compliance context (FINMA 08/2024 + nFADP), lead magnet concept, research log
+- Lead magnet: "The Boutique Wealth Manager's AI Readiness Checklist" — self-assessment with nFADP hook (vendor due diligence angle)
+- GitHub push: ✅ SUCCESSFUL — commit 4657153 → origin/staging
+- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point confirmed, ISO 42001 + nFADP stack as differentiation, first-mover window validated, lead magnet portfolio aligned with Phase 01
+- Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
+- Next Cycle Additions: Primary research validation (WM decision-maker interviews if approved), fresh competitive landscape scan, pricing research for Domalys/QBIS alternatives
 
 ## Phase 03 Status: COMPLETE
 - Deliverables: ICP, market signals, competitive landscape, regulatory context, lead magnet concept, executive summary
@@ -60,6 +62,7 @@
 | 2026-03-29 | Phase 04 | SUCCESSFUL | Rebased onto origin/staging; 4 remote commits integrated |
 | 2026-03-29 | Phase 05 | SUCCESSFUL | Cross-vertical synthesis complete; Phase 05 files pushed |
 | 2026-03-29 | Phase 01 Cycle 2 | SUCCESSFUL | commit 1970533 → origin/staging; Phase 05 synthesis integrated; Decision 3 added to lead magnet |
+| 2026-03-29 | Phase 02 Cycle 2 | SUCCESSFUL | commit 4657153 → origin/staging; Phase 05 synthesis integrated; nFADP hook strengthened; lead magnet portfolio aligned |
 
 ## Rotation Summary (Cycle 1 Complete)
 All 5 phases completed. Rotation loops back to Phase 01 for Cycle 2.
