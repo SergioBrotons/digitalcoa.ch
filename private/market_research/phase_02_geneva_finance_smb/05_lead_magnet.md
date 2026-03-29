@@ -164,6 +164,21 @@ Both differ:
 - [ ] Create LinkedIn post copy (EN + FR variants)
 - [ ] Set up tracking for downloads and CTA conversions
 
+## Cycle 2 Updates (2026-03-29)
+
+### Phase 05 Synthesis Integration
+- **Portfolio strategy confirmed:** Phase 05 validated a 4-vertical content ladder (Legal → WM → Consulting → Healthcare). WM (Phase 02) is the second tier — natural progression from legal entry point.
+- **Lead magnet integration point:** Phase 01 legal checklist ("The Small Law Firm AI Governance Question") and Phase 02 WM checklist ("The Boutique WM AI Readiness Checklist") share format (self-assessment scoring), voice, and CTA structure — creating a coherent portfolio
+- **nFADP hook strengthened:** Phase 05 confirmed nFADP is the universal entry point across all verticals; Phase 02 lead magnet should lead with: "Are your AI vendors putting your client data at risk under nFADP?" — specific and actionable
+- **CTA alignment:** Both Phase 01 and Phase 02 lead magnets should funnel toward the same briefing call or contact form — Phase 05 confirmed the single CTA pathway across the portfolio
+
+### Skipped
+- EN copywriting (owner approval required)
+- FR translation (owner approval required)
+- PDF design and layout (owner approval required)
+- Staging landing page (owner approval required)
+- CRM setup (owner approval required)
+
 ---
 
 ## Notes

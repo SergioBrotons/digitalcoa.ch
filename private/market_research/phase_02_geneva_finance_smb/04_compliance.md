@@ -155,7 +155,15 @@
 
 ---
 
+## Cycle 2 Updates (2026-03-29)
+
+### Phase 05 Synthesis Integration
+- **nFADP as universal entry point (Phase 05 confirmed):** All 4 verticals share nFADP as the primary regulatory hook — WM firms processing UHNW financial and personal data face the highest nFADP sensitivity category after healthcare. Entry conversation: "Has your firm reviewed its nFADP obligations for the AI tools you're already using?"
+- **ISO 42001 + nFADP stack confirmed as core differentiation:** Phase 05 identified this combined path as unclaimed territory; WM is the second vertical (after legal) where this stack creates a credible, differentiated advisory offer
+- **FINMA Guidance 08/2024 urgency confirmed:** 50% of Swiss FIs using AI, 91% using external generative AI — vendor due diligence is now a live FINMA expectation, not optional
+- **No proportionate framework exists:** Boutiques have no credible resource for understanding what "proportionate AI governance" means at their scale — this is the advisory gap
+
 ## Notes
 - Phase 02 initiated: 2026-03-28
-- Framework version: 02 (desk research validated)
-- Status: DESK RESEARCH COMPLETE
+- Framework version: 03 (Cycle 2 — Phase 05 synthesis integrated)
+- Status: CYCLE 2 COMPLETE — desk research + Phase 05 synthesis

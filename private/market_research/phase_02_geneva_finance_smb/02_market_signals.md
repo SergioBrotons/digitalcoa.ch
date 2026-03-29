@@ -120,7 +120,20 @@
 
 ---
 
+## Cycle 2 Updates (2026-03-29)
+
+### Phase 05 Synthesis Integration
+- **Addressable market context:** ~1,800–2,630 Geneva SMB professional practices across all 4 verticals; WM is one of 4 verticals within this total addressable market
+- **First-mover window:** No boutique competitor exists across any vertical for small-firm AI governance advisory — opportunity is confirmed and open
+- **Market opportunity sizing (Phase 05):** Conservative CHF 9M to optimistic CHF 131.5M across all verticals; WM-specific slice is meaningful portion of this
+- **Cross-vertical validation:** Phase 05 confirmed the same core pain points (nFADP compliance burden, AI governance uncertainty, no proportionate frameworks for small firms) resonate across all verticals
+
+### Skipped
+- Web research (Gemini 429 quota exhausted — 57s retry delay)
+- Fresh FINMA AI adoption statistics beyond FINMA Guidance 08/2024
+- Updated Geneva WM firm count via FINMA registry
+
 ## Notes
 - Phase 02 initiated: 2026-03-28
-- Framework version: 02 (desk research validated)
+- Framework version: 03 (Cycle 2 — Phase 05 synthesis integrated)
 - Status: DESK RESEARCH COMPLETE

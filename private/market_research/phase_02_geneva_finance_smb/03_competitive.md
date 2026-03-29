@@ -104,8 +104,17 @@ LOW ────┼────────────────────�
 - Bilingual EN+FR content addressing Swiss regulatory nuance
 - Small-firm-appropriate frameworks (not enterprise-scale solutions)
 - Practical lead-with-compliance framing that resonates with FINMA-aware decision-makers
+- **ISO 42001 + nFADP stack** — unclaimed at boutique scale; no competitor offering this combination to 2–20 person Geneva WM firms
 
 ---
+
+## Cycle 2 Updates (2026-03-29)
+
+### Phase 05 Synthesis Integration
+- **No boutique competitor confirmed:** Phase 05 cross-validated across all 4 verticals — no boutique advisory firm serves small Geneva professional practices on AI governance. Domalys/QBIS are operational tooling vendors, not governance advisors.
+- **Competitive gap confirmed:** The gap is the governance and compliance advisory layer — no one is serving this at boutique scale in Geneva
+- **Bilingual EN+FR positioning:** Most competitors operate English only; Swiss French credibility is additional differentiation
+- **First-mover window:** Open and confirmed across all verticals; Phase 05 validates the same pattern
 
 ## Research Gaps / To-Do
 
@@ -114,10 +123,9 @@ LOW ────┼────────────────────�
 - [ ] Review DigitalCoa.ch existing positioning vs. above competitors
 - [ ] Map typical vendor evaluation process for a boutique firm
 - [ ] Identify partnership opportunities (SaaS platforms, family office networks)
-
----
+- [ ] Fresh competitive landscape scan (Gemini 429 — skipped Cycle 2)
 
 ## Notes
 - Phase 02 initiated: 2026-03-28
-- Framework version: 01
-- Status: IN PROGRESS
+- Framework version: 02 (Cycle 2 — Phase 05 synthesis integrated)
+- Status: CYCLE 2 COMPLETE

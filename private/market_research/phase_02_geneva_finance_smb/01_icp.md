@@ -119,7 +119,30 @@ Boutique firms compete on personal relationships and discretion. They fear that 
 
 ---
 
+## Cycle 2 Updates (2026-03-29)
+*Integrating Phase 05 Cross-Vertical Synthesis findings*
+
+### Phase 05 Synthesis Additions
+- **Universal entry point confirmed:** nFADP is the primary hook for all 4 verticals including WM; FINMA Guidance 08/2024 creates urgency without requiring SMB-specific circular
+- **First-mover window validated:** No boutique competitor exists specifically serving 2–20 person Geneva WM firms on AI governance; Domalys/QBIS serve operational tooling, not governance advisory
+- **Market sizing:** Phase 05 synthesized ~1,800–2,630 Geneva SMB professional practices total across 4 verticals; WM represents 1 vertical within this
+- **ISO 42001 + nFADP stack:** Combined certification path (ISO 42001 for AI management, nFADP for data governance) forms the core differentiation narrative for WM decision-makers
+- **Lead magnet portfolio:** Phase 01 (legal) anchors the content ladder; Phase 02 (WM) as second tier supports the bilingual content strategy
+
+### Cycle 2 ICP Refinements
+- **Primary trigger:** FINMA Guidance 08/2024 creates new urgency — boutiques using external AI SaaS (91% of adopters) now face explicit vendor due diligence expectations; this is a clear and present pain point with no boutique solution
+- **nFADP as hook:** Wealth management firms processing sensitive UHNW/HNW financial data face the highest nFADP sensitivity after healthcare; consent management and data breach notification are live obligations
+- **Buying trigger sharpening:** Decision-maker now: Managing Director who is aware of FINMA scrutiny, actively worried about vendor accountability, and has no credible boutique advisor to turn to
+- **Cultural nuance reinforced:** WM founders fear that AI adoption could compromise the personal relationship brand they sell; framing must preserve the human-relationship narrative throughout
+
+### Skipped (Rate Limit — Gemini 429 quota exhausted)
+- Fresh WM sector data via web research
+- Geneva boutique firm count refresh
+- Competitive tool pricing research
+- Primary research (attorney analog interviews for WM decision-maker validation)
+
 ## Research Notes
 - Phase 02 initiated: 2026-03-28
-- Framework version: 02 (desk research validated)
-- Status: DESK RESEARCH COMPLETE
+- Framework version: 03 (Cycle 2 — Phase 05 synthesis integrated)
+- Status: DESK RESEARCH COMPLETE — Cycle 2 synthesis additions applied
+- Skipped: Web research (rate limit), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval)
