@@ -1,24 +1,28 @@
 # Phase Rotation State
 
-## Current Phase: 01 (Geneva legal — Cycle 2)
-## Last Updated: 2026-03-29
+## Current Phase: 02 (Geneva finance/SMB — Cycle 2)
+## Last Updated: 2026-03-29 (Phase 01 Cycle 2 complete; rotation → Phase 02 Cycle 2)
 
 ## Phase Rotation Order
-1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 2]
-2. Phase 02: Geneva finance/SMB (boutique wealth management) — COMPLETE [CYCLE 1]
+1. Phase 01: Geneva legal (small law firms, 2-5 attorneys) — COMPLETE [CYCLE 2] ✅
+2. Phase 02: Geneva finance/SMB (boutique wealth management) — IN PROGRESS [CYCLE 2]
 3. Phase 03: Geneva consulting (small firms) — COMPLETE [CYCLE 1]
 4. Phase 04: Geneva healthcare (practices) — COMPLETE [CYCLE 1]
 5. Phase 05: Cross-vertical synthesis — COMPLETE [CYCLE 1]
-→ Loop back to Phase 01
+→ Rotation continues: Phase 02 (Cycle 2) → Phase 03 (Cycle 2) → Phase 04 (Cycle 2) → Phase 05 (Cycle 2) → Phase 01 (Cycle 3)
 
-## Phase 01 Status: COMPLETE [CYCLE 2 — IN PROGRESS]
-- Directory: phase_01_geneva_legal
-- Deliverables: ICP language, market signals, competitive analysis, compliance context, lead magnet draft (bilingual EN+FR)
-- Lead magnet: "The Small Law Firm AI Governance Question" — decision framework
-- GitHub push: SUCCESSFUL
-- Next Cycle Additions: Fresh market data review, competitive landscape update, ICP language refinement based on Phase 05 synthesis
+## Phase 01 Status: COMPLETE [CYCLE 2 — DONE 2026-03-29]
+- Directory: 20260329_phase01_geneva_legal_cycle2
+- Deliverables: ICP language (Phase 05 refined), market signals (rate-limited; existing + Phase 05 validation), competitive analysis (first-mover confirmed), compliance context (ISO 42001 + nFADP + Art. 13 LLCA), lead magnet draft (Decision 3 added), findings summary, research log
+- Lead magnet: "The Small Law Firm AI Governance Question" — decision framework (Decision 3: client notification added)
+- GitHub push: ✅ SUCCESSFUL — commit 1970533 → origin/staging
+- Cycle 2 additions from Phase 05 synthesis: nFADP universal entry point, Decision 3 (client notification), first-mover window confirmed, lead magnet portfolio strategy (legal as anchor)
+- Skipped: Web research (Gemini 429 quota exhausted), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
+- Next Cycle Additions: Primary research (attorney interviews if approved), fresh competitive landscape scan, further ICP sharpening
 
-## Phase 02 Status: COMPLETE
+## Phase 02 Status: IN PROGRESS (Cycle 2 — 2026-03-29)
+- Directory: phase_02_geneva_finance_smb (Cycle 1); Cycle 2 directory TBD
+- Next: Fresh WM sector data, Phase 05 synthesis integration (nFADP + ISO 42001 framing), competitive window confirmation
 - Deliverables: ICP (11 boutique WM firms), market signals (FINMA 08/2024, AI adoption stats), competitive landscape (Domalys, QBIS, Salesforce), compliance context (FINMA Guidance 08/2024, nFADP), lead magnet concept
 - Key findings: FINMA Guidance 08/2024 primary AI reference; 50% Swiss FIs using AI; nFADP dual compliance burden
 - GitHub push: SUCCESSFUL
@@ -55,6 +59,7 @@
 | 2026-03-28 | Phase 03 | SUCCESSFUL | commit 9fb77c8 → origin/staging; Geneva consulting vertical complete |
 | 2026-03-29 | Phase 04 | SUCCESSFUL | Rebased onto origin/staging; 4 remote commits integrated |
 | 2026-03-29 | Phase 05 | SUCCESSFUL | Cross-vertical synthesis complete; Phase 05 files pushed |
+| 2026-03-29 | Phase 01 Cycle 2 | SUCCESSFUL | commit 1970533 → origin/staging; Phase 05 synthesis integrated; Decision 3 added to lead magnet |
 
 ## Rotation Summary (Cycle 1 Complete)
 All 5 phases completed. Rotation loops back to Phase 01 for Cycle 2.
