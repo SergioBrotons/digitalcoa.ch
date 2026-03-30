@@ -89,17 +89,35 @@
     "process": {
       "title": "Process",
       "steps": {
-        "diagnose": { "title": "Diagnose", "desc": "Map decision flows, friction points, information gaps" },
-        "design": { "title": "Design", "desc": "Simplify priorities, roles, escalation paths" },
-        "deploy": { "title": "Deploy", "desc": "Help teams adopt new way of working" }
+        "diagnose": {
+          "title": "Diagnose",
+          "desc": "Map decision flows, friction points, information gaps"
+        },
+        "design": {
+          "title": "Design",
+          "desc": "Simplify priorities, roles, escalation paths"
+        },
+        "deploy": {
+          "title": "Deploy",
+          "desc": "Help teams adopt new way of working"
+        }
       }
     },
     "valuePropsFull": {
       "title": "Why DigitalCoa.ch?",
       "items": {
-        "governance": { "title": "Governance-first", "desc": "I build boundaries before bots." },
-        "confidentiality": { "title": "Confidential", "desc": "High-stakes, Geneva-based advisory." },
-        "pragmatism": { "title": "Practical", "desc": "I deliver systems that scale without adding noise." }
+        "governance": {
+          "title": "Governance-first",
+          "desc": "I build boundaries before bots."
+        },
+        "confidentiality": {
+          "title": "Confidential",
+          "desc": "High-stakes, Geneva-based advisory."
+        },
+        "pragmatism": {
+          "title": "Practical",
+          "desc": "I deliver systems that scale without adding noise."
+        }
       }
     },
     "badges": {
@@ -163,21 +181,36 @@
         "subtitle": "For executives & boards",
         "description": "Analysis of decision flows, friction points, and AI readiness. The problem isn't the tools, it's the structure.",
         "duration": "2-5 days",
-        "deliverables": ["Decision map", "Friction analysis", "Governance recommendations", "Prioritized next steps"]
+        "deliverables": [
+          "Decision map",
+          "Friction analysis",
+          "Governance recommendations",
+          "Prioritized next steps"
+        ]
       },
       "architecture": {
         "title": "Decision & Governance Architecture",
         "subtitle": "For organizations & leadership teams",
         "description": "Strategic frameworks separating oversight from execution. Creating structure for scalable AI adoption.",
         "duration": "6-12 weeks",
-        "deliverables": ["Governance framework", "Decision protocols", "Escalation architecture", "Implementation roadmap"]
+        "deliverables": [
+          "Governance framework",
+          "Decision protocols",
+          "Escalation architecture",
+          "Implementation roadmap"
+        ]
       },
       "os": {
         "title": "Personal Decision Infrastructure",
         "subtitle": "For senior professionals & advisors",
         "description": "Design your personal cognitive operating system. Manage complexity with discipline and clarity.",
         "duration": "3-4 sessions",
-        "deliverables": ["Personalized decision system", "Weekly rituals", "Tool architecture", "Knowledge workflow"]
+        "deliverables": [
+          "Personalized decision system",
+          "Weekly rituals",
+          "Tool architecture",
+          "Knowledge workflow"
+        ]
       }
     },
     "deliverablesLabel": "What you receive:",
@@ -307,9 +340,15 @@
     },
     "Common": {
       "keywords": [
-        "AI Governance", "Executive AI Advisory", "Decision Architecture", 
-        "Strategic Clarity", "Bespoke AI Strategy", "Geneva Executive Advisor", 
-        "Corporate Governance AI", "Digital Transformation", "Sergio Brotons"
+        "AI Governance",
+        "Executive AI Advisory",
+        "Decision Architecture",
+        "Strategic Clarity",
+        "Bespoke AI Strategy",
+        "Geneva Executive Advisor",
+        "Corporate Governance AI",
+        "Digital Transformation",
+        "Sergio Brotons"
       ],
       "schema": {
         "orgDesc": "Executive decision architecture and AI governance for boards and leadership teams.",
@@ -317,6 +356,148 @@
         "jobTitle": "Executive AI Advisor",
         "personDesc": "Sergio Brotons helps executives design clearer decision systems and AI governance."
       }
+    }
+  },
+  "HomeB": {
+    "meta": {
+      "title": "Test Homepage B | DigitalCoa.ch",
+      "description": "AI governance and decision architecture for Geneva executives. Research-backed approach grounded in Swiss regulatory reality."
+    },
+    "hero": {
+      "badge": "12 weeks: Swissdamed July 1, 2026",
+      "title": "Your AI governance is not ready for July 1.",
+      "subtitle": "And the window to fix it is closing.",
+      "description": "Swissdamed, AMLA, LETA, EU AI Act. Four regulatory deadlines converging on Geneva firms in 2026. Most organizations are not prepared. I help leaders build the structures that keep decisions clear when compliance pressure peaks.",
+      "cta": "Book a diagnostic conversation",
+      "cta2": "See who this is for"
+    },
+    "badges": {
+      "geneva": "Geneva-based",
+      "governance": "Governance-first",
+      "confidential": "Confidential",
+      "human": "Human-led"
+    },
+    "regulatory": {
+      "title": "The Geneva regulatory cluster: 2026",
+      "note": "These deadlines are not isolated. They overlap, reinforce, and create compliance pressure across every Geneva firm that uses AI in any form. The organizations that act first will define the standard.",
+      "items": {
+        "swissdamed": {
+          "deadline": "July 1, 2026",
+          "title": "Swissdamed: Healthcare",
+          "desc": "Federal Act on the Exchange of Medical Data. Mandatory AI-assisted data processing registration. No grace period confirmed."
+        },
+        "aml": {
+          "deadline": "Mid-2026",
+          "title": "AMLA: Finance",
+          "desc": "Anti-Money Laundering Act revision. AI-assisted transaction monitoring brings new compliance obligations for wealth management and banking-adjacent firms."
+        },
+        "leta": {
+          "deadline": "H2 2026",
+          "title": "LETA: Finance",
+          "desc": "Legal Entity Identifier Act. Corporate transparency requirements with AI governance implications for entity structures and decision accountability."
+        },
+        "gpai": {
+          "deadline": "Active since Aug 2025",
+          "title": "EU AI Act GPAI",
+          "desc": "General Purpose AI transparency obligations already operative. Firms with EU clients or operations subject now: penalties up to EUR 35M."
+        }
+      }
+    },
+    "problemStatement": {
+      "title": "The pattern I see repeatedly...",
+      "items": [
+        "Adopting AI faster than governance can follow: creating ungoverned risk",
+        "EU AI Act GPAI obligations already active, but no internal compliance structure exists",
+        "Regulatory deadlines converging: Swissdamed, AMLA, LETA, EU AI Act: but no consolidated view",
+        "External advisors are generic or enterprise-focused: nothing calibrated for Geneva's professional context"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Built for Geneva decision-makers",
+      "items": {
+        "executives": {
+          "label": "Swiss SME Leaders",
+          "problem": "Four regulatory deadlines converging before year-end. No consolidated view of what applies.",
+          "solution": "Decision architecture that preserves authority and clarity under compliance pressure.",
+          "cta": "Explore executive support"
+        },
+        "boards": {
+          "label": "Boards & Governance",
+          "problem": "Oversight responsibilities intensifying. AI decisions happening without governance structures.",
+          "solution": "Frameworks separating oversight from execution before regulators ask the questions.",
+          "cta": "Discover the approach"
+        },
+        "teams": {
+          "label": "Senior Professionals",
+          "problem": "Personal liability exposure growing as AI use becomes routine. No personal structure.",
+          "solution": "Cognitive architecture that makes judgment clearer and more defensible.",
+          "cta": "View formats"
+        },
+        "professionals": {
+          "label": "Independent Advisors",
+          "problem": "Client AI governance needs emerging. No framework to respond credibly.",
+          "solution": "Advisory infrastructure built on governance logic, not generic consulting templates.",
+          "cta": "Build your OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Engagement formats",
+      "items": {
+        "diagnostic": {
+          "title": "Executive Decision Diagnostic",
+          "duration": "2-5 days",
+          "desc": "Map your regulatory exposure and decision friction. Identify what needs to be in place before July 1, 2026."
+        },
+        "architecture": {
+          "title": "Decision & Governance Architecture",
+          "duration": "6-12 weeks",
+          "desc": "Design and deploy the governance structures that keep decisions clear as compliance obligations intensify."
+        },
+        "os": {
+          "title": "Personal Decision Infrastructure",
+          "duration": "3-4 sessions",
+          "desc": "Build your personal cognitive OS: calibrated for Geneva professional context and regulatory reality."
+        }
+      }
+    },
+    "process": {
+      "title": "How I work",
+      "steps": {
+        "diagnose": {
+          "title": "Diagnose",
+          "desc": "Map decision flows, regulatory exposure, and AI governance gaps across your organization"
+        },
+        "design": {
+          "title": "Design",
+          "desc": "Structure governance, escalation protocols, and AI decision frameworks built for your context"
+        },
+        "deploy": {
+          "title": "Deploy",
+          "desc": "Integrate structures that hold under real regulatory pressure, not just in theory"
+        }
+      }
+    },
+    "valueProps": {
+      "title": "Why work with me",
+      "items": {
+        "governance": {
+          "title": "Geneva-specific",
+          "desc": "Structures grounded in Swiss regulatory reality: not imported frameworks."
+        },
+        "confidentiality": {
+          "title": "Confidential",
+          "desc": "High-stakes advisory in Geneva. What stays here, stays here."
+        },
+        "pragmatism": {
+          "title": "Actionable",
+          "desc": "Governance that works under real pressure: not compliance theater."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Twelve weeks is enough. If you start now.",
+      "cta": "Book a diagnostic conversation"
     }
   }
 }

@@ -89,17 +89,35 @@
     "process": {
       "title": "Processus",
       "steps": {
-        "diagnose": { "title": "Diagnostiquer", "desc": "Cartographier les flux de décision, points de friction, lacunes d'information" },
-        "design": { "title": "Concevoir", "desc": "Simplifier les priorités, les rôles, les chemins d'escalade" },
-        "deploy": { "title": "Déployer", "desc": "Aider les équipes à adopter une nouvelle méthode de travail" }
+        "diagnose": {
+          "title": "Diagnostiquer",
+          "desc": "Cartographier les flux de décision, points de friction, lacunes d'information"
+        },
+        "design": {
+          "title": "Concevoir",
+          "desc": "Simplifier les priorités, les rôles, les chemins d'escalade"
+        },
+        "deploy": {
+          "title": "Déployer",
+          "desc": "Aider les équipes à adopter une nouvelle méthode de travail"
+        }
       }
     },
     "valuePropsFull": {
       "title": "Pourquoi DigitalCoa.ch ?",
       "items": {
-        "governance": { "title": "Gouvernance d'abord", "desc": "Je fixe les limites avant les bots." },
-        "confidentiality": { "title": "Confidentiel", "desc": "Conseil de haut niveau, basé à Genève." },
-        "pragmatism": { "title": "Pratique", "desc": "Je conçois des systèmes qui évoluent sans ajouter de bruit." }
+        "governance": {
+          "title": "Gouvernance d'abord",
+          "desc": "Je fixe les limites avant les bots."
+        },
+        "confidentiality": {
+          "title": "Confidentiel",
+          "desc": "Conseil de haut niveau, basé à Genève."
+        },
+        "pragmatism": {
+          "title": "Pratique",
+          "desc": "Je conçois des systèmes qui évoluent sans ajouter de bruit."
+        }
       }
     },
     "badges": {
@@ -163,21 +181,36 @@
         "subtitle": "Pour dirigeants & conseils d'administration",
         "description": "Analyse des flux de décision, des points de friction et de l'état de préparation à l'IA. Le problème n'est pas l'outil, c'est la structure.",
         "duration": "2-5 jours",
-        "deliverables": ["Carte des décisions", "Analyse des frictions", "Recommandations de gouvernance", "Prochaines étapes prioritaires"]
+        "deliverables": [
+          "Carte des décisions",
+          "Analyse des frictions",
+          "Recommandations de gouvernance",
+          "Prochaines étapes prioritaires"
+        ]
       },
       "architecture": {
         "title": "Architecture de Gouvernance & Décision",
         "subtitle": "Pour organisations & équipes de direction",
         "description": "Cadres stratégiques séparant la supervision de l'exécution. Création d'une structure pour une adoption de l'IA à grande échelle.",
         "duration": "6-12 semaines",
-        "deliverables": ["Cadre de gouvernance", "Protocoles de décision", "Architecture d'escalade", "Feuille de route d'implémentation"]
+        "deliverables": [
+          "Cadre de gouvernance",
+          "Protocoles de décision",
+          "Architecture d'escalade",
+          "Feuille de route d'implémentation"
+        ]
       },
       "os": {
         "title": "Infrastructure Décisionnelle Personnelle",
         "subtitle": "Pour experts & conseillers indépendants",
         "description": "Concevez votre système d'exploitation cognitif personnel. Gérez la complexité avec discipline et clarté.",
         "duration": "3-4 sessions",
-        "deliverables": ["Système décisionnel personnalisé", "Rituels hebdomadaires", "Architecture des outils", "Workflow de connaissances"]
+        "deliverables": [
+          "Système décisionnel personnalisé",
+          "Rituels hebdomadaires",
+          "Architecture des outils",
+          "Workflow de connaissances"
+        ]
       }
     },
     "deliverablesLabel": "Ce que vous recevez :",
@@ -307,9 +340,15 @@
     },
     "Common": {
       "keywords": [
-        "Gouvernance IA", "Conseil IA Exécutif", "Architecture décisionnelle", 
-        "Clarté stratégique", "Stratégie IA sur mesure", "Conseiller exécutif Genève", 
-        "Gouvernance d'entreprise IA", "Transformation numérique", "Sergio Brotons"
+        "Gouvernance IA",
+        "Conseil IA Exécutif",
+        "Architecture décisionnelle",
+        "Clarté stratégique",
+        "Stratégie IA sur mesure",
+        "Conseiller exécutif Genève",
+        "Gouvernance d'entreprise IA",
+        "Transformation numérique",
+        "Sergio Brotons"
       ],
       "schema": {
         "orgDesc": "Architecture de décision exécutive et gouvernance de l'IA pour les conseils d'administration et les équipes de direction.",
@@ -317,6 +356,148 @@
         "jobTitle": "Conseiller IA Exécutif",
         "personDesc": "Sergio Brotons aide les dirigeants à concevoir des systèmes de décision plus clairs et une gouvernance de l'IA."
       }
+    }
+  },
+  "HomeB": {
+    "meta": {
+      "title": "Page de test B | DigitalCoa.ch",
+      "description": "Gouvernance IA et architecture décisionnelle pour executives genevois. Approche fondée sur la recherche, alignée sur la réalité réglementaire suisse."
+    },
+    "hero": {
+      "badge": "12 semaines : Swissdamed 1er juillet 2026",
+      "title": "Votre gouvernance IA n'est pas prête pour le 1er juillet.",
+      "subtitle": "Et la fenêtre pour corriger se referme.",
+      "description": "Swissdamed, AMLA, LETA, EU AI Act. Quatre échéances réglementaires convergeant sur les entreprises genevoises en 2026. La plupart ne sont pas préparées. J'aide les dirigeants à construire les structures qui préservent la clarté décisionnelle quand la pression monte.",
+      "cta": "Réserver un échange de diagnostic",
+      "cta2": "Voir pour qui"
+    },
+    "badges": {
+      "geneva": "Basé à Genève",
+      "governance": "Gouvernance d'abord",
+      "confidential": "Confidentiel",
+      "human": "Dirigé par un humain"
+    },
+    "regulatory": {
+      "title": "La grappe réglementaire genevoise : 2026",
+      "note": "Ces échéances ne sont pas isolées. Elles se superposent, se renforcent et créent une pression sur chaque entreprise genevoise qui utilise l'IA sous quelque forme que ce soit. Les premières organisations à agir définiront le standard.",
+      "items": {
+        "swissdamed": {
+          "deadline": "1er juillet 2026",
+          "title": "Swissdamed : Santé",
+          "desc": "Loi fédérale sur l'échange de données médicales. Inscription obligatoire du traitement de données assisté par IA. Aucun délai de grâce confirmé."
+        },
+        "aml": {
+          "deadline": "Mi-2026",
+          "title": "AMLA : Finance",
+          "desc": "Révision de la loi sur la lutte contre le blanchiment d'argent. La surveillance des transactions assistée par IA apporte de nouvelles obligations de conformité pour la gestion de fortune et les entreprises proches du secteur bancaire."
+        },
+        "leta": {
+          "deadline": "2e semestre 2026",
+          "title": "LETA : Finance",
+          "desc": "Loi sur l'identifiant d'entité juridique. Exigences de transparence des sociétés avec implications de gouvernance IA pour les structures d'entité et la responsabilité décisionnelle."
+        },
+        "gpai": {
+          "deadline": "En vigueur depuis août 2025",
+          "title": "EU AI Act GPAI",
+          "desc": "Obligations de transparence IA à usage général déjà en vigueur. Les entreprises avec clients ou opérations dans l'UE sont déjà soumises : amendes jusqu'à 35 millions d'EUR."
+        }
+      }
+    },
+    "problemStatement": {
+      "title": "Le schéma que je vois régulièrement...",
+      "items": [
+        "Adoption de l'IA plus rapide que la gouvernance ne peut suivre : créant un risque non maîtrisé",
+        "Obligations EU AI Act GPAI déjà actives, mais aucune structure de conformité interne n'existe",
+        "Échéances réglementaires convergentes : Swissdamed, AMLA, LETA, EU AI Act : mais aucune vue consolidée",
+        "Les conseillers externes sont génériques ou orientés grandes entreprises : rien de calibré pour le contexte genevois"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Conçu pour les décideurs genevois",
+      "items": {
+        "executives": {
+          "label": "Dirigeants PME suisses",
+          "problem": "Quatre échéances réglementaires convergentes avant la fin de l'année. Aucune vue consolidée de ce qui s'applique.",
+          "solution": "Architecture décisionnelle qui préserve l'autorité et la clarté sous pression de conformité.",
+          "cta": "Explorer le soutien exécutif"
+        },
+        "boards": {
+          "label": "Conseils et gouvernance",
+          "problem": "Responsabilités de surveillance intensifiées. Décisions IA prises sans structures de gouvernance.",
+          "solution": "Cadres séparant la surveillance de l'exécution avant que les régulateurs ne posent les questions.",
+          "cta": "Découvrir l'approche"
+        },
+        "teams": {
+          "label": "Professionnels seniors",
+          "problem": "Exposition à la responsabilité personnelle grandissant à mesure que l'utilisation de l'IA devient routine. Aucune structure personnelle.",
+          "solution": "Architecture cognitive qui rend le jugement plus clair et plus défendable.",
+          "cta": "Voir les formats"
+        },
+        "professionals": {
+          "label": "Conseillers indépendants",
+          "problem": "Besoins de gouvernance IA des clients émergents. Aucun cadre pour répondre de manière crédible.",
+          "solution": "Infrastructure-conseil fondée sur la logique de gouvernance, pas des modèles de conseil génériques.",
+          "cta": "Construire votre OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Formats d'engagement",
+      "items": {
+        "diagnostic": {
+          "title": "Diagnostic décisionnel exécutif",
+          "duration": "2-5 jours",
+          "desc": "Cartographier votre exposition réglementaire et vos frictions décisionnelles. Identifier ce qui doit être en place avant le 1er juillet 2026."
+        },
+        "architecture": {
+          "title": "Architecture décisionnelle et de gouvernance",
+          "duration": "6-12 semaines",
+          "desc": "Concevoir et déployer les structures de gouvernance qui maintiennent la clarté décisionnelle à mesure que les obligations de conformité s'intensifient."
+        },
+        "os": {
+          "title": "Infrastructure décisionnelle personnelle",
+          "duration": "3-4 séances",
+          "desc": "Construire votre système cognitif personnel : calibré pour le contexte professionnel genevois et la réalité réglementaire."
+        }
+      }
+    },
+    "process": {
+      "title": "Comment je travaille",
+      "steps": {
+        "diagnose": {
+          "title": "Diagnostiquer",
+          "desc": "Cartographier les flux décisionnels, l'exposition réglementaire et les lacunes de gouvernance IA dans votre organisation"
+        },
+        "design": {
+          "title": "Concevoir",
+          "desc": "Structurer la gouvernance, les protocoles d'escalade et les cadres décisionnels IA construits pour votre contexte"
+        },
+        "deploy": {
+          "title": "Déployer",
+          "desc": "Intégrer les structures qui tiennent sous la pression réglementaire réelle, pas seulement en théorie"
+        }
+      }
+    },
+    "valueProps": {
+      "title": "Pourquoi travailler avec moi",
+      "items": {
+        "governance": {
+          "title": "Spécifique à Genève",
+          "desc": "Structures ancrées dans la réalité réglementaire suisse : pas des cadres importés."
+        },
+        "confidentiality": {
+          "title": "Confidentiel",
+          "desc": "Conseil de haut niveau à Genève. Ce qui reste ici, reste ici."
+        },
+        "pragmatism": {
+          "title": "Opérationnel",
+          "desc": "Gouvernance qui fonctionne sous pression réelle : pas un théâtre de conformité."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Douze semaines, c'est suffisant. Si vous commencez maintenant.",
+      "cta": "Réserver un échange de diagnostic"
     }
   }
 }
