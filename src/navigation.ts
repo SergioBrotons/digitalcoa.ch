@@ -33,6 +33,34 @@ export const routing = defineRouting({
       en: '/insights/[slug]',
       fr: '/analyses/[slug]'
     },
+    '/ai-governance/[vertical]': {
+      en: '/ai-governance/[vertical]',
+      fr: '/gouvernance-ia/[vertical]'
+    },
+    '/ai-governance/medical-practices': {
+      en: '/ai-governance/medical-practices',
+      fr: '/gouvernance-ia/cabinets-medicaux'
+    },
+    '/ai-governance/small-law-firms': {
+      en: '/ai-governance/small-law-firms',
+      fr: '/gouvernance-ia/petits-cabinets-avocats'
+    },
+    '/ai-governance/boutique-wealth-managers': {
+      en: '/ai-governance/boutique-wealth-managers',
+      fr: '/gouvernance-ia/gestionnaires-patrimoine-boutique'
+    },
+    '/ai-governance/real-estate-agencies': {
+      en: '/ai-governance/real-estate-agencies',
+      fr: '/gouvernance-ia/agences-immobilieres'
+    },
+    '/ai-governance/small-consulting-firms': {
+      en: '/ai-governance/small-consulting-firms',
+      fr: '/gouvernance-ia/petits-cabinets-conseil'
+    },
+    '/ai-governance/professional-services': {
+      en: '/ai-governance/professional-services',
+      fr: '/gouvernance-ia/services-professionnels'
+    },
     '/legal': {
       en: '/legal',
       fr: '/mentions-legales'
