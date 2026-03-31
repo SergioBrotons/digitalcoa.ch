@@ -89,17 +89,35 @@
     "process": {
       "title": "Process",
       "steps": {
-        "diagnose": { "title": "Diagnose", "desc": "Map decision flows, friction points, information gaps" },
-        "design": { "title": "Design", "desc": "Simplify priorities, roles, escalation paths" },
-        "deploy": { "title": "Deploy", "desc": "Help teams adopt new way of working" }
+        "diagnose": {
+          "title": "Diagnose",
+          "desc": "Map decision flows, friction points, information gaps"
+        },
+        "design": {
+          "title": "Design",
+          "desc": "Simplify priorities, roles, escalation paths"
+        },
+        "deploy": {
+          "title": "Deploy",
+          "desc": "Help teams adopt new way of working"
+        }
       }
     },
     "valuePropsFull": {
       "title": "Why DigitalCoa.ch?",
       "items": {
-        "governance": { "title": "Governance-first", "desc": "I build boundaries before bots." },
-        "confidentiality": { "title": "Confidential", "desc": "High-stakes, Geneva-based advisory." },
-        "pragmatism": { "title": "Practical", "desc": "I deliver systems that scale without adding noise." }
+        "governance": {
+          "title": "Governance-first",
+          "desc": "I build boundaries before bots."
+        },
+        "confidentiality": {
+          "title": "Confidential",
+          "desc": "High-stakes, Geneva-based advisory."
+        },
+        "pragmatism": {
+          "title": "Practical",
+          "desc": "I deliver systems that scale without adding noise."
+        }
       }
     },
     "badges": {
@@ -163,21 +181,36 @@
         "subtitle": "For executives & boards",
         "description": "Analysis of decision flows, friction points, and AI readiness. The problem isn't the tools, it's the structure.",
         "duration": "2-5 days",
-        "deliverables": ["Decision map", "Friction analysis", "Governance recommendations", "Prioritized next steps"]
+        "deliverables": [
+          "Decision map",
+          "Friction analysis",
+          "Governance recommendations",
+          "Prioritized next steps"
+        ]
       },
       "architecture": {
         "title": "Decision & Governance Architecture",
         "subtitle": "For organizations & leadership teams",
         "description": "Strategic frameworks separating oversight from execution. Creating structure for scalable AI adoption.",
         "duration": "6-12 weeks",
-        "deliverables": ["Governance framework", "Decision protocols", "Escalation architecture", "Implementation roadmap"]
+        "deliverables": [
+          "Governance framework",
+          "Decision protocols",
+          "Escalation architecture",
+          "Implementation roadmap"
+        ]
       },
       "os": {
         "title": "Personal Decision Infrastructure",
         "subtitle": "For senior professionals & advisors",
         "description": "Design your personal cognitive operating system. Manage complexity with discipline and clarity.",
         "duration": "3-4 sessions",
-        "deliverables": ["Personalized decision system", "Weekly rituals", "Tool architecture", "Knowledge workflow"]
+        "deliverables": [
+          "Personalized decision system",
+          "Weekly rituals",
+          "Tool architecture",
+          "Knowledge workflow"
+        ]
       }
     },
     "deliverablesLabel": "What you receive:",
@@ -277,6 +310,90 @@
           "Metric-first reporting: Let the data speak before the narrative.",
           "Renewal and sunset: Regular reviews of existing policies."
         ]
+      },
+      "swissdamed-13-weeks-medical-practices": {
+        "title": "Swissdamed in 13 Weeks: What Small Medical Practices Actually Need to Do",
+        "date": "March 31, 2026",
+        "excerpt": "Swissmedic confirmed no grace period for high-risk AI medical devices. Small medical practices face Swissdamed + nFADP obligations with a hard July 1, 2026 deadline.",
+        "content": "Thirteen weeks is not a lot of time. It's enough — but only if you stop treating Swissdamed as something to think about later. Swissmedic has confirmed there is no grace period for high-risk medical devices with serious incident reporting obligations. The July 1, 2026 date is not a target. It's a line. If your practice uses AI-assisted diagnostic imaging, AI-based symptom triage, or any AI tool that processes patient data, you fall under Swissdamed's scope. The question is not whether you have obligations. You do. The question is whether you have a plan. Most small practices have no formal AI governance policy, no inventory of AI tools in use, no documented review process, and no Swissmedic compliance pathway. This is the gap between what's happening in your practice and what Swissmedic expects. The 30/60/90-day sequence: by July 1, inventory and classify every AI tool in use; by August 1, assess and document conformity assessment status; by September 1, implement and maintain a governance policy with named accountability.",
+        "listTitle": "Swissdamed obligations by risk level:",
+        "list": [
+          "High-risk AI medical devices (Class IIb+): Conformity assessment before market placement, post-market surveillance, serious incident reporting to Swissmedic.",
+          "Lower-risk AI tools: nFADP obligations if patient data is processed, general safety requirements, documentation obligations.",
+          "All AI tools processing patient data: nFADP Art. 5(c) data controller obligations are active since September 2023.",
+          "FDPIC healthcare enforcement priority: practices without documented AI governance are increasingly exposed to regulatory action.",
+          "The critical test: does the AI tool have a medical purpose — diagnosis, treatment, monitoring? If yes, Swissdamed applies."
+        ]
+      },
+      "46-point-gap-small-law-firms": {
+        "title": "The 46-Point Gap: Why Small Law Firms Can't Wait on AI Governance",
+        "date": "March 31, 2026",
+        "excerpt": "69% of legal professionals use gen AI individually. Only 23% of firms with fewer than 10 employees have formal AI policies. FDPIC is building an AI enforcement portfolio. The gap is your exposure.",
+        "content": "There is a 46-point gap between how many legal professionals use generative AI and how many their firms have policies for. 69% use it individually. 23% of firms with fewer than 10 employees have formal AI data rules. That gap is not a statistic. It is an exposure. FDPIC has opened multiple AI enforcement actions in 2025 and 2026 — transport companies, retailers, social media platforms. None targeting law firms yet. This is not an exemption. It is a sequencing decision. When FDPIC turns to professional services, firms with active Shadow AI use and no documented governance framework will be the most exposed. Three overlapping pressure events for Geneva law firms in 2026: nFADP operative since September 2023, EU AI Act high-risk obligations activating August 2, 2026, and the Federal Council AI Action Plan First Draft milestone at Digital Gipfel Andermatt on May 26, 2026. The practical starting point: document what AI is being used, by whom, and on what data. This is your AI inventory. It is the foundation of everything else.",
+        "listTitle": "The three-decision framework for law firms:",
+        "list": [
+          "Decision 1 — Are you using AI? If any attorney or paralegal uses AI for research, drafting, or review, nFADP obligations are active.",
+          "Decision 2 — Are you processing client data with AI? If yes, DPIA may be required under nFADP Art. 22.",
+          "Decision 3 — Do you have EU AI Act exposure? If your firm has EU-based clients or operates AI systems with EU-intended outputs, August 2, 2026 is your high-risk deadline.",
+          "FDPIC enforcement portfolio: 4 confirmed AI investigations 2025-2026; law firms not yet targeted, but the pattern is established.",
+          "First-mover advantage: there are no Geneva-area AI governance boutiques serving small law firms."
+        ]
+      },
+      "carf-live-wealth-managers": {
+        "title": "CARF Is Live: What Geneva Wealth Managers Need to Know About AI Governance Right Now",
+        "date": "March 31, 2026",
+        "excerpt": "CARF operative since Jan 1, 2026. FATF evaluation active. 76% of Geneva FS firms use AI. Three compliance layers for wealth managers. Here is what to do right now.",
+        "content": "CARF has been operative since January 1, 2026. That is not a future event. It is not a consultation document. It is live regulatory infrastructure generating reporting obligations for crypto-asset transactions — whether your firm is ready or not. The FATF mutual evaluation of Switzerland is also active, with evaluators in-market and asking questions about AML/KYC AI systems. And underneath both: nFADP obligations for any AI processing client personal data that have been operative since September 2023. Three overlapping compliance layers. One firm. One window to get organized. CARF changes the AI governance conversation because if your firm uses AI tools to process, analyze, or report on crypto assets, CARF obligations are active and auditable. If those same AI tools process client personal data, nFADP layers on top. If the firm has EU-nexus clients or infrastructure, add the EU AI Act. Most boutique firms don't see this stacking. The reality: it is one governance problem with multiple regulatory faces.",
+        "listTitle": "The 3-layer compliance stack for boutique wealth managers:",
+        "list": [
+          "Layer 1 — nFADP (Swiss domestic): Any AI tool processing client personal data requires lawful basis, purpose limitation, and data subject rights processes. DPIA required for high-risk AI.",
+          "Layer 2 — FINMA + FATF + CARF (Swiss international): AI systems used in AML/KYC, client suitability, or investment advice must be documented and auditable.",
+          "Layer 3 — EU AI Act (extraterritorial, if applicable): GPAI obligations active since August 2, 2025. High-risk obligations activate August 2, 2026 for firms with EU-nexus.",
+          "FATF evaluation: evaluators will ask about governance frameworks behind AI use in AML/KYC, client screening, and suitability assessment.",
+          "The practical starting point: document every AI tool currently in use — including personal devices and unofficial tools."
+        ]
+      },
+      "67-percent-real-estate-ai-governance": {
+        "title": "67% of Geneva Real Estate Agencies Use AI. Most Have No Governance Framework.",
+        "date": "March 31, 2026",
+        "excerpt": "67% AI adoption in Geneva real estate — highest of any professional vertical. GAIGI is being implemented. nFADP is active. The retroactive compliance path for agencies that have already adopted AI.",
+        "content": "67% of Geneva real estate agencies are using AI tools. That is the highest adoption rate of any professional vertical in the city. The governance frameworks are not keeping pace. Most agencies have no formal AI policy, no inventory of what tools are in use, no documented accountability structure for AI-assisted outputs. This is the retroactive compliance problem. It is not a future tense issue. It is the current state of most of the market. Real estate agencies are using AI for property listing descriptions and marketing copy, client communication drafting, market analysis and comparable property research, administrative task automation, and CRM. Each of these involves data — some involves personal data. GAIGI — the Geneva Real Estate Agent Professional Regulation — is being implemented. nFADP has been operative since September 2023. For agencies with EU market activity, the EU AI Act adds a further layer. The retroactive compliance path has four steps: inventory your AI tools, classify by data sensitivity, establish named accountability, and set a review cycle.",
+        "listTitle": "Where AI lives in a Geneva real estate agency:",
+        "list": [
+          "Marketing and listing: AI tools drafting property descriptions, generating marketing copy, optimizing listing text.",
+          "Client communication: AI-assisted drafting of client emails, follow-up sequences, meeting preparation summaries.",
+          "Market research: AI tools processing comparable property data, market trend analysis, neighbourhood profiling.",
+          "Administrative automation: Scheduling, calendar management, CRM updates, document organization.",
+          "GAIGI is being implemented — professional practice standards in active development, AI governance standards expected to follow."
+        ]
+      },
+      "gpai-obligations-consulting-firms": {
+        "title": "GPAI Obligations Have Been Active for 8 Months. Most Small Consulting Firms Haven't Noticed.",
+        "date": "March 31, 2026",
+        "excerpt": "EU AI Act GPAI obligations operative since Aug 2, 2025. Federal Council First Draft May 26, 2026. Dual compliance for Geneva consulting firms with EU nexus.",
+        "content": "The EU AI Act's GPAI transparency obligations became operative on August 2, 2025. That is 8 months ago. If your Geneva consulting firm serves EU-based clients, uses AI tools with EU-based data infrastructure, or produces outputs intended for the EU market, those obligations have been applying to your GPAI providers — and indirectly, to your firm — since that date. GPAI covers foundation models and general-purpose AI systems. Most commercial AI tools used in consulting fall into this category. The operative GPAI obligations require providers to maintain technical documentation, publish training data summaries including copyright compliance, implement acceptable use policies, and maintain incident response processes. For consulting firms, you must disclose when content you deliver is AI-generated, and you must have an acceptable use policy. The Federal Council's AI Action Plan reaches its First Draft milestone at Digital Gipfel Schweiz Andermatt on May 26, 2026. When it does, the Geneva consulting community will have a collective conversation about AI governance. The firms that already have a framework will be the reference points.",
+        "listTitle": "The 3-axis framework for consulting firms:",
+        "list": [
+          "Axis 1 — GPAI Transparency (EU AI Act): If your firm serves EU clients or processes EU-based data, GPAI obligations are active. Disclose AI-generated content, maintain technical documentation.",
+          "Axis 2 — nFADP Domestic Compliance: If AI tools process personal client project data, Art. 5(c) data controller obligations are active. DPIA may be required for high-risk processing.",
+          "Axis 3 — Client Expectation Management: Institutional clients increasingly ask about AI use in project delivery. A documented AI use policy is becoming a contract requirement.",
+          "GPAI obligations since Aug 2, 2025: 8 months already operative. No grace period.",
+          "May 26, 2026 Digital Gipfel Andermatt: Federal Council AI Action Plan First Draft — will trigger market-wide awareness spike."
+        ]
+      },
+      "geneva-ai-governance-portfolio": {
+        "title": "The 2026 Geneva AI Governance Portfolio: What I Found Across Six Professional Verticals",
+        "date": "March 31, 2026",
+        "excerpt": "After 30+ research cycles across six Geneva verticals: high AI adoption, low governance everywhere. Swissdamed hard deadline ~13 weeks. CARF operative. No boutique competitors. First-mover window open.",
+        "content": "Over the past several months, I ran a continuous market research program across six Geneva professional services verticals. The objective was simple: understand what AI governance actually looks like for small firms in Geneva — where the adoption gaps are, where the regulatory pressure is real, and where the advisory opportunity exists. Pattern 1: High adoption, low governance, everywhere. Across law, wealth management, healthcare, real estate, consulting, and independent advisory, 61-76% of firms in each vertical are using AI tools. 23-42% have formal governance policies. The gap between adoption and accountability is the defining compliance exposure of 2026. Pattern 2: Regulatory deadlines are real and concrete. Swissdamed has a hard July 1 deadline with no grace period. CARF has been operative since January 1. GPAI obligations have been active since August 2, 2025. FATF evaluators are in-market. Pattern 3: No boutique competitor serving small firms. After more than thirty consecutive research cycles, I found no Geneva-area advisory boutique offering AI governance services specifically to small professional firms. Pattern 4: The first-mover window is open. The combination of high adoption, low governance, concrete deadlines, and no boutique competitors defines an open window.",
+        "listTitle": "The vertical priority sequence:",
+        "list": [
+          "Healthcare (Swissdamed Jul 1, ~13 weeks): Strongest urgency hook. No grace period. Most time-pressured ICP across the entire portfolio.",
+          "Legal (46-point governance gap): FDPIC enforcement portfolio building. 69% individual gen AI use vs 23% formal firm policies.",
+          "Wealth Management (CARF + FATF operative): 76% Geneva FS AI adoption. CARF generating obligations since Jan 1. FATF evaluators in-market.",
+          "Real Estate (67% AI adoption, highest vertical): Retroactive compliance framing. Lower-friction entry for RE agencies already using AI.",
+          "Consulting (GPAI active since Aug 2, 2025): 8 months of operative obligations. May 2026 Digital Gipfel as market awareness trigger."
+        ]
       }
     }
   },
@@ -307,9 +424,15 @@
     },
     "Common": {
       "keywords": [
-        "AI Governance", "Executive AI Advisory", "Decision Architecture", 
-        "Strategic Clarity", "Bespoke AI Strategy", "Geneva Executive Advisor", 
-        "Corporate Governance AI", "Digital Transformation", "Sergio Brotons"
+        "AI Governance",
+        "Executive AI Advisory",
+        "Decision Architecture",
+        "Strategic Clarity",
+        "Bespoke AI Strategy",
+        "Geneva Executive Advisor",
+        "Corporate Governance AI",
+        "Digital Transformation",
+        "Sergio Brotons"
       ],
       "schema": {
         "orgDesc": "Executive decision architecture and AI governance for boards and leadership teams.",
@@ -317,6 +440,174 @@
         "jobTitle": "Executive AI Advisor",
         "personDesc": "Sergio Brotons helps executives design clearer decision systems and AI governance."
       }
+    },
+    "Verticals": {
+      "ai-governance-medical-practices": {
+        "title": "AI Governance for Small Medical Practices | Swissdamed Ready | DigitalCoa.ch",
+        "description": "Swissdamed July 1, 2026 — no grace period. A 3-part framework for small medical practices to assess AI governance readiness and comply with nFADP + Swissmedic obligations."
+      },
+      "ai-governance-small-law-firms": {
+        "title": "The Small Law Firm AI Governance Question | DigitalCoa.ch",
+        "description": "69% of legal professionals use gen AI individually. Only 23% of firms have formal AI policies. A 46-point governance gap. Framework for Geneva law firms."
+      },
+      "ai-governance-boutique-wealth-managers": {
+        "title": "AI Governance for Boutique Wealth Managers | CARF + nFADP | DigitalCoa.ch",
+        "description": "CARF operative since Jan 1, 2026. FATF evaluation active. 76% of Geneva FS firms use AI. Checklist for boutique wealth managers navigating compliance."
+      },
+      "ai-governance-real-estate-agencies": {
+        "title": "AI Governance for Small Real Estate Agencies | DigitalCoa.ch",
+        "description": "67% AI adoption in Geneva real estate — highest of any vertical. Retroactive compliance: govern the AI you already have. GAIGI operative, nFADP active."
+      },
+      "ai-governance-small-consulting-firms": {
+        "title": "AI Governance for Small Consulting Firms | GPAI Active | DigitalCoa.ch",
+        "description": "GPAI transparency obligations active since Aug 2, 2025 — 8 months already. Federal Council First Draft May 2026. A 3-axis framework for small consulting firms."
+      },
+      "ai-governance-professional-services": {
+        "title": "AI Governance for Geneva Professional Services | Portfolio | DigitalCoa.ch",
+        "description": "Six verticals. One governance gap. A portfolio of frameworks for Geneva law firms, wealth managers, medical practices, real estate agencies, and consulting firms."
+      }
+    }
+  },
+  "HomeB": {
+    "meta": {
+      "title": "Test Homepage B | DigitalCoa.ch",
+      "description": "AI governance and decision architecture for Geneva executives. Research-backed approach grounded in Swiss regulatory reality."
+    },
+    "hero": {
+      "badge": "12 weeks: Swissdamed July 1, 2026",
+      "title": "Your AI governance is not ready for July 1.",
+      "subtitle": "And the window to fix it is closing.",
+      "description": "Swissdamed, AMLA, LETA, EU AI Act. Four regulatory deadlines converging on Geneva firms in 2026. Most organizations are not prepared. I help leaders build the structures that keep decisions clear when compliance pressure peaks.",
+      "cta": "Book a diagnostic conversation",
+      "cta2": "See who this is for"
+    },
+    "badges": {
+      "geneva": "Geneva-based",
+      "governance": "Governance-first",
+      "confidential": "Confidential",
+      "human": "Human-led"
+    },
+    "regulatory": {
+      "title": "The Geneva regulatory cluster: 2026",
+      "note": "These deadlines are not isolated. They overlap, reinforce, and create compliance pressure across every Geneva firm that uses AI in any form. The organizations that act first will define the standard.",
+      "items": {
+        "swissdamed": {
+          "deadline": "July 1, 2026",
+          "title": "Swissdamed: Healthcare",
+          "desc": "Federal Act on the Exchange of Medical Data. Mandatory AI-assisted data processing registration. No grace period confirmed."
+        },
+        "aml": {
+          "deadline": "Mid-2026",
+          "title": "AMLA: Finance",
+          "desc": "Anti-Money Laundering Act revision. AI-assisted transaction monitoring brings new compliance obligations for wealth management and banking-adjacent firms."
+        },
+        "leta": {
+          "deadline": "H2 2026",
+          "title": "LETA: Finance",
+          "desc": "Legal Entity Identifier Act. Corporate transparency requirements with AI governance implications for entity structures and decision accountability."
+        },
+        "gpai": {
+          "deadline": "Active since Aug 2025",
+          "title": "EU AI Act GPAI",
+          "desc": "General Purpose AI transparency obligations already operative. Firms with EU clients or operations subject now: penalties up to EUR 35M."
+        }
+      }
+    },
+    "problemStatement": {
+      "title": "The pattern I see repeatedly...",
+      "items": [
+        "Adopting AI faster than governance can follow: creating ungoverned risk",
+        "EU AI Act GPAI obligations already active, but no internal compliance structure exists",
+        "Regulatory deadlines converging: Swissdamed, AMLA, LETA, EU AI Act: but no consolidated view",
+        "External advisors are generic or enterprise-focused: nothing calibrated for Geneva's professional context"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Built for Geneva decision-makers",
+      "items": {
+        "executives": {
+          "label": "Swiss SME Leaders",
+          "problem": "Four regulatory deadlines converging before year-end. No consolidated view of what applies.",
+          "solution": "Decision architecture that preserves authority and clarity under compliance pressure.",
+          "cta": "Explore executive support"
+        },
+        "boards": {
+          "label": "Boards & Governance",
+          "problem": "Oversight responsibilities intensifying. AI decisions happening without governance structures.",
+          "solution": "Frameworks separating oversight from execution before regulators ask the questions.",
+          "cta": "Discover the approach"
+        },
+        "teams": {
+          "label": "Senior Professionals",
+          "problem": "Personal liability exposure growing as AI use becomes routine. No personal structure.",
+          "solution": "Cognitive architecture that makes judgment clearer and more defensible.",
+          "cta": "View formats"
+        },
+        "professionals": {
+          "label": "Independent Advisors",
+          "problem": "Client AI governance needs emerging. No framework to respond credibly.",
+          "solution": "Advisory infrastructure built on governance logic, not generic consulting templates.",
+          "cta": "Build your OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Engagement formats",
+      "items": {
+        "diagnostic": {
+          "title": "Executive Decision Diagnostic",
+          "duration": "2-5 days",
+          "desc": "Map your regulatory exposure and decision friction. Identify what needs to be in place before July 1, 2026."
+        },
+        "architecture": {
+          "title": "Decision & Governance Architecture",
+          "duration": "6-12 weeks",
+          "desc": "Design and deploy the governance structures that keep decisions clear as compliance obligations intensify."
+        },
+        "os": {
+          "title": "Personal Decision Infrastructure",
+          "duration": "3-4 sessions",
+          "desc": "Build your personal cognitive OS: calibrated for Geneva professional context and regulatory reality."
+        }
+      }
+    },
+    "process": {
+      "title": "How I work",
+      "steps": {
+        "diagnose": {
+          "title": "Diagnose",
+          "desc": "Map decision flows, regulatory exposure, and AI governance gaps across your organization"
+        },
+        "design": {
+          "title": "Design",
+          "desc": "Structure governance, escalation protocols, and AI decision frameworks built for your context"
+        },
+        "deploy": {
+          "title": "Deploy",
+          "desc": "Integrate structures that hold under real regulatory pressure, not just in theory"
+        }
+      }
+    },
+    "valueProps": {
+      "title": "Why work with me",
+      "items": {
+        "governance": {
+          "title": "Geneva-specific",
+          "desc": "Structures grounded in Swiss regulatory reality: not imported frameworks."
+        },
+        "confidentiality": {
+          "title": "Confidential",
+          "desc": "High-stakes advisory in Geneva. What stays here, stays here."
+        },
+        "pragmatism": {
+          "title": "Actionable",
+          "desc": "Governance that works under real pressure: not compliance theater."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Twelve weeks is enough. If you start now.",
+      "cta": "Book a diagnostic conversation"
     }
   }
 }

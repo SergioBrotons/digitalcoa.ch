@@ -89,17 +89,35 @@
     "process": {
       "title": "Processus",
       "steps": {
-        "diagnose": { "title": "Diagnostiquer", "desc": "Cartographier les flux de décision, points de friction, lacunes d'information" },
-        "design": { "title": "Concevoir", "desc": "Simplifier les priorités, les rôles, les chemins d'escalade" },
-        "deploy": { "title": "Déployer", "desc": "Aider les équipes à adopter une nouvelle méthode de travail" }
+        "diagnose": {
+          "title": "Diagnostiquer",
+          "desc": "Cartographier les flux de décision, points de friction, lacunes d'information"
+        },
+        "design": {
+          "title": "Concevoir",
+          "desc": "Simplifier les priorités, les rôles, les chemins d'escalade"
+        },
+        "deploy": {
+          "title": "Déployer",
+          "desc": "Aider les équipes à adopter une nouvelle méthode de travail"
+        }
       }
     },
     "valuePropsFull": {
       "title": "Pourquoi DigitalCoa.ch ?",
       "items": {
-        "governance": { "title": "Gouvernance d'abord", "desc": "Je fixe les limites avant les bots." },
-        "confidentiality": { "title": "Confidentiel", "desc": "Conseil de haut niveau, basé à Genève." },
-        "pragmatism": { "title": "Pratique", "desc": "Je conçois des systèmes qui évoluent sans ajouter de bruit." }
+        "governance": {
+          "title": "Gouvernance d'abord",
+          "desc": "Je fixe les limites avant les bots."
+        },
+        "confidentiality": {
+          "title": "Confidentiel",
+          "desc": "Conseil de haut niveau, basé à Genève."
+        },
+        "pragmatism": {
+          "title": "Pratique",
+          "desc": "Je conçois des systèmes qui évoluent sans ajouter de bruit."
+        }
       }
     },
     "badges": {
@@ -163,21 +181,36 @@
         "subtitle": "Pour dirigeants & conseils d'administration",
         "description": "Analyse des flux de décision, des points de friction et de l'état de préparation à l'IA. Le problème n'est pas l'outil, c'est la structure.",
         "duration": "2-5 jours",
-        "deliverables": ["Carte des décisions", "Analyse des frictions", "Recommandations de gouvernance", "Prochaines étapes prioritaires"]
+        "deliverables": [
+          "Carte des décisions",
+          "Analyse des frictions",
+          "Recommandations de gouvernance",
+          "Prochaines étapes prioritaires"
+        ]
       },
       "architecture": {
         "title": "Architecture de Gouvernance & Décision",
         "subtitle": "Pour organisations & équipes de direction",
         "description": "Cadres stratégiques séparant la supervision de l'exécution. Création d'une structure pour une adoption de l'IA à grande échelle.",
         "duration": "6-12 semaines",
-        "deliverables": ["Cadre de gouvernance", "Protocoles de décision", "Architecture d'escalade", "Feuille de route d'implémentation"]
+        "deliverables": [
+          "Cadre de gouvernance",
+          "Protocoles de décision",
+          "Architecture d'escalade",
+          "Feuille de route d'implémentation"
+        ]
       },
       "os": {
         "title": "Infrastructure Décisionnelle Personnelle",
         "subtitle": "Pour experts & conseillers indépendants",
         "description": "Concevez votre système d'exploitation cognitif personnel. Gérez la complexité avec discipline et clarté.",
         "duration": "3-4 sessions",
-        "deliverables": ["Système décisionnel personnalisé", "Rituels hebdomadaires", "Architecture des outils", "Workflow de connaissances"]
+        "deliverables": [
+          "Système décisionnel personnalisé",
+          "Rituels hebdomadaires",
+          "Architecture des outils",
+          "Workflow de connaissances"
+        ]
       }
     },
     "deliverablesLabel": "Ce que vous recevez :",
@@ -277,6 +310,90 @@
           "Reporting axé sur les métriques : Laisser les données parler avant le récit.",
           "Renouvellement et expiration : Examens réguliers des politiques."
         ]
+      },
+      "swissdamed-13-weeks-medical-practices": {
+        "title": "Swissdamed dans 13 semaines : ce que les petits cabinets medicaux doivent vraiment faire",
+        "date": "31 mars 2026",
+        "excerpt": "Swissmedic a confirme aucun delai de grace pour les dispositifs medicaux IA a haut risque. Les petits cabinets medicaux font face a des obligations Swissdamed + nFADP avec une echeance dure du 1er juillet 2026.",
+        "content": "Treize semaines, ce n'est pas beaucoup de temps. C'est suffisant — mais seulement si vous cessez de traiter Swissdamed comme quelque chose a reflechir plus tard. Swissmedic a confirme qu'il n'y a pas de delai de grace pour les dispositifs medicaux a haut risque avec des obligations de declare d'incidents graves. La date du 1er juillet 2026 n'est pas un objectif. C'est une ligne rouge. Si votre cabinet utilise l'imagerie diagnostique assistee par IA, le triage des symptomes base sur l'IA, ou tout outil d'IA qui traite des donnees patients, vous etes dans le champ d'application de Swissdamed. La question n'est pas de savoir si vous avez des obligations. Vous en avez. La question est de savoir si vous avez un plan. La plupart des petits cabinets n'ont pas de politique formelle de gouvernance de l'IA, pas d'inventaire des outils d'IA en cours d'utilisation, pas de processus de revue documente. C'est l'ecart entre ce qui se passe dans votre cabinet et ce que Swissmedic attend. La sequence 30/60/90 jours: d'ici le 1er juillet, inventoriez et classez chaque outil d'IA en cours d'utilisation; d'ici le 1er aout, evaluez et documentez le statut d'evaluation de conformite; d'ici le 1er septembre, implementer et maintenir une politique de gouvernance avec responsabilite nommee.",
+        "listTitle": "Obligations Swissdamed par niveau de risque:",
+        "list": [
+          "Dispositifs medicaux IA a haut risque (Classe IIb+): Evaluation de conformite avant mise sur le marche, surveillance post-marche, declaration d'incidents graves a Swissmedic.",
+          "Outils IA a risque moindre: Obligations nFADP si des donnees patients sont traitees, exigences generales de securite, obligations de documentation.",
+          "Tous les outils d'IA traitant des donnees patients: Obligations de responsable de traitement nFADP art. 5(c) actives depuis septembre 2023.",
+          "Priorite de mise en application PFPDT dans la sante: les pratiques sans gouvernance de l'IA documentee sont de plus en plus exposees a l'action reglementaire.",
+          "Le test critique: l'outil d'IA a-t-il un but medical — diagnostic, traitement, suivi? Si oui, Swissdamed s'applique."
+        ]
+      },
+      "46-point-gap-small-law-firms": {
+        "title": "L'Ecart de 46 Points: Pourquoi les Petits Cabinets nePeuvent Pas Attendre sur la Gouvernance IA",
+        "date": "31 mars 2026",
+        "excerpt": "69% des professionnels juridiques utilisent l'IA gen. individuellement. Seulement 23% des cabinets de moins de 10 salaries ont des politiques IA formelles. Le PFPDT construit son portefeuille de mise en application.",
+        "content": "Il y a un ecart de 46 points entre le nombre de professionnels juridiques qui utilisent l'IA generative et le nombre de cabinets qui ont des politiques a cet egard. 69% l'utilisent individuellement. 23% des cabinets de moins de 10 salaries ont des regles formelles sur les donnees IA. Cet ecart n'est pas une statistique. C'est une exposition. Le PFPDT a ouvert plusieurs actions de mise en application de l'IA en 2025 et 2026 — societes de transport, distributeurs, plateformes sociales. Aucun cabinet juridique vise pour l'instant. Ce n'est pas une exemption. C'est une decision de sequentialisation. Quand le PFPDT se tournera vers les services professionnels, les cabinets avec une utilisation active de l'ombre de l'IA et aucun cadre de gouvernance documente seront les plus exposes. Trois evenements de pression chevauchants pour les cabinets juridiques genevois en 2026: nFADP en vigueur depuis septembre 2023, obligations a haut risque de l'AI Act UE s'activant le 2 aout 2026, et le jalon Premier Projet du Plan d'Action IA du Conseil federal au Digital Gipfel Andermatt le 26 mai 2026. Le point de depart pratique: documentez quels outils d'IA sont utilises, par qui et sur quelles donnees. C'est votre inventaire de l'IA. C'est le fondement de tout le reste.",
+        "listTitle": "Le cadre de 3 decisions pour les cabinets juridiques:",
+        "list": [
+          "Decision 1 — Utilisez-vous l'IA? Si un avocat ou paraprofessionnel utilise l'IA pour la recherche, la redaction ou la revision, les obligations nFADP sont actives.",
+          "Decision 2 — Traitez-vous des donnees clients avec l'IA? Si oui, une EIPD peut etre requise selon nFADP art. 22.",
+          "Decision 3 — Avez-vous une exposition a l'AI Act UE? Si votre cabinet a des clients bases dans l'UE ou exploite des systemes d'IA avec des resultats destines a l'UE, le 2 aout 2026 est votre echeance a haut risque.",
+          "Portefeuille de mise en application PFPDT: 4 enquetes IA confirmees 2025-2026; cabinets juridiques pas encore vises, mais le schema est etabli.",
+          "Avantage du premier moteur: il n'y a pas de boutiques de gouvernance de l'IA dans la region de Geneve au service des petits cabinets juridiques."
+        ]
+      },
+      "carf-live-wealth-managers": {
+        "title": "CARF Est en Vigueur: Ce que les Gestionnaires de PatrimoineDoivent Savoir sur la Gouvernance IA Maintenant",
+        "date": "31 mars 2026",
+        "excerpt": "CARF operationnel depuis le 1er jan. 2026. Evaluation GAFI active. 76% des FS genevois utilisent l'IA. Trois couches de conformite pour les gestionnaires de patrimoine.",
+        "content": "CARF est en vigueur depuis le 1er janvier 2026. Ce n'est pas un evenement futur. Ce n'est pas un document de consultation. C'est une infrastructure reglementaire vivante generant des obligations de declaration pour les transactions de crypto-actifs — que votre cabinet soit pret ou non. L'evaluation mutuelle du GAFI sur la Suisse est egalement active, avec des evaluateurs sur le marche et posant des questions sur les systemes IA AML/KYC. Et en dessous des deux: les obligations nFADP pour tout traitement de l'IA des donnees personnelles clients qui sont operationnelles depuis septembre 2023. Trois couches de conformite superposees. Un cabinet. Une fenetre pour s'organiser. CARF change la conversation sur la gouvernance IA parce que si votre cabinet utilise des outils d'IA pour traiter, analyser ou declarer des crypto-actifs, les obligations CARF sont actives et verifiables. Si ces memes outils d'IA traitent des donnees personnelles clients, les obligations nFADP se superposent. Si le cabinet a des clients avec lien UE ou infrastructure, ajoutez l'AI Act UE. La plupart des cabinets boutique ne voient pas cet empilement. La realite: c'est un probleme de gouvernance avec plusieurs visages reglementaires.",
+        "listTitle": "L'empilement de conformite 3 couches pour les gestionnaires de patrimoine boutique:",
+        "list": [
+          "Couche 1 — nFADP (domestique suisse): Tout outil d'IA traitant des donnees personnelles clients exige une base legale, une limitation de purpose et des processus de droits des personnes. EIPD requise pour l'IA a haut risque.",
+          "Couche 2 — FINMA + GAFI + CARF (international suisse): Les systemes d'IA utilises en AML/KYC, suitability client ou conseil en investissement doivent etre documentes et auditables.",
+          "Couche 3 — AI Act UE (extraterritorial, si applicable): Obligations GPAI actives depuis le 2 aout 2025. Obligations a haut risque s'activent le 2 aout 2026 pour les entreprises avec lien UE.",
+          "Evaluation GAFI: les evaluateurs poseront des questions sur les cadres de gouvernance derriere l'utilisation de l'IA en AML/KYC, screening client et evaluation de suitability.",
+          "Le point de depart pratique: documentez chaque outil d'IA actuellement en cours d'utilisation — y compris les appareils personnels et les outils non officiels."
+        ]
+      },
+      "67-percent-real-estate-ai-governance": {
+        "title": "67% des Agences Immobilieres Genevois Utilisent l'IA. La Plupart n'Ont Pas de Cadre de Gouvernance.",
+        "date": "31 mars 2026",
+        "excerpt": "67% d'adoption de l'IA dans l'immobilier genevois — le plus eleve de toute verticale professionnelle. GAIGI est en cours d'implementation. nFADP est actif. Le chemin de conformite retroactive.",
+        "content": "67% des agences immobilieres genevoises utilisent des outils d'IA. C'est le taux d'adoption le plus eleve de toute verticale professionnelle en ville. Les cadres de gouvernance ne suivent pas. La plupart des agences n'ont pas de politique IA formelle, pas d'inventaire des outils en cours d'utilisation, pas de structure de responsabilite documentee pour les resultats assistes par l'IA. C'est le probleme de conformite retroactive. Ce n'est pas un probleme en temps futur. C'est l'etat actuel de la majeure partie du marche. Les agences immobilieres utilisent l'IA pour les descriptions de biens et copie marketing, la redaction de communications clients, l'analyse de marche et la recherche de biens comparables, l'automatisation des taches administratives et la gestion de la relation client. Chacun de ces domaines implique des donnees — certaines impliquent des donnees personnelles. GAIGI est en cours d'implementation. nFADP est en vigueur depuis septembre 2023. Pour les agences avec activite sur le marche UE, l'AI Act UE ajoute une couche supplementaire. Le chemin de conformite retroactive a quatre etapes: inventoriez vos outils d'IA, classez par sensibilite des donnees, etablissez la responsabilite nommee, et definissez un cycle de revue.",
+        "listTitle": "Ou l'IA vit dans une agence immobiliere genevoise:",
+        "list": [
+          "Marketing et annonces: Outils d'IA redigeant des descriptions de biens, generant du texte marketing, optimisant les annonces.",
+          "Communication client: Redaction assistee par IA d'e-mails clients, sequences de suivi, resumes de preparation de reunions.",
+          "Recherche de marche: Outils d'IA traitant des donnees de biens comparables, analyse des tendances du marche, profilage de quartier.",
+          "Automatisation administrative: Planification, gestion de calendrier, mises a jour CRM, organisation de documents.",
+          "GAIGI est en cours d'implementation — normes de pratique professionnelle en developpement actif, normes de gouvernance de l'IA attendues."
+        ]
+      },
+      "gpai-obligations-consulting-firms": {
+        "title": "Les Obligations GPAI Sont Actives Depuis 8 Mois. La Plupart des Petits Cabinets de Conseil ne l'Ont Pas Notice.",
+        "date": "31 mars 2026",
+        "excerpt": "Obligations GPAI de l'AI Act UE operationnelles depuis le 2 aout 2025. Premier Projet Conseil federal 26 mai 2026. Conformite double pour les cabinets de conseil genevois avec lien UE.",
+        "content": "Les obligations de transparence GPAI de l'AI Act UE sont operationnelles depuis le 2 aout 2025. C'est il y a 8 mois. Si votre cabinet de conseil genevois sert des clients bases dans l'UE, utilise des outils d'IA avec une infrastructure de donnees basee dans l'UE ou produit des resultats destines au marche europeen, ces obligations s'appliquent a vos fournisseurs GPAI — et indirectement a votre cabinet — depuis cette date. GPAI couvre les modeles de fondation et les systemes d'IA a usage general. La plupart des outils d'IA commerciaux utilises en conseil entrent dans cette categorie. Les obligations GPAI operationnelles exigent des fournisseurs de maintenir une documentation technique, publier des resumes des donnees d'entrainement incluant la conformite copyright, implementer des politiques pour l'utilisation acceptable et maintenir des processus de reponse aux incidents. Pour les cabinets de conseil, vous devez declarer quand le contenu que vous livrez est genere par l'IA, et vous devez avoir une politique d'utilisation acceptable. Le Plan d'Action IA du Conseil federal atteint son jalon Premier Projet au Digital Gipfel Schweiz Andermatt le 26 mai 2026. Quand cela se produira, la communaute genevoise du conseil aura une conversation collective sur la gouvernance de l'IA. Les cabinets qui ont deja un cadre seront les points de reference.",
+        "listTitle": "Le cadre a 3 axes pour les cabinets de conseil:",
+        "list": [
+          "Axe 1 — Transparence GPAI (AI Act UE): Si votre cabinet sert des clients UE ou traite des donnees basees dans l'UE, les obligations GPAI sont actives. Declarez le contenu genere par l'IA, maintenez une documentation technique.",
+          "Axe 2 — Conformite Domestique nFADP: Si les outils d'IA traitent des donnees personnelles de projets clients, les obligations de responsable de traitement art. 5(c) sont actives. Une EIPD peut etre requise pour le traitement a haut risque.",
+          "Axe 3 — Gestion des Attentes Clients: Les clients institutionnels demandent de plus en plus souvent a propos de l'utilisation de l'IA dans la livraison de projets. Une politique documentee devient une exigence contractuelle.",
+          "Obligations GPAI depuis le 2 aout 2025: 8 mois deja operationnels. Aucun delai de grace.",
+          "26 mai 2026 Digital Gipfel Andermatt: Jalon Premier Projet Plan d'Action IA — declenchera une vague de conscience sur le marche."
+        ]
+      },
+      "geneva-ai-governance-portfolio": {
+        "title": "Le Portefeuille de Gouvernance IA Geneve 2026: Ce que j'Ai Trouve A Travers Six Verticals Professionnels",
+        "date": "31 mars 2026",
+        "excerpt": "Apres 30+ cycles de recherche a travers six verticales genevoises: forte adoption de l'IA, faible gouvernance partout. Echeance dure Swissdamed ~13 semaines. CARF operationnel. Aucun concurrent boutique.",
+        "content": "Au cours des derniers mois, j'ai mene un programme continu de recherche de marche a travers six verticales de services professionnels genevois. L'objectif etait simple: comprendre a quoi ressemble la gouvernance de l'IA reellement pour les petits cabinets a Geneve — ou sont les ecarts d'adoption, ou la pression reglementaire est reelle et ou l'opportunite de conseil existe. Schema 1: Forte adoption, faible gouvernance, partout. A travers juridique, gestion de patrimoine, sante, immobilier, conseil et conseil independant, 61-76% des firmes dans chaque verticale utilisent des outils d'IA. 23-42% ont des politiques formelles de gouvernance. L'ecart entre adoption et responsabilite est l'exposition de conformite definissante de 2026. Schema 2: Les echeances reglementaires sont reelles et concretes. Swissdamed a une echeance dure du 1er juillet avec aucun delai de grace. CARF est operationnel depuis le 1er janvier. Les obligations GPAI sont actives depuis le 2 aout 2025. Les evaluateurs GAFI sont sur le marche. Schema 3: Aucun concurrent boutique ne sert les petits cabinets. Apres plus de trente cycles de recherche consecutifs, je n'ai trouve aucun cabinet de conseil boutique dans la region de Geneve offrant des services de gouvernance de l'IA specifiquement aux petits cabinets professionnels. Schema 4: La fenetre du premier moteur est ouverte.",
+        "listTitle": "La sequence de priorite verticale:",
+        "list": [
+          "Sante (Swissdamed 1er juil., ~13 semaines): Crochet d'urgence le plus fort. Aucun delai de grace. L'ICP le plus presse par le temps a travers tout le portefeuille.",
+          "Juridique (Ecart de gouvernance de 46 pts): Portefeuille de mise en application PFPDT en construction. 69% d'utilisation gen. IA individuelle vs 23% de politiques formelles.",
+          "Gestion de Patrimoine (CARF + GAFI operationnel): 76% d'adoption de l'IA FS genevoise. CARF generates des obligations depuis jan. 1. Evaluateurs GAFI sur le marche.",
+          "Immobilier (67% adoption de l'IA, verticale la plus elevee): Framing de conformite retroactive. Entree a friction plus faible pour les agences RE.",
+          "Conseil (GPAI active depuis le 2 aout 2025): 8 mois d'obligations operationnelles. Digital Gipfel de mai 2026 comme declencheur de conscience du marche."
+        ]
       }
     }
   },
@@ -307,9 +424,15 @@
     },
     "Common": {
       "keywords": [
-        "Gouvernance IA", "Conseil IA Exécutif", "Architecture décisionnelle", 
-        "Clarté stratégique", "Stratégie IA sur mesure", "Conseiller exécutif Genève", 
-        "Gouvernance d'entreprise IA", "Transformation numérique", "Sergio Brotons"
+        "Gouvernance IA",
+        "Conseil IA Exécutif",
+        "Architecture décisionnelle",
+        "Clarté stratégique",
+        "Stratégie IA sur mesure",
+        "Conseiller exécutif Genève",
+        "Gouvernance d'entreprise IA",
+        "Transformation numérique",
+        "Sergio Brotons"
       ],
       "schema": {
         "orgDesc": "Architecture de décision exécutive et gouvernance de l'IA pour les conseils d'administration et les équipes de direction.",
@@ -317,6 +440,174 @@
         "jobTitle": "Conseiller IA Exécutif",
         "personDesc": "Sergio Brotons aide les dirigeants à concevoir des systèmes de décision plus clairs et une gouvernance de l'IA."
       }
+    },
+    "Verticals": {
+      "ai-governance-medical-practices": {
+        "title": "Gouvernance IA pour Petits Cabinets Medicaux | Pret Swissdamed | DigitalCoa.ch",
+        "description": "Swissdamed 1er juillet 2026 — aucun delai de grace. Un cadre en 3 parties pour les petits cabinets medicaux face aux obligations Swissdamed + nFADP."
+      },
+      "ai-governance-small-law-firms": {
+        "title": "La Question de Gouvernance IA pour le Petit Cabinet Juridique | DigitalCoa.ch",
+        "description": "69% des professionnels juridiques utilisent l'IA gen. individuellement. Seulement 23% des cabinets ont des politiques IA formelles. Un ecart de 46 points. Cadre pour cabinets genevois."
+      },
+      "ai-governance-boutique-wealth-managers": {
+        "title": "Gouvernance IA pour Gestionnaires de Patrimoine Boutique | CARF + nFADP | DigitalCoa.ch",
+        "description": "CARF en vigueur depuis le 1er jan. 2026. Evaluation GAFI active. 76% des FS genevois utilisent l'IA. Liste de controle pour gestionnaires de patrimoine boutique."
+      },
+      "ai-governance-real-estate-agencies": {
+        "title": "Gouvernance IA pour Petites Agences Immobilieres | DigitalCoa.ch",
+        "description": "67% d'adoption de l'IA dans l'immobilier genevois — le plus eleve de toute verticale. Conformite retroactive: gerez l'IA que vous avez deja. GAIGI en vigueur, nFADP actif."
+      },
+      "ai-governance-small-consulting-firms": {
+        "title": "Gouvernance IA pour Petits Cabinets de Conseil | GPAI Actif | DigitalCoa.ch",
+        "description": "Obligations de transparence GPAI actives depuis le 2 aout 2025 — 8 mois deja. Premier Projet Conseil federal mai 2026. Un cadre a 3 axes pour petits cabinets de conseil."
+      },
+      "ai-governance-professional-services": {
+        "title": "Gouvernance IA pour Services Professionnels Genevois | Portefeuille | DigitalCoa.ch",
+        "description": "Six verticales. Un ecart de gouvernance. Un portefeuille de cadres pour cabinets juridiques genevois, gestionnaires de patrimoine, cabinets medicaux et agences immobilieres."
+      }
+    }
+  },
+  "HomeB": {
+    "meta": {
+      "title": "Page de test B | DigitalCoa.ch",
+      "description": "Gouvernance IA et architecture décisionnelle pour executives genevois. Approche fondée sur la recherche, alignée sur la réalité réglementaire suisse."
+    },
+    "hero": {
+      "badge": "12 semaines : Swissdamed 1er juillet 2026",
+      "title": "Votre gouvernance IA n'est pas prête pour le 1er juillet.",
+      "subtitle": "Et la fenêtre pour corriger se referme.",
+      "description": "Swissdamed, AMLA, LETA, EU AI Act. Quatre échéances réglementaires convergeant sur les entreprises genevoises en 2026. La plupart ne sont pas préparées. J'aide les dirigeants à construire les structures qui préservent la clarté décisionnelle quand la pression monte.",
+      "cta": "Réserver un échange de diagnostic",
+      "cta2": "Voir pour qui"
+    },
+    "badges": {
+      "geneva": "Basé à Genève",
+      "governance": "Gouvernance d'abord",
+      "confidential": "Confidentiel",
+      "human": "Dirigé par un humain"
+    },
+    "regulatory": {
+      "title": "La grappe réglementaire genevoise : 2026",
+      "note": "Ces échéances ne sont pas isolées. Elles se superposent, se renforcent et créent une pression sur chaque entreprise genevoise qui utilise l'IA sous quelque forme que ce soit. Les premières organisations à agir définiront le standard.",
+      "items": {
+        "swissdamed": {
+          "deadline": "1er juillet 2026",
+          "title": "Swissdamed : Santé",
+          "desc": "Loi fédérale sur l'échange de données médicales. Inscription obligatoire du traitement de données assisté par IA. Aucun délai de grâce confirmé."
+        },
+        "aml": {
+          "deadline": "Mi-2026",
+          "title": "AMLA : Finance",
+          "desc": "Révision de la loi sur la lutte contre le blanchiment d'argent. La surveillance des transactions assistée par IA apporte de nouvelles obligations de conformité pour la gestion de fortune et les entreprises proches du secteur bancaire."
+        },
+        "leta": {
+          "deadline": "2e semestre 2026",
+          "title": "LETA : Finance",
+          "desc": "Loi sur l'identifiant d'entité juridique. Exigences de transparence des sociétés avec implications de gouvernance IA pour les structures d'entité et la responsabilité décisionnelle."
+        },
+        "gpai": {
+          "deadline": "En vigueur depuis août 2025",
+          "title": "EU AI Act GPAI",
+          "desc": "Obligations de transparence IA à usage général déjà en vigueur. Les entreprises avec clients ou opérations dans l'UE sont déjà soumises : amendes jusqu'à 35 millions d'EUR."
+        }
+      }
+    },
+    "problemStatement": {
+      "title": "Le schéma que je vois régulièrement...",
+      "items": [
+        "Adoption de l'IA plus rapide que la gouvernance ne peut suivre : créant un risque non maîtrisé",
+        "Obligations EU AI Act GPAI déjà actives, mais aucune structure de conformité interne n'existe",
+        "Échéances réglementaires convergentes : Swissdamed, AMLA, LETA, EU AI Act : mais aucune vue consolidée",
+        "Les conseillers externes sont génériques ou orientés grandes entreprises : rien de calibré pour le contexte genevois"
+      ]
+    },
+    "audienceSegments": {
+      "title": "Conçu pour les décideurs genevois",
+      "items": {
+        "executives": {
+          "label": "Dirigeants PME suisses",
+          "problem": "Quatre échéances réglementaires convergentes avant la fin de l'année. Aucune vue consolidée de ce qui s'applique.",
+          "solution": "Architecture décisionnelle qui préserve l'autorité et la clarté sous pression de conformité.",
+          "cta": "Explorer le soutien exécutif"
+        },
+        "boards": {
+          "label": "Conseils et gouvernance",
+          "problem": "Responsabilités de surveillance intensifiées. Décisions IA prises sans structures de gouvernance.",
+          "solution": "Cadres séparant la surveillance de l'exécution avant que les régulateurs ne posent les questions.",
+          "cta": "Découvrir l'approche"
+        },
+        "teams": {
+          "label": "Professionnels seniors",
+          "problem": "Exposition à la responsabilité personnelle grandissant à mesure que l'utilisation de l'IA devient routine. Aucune structure personnelle.",
+          "solution": "Architecture cognitive qui rend le jugement plus clair et plus défendable.",
+          "cta": "Voir les formats"
+        },
+        "professionals": {
+          "label": "Conseillers indépendants",
+          "problem": "Besoins de gouvernance IA des clients émergents. Aucun cadre pour répondre de manière crédible.",
+          "solution": "Infrastructure-conseil fondée sur la logique de gouvernance, pas des modèles de conseil génériques.",
+          "cta": "Construire votre OS"
+        }
+      }
+    },
+    "servicesSummary": {
+      "title": "Formats d'engagement",
+      "items": {
+        "diagnostic": {
+          "title": "Diagnostic décisionnel exécutif",
+          "duration": "2-5 jours",
+          "desc": "Cartographier votre exposition réglementaire et vos frictions décisionnelles. Identifier ce qui doit être en place avant le 1er juillet 2026."
+        },
+        "architecture": {
+          "title": "Architecture décisionnelle et de gouvernance",
+          "duration": "6-12 semaines",
+          "desc": "Concevoir et déployer les structures de gouvernance qui maintiennent la clarté décisionnelle à mesure que les obligations de conformité s'intensifient."
+        },
+        "os": {
+          "title": "Infrastructure décisionnelle personnelle",
+          "duration": "3-4 séances",
+          "desc": "Construire votre système cognitif personnel : calibré pour le contexte professionnel genevois et la réalité réglementaire."
+        }
+      }
+    },
+    "process": {
+      "title": "Comment je travaille",
+      "steps": {
+        "diagnose": {
+          "title": "Diagnostiquer",
+          "desc": "Cartographier les flux décisionnels, l'exposition réglementaire et les lacunes de gouvernance IA dans votre organisation"
+        },
+        "design": {
+          "title": "Concevoir",
+          "desc": "Structurer la gouvernance, les protocoles d'escalade et les cadres décisionnels IA construits pour votre contexte"
+        },
+        "deploy": {
+          "title": "Déployer",
+          "desc": "Intégrer les structures qui tiennent sous la pression réglementaire réelle, pas seulement en théorie"
+        }
+      }
+    },
+    "valueProps": {
+      "title": "Pourquoi travailler avec moi",
+      "items": {
+        "governance": {
+          "title": "Spécifique à Genève",
+          "desc": "Structures ancrées dans la réalité réglementaire suisse : pas des cadres importés."
+        },
+        "confidentiality": {
+          "title": "Confidentiel",
+          "desc": "Conseil de haut niveau à Genève. Ce qui reste ici, reste ici."
+        },
+        "pragmatism": {
+          "title": "Opérationnel",
+          "desc": "Gouvernance qui fonctionne sous pression réelle : pas un théâtre de conformité."
+        }
+      }
+    },
+    "finalCta": {
+      "title": "Douze semaines, c'est suffisant. Si vous commencez maintenant.",
+      "cta": "Réserver un échange de diagnostic"
     }
   }
 }
