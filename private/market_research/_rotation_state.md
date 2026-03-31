@@ -19,13 +19,13 @@
 - Skipped: All web searches (MiniMax 8% quota); primary research (owner approval); EN copywriting (owner approval); FR translation (owner approval); staging landing pages (owner approval); CRM setup (owner approval)
 - **CYCLE 34 COMPLETE — ADVANCING TO Phase 03 Cycle 34**
 
-## Phase 01 Status: COMPLETE [CYCLE 34 — DONE 2026-03-31]
-- Directory: 20260331_phase01_geneva_legal_cycle34
-- Key findings: ⭐ NEW: 43% law firms NO formal AI policy + NO plans (Wolters Kluwer March 2026); 90%+ legal AI individual use confirmed; only 9% enforced formal AI policy; 57% cite AI errors/hallucinations as top threat; 46-point governance gap confirmed (69% individual vs 23% formal policies — Cycles 32-33); FDPIC enforcement absent from legal sector = timing signal; Swissdamed Jul 1 ~13 WEEKS; Andermatt May 26 ~8 WEEKS; EU AI Act Aug 2 ~19 WEEKS
-- Lead magnet: "The Small Law Firm AI Governance Question" — Cycle 34: 43% no formal AI policy + no plans NEW primary urgency lever; 90%+ individual AI use; 46-point governance gap; FDPIC enforcement gap timing signal; Swissdamed/Andermatt/EU AI Act deadline cluster
-- GitHub push: ✅ DONE (commit 178a413 → origin/phase05-push)
+## Phase 01 Status: COMPLETE [CYCLE 35 — DONE 2026-03-31]
+- Directory: 20260331_phase01_geneva_legal_cycle35
+- Key findings: ⭐ NEW: 65% law firms save 1-5h/week with generative AI (Legartis 2026); 61% European in-house lawyers AI use (ANBLES Feb 2026); 40% potential workflow reduction from AI; 14% specialized vs 56% general tools — adoption depth gap; CASUS Swiss-hosted zero data retention confirmed; Spellbook targeting SMB law firms (competitive signal); Geneva AI Action Summit 2027 confirmed; FADP consultation draft end-2026; Phase 01 Cycle 34 43% no-policy + 46-point governance gap + Swissdamed ~13 WEEKS + Andermatt ~8 WEEKS + EU AI Act ~19 WEEKS carry-forward
+- Lead magnet: "The Small Law Firm AI Governance Question" — Cycle 35: 65% efficiency gain NEW urgency lever; CASUS zero data retention (Swiss solution); 43% no-policy primary urgency (Wolters Kluwer Mar 2026); 90%+ individual AI use; 46-point governance gap; FDPIC enforcement absent = timing signal
+- GitHub push: ✅ DONE — commit 11f8031 → origin/phase05-push
 - Skipped: Primary research (owner approval), EN copywriting (owner approval), FR translation (owner approval), staging landing pages (owner approval), CRM setup (owner approval)
-- **CYCLE 34 COMPLETE — ADVANCING TO Phase 02 Cycle 34**
+- **CYCLE 35 COMPLETE — ADVANCING TO Phase 02 Cycle 35**
 
 ## Phase 02 Status: COMPLETE [CYCLE 33 — DONE 2026-03-31]
 - Directory: 20260331_phase02_geneva_finance_cycle33
