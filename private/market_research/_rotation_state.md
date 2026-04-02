@@ -1,5 +1,15 @@
 # Phase Rotation State
 
+## C80 Phase Status
+| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
+|-------|-----------|--------|---------------------|-------------|
+| Phase 01 Geneva Legal | 20260403_phase01_geneva_legal_cycle80 | COMPLETE ✓ | Swiss Arbitration Centre 2025 record: 125 cases (+25%), CHF 4.4B dispute, 47% women arbitrators, emergency proceedings +100%; Swiss Arbitration Summit 2026 recap (600+, 30+ jurisdictions, Law Rocks, TEF Rules conference); ASA Advocacy Prize 2026 Jern-Fei Ng KC (Mar11); Geneva Bar new Bâtonnier Jan2026; DIFC courts enforcement cases (Carmon v Cuenda, Trafigura v Gupta); ASA Below 40 tribunal fact-finding debate | 996e6aa |
+| Phase 02 Geneva Finance | 20260403_phase02_geneva_finance_cycle80 | COMPLETE ✓ | Franklin Templeton CH best year in 10+ years (3-channel model, Benji tokenized cash, Private Markets 3-5%→10-20%); BCGE board Dominique Le Doeuil (ex-Cargill Intl Geneva CFO) replacing Jean-Olivier Kerr Apr28; SFTI 10yr Stephanie Wickihalder: Open Pension end-November SIX multi-banking live, only Lombard Odier among major private banks in SFTI; March primary market CHF 10.3B (3rd busiest March), SIX secondary CHF 14.1B (+36% YoY) | e2a0774 |
+| Phase 03 Geneva Consulting | 20260403_phase03_geneva_consulting_cycle80 | COMPLETE ✓ | Starmind (Swiss AI pioneer 2010) acquired by US Capacity ($60M ARR, PepsiCo/Roche/Accenture clients, Marc Vontobel quote); Project Switzerland 10 scale-ups (160→10, CHF 270.2M, 550 employees, CHF 56.6M rev, 133% YoY); Kandou $225M Series A (EPFL, Synopsys/Cadence investors); SICTIC All Stars May21 Bern new; Swiss Startup Association new CEO; Venture Kick 1,000th startup (Stellar Alpina) | f9862b2 |
+| Phase 04 Brotons Content | 20260403_phase04_brotons_content_cycle80 | COMPLETE ✓ | 12 Brotons editorial angles from C80 Ph01-03; 3 HIGH priority (Swiss Arbitration record, FINMA AI deadline, Starmind exit); 90-day editorial calendar with timing; Brotons.net = landing page only (content on Substack); Substack "Clarity Under Constraint" 3 months old; FR version location unconfirmed | d4be5c8 |
+| Phase 05 DigitalCoa Competitive | 20260403_phase05_digitalcoa_competitive_cycle80 | COMPLETE ✓ | 11 white space vectors (7 confirmed C79 + 4 NEW: Starmind quote hook "fail from not reaching people who know", Swiss banking transformation, SFTI membership gap fast-follower need, corporate arbitration governance); FR version URL unconfirmed; HSBC Alfonso Gómez Apr27 immediate outreach trigger; DigitalCoa governance-first unique vs law firm InnovationLabs + Big4 | 64b54d7 |
+| Phase 06 DigitalCoa Regulatory | 20260403_phase06_digitalcoa_regulatory_cycle80 | COMPLETE ✓ | SIF "Fintech-Nation Schweiz" Mar27 2026 (new publication); SIF "Nachhaltigkeit im Finanzsektor" Mar27 2026; FINMA guidance docs confirmed on site (titles require JS); SIF annual Finanzplatz update likely Apr2026; FINMA AI guidance Jun2026 still key trigger; FADP/Art97/Art101 confirmed from C79 | 4e5a9c2 |
+
 ## C79 Phase Status
 | Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
 |-------|-----------|--------|---------------------|-------------|
@@ -151,16 +161,16 @@ C76 complete — all 6 phases pushed to GitHub staging (f80144b). Proceeding to 
 
 ---
 
-## C79 COMPLETE ✓
-All 6 phases complete. Advancing to C80 Phase 01 on next rotation.
+## C80 COMPLETE ✓
+All 6 phases complete. Advancing to C81 Phase 01 on next rotation.
 
-**Cycle 79 Summary:**
-- P01 Geneva Legal: 5 NET-NEW (SATW Geneva 2027 AI Summit 3 strategic goals, Plateforme Tripartite 300 members/80 federal Verwaltungsausschuss, Federal Chancellery AI contact point Feb 2026, Legal500 AI compliance framework, Pestalozzi Art.97/101 CO liability debate)
-- P02 Geneva Finance: 6 NET-NEW (SFTI Open Pension API implementation, HSBC Geneva new CEO Alfonso Gómez Apr27, Q1 2026 CHF31B primary market (+6%), Tareno crypto no longer optional, Lombard Odier 4 Asia hires, Liechtenstein Pfandbrief debut)
-- P03 Geneva Consulting: 7 NET-NEW (dEEGtal AI health milestones + CHF 4-5M seed Q2, UBS strategic investment in Artificialy, SICTIC Sep 24 FONGIT Geneva confirmed, FONGIT CHF 1B+/250+/1800+, Delta Labs EUR 4.4M AI seed, GENILEM 4 Romandy startups, Swiss VC gender gap 7%)
-- P04 Brotons Content: 12 editorial angles + 9-item calendar (Geneva AI Summit 2027, FONGIT CHF 1B+, FINMA Jun26, SICTIC May21, Swiss VC gender gap, Plateforme Tripartite, Swiss capital market resilience)
-- P05 DigitalCoa Competitive: 5 white space vectors confirmed + HSBC outreach trigger + 4 new DigitalCoa content hooks
-- P06 DigitalCoa Regulatory: 7 NET-NEW (FADP applies to AI NOW, FINMA Jun26 8 weeks, Art97/101 CO debate, Federal Chancellery AI contact point Feb2026, OFCOM non-binding end-2026, copyright AI pending, PLA revisions anticipated)
+**Cycle 80 Summary:**
+- P01 Geneva Legal: 6 NET-NEW (Swiss Arb Centre record 125 cases +25%/67 countries/CHF4.4B/47% women, ASA Summit recap 600+/Law Rocks/TEF Rules, ASA Advocacy Prize Jern-Fei Ng KC, Geneva Bar new Bâtonnier Jan2026, DIFC courts Carmon v Cuenda/Trafigura v Gupta, ASA Below 40 tribunal fact-finding debate)
+- P02 Geneva Finance: 4 NET-NEW (Franklin Templeton CH best year in 10+, BCGE board Dominique Le Doeuil ex-Cargill, SFTI 10yr Open Pension end-Nov confirmed, March primary market CHF10.3B/SIX secondary +36% YoY)
+- P03 Geneva Consulting: 6 NET-NEW (Starmind acquired by Capacity, Project Switzerland 10 scale-ups 133% YoY/CHF270M, Kandou $225M Series A, SICTIC All Stars Bern new, Venture Kick 1000th startup, Swiss Startup Assoc new CEO)
+- P04 Brotons Content: 12 editorial angles synthesized + 90-day calendar + Brotons.net/Substack assessment
+- P05 DigitalCoa Competitive: 11 white space vectors (4 NEW: Starmind quote hook, Swiss banking transformation, SFTI membership gap, corporate arbitration governance)
+- P06 DigitalCoa Regulatory: 5 NET-NEW (SIF Fintech-Nation Mar27, SIF Nachhaltigkeit Mar27, FINMA guidance docs confirmed, SIF Finanzplatz Apr update imminent, FADP/Art97 confirmed from C79)
 
-## Telegram Announcement (C79 All 6 Phases Complete)
-C79 complete — all 6 phases pushed to GitHub staging (32ae4de through 110eda1). Proceeding to C80 Phase 01.
+## Telegram Announcement (C80 All 6 Phases Complete)
+C80 complete — all 6 phases pushed to GitHub staging (996e6aa through 4e5a9c2). Proceeding to C81 Phase 01.
