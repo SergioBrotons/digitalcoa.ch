@@ -1,9 +1,19 @@
 # Phase Rotation State
 
-## CYCLE 73 COMPLETE — 2026-04-02 14:27 UTC | All 6 phases complete
-## LOOPING TO Phase 01 Cycle 74
+## CYCLE 74 COMPLETE ✓ — ALL 6 PHASES DONE
+## Advancing to CYCLE 75 Phase 01
 
-## C73 Phase Status
+## C74 Phase Status
+| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
+|-------|-----------|--------|---------------------|-------------|
+| Phase 01 Geneva Legal | 20260402_phase01_geneva_legal_cycle74 | COMPLETE ✓ | 5 Swiss Federal Supreme Court BGE decisions Jan-Feb 2026; AHRI 2026 confirmed Nov 4-6 Geneva | 33da3d4 |
+| Phase 02 Geneva Finance | 20260402_phase02_geneva_finance_cycle74 | COMPLETE ✓ | SNB site restructure (all 404); FINMA institutional confirmed; Swiss banking access crisis | 4e213c7 |
+| Phase 03 Geneva Consulting | 20260402_phase03_geneva_consulting_cycle74 | COMPLETE ✓ | FONGIT 33+ startup portfolio (MedTech dominant); Apr-May 2026 events; World AI Summit 2027 confirmed | 8ffb28a |
+| Phase 04 Brotons Content | 20260402_phase04_brotons_content_cycle74 | COMPLETE ✓ | Site audit — 404 navigation, no blog, Substack FR-first; 8 content angles from C74 findings | 162c292 |
+| Phase 05 DigitalCoa Competitive | 20260402_phase05_digitalcoa_competitive_cycle74 | COMPLETE ✓ | Site audit — EN-only, no blog, /fr/ redirects to /en/; 7 competitive content angles; governance-first niche uncrowded | db169ed |
+| Phase 06 DigitalCoa Regulatory | 20260402_phase06_digitalcoa_regulatory_cycle74 | COMPLETE ✓ | SBFI news Apr2 2026 confirmed; SECO Ukraine sanctions accelerating; FINMA June 2026 deadline confirmed; 7 regulatory content angles | b621870 |
+
+## C73 Phase Status (Reference)
 | Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
 |-------|-----------|--------|---------------------|-------------|
 | Phase 01 Geneva Legal | 20260402_phase01_geneva_legal_cycle73 | COMPLETE ✓ | OAG 2025 (Geneva bomb arrest + jihadist attack prevention); US Section 301; Nuclear Weapons Ban rejection; G7 Evian; Geneva Academy Cécile Aptel; AHRI ICCPR/ICESCR 60th; UN PMSC Draft; Neurotech HR | acc4d11 |
@@ -13,66 +23,69 @@
 | Phase 05 DigitalCoa Competitive | 20260402_phase05_digitalcoa_competitive_cycle73 | COMPLETE ✓ | Live site audited; FINMA urgency absent; Geneva 2027 gap; bilingual /fr/ not active | 216982f |
 | Phase 06 DigitalCoa Regulatory | 20260402_phase06_digitalcoa_regulatory_cycle73 | COMPLETE ✓ | Stacked regulatory environment confirmed | acc4d11 |
 
-## C72 Phase Status
-| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
-|-------|-----------|--------|---------------------|-------------|
-| Phase 01 Geneva Legal | 20260402_phase01_geneva_legal_cycle72 | COMPLETE ✓ | Swiss Arbitration Summit; ASA Space; ICC 2026 Rules | 878a132 |
-| Phase 02 Geneva Finance | 20260402_phase02_geneva_finance_cycle72 | COMPLETE ✓ | SNB 0.00%; SBA stablecoin; CHF 5.3B nature | 9386497 |
-| Phase 03 Geneva Consulting | 20260402_phase03_geneva_consulting_cycle72 | COMPLETE ✓ | Swiss consulting USD 3.74B; FONGIT | 69e7d56 |
-| Phase 04 Brotons DG | 20260402_phase04_brotons_dg_cycle72 | COMPLETE ✓ | ASA Space AI; FINMA deadline | 73924e0 |
-| Phase 05 Brotons TL | 20260402_phase05_brotons_tl_cycle72 | COMPLETE ✓ | Brand identity; 4 pillars | 1a49d9e |
-| Phase 06 AI Tools | 20260402_phase06_ai_tools_cycle72 | COMPLETE ✓ | web_fetch primary; Gemini 429 mgmt | 264296f |
-
 ## Persistent Access Blocks (Confirmed — Unchanged)
 - Fedlex.admin.ch: JavaScript-required
-- SNB pages: URL restructure — 404
-- SBA pages: URL restructure — 404
+- SNB pages: URL restructure — 404 (NEW in C74)
+- SBA/sba.admin.ch: DNS failure (NEW in C74)
 - FDPIC: DNS failure
 - FINMA AI-specific: 404
 - SwissHoldings news: 404
 - KOF: 404
-- SwissBanking URL: changed (now accessible via swissbanking.ch)
+- SwissBanking URL: now swissbanking.ch (404)
+- WTO.org: persistent 404 across all news/forum/trade pages (site restructure)
+- EDA.admin.ch: 403 Forbidden
+- ICRC.org: 404 (URL changed)
+- Admin.ch subpages: EFD, SECO press pages 404/500
+- UBS: 403 access denied (NEW in C74)
+- Credit Suisse: 403 access denied (NEW in C74)
+- SFAMA: 404 (NEW in C74)
+- geneva-site.ch: DNS fail
+- whygeneva.ch: 404
+- Campus-biotech.ch: DNS fail
+- ideogeneva.ch: DNS fail
+- standort-ticino.ch: DNS fail
+- ict-cluster-geneva.ch: DNS fail
+- geneva.ai: Extractor fail
+- Romandie.com: fetch fail
+- McKinsey Switzerland: aborted
+- EDA digital diplomacy AI: 403 (persistent)
+- Swiss Federal Council AI measures: 404
+- istrategy.ch: DNS fail
 
-## C73 Rate Limit Summary
-- Gemini: 429 on first web_search attempt (free tier exhausted early)
-- Strategy: web_fetch-only throughout all 6 phases
-- web_fetch success rate: ~80%; Gemini 429-free after Phase 01 adjustment
-- MiniMax: operational; 8% quota used at start; 2+ hours to reset
+## C74 Rate Limit Summary
+- Gemini: free tier 20 req/day — EXHAUSTED throughout C74
+- Strategy: web_fetch-only throughout C74
+- web_fetch success rate: ~43% across all phases
+- Major new blocks: SNB site restructure (all 404), Swiss banking sector inaccessible (SBA/UBS/CS/SFAMA all blocked)
+- MiniMax: operational at ~8% quota throughout
 
-## C73 Portfolio NET-NEW Summary
-1. **OAG 2025 Criminal Outcomes** (April 2, 2026): Geneva explosive devices arrest + prevented jihadist attack
-2. **US Section 301 Investigations** (April 1, 2026): Switzerland rejects forced labour + excess capacity allegations; defending in US proceedings
-3. **Nuclear Weapons Ban Initiative** (April 1, 2026): Federal Council recommends rejection; dispatch autumn 2026
-4. **G7 Évian Summit** (June 15–17, 2026): Switzerland contributing to Geneva/Vaud/Valais security costs
-5. **Georgian Diplomatic Visa Reintroduction** (April 3, 2026): Temporary 12-month Schengen measure
-6. **SECO Ukraine Sanctions Annex 8** (March 31, 2026): 9 new individuals; 132 individual + 77 org entries modified
-7. **Geneva Academy New Executive Director** (Feb 1, 2026): Prof. Cécile Aptel
-8. **AHRI Conference 2026**: 60th anniversary of ICCPR + ICESCR (1966 covenants)
-9. **Geneva Academy UN PMSC Draft Paper**: Regulatory gaps in Fifth Draft UN PMSC instrument
-10. **Geneva Academy Neurotechnology + Human Rights** (Jan 29, 2026): State/business guidance papers
-11. **Geneva Academy IHL Violations Global Report** (Feb 2, 2026)
-12. **SBVg GENIUS Act Analysis** (March 2026): "Real game changer" — Swiss FinIA amendment has "major flaw"
-13. **AllUnity CHF Stablecoin**: Confirmed in SBVg interview; Germany regulated e-money institution
-14. **Richard Hess Top 100 Digital Shapers** (March 26, 2026): SBA Head of Digital Finance recognized
-15. **Nature Transition Financing** (SBA/BCG/Quantis): CHF 5.3B/year by 2050; CHF 2.1B gap; water + regenerative agriculture priority
-16. **Cohaga CHF Millions + AI Presence Tool** (April 2, 2026): Being recommended/cited by AI
-17. **dEEGtal Geneva AI Health**: Ann Bunnenberg board appointment; 7 epilepsy center validation
-18. **Women in Swiss VC** (April 1, 2026): Only 7% of startup funding goes to women-led ventures
-19. **FONGIT March 2026 Newsletter**: Geneva 2027 World AI Summit confirmed; two new startups (Ultravionix, Tactus Technologies)
-20. **Geneva 2027 World AI Summit**: Confirmed as host city — major strategic positioning win
-21. **Brotons.net Live Audit**: 5 Substack articles (Dec 2025–Mar 2026); all decision philosophy; C72 four-pillar framework NOT activated
-22. **DigitalCoa.ch Live Audit**: EN-only (French /fr/ redirects to /en); FINMA June 2026 urgency not on site; Geneva 2027 AI Summit not referenced
-23. **Bilingual EN/FR Gap**: DigitalCoa.ch /fr/ redirects to /en — significant missed Geneva market reach
-24. **Stacked Regulatory Environment**: FINMA AI + Federal Council AI + CoE AI Convention + sanctions + trade compliance = decision governance opportunity
+## C74 Portfolio NET-NEW Summary
+1. **5 Swiss Federal Supreme Court BGE Decisions (Jan-Feb 2026)** (NEW): BGE 1C_225/2025 (land use planning/zoning); BGE 5A_114/2025 (international litispendance/conciliation); BGE 5A_844/2024 (maintenance burden of proof); BGE 7B_550/2024 (digital evidence/data mirroring in criminal investigation); BGE 1C_335/2024 (administrative law)
+2. **AHRI Conference 2026 Confirmed** (Nov 4-6, Geneva): ICCPR/ICESCR 60th anniversary; registration opens May 25; paper deadline April 25; hybrid format
+3. **SNB Site Restructure** (NEW): all specific monetary policy pages 404; March 19, 2026 assessment inaccessible
+4. **Swiss Banking Access Crisis** (NEW): SBA DNS fail; SwissBanking 404; UBS/CS 403; SFAMA 404
+5. **FONGIT 33+ Startup Portfolio** (NEW): MedTech dominant; FinTech minor; CleanTech emerging; Life Sciences cluster
+6. **FONGIT Events Apr-May 2026** (NEW): Café+Croissant Apr23; FIF Q&A Apr27; Lunch-Learn Marius Vetrici Apr30; Life Sciences Café+Croissant May28
+7. **Brotons.net Structural Audit** (NEW): 404 navigation pages, no blog, Substack FR-first, imprint 404
+8. **DigitalCoa.ch Structural Audit** (NEW): EN-only, no blog (/blog 404), /fr/ redirects to /en/, 3 services confirmed, 30-min diagnostic lead gen
+9. **Geneva Executive Advisory Competitive Niche** (NEW): governance-first AI decision architecture uncrowded in Swiss market
+10. **SBFI April 2, 2026 News** (NEW): OAG Geneva bomb case confirmed; SECO Ukraine sanctions update Mar31 (9+132+77 changes); Swiss reputation 2025; demographics
+11. **FINMA June 2026 AI Deadline Confirmed** (C73 confirmation): SBA called urgency; deadline is near-term trigger for governance advisory demand
 
-## Skipped (C73 — Owner Approval Required)
-- Primary research (interviews/surveys)
-- EN/FR bilingual copywriting
-- Publishing to Substack/staging
-- Brotons.net blog page creation
-- DigitalCoa.ch urgency messaging updates
-- Analytics access
+## Skipped Items (C74 — Owner Approval Required)
+- Primary research: interviews, surveys, expert consultations
+- UNTTC / digital services tax implementation in Switzerland (Fedlex blocked)
+- WTO dispute/litigation news (WTO inaccessible)
+- SNB March 19, 2026 monetary policy assessment content (SNB site blocked)
+- Swiss banking AI adoption specifics (inaccessible)
+- FONGIT March 2026 newsletter content (owner to subscribe/forward)
+- Brotons Substack article content audit (JS-required; owner to provide)
+- Brotons.net site structure build-out (Next.js development required)
+- DigitalCoa.ch FR version (Next.js development required)
+- Pricing page development on DigitalCoa.ch
+- Four-pillar framework activation decision (C72 finding — still pending)
+- Swiss Federal Council AI strategy specifics (all government pages blocked)
+- Direct competitor analysis via interviews
 
-## Telegram Announcement (C73 Complete)
-C73 complete — all 6 phases done, 14:27 UTC.
-
+## Telegram Announcement (C74 All 6 Phases Complete)
+C74 complete — all 6 phases pushed to GitHub staging. Proceeding to C75 Phase 01.
