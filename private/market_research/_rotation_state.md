@@ -1,5 +1,45 @@
 # Phase Rotation State
 
+## C86 Phase Status — Phase 01 COMPLETE ✓ | Phase 02 QUEUED
+
+| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
+|-------|-----------|--------|---------------------|-------------|
+| Phase 01 Geneva Legal | 20260403_phase01_geneva_legal_cycle86 | **COMPLETE ✓** | ASA Apr23 CCIG "Arbitrage et l'espace" (Rapp Paris/Spacetalk Lausanne); Geneva 2025: 120K+ cases, civil +5.8%, bankruptcy +82%; Geneva Civil Court provisional measures Feb20 (unfair competition); Federal Supreme Court decisions Mar2+16; Geneva Commercial Court proposal ODAGE+GILA Sep2025 (Sandrine Giroud lead); CPC Jan2025 international commercial courts framework | PENDING |
+| Phase 02 Geneva Finance | 20260403_phase02_geneva_finance_cycle86 | **QUEUED** | — | — |
+| Phase 03 Geneva Consulting | — | PENDING | — | — |
+| Phase 04 Brotons Content | — | PENDING | — | — |
+| Phase 05 DigitalCoa Competitive | — | PENDING | — | — |
+| Phase 06 DigitalCoa Regulatory | — | PENDING | — | — |
+
+**C86 in progress. Phase 02 awaiting Gemini quota reset (~Apr 4, 2026).**
+
+## C85 Phase Status — ALL COMPLETE ✓
+
+| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
+|-------|-----------|--------|---------------------|-------------|
+| Phase 01 Geneva Legal | 20260403_phase01_geneva_legal_cycle85 | **COMPLETE ✓** | Lex On Swissness IP rule change Mar23; Corela Clinic Police Tribunal ruling Apr1; WTO 28yr e-commerce moratorium expired Mar31; HUG DPI+ co-development; Quai 9 relocation 2030 | PENDING |
+| Phase 02 Geneva Finance | 20260403_phase02_geneva_finance_cycle85 | **COMPLETE ✓** | SpaceX IPO $75B/$1,750B; MBaer/FinCen exclusion (Julius Baer dynasty); Iran war WTI $113+ historic WTI>Brent inversion; PrimeEnergy sister arrested Geneva; BNP Paribas WM CHF safe haven confirmed | PENDING |
+| Phase 03 Geneva Consulting | 20260403_phase03_geneva_consulting_cycle85 | **COMPLETE ✓** | Swiss innovation fragility (EPF budget cuts + scale-up VC gap); Kandou AI $225M (Vaud); RIVR acquired Amazon; Ecorobotix 1,000 machines + US; Federal Council LGDE counter-proposal; Swiss demographics first seniors>youths | PENDING |
+| Phase 04 Brotons Content | 20260403_phase04_brotons_content_cycle85 | **COMPLETE ✓** | 8 content angles synthesized; TIER 1: Lex On/Swissness rule change (IP); Swiss innovation at crossroads; Geneva finance Iran war + MBaer + SpaceX IPO | PENDING |
+| Phase 05 DigitalCoa Competitive | 20260403_phase05_digitalcoa_competitive_cycle85 | **COMPLETE ✓** | 5 positioning angles: Swissness board IP risk; Iran tariffs CFO exposure; Konzernverantwortungsinitiative governance; HUG DPI+ vs CHUV Epic AI governance; EPF fragility talent pipeline | PENDING |
+| Phase 06 DigitalCoa Regulatory | 20260403_phase06_digitalcoa_regulatory_cycle85 | **COMPLETE ✓** | IPI Swissness reinterpretation; LGDE consultation (Konzernverantwortungsinitiative, Jul9); WTO digital tariff moratorium expired Mar31; Hospital AI governance (HUG DPI+/CHUV Epic); FinCen/MBaer Iranian money laundering exclusion | PENDING |
+
+**C85 complete. Advancing to C86 Phase 01 on next rotation.**
+
+## C84 Phase Status — ALL COMPLETE ✓
+
+**C84 complete. C85 Phase 01 complete. Advancing to C85 Phase 02 on next rotation.**
+
+## C84 Phase Status
+| Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
+|-------|-----------|--------|---------------------|-------------|
+| Phase 01 Geneva Legal | 20260403_phase01_geneva_legal_cycle84 | COMPLETE ✓ | ASA Geneva Apr23 2026 space arbitration conference ("L'arbitrage et l'espace") — Lucien Rapp + Benjamin Guyot (Spacetalk); Swiss Arb events calendar: ASA below 40 Spring Seminar Geneva, ASA/DIAC Arabian desert retreat, 6th CCC26 Zurich, ASA Fall Conference tribunal dynamics, Cyprus geopolitics+arbitrage; DIFC Digital Economy Court (DEC) launched — AI/blockchain/UAVs/robotics jurisdiction, 5yr growth strategy; CCIG Apr16 mobility debate, Apr22 HR Digital, May5 internal investigations crisis management, May6-8 Barcelona delegation | PENDING |
+| Phase 02 Geneva Finance | 20260403_phase02_geneva_finance_cycle84 | COMPLETE ✓ | BCGE AGM Apr28 confirmed (Le Doeuil/Kerr transition); CHF 185M bond launched Mar26 "strong demand"; SMI 14,014 Feb2026 record (+6.3%); SIX turnover CHF 155bn (+14.5% YoY); structured products double YTD 42,000+; SIX pan-European strategy (BME+Aquis); BCGE Social Bond CHF 100M May2024 detail; Damien Contamin Apr2026 sustainable finance; Nicolas Mougeot AI paradox Mar2026; BCGE youth gold ingot/first home offers Apr-May 2026 | PENDING |
+| Phase 03 Geneva Consulting | 20260403_phase03_geneva_consulting_cycle84 | COMPLETE ✓ | Venture Kick 1,251 startups (+251 since March milestone); FONGIT portfolio refresh: AzureCell (cancer), AngelWave (neuro), Aligna3D (ortho), Global Dermatology, TheraPPI, FlyDesk (PropTech), Joipaw (PetTech); FONGIT Apr23 Café+Croissant, Apr27 FIF Q&A, Apr30 AI workshop Marius Vetrici; corpod robotics CHF 40K confirmed detailed; SICTIC investor days confirmed May21/Aug25/Sep24 | PENDING |
+| Phase 04 Brotons Content | 20260403_phase04_brotons_content_cycle84 | COMPLETE ✓ | 8 content angles synthesized: 4 TIER 1 (space arbitration Apr23, DIFC DEC vs Swiss Arbitration, Venture Kick 1,251 deep tech maturation, SMI institutional quality decision), 3 TIER 2 (BCGE internationalization, geopolitics+arbitration early warning, Geneva health tech cluster), 1 TIER 3 (Geneva mobility); Brotons Substack audit skipped — owner required | PENDING |
+| Phase 05 DigitalCoa Competitive | 20260403_phase05_digitalcoa_competitive_cycle84 | COMPLETE ✓ | DigitalCoa.ch no changes; 3 white space signals: FINMA AI guidance June2026 (~8 weeks away), DIFC Digital Economy Court forum choice problem, BCGE AI Jevons paradox validates market need; HSBC Alfonso Gomez unchanged from C83; competitor landscape unchanged | PENDING |
+| Phase 06 DigitalCoa Regulatory | 20260403_phase06_digitalcoa_regulatory_cycle84 | COMPLETE ✓ | EDÖB AI guidance unchanged since Sep2025; FINMA AI guidance June2026 ~8 weeks away; SIF Fintech-Nation + Nachhaltigkeit Mar27 2026 confirmed stability-over-speed; Swiss AI Convention no legislative update | PENDING |
+
 ## C83 Phase Status
 | Phase | Directory | Status | Key NET-NEW Finding | GitHub Push |
 |-------|-----------|--------|---------------------|-------------|
