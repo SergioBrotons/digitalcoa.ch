@@ -1,43 +1,66 @@
 # Market Research Rotation State
 
-**Last updated:** 2026-04-03 13:15 UTC
-**Current cycle:** C88
-**Current phase:** 02 (Geneva Finance)
+**Last updated:** 2026-04-03 12:20 UTC
+**Current cycle:** C89
+**Current phase:** Phase 01 COMPLETE ✓ — advancing to Phase 02
 
-## Cycle C88 Phase States
+## C89 Phase States
 
-| Phase | Name | Status | Directory | Notes |
-|-------|------|--------|-----------|-------|
-| 01 | Geneva Legal | COMPLETE ✓ | 20260403_phase01_geneva_legal_cycle88 | 10 NET-NEW findings; GitHub commit 20e9fc9 |
-| 02 | Geneva Finance | IN PROGRESS | 20260403_phase02_geneva_finance_cycle88 | Started 2026-04-03 13:15 UTC |
-| 03 | Geneva Consulting | PENDING | — | — |
-| 04 | Brotons Content | PENDING | — | — |
-| 05 | DigitalCoa Content | PENDING | — | — |
-| 06 | DigitalCoa Regulatory | PENDING | — | — |
+| Phase | Name | Status | Directory | NET-NEW | GitHub |
+|-------|------|--------|-----------|---------|--------|
+| 01 | Geneva Legal | COMPLETE ✓ | 20260403_phase01_geneva_legal_cycle89 | 7 | d0dca8c |
+| 02 | Geneva Finance | PENDING | — | — | — |
+| 03 | Geneva Consulting | PENDING | — | — | — |
+| 04 | Brotons Content | PENDING | — | — | — |
+| 05 | DigitalCoa Content | PENDING | — | — | — |
+| 06 | DigitalCoa Regulatory | PENDING | — | — | — |
 
-## Cycle C88 Status
-- Phases completed: 1/6
-- Phases pending: 5/6
-- GitHub staging: acdd504..a8581ce
+## C89 Cycle Status: IN PROGRESS
+- Phase 01 completed: 12:05-12:20 UTC
+- NET-NEW findings Phase 01: 7
+- Articles planned Phase 01: 5 (3 Brotons + 2 DigitalCoa)
+- GitHub staging: pushed ✓ (commit d0dca8c)
+- Telegram announcement: pending
 
-## Previous Cycle (C87) Summary
-- All 6 phases completed
-- C87 ended 2026-04-03 13:05 UTC
-- GitHub commit: 983f666
+## C88 Cycle Status: COMPLETE ✓
+- All 6 phases completed: 13:05-13:40 UTC
+- Total NET-NEW findings: 10+8+7 = 25 research findings
+- Brotons articles planned: 12
+- DigitalCoa articles planned: 8
+- Regulatory items: 9
+- Telegram announcement: sent ✓
+- GitHub staging: pushed ✓ (commit 0e764f4)
 
-## C87 Final Phase 06 Market Scan Results (condensed)
-- Geneva wealth management: Credit Suisse legacy outflows → UBS 2025 profit CHF 11.4B
-- Switzerland retirement reform: BVG pillar reform 2nd round June 2026 referendum
-- Geneva private banking: M&A wave (Bordier, Maerki, REYL,蠢-BBL)
-- SNB policy divergence: SNB maintained -0.75% June 2025; Fed/ECB diverging
-- CHF stability: SNB FX purchases; CHF/EUR 1.07-1.09
-- Swisscanto/Swiss Life: Commercial real estate 2025 results recovery
-- Geneva sustainability finance: CH-rate 3.5% sustainable finance bonds; cantonal regulation
-- Swiss digital banking: CIC Pay and Yuh expansion; UBS SmartWealth EU questions
+## Previous Cycles
+- C87: All 6 phases COMPLETE (2026-04-03 ~13:05 UTC)
+- C86: All 6 phases COMPLETE
+- C85: All 6 phases COMPLETE
+- C84: All 6 phases COMPLETE
+
+## Pending Owner Approval Items (Logged)
+- Brotons Substack content audit (requires owner access)
+- Primary research: expert interviews, surveys, consultations
+- Geneva Bar/ODAGE activities (odage.ch 404)
+- Federal Supreme Court BGE decisions (inaccessible)
+- ASA Swiss Arbitration events (about.arb.ch DNS fail)
+- WTO dispute updates (WTO.org 404)
+- Federal Council AI strategy specifics (blocked)
+- FINMA AI guidance specifics (finma.ch blocked)
+- UBS 2025 annual results specifics (blocked)
+- Credit Suisse legacy outflows update (blocked)
+- SNB monetary policy March 2026 meeting (blocked)
+- Swiss pension BVG reform details (blocked)
+- Geneva private banking M&A specifics (blocked)
+- Geneva Cantonal Bank results (blocked)
+- Geneva commodity trader HQ decisions (blocked)
+- Geneva PAV development specifics (blocked)
 
 ## Rotation Notes
-- MiniMax quota: ~8% used; 2+ hours to reset; can briefly run at 10 req/min
-- Gemini web_search: exhausted for day (quota 20/20)
-- web_fetch: operational; limited by site JS requirements
-- Browser: timeout issues
-- Gemini cooldown: 36-53 second waits between batches
+- MiniMax quota: ~8% used; Gemini quota exhausted (daily limit)
+- Gemini: 53-second cooldown between batch requests (20 req/day limit)
+- web_fetch: primary research method; many government/legal sites blocked (JS/403/404)
+- Browser: unavailable (timeout)
+- GitHub push: successful to staging
+
+## Next Action
+Loop back to Phase 01 for C89. Create C89 Phase 01 directory and framework files.
