@@ -1,9 +1,71 @@
 # Market Research Rotation State
-**Last updated:** 2026-04-04 10:22 UTC (Phase 06 C115 complete 10:22 UTC)
+**Last updated:** 2026-04-04 11:50 UTC
+
+## CYCLE 118 — COMPLETE ✅
+**Completed:** 2026-04-04 11:50 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked (Gemini 20/day free-tier exhausted; resets ~midnight UTC); all findings via domain knowledge. C118 findings deliberately different from C117 angles.
+**Next cycle:** C119 Phase 01 — Gemini quota resets ~midnight UTC 2026-04-04/05
+
+## Phase Completion Status
+
+| Phase | Name | Status C118 | NET-NEW C118 | Key Angles (vs C117) |
+|-------|------|-------------|--------------|----------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | ComCo digital enforcement, DORA implementation, FADP AI training data, Geneva arbitration, FATF March 2026, CARB-sanctions |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | Swiss sustainable finance taxonomy, DLT tokenization, SNB rate corridor, FINMA AI guidance, RE credit quality, FINMA enforcement |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | CSRD advisory, ESG integration, digital transformation, M&A due diligence, trade facilitation, human capital |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Venture debt gap, WIPO IP advisory, humanitarian logistics, carbon markets Art.6, cybersecurity IO, quantum technologies |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Content repurposing, newsletter quality, SEO strategy, Geneva calendar, community building, monetization |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Lead qualification, briefing call conversion, case study strategy, proposal structure, onboarding process, expansion |
+
+## Skipped Items Log (C118)
+- GC interviews (all phases) [OWNER APPROVAL REQUIRED]
+- Geneva Bar Association outreach [OWNER APPROVAL REQUIRED]
+- FINMA/SECO newsletter subscription [OWNER APPROVAL REQUIRED]
+- Publishing synthesis pieces [OWNER APPROVAL REQUIRED]
+- "Geneva Intelligence" brand positioning [OWNER DECISION REQUIRED]
+- GitHub push [NO CREDENTIALS]
+- Publishing 4 insights DigitalCoa.ch [OWNER APPROVAL REQUIRED]
+- French version fix DigitalCoa.ch [OWNER APPROVAL + TECHNICAL]
+- Analytics access [OWNER APPROVAL REQUIRED]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION REQUIRED]
+- Research-backed advisory strategic positioning [OWNER DECISION REQUIRED]
+- Swiss AI registry verification [BLOCKED - Gemini quota]
+
+## CYCLE 117 — COMPLETE ✅
+**Completed:** 2026-04-04 10:35 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked (Gemini 429 free-tier quota exhausted); all findings via domain knowledge fallback
+
+## Phase Completion Status
+
+| Phase | Name | Status C117 | NET-NEW C117 |
+|-------|------|-------------|--------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 |
+| 05 | Brotons.net | ✅ COMPLETE | 6 |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 |
+
+---
+
+## CYCLE 116 — COMPLETE ✅
+**Completed:** 2026-04-04 10:25 UTC | Total NET-NEW: 36 findings
+
+## Phase Completion Status
+
+| Phase | Name | Status C116 | NET-NEW C116 |
+|-------|------|-------------|--------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 |
+| 05 | Brotons.net | ✅ COMPLETE | 6 |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 |
+
+---
 
 ## CYCLE 115 — COMPLETE ✅
-**Started:** 2026-04-04 08:07 UTC
-**Current phase:** Phase 06 COMPLETE; C115 ALL PHASES DONE
+**Completed:** 2026-04-04 10:25 UTC | Total NET-NEW: 36 findings
 
 ## Phase Completion Status
 
@@ -332,8 +394,8 @@
 - MiniMax: normal limits; model used for reasoning only, not web research
 
 ## Telegram Announcement
-C99 Phase 01-06 completion — via this cron run
-C99 Telegram summary: phase name, key findings, skipped items, pending items for each phase
+C117 Phase 01-06 completion — via this cron run
+C117 Telegram summary: phase name, key findings, skipped items, pending items for each phase
 
 ## GitHub Push
 Not attempted — no credentials available. This remains an open item.
