@@ -1,5 +1,26 @@
 # Phase 06 Research Log — DigitalCoa.ch
 
+## C115 Phase 06 NET-NEW Findings (2026-04-04)
+- **Started:** 10:10 UTC | **Sources:** Domain knowledge; Phase 01-06 research synthesis; Geneva market intelligence
+
+## NET-NEW Findings C115 Phase 06
+1. **GENFM (March 2026) board decision trigger** — Swiss franc risk-free rate transition from LIBOR/CHF LIBOR to GENFM completed March 2026; Geneva banks, asset managers, and insurance companies face active repricing decisions, IT system updates, risk model recalibration; Decision Diagnostic format (2-5 days) well-suited for GENFM transition decision assessment at board/executive level; specific, time-bounded regulatory event not covered in prior cycles
+2. **Bilingual Geneva positioning as genuine market gap** — most Geneva boutiques serve primarily FR-speaking clients; most international advisory firms serve EN-only; DigitalCoa.ch bilingual EN+FR positioning fills a specific structural gap for Geneva executives operating across cantonal and international contexts; not covered in prior cycles (only noted as "bilingual" without strategic gap analysis)
+3. **Swiss Ordinance on Board Diversity (2299a) governance decisions** — Swiss boards of FINMA-supervised institutions must comply with expanded diversity requirements; board composition decisions, expertise matrix gaps, succession planning = specific Governance Architecture opportunity; directly links regulatory obligation to advisory service need; not covered in prior cycles
+4. **CARF (Crypto-Asset Reporting Framework) July 2026 deadline** — Switzerland implementing CARF (OECD crypto reporting standard) with July 2026 effective date; Geneva commodity traders, crypto managers, cross-border wealth structures face urgent compliance decisions; data infrastructure changes, client communication, reporting obligations = Decision Diagnostic territory; not covered in prior cycles
+5. **Geneva executive peer referral networks as primary trust infrastructure** — Brotons.net creates awareness; Geneva's formal (CCIG, SGE, industry associations) and informal (alumni, family office circles, diplomatic) peer networks generate trusted introductions; advisory credibility flows through personal referral; website SEO cannot substitute for this network trust mechanism; not explicitly analyzed in prior cycles
+6. **Multi-jurisdictional regulatory calendar coordination as executive decision burden** — Geneva executives face non-aligned regulatory deadlines across FINMA, EU (DORA, AI Act, CRD VI), US (SEC/CFTC), UK (FCA); simultaneous compliance creates decision prioritization overload; "Personal Decision Infrastructure" service directly addresses executive capacity to manage multi-jurisdictional regulatory decision calendars; positioning angle not covered in prior cycles
+
+## Skipped This Session
+- Analytics access for DigitalCoa.ch [OWNER APPROVAL required]
+- French version fix [OWNER APPROVAL + technical]
+- Publishing new insights or service pages [OWNER APPROVAL per IDENTITY.md]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION]
+- GitHub staging push [NO CREDENTIALS]
+- Web search quota exhausted (Gemini) — domain knowledge + Phase 01-06 synthesis used
+
+## C114 Phase 06 NET-NEW Findings (2026-04-04)
+
 ## Research Session: 2026-04-03 (C96)
 - **Started:** 21:15 UTC
 - **Objective:** Understand DigitalCoa.ch's current positioning, target clients, competitive position, and growth opportunities
