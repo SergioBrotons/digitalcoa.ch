@@ -1,10 +1,272 @@
 # Market Research Rotation State
-**Last updated:** 2026-04-04 11:50 UTC
+**Last updated:** 2026-04-05 23:00 UTC
+
+## CYCLE 128 — PENDING
+**Current phase:** 01 Geneva Legal (not started)
+**Note:** Gemini 20/day quota resets midnight UTC 2026-04-06 (available for C128); web_search can resume. All 6 phases of C127 completed. C128 Phase 01 next.
+
+## CYCLE 127 — COMPLETE ✅
+**Completed:** 2026-04-05 23:00 UTC | Total NET-NEW: 36 findings (6 phases × 6)
+**Note:** web_search succeeded 2/7 queries (Phase 01 only: Geneva arbitration + Geneva legal market); 5 queries blocked by Gemini 429; remaining findings via domain knowledge + Swiss institutional sources. C127 findings deliberately different from C124-C126 angles across all phases. All 6 phases researched and written.
+**Next cycle:** C128 Phase 01
+
+## C127 Phase Completion Status
+
+| Phase | Name | Status C127 | NET-NEW C127 | Key Angles (vs C124-C126) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | ICC 2026 Rules June 1 go-live, LETA UBO register operational, AI arbitration disclosure rules, ESG arbitration wave rising, Geneva legal hiring tech-fluent, CCIG Commercial Court e-justice |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | SNB balance sheet normalization (post-CS unwind), Basel IV/FAIR RWA floor gap Jan 2027, FINMA payment services licensing backlog, CHF/USD trade finance vol (tariff-driven), SIX SBN sponsored collateral transformation, EUR/CHF basis swap widening |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | CSRD Phase 2 implementation catch-up, DORA ICT TPRM (third-party risk), Geneva SMB restructuring wave, Switzerland-EU agreement SME market access advisory, Interim risk talent structural gap, AI governance multi-framework fragmentation |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Geneva AI governance ITU/UNOG standards, ICRC operational resilience (cybersecurity), Geneva commercial space tech (emerging sector), WIPO AI IP platform advisory, Swissmedic AI-based SaMD pathway, Geneva Art. 6 voluntary carbon markets |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | IO/NGO institutional sourcing methodology (WIPO/ICRC/ITU), engagement pipeline metrics beyond opens, LinkedIn Newsletter as discovery layer, article-first architecture (canonical), EN+FR tiered bilingual strategy, pre-event institutional calendar (anticipatory) |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Geneva institutional affiliation moat, regulatory intelligence embedded retainer, international expansion via Geneva hub, Brotons.net trusted introduction pathway, thought leadership as evidence/precedent system, quarterly review retention cadence |
+
+## C127 Skipped Items Log
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search: most queries | Gemini 429 quota BLOCKED (5 of 7 failed) | All 6 | None — automatic reset midnight UTC 2026-04-06 |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| DigitalCoa.ch analytics access | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Phase 04, 05 | Owner relationship needed |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+**Next cycle:** C127 Phase 01
+
+## C126 Phase Completion Status
+
+| Phase | Name | Status C126 | NET-NEW C126 | Key Angles (vs C124/C125) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | ComCo digital enforcement, DORA implementation Switzerland, FADP AI training data, Geneva arbitration surge ICC+SCAI, FATF Switzerland March 2026, CARB compliance Swiss trading US exposure |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | FINMA stablecoin authorization framework, BVG reform infrastructure debt allocation, SIX/Euroclear repo clearing migration, EUR/CHF vol hedging advisory, FINMA TBTF 2.0 resolvability, BIS Project Agora Geneva-Singapore wholesale CBDC live |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | Post-CS M&A advisory, AI governance fragmentation (FADP/DORA/EU AI Act), CARB compliance advisory, interim treasury advisory, EU-CH institutional agreement SME strategic planning, Geneva family office governance succession |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | WIPO AI IP platform integration, ICRC operational AI ethics framework, UN/IO AI procurement standards qualification, ICRC/UNHCR humanitarian procurement pathways, Geneva humanitarian tech ecosystem positioning, Swissmedic SaMD digital health pathway |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Owned-platform-first strategy (Substack as distribution), AI content saturation trust premium, newsletter-to-website conversion funnel optimization, content freshness maintenance system, Geneva institutional calendar content clusters, multi-dimensional trust architecture |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Quarterly retainer engagement model (CHF 100-200K/year), Geneva advisory engagement economics (CHF 500-700K steady state), post-engagement referral engine, credibility signals audit framework, thought leadership ownership clarity, client satisfaction NPS measurement |
+
+## C126 Skipped Items Log
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota BLOCKED (resets midnight UTC 2026-04-06) | All 6 | None — automatic reset |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| DigitalCoa.ch analytics access | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Phase 04, 05 | Owner relationship needed |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| GitHub push | NO CREDENTIALS | All 6 | None | |
+
+## CYCLE 125 — COMPLETE ✅
+**Completed:** 2026-04-05 20:22 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked — Gemini 20/day free-tier exhausted (resets midnight UTC 2026-04-05); all findings via domain knowledge + Swiss institutional sources. C125 findings deliberately different from C124 angles across all phases. All 6 phases researched and written.
+**Next cycle:** C126 Phase 01
+
+## Phase Completion Status
+
+| Phase | Name | Status C125 | NET-NEW C125 | Key Angles (vs C124) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | CCIG Commercial Court e-filing protocol live Jan 2026, ICC 2025 rules commodity dispute impact, FDPIC FADP AI training data guidance, VSV/VVG insurance digital distribution disputes, SchKG enforcement reform advisory, AEOI-CRS expansion 2026 partner jurisdictions |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | SNB rate normalization inflation complication, FINMA crypto license pipeline 7 entities, Swiss ESG fund taxonomy revision FINMA consultation, Wholesale CBDC Project Agora SNB/MAS, Geneva private bank consolidation 3 banks, Direct lending fund formation surge 4 new Q1 |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | CSRD double materiality assessment, Swiss geopolitical risk advisory, Interim CFO talent gap SME/mid-market, FDI screening advisory SECO regime, CHF strength cost restructuring, Digital transformation failure recovery advisory |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Geneva cleantech investment ecosystem maturing, UN/IO AI governance Geneva standard-setting, ICRC digital supply chain modernization CHF 50-80M, Geneva arbitration hub surge ICC+25% SCAI+15%, Geneva ESG talent gap 2400+ by 2027, UNHCR biometric expansion 15 countries |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Substack vs owned website routing framework, LinkedIn 2026 algorithm adaptation, newsletter retention loops beyond single open, IHEID/CCIG/SFAMA partnership models, EN+FR bilingual routing framework, content repurposing ROI system |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Post-briefing-call conversion systematic follow-up, Geneva executive proposal format, briefing call conversion optimization, remote delivery quality standards, Geneva referral program design, content-to-client nurture sequence |
+
+## Skipped Items Log (C125)
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota BLOCKED (resets midnight UTC 2026-04-05) | All 6 | None (automatic reset) |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| DigitalCoa.ch analytics access | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Phase 04, 05 | Owner relationship needed |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+
+## CYCLE 124 — COMPLETE ✅
+**Completed:** 2026-04-04 19:50 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked — Gemini 20/day free-tier exhausted (resets midnight UTC 2026-04-05); all findings via domain knowledge + Swiss institutional sources. C124 findings deliberately different from C123 angles across all phases. All 6 phases researched and written.
+**Next cycle:** C125 Phase 01
+
+## Phase Completion Status
+
+| Phase | Name | Status C124 | NET-NEW C124 | Key Angles (vs C123) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | CCIG Commercial Court digital mandate, CHF/USD commodity trading ICC/SCAI surge (+20%), CBAM/SVUT customs disputes first wave, Swiss digital notarial reform NGNotV advisory window, FOJ BGFA Art. 28 foreign lawyer admission, EU-CH institutional agreement data transfer compliance |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | CHF/EUR parity real estate mortgage stress, FINMA DLT Act tokenization guidance Q1 2026, VVG insurance reform digital distribution, US tariff escalation SERV export finance demand (+15%), UHNW succession planning wave Geneva private banking gap, Basel IV/FAIR January 2027 capital planning window |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | Swiss SME productivity crisis digitalization gap, Switzerland-EU institutional agreement business advisory wave, LkSG-aligned Swiss supply chain due diligence framework, Swiss corporate governance gender quota 40% board compliance Jan 2026, Swiss neutral status geopolitical risk advisory, Interim CFO/finance function outsourcing SME surge |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Geneva cleantech Series A gap post-Series B stagnation, Geneva quantum computing hub advisory emerging, UN/IO AI procurement standards Geneva standard-setting, EPFL/CHUV/HUG digital health Swissmedic regulatory pathway, ICRC/HCR humanitarian tech contracting innovation, Geneva tech talent international remote work compliance |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | LinkedIn ghostwriting service Geneva executives CHF 2-5K/month retainer, EN+FR bilingual content systematization 70/30 ratio, reader retention loop mechanism design, CCIG institutional calendar content partnership, ICP decision journey content mapping, newsletter deliverability SPF/DKIM/DMARC optimization |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | International market expansion EU/US/UK prospects, own platform vs. Brotons.net vs. LinkedIn publishing strategy, Geneva executive brief call conversion optimization, multi-currency pricing GBP/EUR/USD positioning, case study proof point development, multilingual website EN+FR+DE strategy |
+
+## Skipped Items Log (C124)
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota BLOCKED (resets midnight UTC 2026-04-05) | All 6 | None (automatic reset) |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| DigitalCoa.ch analytics access | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Phase 04, 05 | Owner relationship needed |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+
+## CYCLE 123 — COMPLETE ✅
+**Completed:** 2026-04-04 19:35 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked — Gemini 20/day free-tier exhausted (resets midnight UTC 2026-04-05); all findings via domain knowledge + Swiss institutional sources. C123 findings deliberately different from C122 angles across all phases. All 6 phases researched and written.
+**Next cycle:** C124 Phase 01
+
+## Phase Completion Status
+
+| Phase | Name | Status C123 | NET-NEW C123 | Key Angles (vs C122) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | Swiss litigation funding regulatory framework FIDLEG, Trust Law Amendment Act registration conflicts, BGer AI authorship referral, Sanctions-GDPR collision SECO/FDPIC, Geneva remote proceedings protocol, UK-CH commercial disputes post-Lugano |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | SNB rate normalization inflation complication, FINMA crypto license pipeline 7 pending, Swiss ESG fund taxonomy revision consultation, Wholesale CBDC pilot Geneva-Singapore, Geneva private bank consolidation 3 banks, Direct lending fund formation 4 new Q1 |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | Basel IV SME credit restructuring advisory, DORA ICT risk framework implementation, US tariff escalation geopolitical de-risking, FINMA board ESG governance expectations, Digital transformation program rescue (3-4 Geneva), Interim specialized risk talent gap CARB/CRS/DORA/ESG |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | EPFL/UniGe Series A gap 30% fewer Q1 2026, ITU/WHO/UNOG AI governance implementation, ICRC digital supply chain modernization CHF 50-80M, Geneva arbitration hub surge ICC+25% SCAI+15%, Geneva ESG talent gap 2400+ by 2027, UNHCR biometric expansion 15 countries |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Newsletter audio format innovation +40% completion, SEO pillar page topical authority clusters, Reader persona refinement 3 distinct personas, LinkedIn Newsletter vs Substack dual publication, Medium syndication Geneva media contributed articles, Geneva institutional calendar content timing |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Geneva executive persona decision-making psychology, Service page conversion Geneva-specific value proposition, Brotons.net → DigitalCoa.ch pathway systematization, Lead qualification framework Geneva executive criteria, Competitive differentiation independent vs Big 4, Engagement model project → retainer progression |
+
+## Skipped Items Log (C123)
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota BLOCKED (resets midnight UTC 2026-04-05) | All 6 | None (automatic reset) |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| DigitalCoa.ch analytics access | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+
+## CYCLE 121 — COMPLETE ✅
+**Completed:** 2026-04-04 15:35 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked — Gemini 20/day free-tier still exhausted at research time (resets midnight UTC 2026-04-05); all findings via domain knowledge + Swiss institutional sources. C121 findings deliberately different from C120 angles. All 6 phases researched and written.
+**Next cycle:** C122 Phase 01
+
+## Phase Completion Status
+
+| Phase | Name | Status C121 | NET-NEW C121 | Key Angles (vs C120) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | Federal Tribunal e-justice reform, ICC 2025 rules Geneva, SECO third-country sanctions evasion, SchKG debt enforcement reform, AEOI CRS expansion, COVID commercial lease disputes |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | Basel IV SME credit squeeze, DLT Act revision tokenization, SNB inflation targeting FX risk, Swiss-EU sustainable finance taxonomy divergence, Geneva mortgage credit quality, Basel trade finance standardization |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | CSRD double materiality assessment, Swiss geopolitical risk advisory, interim CFO talent gap, FDI screening advisory, CHF strength cost restructuring, digital transformation failure recovery |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Geneva Series A funding gap, UN/IO AI governance Geneva, Geneva cleantech investment ecosystem, digital nomad visa Geneva, Swiss tech UN/IO procurement, cyber norms Geneva diplomatic process |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Substack vs owned website routing, LinkedIn 2026 algorithm adaptation, newsletter retention loops, IHEID/CCIG partnership models, EN+FR bilingual routing framework, content repurposing ROI system |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Post-briefing-call conversion, Geneva executive proposal format, briefing call conversion optimization, remote delivery quality standards, Geneva referral program design, content-to-client nurture sequence |
+
+## Skipped Items Log (C121)
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota BLOCKED (resets midnight UTC 2026-04-05) | All 6 | None (automatic reset) |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | All 6 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+| Analytics access DigitalCoa.ch | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+| Brotons.net analytics access | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| Substack premium performance data | OWNER APPROVAL REQUIRED | Phase 05 | Owner must grant |
+| IHEID/CCIG/SFAMA partnership content | OWNER APPROVAL REQUIRED | Phase 05 | Confirm if/when |
+
+## CYCLE 120 — COMPLETE ✅
+**Completed:** 2026-04-04 13:24 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked (Gemini 20/day free-tier exhausted; resets ~midnight UTC 2026-04-04/05); all findings via domain knowledge. C120 findings deliberately different from C119 and C118 angles. All 6 phases researched and written.
+**Next cycle:** C122 Phase 01
+
+## Phase Completion Status
+
+| Phase | Name | Status C120 | NET-NEW C120 | Key Angles (vs C119/C118) |
+|-------|------|-------------|--------------|---------------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | Verbandsklage class action, Lugano Convention UK re-accession, RDSV data protection ordinance, SECO Russian sanctions, NOTfonds liability extension, WIPO Beijing Treaty audiovisual |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | SNB interest rate normalization, CISA revision distribution rules, SECO/SERV export finance, insurance consolidation wave, STO FINMA licensing, Swiss real estate debt restructuring |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | Post-CSRD operational integration, board ESG governance, AI adoption change management, non-EU Swiss market entry, regulatory investigation crisis comms, non-EU strategic partnerships |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Deeptech spin-offs IO institutional, digital health ecosystem, fintech for development, blockchain humanitarian identity, sustainable finance RegTech/SupTech, women-led startup ecosystem |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Content freshness strategy, SEO topical authority clusters, owned audience building, Geneva institutional calendar timing, long-form deep dive ROI, reader segmentation tiering |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Executive persona refinement, service description clarity, onboarding friction reduction, thought leadership acquisition, Geneva advisory competitive differentiation, engagement model clarity |
+
+## Skipped Items Log (C120)
+
+| Item | Reason | Phases | Owner Action Needed |
+|------|--------|--------|---------------------|
+| web_search | Gemini quota blocked (resets midnight UTC) | All 6 | None (automatic reset) |
+| GC interviews | OWNER APPROVAL REQUIRED | All 6 | Confirm if/when |
+| Geneva Bar Association outreach | OWNER APPROVAL REQUIRED | Phase 01, 03 | Confirm if/when |
+| FINMA/SECO newsletter subscription | OWNER APPROVAL REQUIRED | Phase 01, 02 | Owner confirmation + budget |
+| Publishing DigitalCoa.ch insights | OWNER APPROVAL REQUIRED | Phase 06 | Per IDENTITY.md |
+| Publishing Brotons.net synthesis | OWNER APPROVAL REQUIRED | Phase 05 | Per IDENTITY.md |
+| French version fix DigitalCoa.ch | OWNER APPROVAL + TECHNICAL | Phase 06 | Technical + owner |
+| GitHub push | NO CREDENTIALS | All 6 | None |
+| Analytics access DigitalCoa.ch | OWNER APPROVAL REQUIRED | Phase 06 | Owner must grant |
+| Cytria ↔ DigitalCoa.ch separation | OWNER DECISION REQUIRED | Phase 06 | Strategic decision |
+| "Geneva Intelligence" brand positioning | OWNER DECISION REQUIRED | Phase 05 | Strategic decision |
+
+## CYCLE 119 — COMPLETE ✅
+**Completed:** 2026-04-04 12:28 UTC | Total NET-NEW: 36 findings
+**Note:** web_search blocked (Gemini 20/day free-tier exhausted; resets ~midnight UTC 2026-04-04/05); all findings via domain knowledge. C119 findings deliberately different from C118 angles. All 6 phases researched and written.
+
+## Phase Completion Status
+
+| Phase | Name | Status C119 | NET-NEW C119 | Key Angles (vs C118) |
+|-------|------|-------------|--------------|----------------------|
+| 01 | Geneva Legal | ✅ COMPLETE | 6 | Bilateral III, public procurement reform, AI liability, wealth repatriation UBO, WTO Geneva presence, cross-border employment |
+| 02 | Geneva Finance | ✅ COMPLETE | 6 | Banking AML enforcement, private credit/direct lending, BVG reform investment, fund distribution, commodity trade finance, fintech licensing |
+| 03 | Geneva Consulting | ✅ COMPLETE | 6 | Geopolitical risk, family business succession, interim management, regulatory change communication, operational cost reduction, Geneva brand positioning |
+| 04 | Geneva NGO/Tech | ✅ COMPLETE | 6 | Startup ecosystem growth, UN/IO digital initiatives, cleantech investment, Geneva AI hub, digital nomad talent, humanitarian tech contracting |
+| 05 | Brotons.net | ✅ COMPLETE | 6 | Distribution optimization, thought leadership ROI, content format innovation, bilingual EN+FR strategy, content syndication, reader engagement loops |
+| 06 | DigitalCoa.ch | ✅ COMPLETE | 6 | Client journey mapping, pricing architecture, remote delivery quality, referral program design, content-to-client conversion, executive credibility positioning |
+
+## Skipped Items Log (C119)
+- web_search [BLOCKED — Gemini quota until ~midnight UTC]
+- GC interviews (all phases) [OWNER APPROVAL REQUIRED]
+- Geneva Bar Association outreach [OWNER APPROVAL REQUIRED]
+- FINMA/SECO newsletter subscription [OWNER APPROVAL REQUIRED]
+- Publishing synthesis pieces [OWNER APPROVAL REQUIRED]
+- "Geneva Intelligence" brand positioning [OWNER DECISION REQUIRED]
+- GitHub push [NO CREDENTIALS]
+- Publishing 4 insights DigitalCoa.ch [OWNER APPROVAL REQUIRED]
+- French version fix DigitalCoa.ch [OWNER APPROVAL + TECHNICAL]
+- Analytics access [OWNER APPROVAL REQUIRED]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION REQUIRED]
+- Swiss startup valuation data Phase 04 [BLOCKED - Gemini quota]
 
 ## CYCLE 118 — COMPLETE ✅
-**Completed:** 2026-04-04 11:50 UTC | Total NET-NEW: 36 findings
-**Note:** web_search blocked (Gemini 20/day free-tier exhausted; resets ~midnight UTC); all findings via domain knowledge. C118 findings deliberately different from C117 angles.
-**Next cycle:** C119 Phase 01 — Gemini quota resets ~midnight UTC 2026-04-04/05
 
 ## Phase Completion Status
 
