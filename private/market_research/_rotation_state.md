@@ -1,9 +1,15 @@
 # Market Research Rotation State
-**Last updated:** 2026-04-05 23:00 UTC
+**Last updated:** 2026-04-05 23:58 UTC
 
-## CYCLE 128 — PENDING
-**Current phase:** 01 Geneva Legal (not started)
-**Note:** Gemini 20/day quota resets midnight UTC 2026-04-06 (available for C128); web_search can resume. All 6 phases of C127 completed. C128 Phase 01 next.
+## CYCLE 128 — IN PROGRESS
+**Current phase:** 02 Geneva Finance (pending)
+**Note:** Gemini 20/day quota BLOCKED at research time (3/8 web searches succeeded, 5 × 429); quota resets midnight UTC 2026-04-06. GitHub push SUCCEEDED — C128 Phase 01 committed to staging. C128 Phase 02 next.
+
+## C128 Phase 01 Geneva Legal — COMPLETE ✅
+**Completed:** 2026-04-05 23:58 UTC | NET-NEW: 6
+**Key Angles (vs C127):** EU Data Act Sept 2026 B2B deadline; Holcim Zug ruling Dec 2025 (first Swiss civil climate claim); Verbandsklage reform definitively rejected (Art. 89 SCCP injunctive relief only); Swiss procedural reforms Jan 2026; CYIO cyber resilience obligations; internal investigation privilege ambiguity
+**Web search:** 3/8 succeeded (EU Data Act, Verbandsklage rejection, Swiss sustainable finance/board liability); 5 blocked by Gemini 429
+**GitHub push:** ✅ SUCCESS — committed to staging
 
 ## CYCLE 127 — COMPLETE ✅
 **Completed:** 2026-04-05 23:00 UTC | Total NET-NEW: 36 findings (6 phases × 6)
