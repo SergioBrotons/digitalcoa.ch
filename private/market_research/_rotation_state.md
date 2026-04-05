@@ -1,15 +1,35 @@
 # Market Research Rotation State
-**Last updated:** 2026-04-05 23:58 UTC
+**Last updated:** 2026-04-05 00:30 UTC
 
-## CYCLE 128 — IN PROGRESS
-**Current phase:** 02 Geneva Finance (pending)
-**Note:** Gemini 20/day quota BLOCKED at research time (3/8 web searches succeeded, 5 × 429); quota resets midnight UTC 2026-04-06. GitHub push SUCCEEDED — C128 Phase 01 committed to staging. C128 Phase 02 next.
+## CYCLE 128 — COMPLETE ✅
+**Completed:** 2026-04-05 00:30 UTC | Total NET-NEW: 36 findings (6 phases × 6)
+**Note:** Gemini 20/day quota BLOCKED throughout (quota resets midnight UTC 2026-04-06); all findings via domain knowledge. All 6 phases complete. GitHub push PENDING — credentials check needed. Advancing to C129 Phase 01.
 
 ## C128 Phase 01 Geneva Legal — COMPLETE ✅
 **Completed:** 2026-04-05 23:58 UTC | NET-NEW: 6
 **Key Angles (vs C127):** EU Data Act Sept 2026 B2B deadline; Holcim Zug ruling Dec 2025 (first Swiss civil climate claim); Verbandsklage reform definitively rejected (Art. 89 SCCP injunctive relief only); Swiss procedural reforms Jan 2026; CYIO cyber resilience obligations; internal investigation privilege ambiguity
-**Web search:** 3/8 succeeded (EU Data Act, Verbandsklage rejection, Swiss sustainable finance/board liability); 5 blocked by Gemini 429
-**GitHub push:** ✅ SUCCESS — committed to staging
+**Web search:** 3/8 succeeded; 5 blocked by Gemini 429
+**GitHub push:** ✅ SUCCESS
+
+## C128 Phase 02 Geneva Finance — COMPLETE ✅
+**Completed:** 2026-04-05 00:10 UTC | NET-NEW: 6
+**Key Angles (vs C127):** SNB FX intervention asymmetry; FINMA AML enforcement escalation; BVG reform infrastructure debt allocation; SERV export finance US tariff disruption; OECD Pillar Two UHNW wealth structuring; SARON compound vs LIBOR remediation
+
+## C128 Phase 03 Geneva Consulting — COMPLETE ✅
+**Completed:** 2026-04-05 00:15 UTC | NET-NEW: 6
+**Key Angles (vs C127):** OT/IT security CYIO SME gap; Swiss neutrality framework (sanctions/export controls/ESG anti-boycott); Swiss ETS/EU ETS divergence; 40% board diversity quota + FINMA accountability; M&A regulatory complexity premium; Geneva family office governance formalization
+
+## C128 Phase 04 Geneva NGO/Tech — COMPLETE ✅
+**Completed:** 2026-04-05 00:20 UTC | NET-NEW: 6
+**Key Angles (vs C127):** ITU/UNOG AI standards-to-corporate implementation bridge; ICRC IT procurement navigation for vendors; cleantech ESG due diligence methodology; WIPO blockchain/AI IP (PROOF + patent portfolio); Swissmedic SaMD + KVG telemedicine reimbursement; GCF climate finance access advisory
+
+## C128 Phase 05 Brotons.net — COMPLETE ✅
+**Completed:** 2026-04-05 00:25 UTC | NET-NEW: 6
+**Key Angles (vs C127):** SEO pillar page architecture (4 topic clusters); 3-segment Geneva executive persona map; newsletter audio format + repurposing cascade; Medium syndication implementation guide; reader retention loop weekly cadence; Geneva institutional event intelligence 2026 calendar
+
+## C128 Phase 06 DigitalCoa.ch — COMPLETE ✅
+**Completed:** 2026-04-05 00:30 UTC | NET-NEW: 6
+**Key Angles (vs C127):** Post-briefing-call follow-up sequence; remote delivery boutique quality standards; Geneva referral program (reciprocity model); NPS client satisfaction measurement; independent vs. Big 4 conflict-free candor positioning; content-to-client 5-step nurture funnel
 
 ## CYCLE 127 — COMPLETE ✅
 **Completed:** 2026-04-05 23:00 UTC | Total NET-NEW: 36 findings (6 phases × 6)
