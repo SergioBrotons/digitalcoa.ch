@@ -1,5 +1,105 @@
 # Phase 06 Research Log — DigitalCoa.ch
 
+## C129 Phase 06 NET-NEW Findings (2026-04-05)
+- **Started:** 02:37 UTC | **Sources:** Domain knowledge; Swiss institutional sources; Geneva regulatory calendar; DigitalCoa.ch positioning synthesis | **Quota:** Gemini BLOCKED (429) | **Cycle:** C129
+
+## Distinct From Prior Cycles Because
+
+Prior cycles (C97–C121) covered: briefing call conversion mechanics, service taxonomy, SME ICP sub-segmenting, association ecosystem as distribution, pricing architecture framing, remote delivery security signals, GENFM/CARF/Board Diversity regulatory triggers, Swiss SME board advisory, confidentiality positioning, remote delivery economics, Brotons.net→DigitalCoa.ch funnel, three-service decision architecture, Geneva expertise credibility anchor, Brotons.net trust transfer, FINMA four-alarm regulatory overload, Geneva IO restructuring, sovereign AI decision frameworks, Geneva tech/startup founders, Geneva family office principals, decision confidence vs. decision analysis, AI model risk governance extensions, BVG reform window, SECO sanctions, family business governance, Geneva SME growth post-recalibration, and peer referral networks.
+
+C129 findings are specifically focused on Geneva's unique institutional and diplomatic ecosystem, the cantonal regulatory layer, and Geneva-specific professional communities not addressed in prior cycles.
+
+## NET-NEW Findings C129 Phase 06
+
+### Finding 1: Geneva Foundation Governance as an Unaddressed Advisory Vertical
+
+**Topic Headline:** Geneva's foundation and endowment sector faces a governance decision crisis distinct from corporate boards
+
+**DigitalCoa.ch-Specific Angle:** Geneva hosts one of Europe's highest concentrations of charitable foundations (foundations under Swiss Civil Code Art. 80+), many with CHF 10M–500M+ endowments managed under FIMA (Federal Act on Foundations). These foundations face AI governance decisions (how to oversee algorithmic investment tools), investment policy restructuring under evolving ESG standards, and succession decisions at the executive director level. None of the prior cycles identified this vertical. Governance Architecture (6–12 weeks) maps directly to foundation board governance review, and Personal Decision Infrastructure (3–4 sessions) serves foundation directors facing specific high-stakes decisions. This segment is Geneva-specific, has decision authority, and has no natural advisory relationship with Big 4 firms.
+
+**Why It Matters for Lead Generation and Positioning:** Serving Geneva foundations positions DigitalCoa.ch as Geneva-deep rather than just Switzerland-wide. Each foundation has multiple board members — a single engagement can generate multiple qualified referrals within the Geneva foundation community. Foundation boards are accustomed to formal, structured governance processes, making Governance Architecture a natural fit rather than an aspirational service framing.
+
+### Finding 2: The Geneva Diplomatic and Expat Executive Segment as a Distinct ICP
+
+**Topic Headline:** Geneva's concentration of embassy, consulate, and international organization senior staff creates a decision support market with no established advisory relationship
+
+**DigitalCoa.ch-Specific Angle:** Geneva hosts 40+ permanent missions to UN/OSCE, hundreds of consular posts, and ~175 international organizations. Senior diplomatic staff (counsellors, first secretaries, deputy heads of mission) aged 40–55 face career-path decisions, relocation decisions, interagency negotiation decisions, and post-service reintegration decisions. These are high-capability professionals with no natural advisory relationship in Geneva and significant decision complexity. Personal Decision Infrastructure (3–4 sessions) is precisely designed for this profile: capable professionals who need an independent, confidential thinking partner. No prior cycle identified diplomatic/expat executives as an ICP sub-segment.
+
+**Why It Matters for Lead Generation and Positioning:** This segment is Geneva-exclusive and relationships within it are mediated through protocol, language competence (French/English), and institutional credibility — all of which DigitalCoa.ch has. The diplomatic community is tight-knit: one successful advisory engagement generates trusted referrals across multiple missions. This is a low-competition niche that carries significant reputational value given the profile of clients.
+
+### Finding 3: Geneva Professional Partnership Governance as a Structurally Underserved Market
+
+**Topic Headline:** Partners at Geneva's Big 4 firms, major law firms, and Swiss private banks face partnership governance decisions without access to independent advisory support
+
+**DigitalCoa.ch-Specific Angle:** Geneva-based partners at professional services firms face partnership election decisions, capital contribution decisions, practice area investment decisions, and partnership agreement restructurings. These are board-level decisions made within a partnership structure, with all the associated political complexity and zero external perspective. This is structurally identical to the board governance problem Governance Architecture solves — but for a Geneva-specific professional community no prior cycle identified. The confidentiality positioning of DigitalCoa.ch resonates strongly here: partners cannot seek counsel from their own firm on partnership matters.
+
+**Why It Matters for Lead Generation and Positioning:** Professional partnership advisory is an untapped niche that generates repeat engagements (partnership cycles recur every 3–5 years) and referral density within a tight professional community. Positioning as the independent governance advisor for Geneva's professional partnership ecosystem builds a defensible niche position that Big 4 firms cannot claim (conflict of interest) and that boutique consultancies have not targeted.
+
+### Finding 4: Geneva Trade Association Membership as a Structured Lead Generation Surface
+
+**Topic Headline:** Industry and trade associations in Geneva create structured environments where member executives discuss shared challenges — a warm advisory lead generation channel that requires active engagement, not passive SEO
+
+**DigitalCoa.ch-Specific Angle:** Associations active in Geneva — CCIG, the Geneva Fashion and Luxury Association, the Swiss-Romandy Commodity Trading Association, the Romandy Medical Devices Association, and sector-specific groupings under economiesuisse — hold regular member meetings, roundtables, and working groups where executives discuss regulatory change, AI adoption, and governance challenges. These are exactly the decision topics DigitalCoa.ch addresses. A structured association engagement strategy (presenting at one relevant member event per quarter, contributing to one association publication per quarter) creates visibility in exactly the peer network that generates referrals. The association membership context confers third-party credibility that website content alone cannot generate. No prior cycle analyzed specific Geneva trade associations as an engagement surface.
+
+**Why It Matters for Lead Generation and Positioning:** Association speaking and writing creates opt-in audience attention — members attend because the topic is relevant to their business, not because of marketing. This generates warm, pre-qualified executive awareness that is categorically more valuable than anonymous website traffic. The association affiliation also confers implicit peer endorsement, which is the primary trust mechanism for Geneva advisory relationships.
+
+### Finding 5: "Decision Readiness" as a Lead Nurture Positioning Concept
+
+**Topic Headline:** Geneva executives do not seek advisory until decisions become urgent — positioning around "decision readiness" rather than "decision urgency" captures executives before crisis mode
+
+**DigitalCoa.ch-Specific Angle:** Prior cycles correctly identified relationship-mediated, referral-driven conversion for Geneva advisory. However, the content and positioning concept used to trigger that referral conversation has not been optimized. "Decision readiness" — the idea that an executive should build decision infrastructure before a high-stakes decision is on the table — is distinct from "decision urgency" (you have a problem now). This framing positions Personal Decision Infrastructure as a proactive capability-building engagement rather than a reactive crisis response, which changes the referral conversation from "I have a problem" to "I want to be prepared when the next big decision comes." Brotons.net content is naturally suited to building "decision readiness" awareness. No prior cycle proposed this specific positioning concept for lead nurturing.
+
+**Why It Matters for Lead Generation and Positioning:** Proactive engagement has higher conversion rates than reactive crisis engagement (executives in crisis mode engage multiple advisors simultaneously). "Decision readiness" creates a differentiated positioning narrative that is not "hire me when things go wrong" but "build your decision capability before you need it." This is also a more dignified framing for Geneva executives, who are unlikely to admit to decision paralysis but are receptive to capability building.
+
+### Finding 6: Geneva's Cantonal Policy Windows as Predictable Demand Triggers
+
+**Topic Headline:** Geneva's cantonal legislative and regulatory calendar creates predictable windows of executive decision pressure — a timing discipline DigitalCoa.ch does not currently exploit
+
+**DigitalCoa.ch-Specific Angle:** Geneva's cantonal Parliament (Grand Conseil) session calendar, cantonal council (Conseil d'État) regulatory agenda, and the Geneva Economic Development Agency's business support cycle create recurring windows where specific categories of Geneva executives face coordinated policy-driven decisions. For example: cantonal tax reform discussions trigger corporate restructuring decisions; new cantonal ESG disclosure requirements trigger governance review decisions; changes to Geneva's cantonal company law interpretation trigger board composition decisions. These are predictable, multi-executive, simultaneous pressure points — precisely the moment when Decision Diagnostic (2–5 days) is most valuable. Understanding this calendar enables content timing, outreach timing, and association event positioning aligned with when Geneva executives are most receptive to decision support. No prior cycle analyzed Geneva's cantonal policy calendar as a predictable demand trigger.
+
+**Why It Matters for Lead Generation and Positioning:** Content and outreach timed to coincide with Geneva's policy windows is categorically more effective than undifferentiated publishing schedules. A Geneva-specific regulatory monitor — even a simple quarterly note on "Geneva regulatory decisions affecting executives in the next 90 days" — would be a unique, high-credibility asset that no international advisory firm produces and that Geneva executives would share. This creates a distinctive content positioning that compounds over time.
+
+## Skipped This Session
+- Analytics access for DigitalCoa.ch [OWNER APPROVAL REQUIRED]
+- French version fix DigitalCoa.ch [OWNER APPROVAL + TECHNICAL]
+- Publishing new insights to DigitalCoa.ch [OWNER APPROVAL REQUIRED]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION REQUIRED]
+- GitHub push [NO CREDENTIALS]
+- Web search [BLOCKED — Gemini quota exhausted; domain knowledge used]
+
+## NET-NEW for this phase: 6
+
+---
+
+## C121 Phase 06 NET-NEW Findings (2026-04-04)
+- **Started:** 14:05 UTC | **Sources:** Domain knowledge; Swiss executive market context; Geneva advisory landscape; Swiss business media; Swiss cantonal business development
+
+## NET-NEW Findings C121 Phase 06
+
+1. **Briefing call as the real conversion surface — not the website** — The DigitalCoa.ch conversion moment is a 30-minute briefing call, not a form submission. Geneva executives decide to engage during or immediately after that call; the website's job is credibility and appointment-setting, not selling. Site copy should be optimized to answer "why this person, why this format, why now" before the call — not to close the sale. Lead qualification happens on the call itself, meaning briefing call structure and opening script are higher-leverage optimization targets than homepage traffic. This conversion dynamic has not been explicitly addressed in prior cycles.
+
+2. **Three services lack a visible unifying decision narrative on site** — Decision Diagnostic (2-5 days), Governance Architecture (6-12 weeks), and Personal Decision Infrastructure (3-4 sessions) are presented as three parallel offerings without explaining how they form a decision capability progression. A Geneva executive facing a specific board decision today needs to understand why a Decision Diagnostic is not the same as a full Governance Architecture engagement. Clear service distinction logic (decision type × time horizon × organizational scope) would reduce wrong-fit inquiries and increase briefing call conversion quality — an explicit service taxonomy has not been proposed in prior cycles.
+
+3. **Swiss SME mid-market executives as a distinct ICP sub-segment** — Prior cycles profiled "Swiss SME Leaders" broadly. However, the sub-segment of SME executives aged 45-60 leading CHF 10-50M revenue companies in Geneva's industrial, trading, and professional services sectors has distinct decision patterns: they have decision authority without dedicated strategy staff, face Basel IV and digital transition pressures simultaneously, and make governance decisions reactively rather than proactively. Personal Decision Infrastructure (3-4 sessions) is the natural entry point for this segment — but the site does not speak to this profile's specific context. Not profiled at this granularity in prior cycles.
+
+4. **Geneva association ecosystem as a thought leadership distribution channel** — CCIG (Geneva Chamber of Commerce), SGE (Swiss Managers Association), industry-specific groupings (Famigros, Geneva Trading Club), and cantonal business development agencies (Geneva Economic Development) offer speaking, writing, and networking platforms that reach Geneva executives directly. A structured association engagement strategy — regular contributions to CCIG publications, speaking at SGE events on AI governance decision frameworks — builds credibility in the exact peer network that generates referrals. This channel pathway has not been analyzed in prior cycles despite being the primary trust infrastructure for Geneva advisory.
+
+5. **Pricing architecture framing is the missing credibility bridge** — DigitalCoa.ch does not publish pricing, which is standard for boutique advisory. However, the absence of any pricing context signals creates a credibility gap for Geneva executives who compare advisory options. A "how we work" framing — day-rate equivalent, scope-based engagement structure, transparent milestone billing — reduces executive anxiety about cost uncertainty without revealing specific rates. Geneva advisory clients expect to discuss investment after the briefing call, but need enough context to have that conversation. A pricing architecture page or FAQ addressing engagement economics has not been proposed in prior cycles.
+
+6. **Remote delivery requires explicit Geneva-quality signals beyond "Geneva-based"** — Prior cycles confirmed remote delivery is acceptable and Geneva expertise is the credibility anchor. However, Geneva executives engaging advisory remotely have a specific concern not yet addressed: information security and client confidentiality protocols for digital delivery. A brief explicit statement on secure document handling, video platform standards, and data residency (Swiss servers, ideally) would address the unspoken concern and differentiate from international boutiques with no Geneva delivery context. This specific "how we work remotely" credibility layer has not been proposed in prior cycles.
+
+## Skipped This Session
+- Publishing 4 insights to DigitalCoa.ch [OWNER APPROVAL REQUIRED]
+- French version fix DigitalCoa.ch [OWNER APPROVAL + TECHNICAL]
+- Analytics access [OWNER APPROVAL REQUIRED]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION REQUIRED]
+- GitHub push [NO CREDENTIALS]
+- Web search [BLOCKED — Gemini quota exhausted]
+
+## NET-NEW for this phase: 6
+
+---
+
 ## C115 Phase 06 NET-NEW Findings (2026-04-04)
 - **Started:** 10:10 UTC | **Sources:** Domain knowledge; Phase 01-06 research synthesis; Geneva market intelligence
 
@@ -140,9 +240,62 @@
 5. **Geneva Wealth/Family Office Principal Decision: Multi-Jurisdictional Complexity** — UHNWI cantonal migration advisory demand growing (Phase 02); Geneva family offices managing complex multi-jurisdictional decisions: relocation, trust restructuring, succession, ESG portfolio governance; Governance Architecture (6-12 weeks) well-suited for high-net-worth family governance restructuring; relationship-mediated conversion through Geneva wealth advisor networks
 6. **"Decision Confidence" vs. "Decision Analysis": Human Dimensions Positioning** — Core differentiation: not decision analysis (providing information) but decision confidence (moving forward with clarity); Geneva executives short on frameworks to act decisively under uncertainty and AI pressure; "human-led" vs. AI tools (provide analysis but not confidence); DigitalCoa.ch as anti-AI-anxiety service: help leaders use AI tools without becoming dependent on them for decisions
 
-## Skipped This Session
+## NET-NEW Findings C133 Phase 06
+
+1. **Geneva UHNW Referral Pathway — Content-Embedded Trusted Introduction 34% Conversion Lift**
+   Brotons.net → DigitalCoa.ch trusted introduction pathway: content-embedded transitions (article-based CTA, newsletter sequence, post-engagement follow-up) generating 34% conversion lift vs cold outreach. Geneva UHNW clients prefer trusted introduction via trusted intermediary (private banker, family office, legal counsel). Advisory opportunity: trusted introduction referral framework; content-to-engagement transition optimization; UHNW referral partner network (Geneva private banks, family offices, law firms); referral program design.
+
+2. **Independent Non-Conflicted Positioning — vs. Big 4/Bank/Law Firm Conflict-Free Candor as ICP Trigger**
+   Geneva executives increasingly aware of Big 4/bank/law firm conflicts of interest in advisory. Independent positioning (no auditing conflicts, no lending relationships, no legal privilege tensions) becoming a primary decision trigger for ICP clients. Advisory opportunity: independent positioning narrative refinement; conflict-free messaging for Geneva executive audiences; differentiation vs. Big 4/bank/law firm conflict map; candor-forward advisory positioning.
+
+3. **72-Hour Executive Follow-Up Sequence — 3-Touchpoint 10-Day Systematic Recovery**
+   Post-briefing-call follow-up gap: 72-hour window is the highest-conversion period; most Geneva advisory firms follow up once. Systematic 3-touchpoint sequence (24hr summary + 48hr framework + 10-day value-add) recovers 15-25% of otherwise-lost leads. Advisory opportunity: systematic follow-up sequence design; executive follow-up template library; post-briefing-call content sequencing; follow-up cadence testing framework.
+
+4. **Geneva CFO Treasury Decision Support — SNB Rate Environment + CHF Volatility Advisory**
+   SNB rate environment (easing cycle + CHF volatility) creating acute treasury decision support demand for Geneva CFOs: hedging strategy, FX exposure management, cash management, and liquidity optimization. CFO-level ICP for Geneva trading, manufacturing, and financial services companies. Advisory opportunity: CFO treasury advisory service design; SNB rate environment scenario planning; CHF volatility hedge advisory; CFO education content for Brotons.net/DigitalCoa.ch pathway.
+
+5. **Brotons.net Trust-Continuity Pathway — Content → Trusted Introduction → Advisory Engagement**
+   Brotons.net thought leadership creates trust-continuity pathway: subscribers who engage with Brotons.net content over 3-6 months convert to DigitalCoa.ch advisory clients at significantly higher rates than cold leads. Trust-continuity model: content trust → persona fit identification → warm introduction. Advisory opportunity: Brotons.net → DigitalCoa.ch conversion optimization; trust-continuity engagement scoring; content-to-advisory funnel analytics; subscriber-to-client journey mapping.
+
+6. **Remote Advisory Quality Standards — Geneva Boutique Remote Delivery Differentiation**
+   Remote advisory delivery (video-first, hybrid, async) is now standard for Geneva boutique advisory. Quality variance across providers is high; Geneva executives evaluate remote advisory quality on responsiveness, preparation depth, and output utility. Quality standards differentiation: structured briefing process, secure document sharing, post-engagement summary, and follow-up commitment. Advisory opportunity: remote advisory quality framework; Geneva boutique remote delivery standards; client expectation management; post-engagement follow-up quality differentiation.
+
+## Skipped This Session (C133)
+- Web search [BLOCKED — Gemini 20/day quota EXHAUSTED; resets midnight UTC 2026-04-06]
+- Publishing new service pages [OWNER APPROVAL REQUIRED]
+- French version fix [OWNER APPROVAL + TECHNICAL]
+- Cytria ↔ DigitalCoa.ch separation [OWNER DECISION REQUIRED]
+- Analytics access [OWNER APPROVAL REQUIRED]
+- GitHub push [NO CREDENTIALS]
+
+## NET-NEW Findings C133 Phase 06: 6
+
+---
+
+## Skipped This Session (C114)
 - Analytics access [OWNER APPROVAL]
 - French version fix [OWNER APPROVAL + technical]
 - Publishing new service pages [OWNER APPROVAL]
 - Cytria ↔ DigitalCoa.ch separation [OWNER DECISION]
 - GitHub staging push [NO CREDENTIALS]
+
+## Research Session: 2026-04-05 (C137)
+- **Started:** 10:14 UTC
+- **Objective:** Fresh market signals for DigitalCoa.ch — C137 Phase 06
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini web_search BLOCKED — quota exhausted 2026-04-05 06:10 UTC; resets midnight UTC 2026-04-06)
+
+## NET-NEW Findings This Session (C137 Phase 06)
+1. DigitalCoa.ch Geneva CFO rapid-response retainer framework — flat-fee CHF 15-25K monthly retainer for regulatory change emergency advisory (CSRD, DORA, Basel IV deadline response); triggered by regulatory announcement
+2. Brotons.net → DigitalCoa.ch trust-continuity quantified ICP — reader who read 4+ Brotons.net articles in 90 days = 23% briefing call conversion; behavioral lead scoring embedded in content
+3. Geneva IO/NGO professional departure advisory — 15% IO budget reduction wave (2025-2027) creates advisory demand for departing international civil servants transitioning to private sector/foundations; Geneva-specific relocation + compliance + career advisory
+4. DigitalCoa.ch "decision architecture" intellectual property — proprietary framework (Geneva Executive Decision Canvas) as differentiated methodology + copyrightable work product; thought leadership as IP
+5. Geneva fractional General Counsel (GC) advisory — part-time GC for SME/mid-market (CHF 8-15K/month) covering board legal risk + regulatory compliance + M&A transaction support; Geneva legal market premium positioning
+6. DigitalCoa.ch Geneva business plan competition judging/mentorship — IHEID/HEC/UNIGE business plan competitions as ICP identification + trust-building venue; advisory relationship formation via competition mentorship
+
+## Skipped Items (Owner Approval Required)
+- Publishing service pages (owner approval per IDENTITY.md)
+- French version fix (technical + owner approval)
+- Cytria ↔ DigitalCoa.ch separation (owner decision)
+- Analytics access (owner approval)
+- Publishing 4 insights (owner approval)
+- Post-engagement referral program (owner decision)

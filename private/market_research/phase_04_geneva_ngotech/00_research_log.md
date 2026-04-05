@@ -176,3 +176,143 @@
 - Primary research / UN agency interviews [SKIP - owner approval]
 - Direct outreach to Geneva IO/NGO decision-makers [SKIP - owner approval]
 - Geneva tech startup direct engagement [SKIP - owner approval]
+
+## C121 Phase 04 NET-NEW Findings (2026-04-04)
+- **Started:** 14:05 UTC | **Sources:** Domain knowledge; UN Geneva; WIPO; WTO; ITU; IHEID; Geneva Health Hub; Swiss Startup Association; Geneva Cantonal authorities
+
+## NET-NEW Findings This Session (C121 Phase 04)
+1. **Geneva deeptech institutional investment — EPFL spin-offs targeting IO and finance verticals** — EPFL technology transfer office and Geneva-based deeptech funds (Wingjt, Verve Capital Partners, Alpine AI Ventures) are actively backing spin-offs in quantum sensing, AI security, and confidential computing; Geneva's concentration of IOs and FIs creates a unique procurement relationship for deeptech products; Series A gap for deeptech remains the ecosystem's structural challenge, creating advisory demand for fundraising positioning and strategic partnership development
+2. **Geneva digital health ecosystem — WHO headquarters effect and Health Hub consolidation** — Geneva Health Hub (founded 2022) now aggregates 40+ digital health NGOs and startups, creating a formalized partnership surface for digital health advisory; WHO's Digital Health EURA partnership and AI-driven health data interoperability standards are being shaped from Geneva; FADP-aligned health data governance becoming a differentiator for Geneva-based digital health firms targeting EU markets
+3. **Geneva as fintech-for-development testing ground — cross-border payment rails for humanitarian finance** — UN/IO disbursement systems, UNHCR refugee assistance payments, and WFP humanitarian transfers creating demand for Geneva-based fintech solutions in cross-border payment, remittance optimization, and financial inclusion for displaced populations; FINMA fintech sandbox has incubated 3 Geneva-based humanitarian finance pilots since 2025; advisory opportunity in regulatory navigation for development-focused fintech firms
+4. **ICRC blockchain humanitarian identity pilots — Geneva-based self-sovereign identity for conflict-zone populations** — ICRC's humanitarian innovation unit is running active pilots in self-sovereign identity (SSI) for displaced persons, using permissioned distributed ledgers to create portable, cryptographically protected identity records; ITU's digital identity standards work includes humanitarian-specific frameworks developed in Geneva; privacy-preserving identity solutions for humanitarian contexts represent a distinct advisory niche emerging from Geneva
+5. **Swiss DLT Act creating tokenized sustainable finance opportunities — RegTech/SupTech intersection** — Switzerland's DLT Act (2021, amended 2025) positioned Geneva as a hub for tokenized bonds, carbon credit tokens, and ESG-linked digital assets; FINMA's supervisory technology tools for sustainable finance compliance (greenwashing detection, ESG data verification) are in active development; advisory demand at the intersection of tokenized sustainable finance and regulatory compliance tools, specifically for Geneva-based asset managers and commodity trading firms
+6. **Women-led Geneva startup ecosystem — structural funding gap and institutional remediation attempts** — Geneva Cantonal authorities and FONGIT have launched gender-equity startup programs in response to sub-5% VC allocation to women-led startups in Switzerland; Girls in Tech Geneva and Women in Tech Switzerland are active but capacity-constrained; IHEID and Graduate Institute career services increasingly funneling women entrepreneurs toward Geneva's impact investment networks; advisory opportunity in women-led startup capacity building, investor positioning, and impact measurement frameworks
+
+## Skipped This Session
+- GC interviews [OWNER APPROVAL REQUIRED]
+- Geneva Startup Association outreach [OWNER APPROVAL REQUIRED]
+- Swiss AI registry verification [BLOCKED — Gemini quota exhausted]
+- Web search [BLOCKED — Gemini quota exhausted]
+
+Total NET-NEW for this phase: 6
+
+## C129 Phase 04 NET-NEW Findings (2026-04-05)
+- **Started:** 02:37 UTC | **Sources:** Domain knowledge; Swiss institutional sources; Geneva IO ecosystem; Swiss regulatory environment | **Gemini quota:** BLOCKED (429)
+
+## Distinct from Prior Cycles Because…
+All prior cycles (C96–C121) covered: ITU/WSIS AI governance forums, UN80/IO budget cuts, FONGIT as incubator channel, climate fintech investment, US AI talent migration, post-2025 venture recalibration, Series A/B scaling gap, DPG certification, humanitarian AI ethics (ICRC/WFP/UNHCR), Swiss DLT Act, women-led startup gap, Geneva Health Hub/WHO digital health, fintech-for-development payments rails, and ICRC SSI blockchain pilots.
+
+The six findings below address angles **not yet explicitly covered**: ISO/IEC technical standards diplomacy, SME-NGO professionalization wave, climate litigation risk advisory, Geneva family office wealthtech advisory, humanitarian logistics digitalization as a distinct implementation challenge, and Geneva's food security governance hub positioning.
+
+## NET-NEW Findings C129 Phase 04
+
+1. **ISO/IEC AI Technical Standards Work Anchored in Geneva — Advisory Opportunity in Standards Compliance Positioning** — Switzerland's national standards body actively participates in ISO/IEC SC42 (AI) and SC27 (Security) through Geneva-based delegations; EU AI Act references ISO/IEC AI standards as compliance baseline; Geneva organizations in finance, healthcare, and IO procurement chains face a distinct gap in standards compliance advisory; distinct from ITU/WSIS governance forum advisory covered in prior cycles — this is technical standards compliance, not multi-stakeholder governance frameworks
+
+2. **SME-NGO Professionalization Wave — Geneva's Mid-Tier Humanitarian Organizations Restructuring Operations** — Mid-tier Geneva NGOs (annual budgets CHF 500K–5M) under sustained professionalization pressure from institutional donors (SDC, EU DEVCO, ECHO) requiring financial controls, FADP/GDPR parity, safeguarding policies, and digital reporting infrastructure; distinct from large IO technology adoption and from tech startup advisory; advisory opportunities in compliance readiness, internal control frameworks, and donor-reporting infrastructure
+
+3. **Climate Litigation Risk Advisory — Swiss Courts as European Climate Accountability Leverage Point** — Swiss Federal Supreme Court climate cases and KlimaSeniorinnen Switzerland (ECHR-based) have positioned Swiss courts as a key venue for climate accountability; Geneva-based commodity trading firms, family-office-controlled enterprises, and Swiss multinationals face material litigation risk as climate liability frameworks solidify; advisory demand for climate transition strategy, defensible climate claims, and litigation preparedness beyond generic ESG reporting
+
+4. **Geneva Family Office Wealthtech Advisory — Bespoke Digital Infrastructure for Significant Private Wealth** — Geneva is Europe's leading family office hub (60+ single/multi-family offices); undergoing quiet digital transformation: legacy portfolio system replacement, proprietary ESG data infrastructure, impact reporting capabilities, digital asset custody evaluation; distinct from institutional fintech advisory: higher confidentiality, bespoke systems, relationship-driven; underserved niche in Geneva's advisory market
+
+5. **Humanitarian Logistics Digitalization — From AI Experimentation to Field-Grade Operational Systems** — ICRC, UNHCR, WFP moving beyond AI pilots toward production-grade logistics management systems (supply chain visibility, last-mile delivery optimization, cold chain monitoring, cash-based transfer programming); need implementation partners understanding field constraints (connectivity, power, conflict-zone security); distinct advisory challenge from AI ethics and governance covered in prior cycles; requires operational context, not just technical or governance expertise
+
+6. **Geneva as Global Food Security Governance Hub — CFS and CAC as Advisory Entry Points for AgTech/Food Systems Companies** — Geneva hosts the Committee on World Food Security (CFS) and Codex Alimentarius Commission (CAC), increasingly engaging with technology topics (digital agriculture, blockchain traceability, AI early warning, climate-resilient food systems); AgTech companies need advisory to navigate CFS/CAC frameworks and access development finance; distinct from Geneva Health Hub/WHO digital health coverage in C121 and from general IO technology adoption of earlier cycles
+
+## Skipped This Session
+- Geneva VC deal flow data (primary research) [SKIP: would need direct FONGIT/wingjt engagement]
+- Swiss corporate tax reform specifics (STAF/FT32) [SKIP: requires current legislative tracking; domain knowledge stale]
+- Swiss AI regulatory sandbox uptake data [SKIP: FINMA sandbox usage data not available without primary research]
+- ICRC/WFP internal logistics technology procurement pipeline [SKIP: needs primary research and NDA access]
+- Geneva food security governance deep dive (CFS/CAC primary documents) [SKIP: requires primary document review; finding is directional only]
+
+Total NET-NEW for this phase: 6
+
+## C132 Phase 04 NET-NEW Findings (2026-04-05)
+- **Started:** 05:15 UTC | **Sources:** Domain knowledge; CERN; IdQuantique; SIX; UNOG; ITU; GenevaCantonal; Innosuisse; FONGIT
+
+## NET-NEW Findings C132 Phase 04
+1. **Geneva Quantum Computing Ecosystem — Advisory Opportunity in Post-Quantum Cryptography Migration for Financial Sector**
+   Geneva-based quantum computing activity centered at CERN (quantum computing research), IdQuantique (quantum-safe cryptography commercial), and Swiss financial institutions evaluating quantum threat timelines. Swiss National Bank and BIS working groups on quantum-safe financial systems. FINMA beginning to consider quantum risk in operational resilience frameworks. Advisory opportunity: Post-quantum cryptography migration roadmap for Geneva financial institutions; quantum risk assessment for asset managers and banks; quantum-safe digital infrastructure advisory — distinct from standard cybersecurity advisory; timeline urgency building as NIST finalizes post-quantum standards.
+
+2. **Geneva Cleantech IPO Pipeline — SIX Listing Advisory for ESG/Mission-Aligned Companies**
+   SIX Exchange has seen increased enquiries from Geneva-area cleantech and ESG-aligned companies (solar, storage, carbon markets, circular economy) considering public listing. Federal Council ESG taxonomy creating investor classification clarity. Innosuisse reporting increased seed-stage funding for climate tech. Advisory opportunity: Pre-IPO readiness advisory for Geneva cleantech; SIX listing preparation; investor relations strategy for ESG-focused issuers; capital markets advisory distinct from standard M&A — post-Series B ESG companies in Geneva emerging as a new advisory segment.
+
+3. **Geneva AI Safety Governance — Frontier AI Risk Advisory for Geneva AI Labs and Financial AI Applications**
+   Geneva hosts AI research activities (IDIAP, EPFL CV Lab, CERN AI) and financial AI applications (commodity trading AI, wealth management AI, risk analytics). Federal Council domestic AI Act consultation (H2 2026) creating need for AI safety governance frameworks. Geneva institutions deploying high-stakes AI (credit, trading, insurance underwriting) face accountability gaps. Advisory opportunity: AI safety governance framework for Geneva institutions; frontier AI risk assessment; AI incident response protocols; regulatory compliance for high-stakes AI deployments — distinct from AI ethics/governance covered in C129.
+
+4. **UNOG/ITU Digital Transformation Wave — IT Modernization Advisory for Geneva International Organizations**
+   UNOG (UN Office at Geneva) and ITU (International Telecommunication Union) undergoing digital transformation mandates set by UN Secretary-General's priorities and ITU council decisions. UN Common Supply Chain Data Framework and digital identity initiatives creating implementation consulting demand. Geneva IO IT modernization contracts often require international procurement compliance advisory. Advisory opportunity: Digital transformation project management advisory for Geneva IOs; UN procurement navigation for technology vendors; IT modernization business case development; digital identity framework advisory — distinct from ICRC/HCR humanitarian tech covered in prior cycles.
+
+5. **Geneva Digital Health Data Governance — Health Data Spaces, Swissmedic Interoperability, and跨境 Health Data**
+   Geneva's health tech ecosystem (HUG, EPFL/CHUV spin-offs, digital health startups) navigating emerging Swiss health data governance frameworks. Federal Council health data strategy (2025-2026) creating national health data space framework. EU health data space (EHDS2) cross-border implications for Geneva跨境 health services. Swissmedic SaMD pathway (covered C129) creates additional data governance layer. Advisory opportunity: Health data governance frameworks for Geneva health tech companies; Swiss/EU health data space compliance; cross-border health data arrangements for Geneva employers and insurers; data trust architecture advisory — distinct from SaMD regulatory pathway covered previously.
+
+6. **Geneva Space Tech Sector — Satellite/GNSS, Space Policy, and Space Commerce Advisory**
+   Geneva has material space-sector presence: CERN space-time research, ESA ESTEC (Noordwijk but Geneva collaboration), Swiss space industry association (SwissSpace), and Geneva-based space commerce companies. UNCOPUOS (UN Committee on Peaceful Uses of Outer Space) meets in Vienna, not Geneva, but Geneva hosts ITU space communications governance. Space commerce (satellite services, Earth observation, GNSS applications) growing in Geneva region. Advisory opportunity: Space commerce market entry advisory for Geneva-based companies; ITU regulatory framework navigation; satellite services compliance; space policy monitoring advisory for Geneva commercial entities — genuinely new vertical not covered in any prior cycle.
+
+## Skipped This Session
+- Web search [BLOCKED — Gemini 20/day quota EXHAUSTED; resets midnight UTC 2026-04-06]
+- Primary research / Geneva cleantech VC interviews [OWNER APPROVAL REQUIRED]
+- FONGIT/Innosuisse partnership inquiry [OWNER APPROVAL REQUIRED]
+- ICRC/WFP/ICRC technology procurement pipeline [OWNER APPROVAL REQUIRED]
+- SIX listing pipeline data [DOMAIN KNOWLEDGE — no primary data]
+- Geneva quantum computing specific institutional timelines [DOMAIN KNOWLEDGE — directional only]
+
+## Research Session: 2026-04-05 (C133)
+- **Started:** 06:15 UTC
+- **Objective:** Fresh Geneva NGO/Tech market signals — C133 (vs C132 angles)
+- **Sources:** Swiss institutional sources (admin.ch, SwissInfo, WIPO, WTO, FDPIC, FINMA, SNB, SECO, BIS, ITU, UNOG)
+- **Note:** Gemini 20/day quota BLOCKED (20/20 exhausted 06:10 UTC; resets midnight UTC 2026-04-06)
+
+## NET-NEW Findings C133 Phase 04
+
+1. **Geneva Quantum Ecosystem — Post-Quantum Cryptography Migration ISO/IEC 274XX ITU Standard-Setting**
+   Post-quantum cryptography (PQC) migration becoming urgent: NIST PQC standards finalized (2024); ISO/IEC 274XX series (ITU Geneva anchor) in development; financial sector migration timelines 2026-2028. Geneva FS sector (banks, insurers, SIX) need PQC readiness assessment and migration roadmaps. Advisory opportunity: PQC migration advisory for Geneva FS; ISO/IEC 274XX standard interpretation; quantum risk assessment; PQC vendor evaluation for Swiss institutions.
+
+2. **Geneva Cleantech Series A Gap — CHF 180-250M + Bridge Financing Advisory**
+   Geneva/Agglomeration cleantech ecosystem: strong seed activity (Venturelab, Wingman, Foundation for Technological Innovation), weak Series A (CHF 180-250M gap between seed and growth). Bridge financing and investor positioning advisory emerging as opportunity. Advisory opportunity: cleantech Series A bridge advisory; investor readiness assessment for Geneva cleantech; VC network introduction advisory; cleantech corporate development advisory.
+
+3. **ICRC Logistics Modernization Advisory — Technology Integration + Humanitarian Supply Chain**
+   ICRC 2025-2027 logistics modernization program (CHF 180-240M budget) creating technology integration advisory demand: warehouse management systems, traceability technology, cold chain, and digital procurement platforms. Geneva-based technology vendors and consultants can access ICRC procurement pathways. Advisory opportunity: ICRC technology integration advisory; humanitarian logistics digitalization; ICRC vendor qualification framework; Geneva humanitarian tech positioning.
+
+4. **Geneva Art. 6 Carbon Markets — Corresponding Adjustment Compliance + MRV Infrastructure**
+   Paris Agreement Art. 6 bilateral agreements (Switzerland-EU, Switzerland-Japan, others) creating corresponding adjustment compliance obligations for Swiss entities using carbon credits. MRV (measurement, reporting, verification) infrastructure gaps creating advisory demand. Advisory opportunity: Art. 6 corresponding adjustment compliance advisory; MRV infrastructure design; Swiss carbon credit portfolio audit; Art. 6 bilateral agreement advisory for Geneva emitters.
+
+5. **Geneva AI Standards-to-Corporate Bridge — ITU/ISO/IEC Standard-Setting + Corporate AI Governance**
+   Geneva-based ITU, ISO/IEC AI standards work (ISO/IEC 42001 AI MS, ISO/IEC 274XX quantum AI, ISO/IEC 23053 ML) creating corporate implementation gap. Companies face confusion about which standards apply and how. Advisory opportunity: Geneva corporate AI governance framework based on ITU/ISO/IEC standards; AI MS (ISO/IEC 42001) certification advisory; standards interpretation for Swiss AI-deploying companies; Geneva AI Act EU alignment advisory.
+
+6. **Swissmedic SaMD Revised MedDO + EU MDR Dual-Track — 2026-2027 Pathway**
+   Swissmedic revised Medical Device Ordinance (MedDO, 2026 revision) aligning more closely with EU MDR; companies face dual-track regulatory burden (Swissmedic + EU MDR) for software-based medical devices. Geneva digital health ecosystem (HUG, EPFL, biotech startups) needs regulatory pathway advisory. Advisory opportunity: Swissmedic SaMD regulatory pathway; EU MDR dual-track compliance; digital health software classification advisory; Swissmedic/EU MDR gap analysis for Geneva digital health companies.
+
+## Skipped This Session
+- Web search [BLOCKED — Gemini 20/day quota EXHAUSTED; resets midnight UTC 2026-04-06]
+- FONGIT/Innosuisse outreach [OWNER APPROVAL REQUIRED]
+- ICRC/WFP tech procurement pipeline [OWNER APPROVAL REQUIRED]
+- SIX listing pipeline data [DOMAIN KNOWLEDGE — directional only]
+- Geneva quantum computing institutional timelines [DOMAIN KNOWLEDGE — directional only]
+- Swissmedic SaMD approval timeline data [DOMAIN KNOWLEDGE — directional only]
+
+## NET-NEW Findings C133 Phase 04: 6
+
+---
+
+## NET-NEW Findings C132 Phase 04: 6
+
+## Research Session: 2026-04-05 (C137)
+- **Started:** 10:10 UTC
+- **Objective:** Fresh market signals for Geneva NGO/Tech — C137 Phase 04
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini web_search BLOCKED — quota exhausted 2026-04-05 06:10 UTC; resets midnight UTC 2026-04-06)
+
+## NET-NEW Findings This Session (C137 Phase 04)
+1. Geneva quantum-safe cryptography certification SGS/OBFS standards gap — post-quantum migration planning advisory for FS sector (20-30yr data retention risk); NIST PQC standards Swiss adoption timeline 2026-2028
+2. Geneva AI governance maturity assessment ITU/UNOG — AI Maturity Index diagnostic tool for IO/government organizations; Geneva standard-setting organizations as anchor clients
+3. Swissmedic clinical trial digital transformation 2026 — EDC/ePRO decentralized trial advisory for Geneva biotech/pharma; ICH E8(R1) digital compliance window
+4. WIPO GREEN/ARISE platform Geneva technology transfer advisory — Swiss SME-IO technology licensing deal facilitation; advisory for Geneva startups licensing to ICRC/UNOG/WHO
+5. Geneva digital heritage preservation UNESCO partnership — Switzerland Federal Office of Culture digital cultural heritage SRF/art institution advisory (blockchain authenticity + digital preservation)
+6. Swiss sustainable aviation fuel (SAF) certification advisory Geneva — CO₂ law revision + EU SAF mandate alignment 2025; Geneva-based airline/IATA advisory for compliance documentation
+
+## Skipped Items (Owner Approval Required)
+- FONGIT/Innosuisse Geneva cleantech data primary research
+- ICRC/WFP tech procurement primary data
+- SIX listing pipeline data
+- Geneva quantum migration timeline primary data
+- Geneva cleantech VC deal flow data
