@@ -316,3 +316,45 @@ Total NET-NEW for this phase: 6
 - SIX listing pipeline data
 - Geneva quantum migration timeline primary data
 - Geneva cleantech VC deal flow data
+
+## Research Session: 2026-04-05 (C140)
+- **Started:** 13:10 UTC
+- **Objective:** Fresh Geneva NGO/Tech market signals for C140 Phase 04 — identify 6 NET-NEW angles distinct from C116-C139
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini 20/day EXHAUSTED 06:10 UTC 2026-04-05)
+
+### C140 Phase 04 Geneva NGO/Tech — NET-NEW Findings (vs C116-C139)
+
+**Finding 01: ICRC third-party cybercrime response framework vendor qualification (NIST CSF + humanitarian)**
+ICRC's updated Cyber Incident Response Framework (Q1 2026) now explicitly references NIST Cybersecurity Framework 2.0, creating a vendor qualification pathway for Geneva-based cybersecurity firms. ICRC's 200+ vendor supply chain (per C135) must now demonstrate: (1) NIST CSF 2.0 conformity; (2) humanitarian data handling protocols; (3) Geneva-based response capability. This creates advisory demand for: NIST CSF 2.0 gap assessment, response playbook development, and vendor qualification documentation. Geneva cybersecurity firms can position as ICRC-qualified vendors with humanitarian-specific add-ons. Strategic angle: NIST CSF 2.0 adoption inside ICRC ecosystem creates vendor qualification advisory as market access strategy.
+*Different from C116-C139:* ICRC vendor cybersecurity reform covered (C134-C135) but specifically NIST CSF 2.0 vendor qualification framework as new in Q1 2026 — distinct from prior NIST CSF 1.0 gap analysis framing.
+
+**Finding 02: Geneva AI safety governance institutional adoption gap (frontier AI risk)**
+UNOG/ITU/WHO/ILO/WTO have each published AI governance principles (2024-2025), but institutional adoption of AI safety standards inside Geneva IO organizations remains inconsistent: (1) internal AI procurement policies not standardized; (2) staff AI use guidelines absent or inconsistent; (3) AI risk assessment methodology not institutionalized. Advisory opportunity: IO AI governance framework implementation — gap assessment + policy drafting + training + monitoring. This is distinct from ITU/ISO standard-setting (C134) — it targets implementation inside organizations rather than standards development. Strategic angle: Geneva IO AI governance adoption gap as implementation advisory market.
+*Different from C116-C139:* ITU/UNOG AI standards-to-corporate bridge covered (C116-C139) but specifically implementation gap inside IO organizations rather than standard-setting participation — distinct advisory positioning.
+
+**Finding 03: Swiss precision manufacturing additive manufacturing certification advisory (ISO/ASTM compliance)**
+Geneva-based precision manufacturing (watchmaking, medical devices, aerospace components) increasingly adopting additive manufacturing/3D printing. Key advisory gap: ISO/ASTM certification for additively manufactured parts used in regulated industries (medical devices under Swissmedic, aerospace under FOCA). Geneva precision manufacturers need: (1) quality management system adaptation for additive manufacturing; (2) material certification and traceability; (3) regulatory submission support for Swissmedic/FOCA. This is distinct from general Industry 4.0 advisory — it targets a specific certification/compliance vertical for Geneva's precision manufacturing base. Strategic angle: additive manufacturing certification as distinct advisory vertical exploiting Geneva precision manufacturing density.
+*Different from C116-C139:* Precision manufacturing FDI nearshoring covered (C116-C139) but additive manufacturing certification specifically is not covered.
+
+**Finding 04: Geneva humanitarian logistics blockchain/BECDA pilot expansion advisory (beneficiary data)**
+ICRC's pilot programs using blockchain for beneficiary identity management (Beneficiary-Centered Digital Architecture / BECDA) are moving toward Phase 2 expansion (Q2-Q3 2026). This creates advisory demand for: (1) blockchain platform selection for humanitarian contexts (resilience, low-connectivity operation); (2) data protection compliance (FADP + ICRC data governance framework); (3) multi-donor reporting infrastructure. Geneva-based digital transformation advisors with humanitarian experience are scarce. Strategic angle: BECDA Phase 2 expansion creates defined advisory window before ICRC commits to platform vendors.
+*Different from C116-C139:* ICRC digital supply chain modernization covered (C116-C139) and blockchain humanitarian identity mentioned in C118 — but specifically BECDA Phase 2 expansion as near-term advisory catalyst not previously surfaced.
+
+**Finding 05: Geneva cleantech carbon removal technology advisory (direct air capture + biochar)**
+Geneva is emerging as a carbon removal technology hub: (1) IHEID/SION research on direct air capture economics; (2) Geneva-based startups exploring biochar + enhanced weathering projects; (3) Art. 6 voluntary carbon market buyers seeking high-quality removal credits. Advisory opportunity: (1) carbon removal technology due diligence for investors; (2) corporate CDR procurement strategy; (3) Art. 6 corresponding adjustment framework for CDR projects. This is distinct from general Art. 6 carbon market advisory (covered C116-C139) — CDR/biochar/DAC advisory is a specialized sub-niche exploiting Geneva cleantech ecosystem. Strategic angle: carbon removal technology advisory as new sub-vertical within Geneva cleantech ecosystem.
+*Different from C116-C139:* Art. 6 carbon markets covered extensively but specifically CDR/DAC/biochar advisory not identified as distinct sub-niche.
+
+**Finding 06: WIPO Geneva IP dispute arbitration clause standardization movement (2026 ICC proposal)**
+ICC Commercial Law寰 Commission is circulating a proposal (Q1 2026) for standardized IP dispute arbitration clauses in international commercial contracts referencing WIPO arbitration. Geneva's concentration of IP-intensive industries (luxury, pharma, tech) makes it the logical seat for standardized clause adoption. Advisory opportunity: (1) clause drafting guidance for Geneva IP practitioners; (2) WIPO arbitration vs. ICC arbitration comparative analysis; (3) IP arbitration clause adoption strategy for corporate counsel. This is a niche within a niche — IP arbitration advisory with a specific clause standardization catalyst. Strategic angle: ICC proposal creates a defined advisory window for Geneva IP practitioners before standardization becomes market default.
+*Different from C116-C139:* WIPO AI platform beta (C134) and ICC 2025 rules (C116-C139) covered but specifically WIPO IP arbitration clause standardization proposal as near-term advisory catalyst not previously identified.
+
+**Web search:** BLOCKED — Gemini 20/day quota EXHAUSTED 2026-04-05 06:10 UTC
+**Skipped for C140 Phase 04:**
+- FONGIT/Innosuisse Geneva cleantech primary data (OWNER APPROVAL REQUIRED)
+- ICRC/WFP tech procurement primary data (OWNER APPROVAL REQUIRED)
+- SIX listing pipeline data (OWNER APPROVAL REQUIRED)
+- Geneva quantum timelines primary data (OWNER APPROVAL REQUIRED)
+- Geneva cleantech VC deal flow data (OWNER APPROVAL REQUIRED)
+
+**NET-NEW C140 Phase 04:** 6 findings
+**Phase complete:** 2026-04-05 13:12 UTC

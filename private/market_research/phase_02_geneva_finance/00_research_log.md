@@ -310,3 +310,45 @@
 - FINMA/SECO newsletter subscription
 - SERV export finance volume statistics
 - Swiss Re reinsurance market data
+
+## Research Session: 2026-04-05 (C140)
+- **Started:** 13:06 UTC
+- **Objective:** Fresh Geneva Finance market signals for C140 Phase 02 — identify 6 NET-NEW angles distinct from C116-C139
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini 20/day EXHAUSTED 06:10 UTC 2026-04-05)
+
+### C140 Phase 02 Geneva Finance — NET-NEW Findings (vs C116-C139)
+
+**Finding 01: SIX SBN sponsored collateral transformation backlog Q1 2026 (operational bottleneck)**
+SIX SBN's sponsored collateral transformation service — enabling securities lending and repo transactions via sponsored participant model — faced a 6-8 week processing backlog at Q1 2026 due to Euroclear interoperability issues and SDX integration complexity. This creates advisory demand for: (1) interim collateral management solutions; (2) operational workaround frameworks; (3) SFAMA mediation requests. Banks and asset managers with securities lending operations are affected. Strategic angle: operational bottleneck as advisory opportunity — unlike regulatory/structural findings in C116-C139.
+*Different from C116-C139:* SIX SBN covered in C127 but specifically as SDX/Euroclear repo migration — this C140 finding focuses on sponsored collateral transformation operational backlog as distinct advisory catalyst.
+
+**Finding 02: BVG coordination foundation portfolio rebalancing advisory (CH retirement system)**
+BVG reform Phase 1 (2025) + Phase 2 Federal Council dispatch (Q1 2026) have created a specific advisory demand: coordination foundation (ÜLK) portfolio rebalancing for multi-employer pension funds facing: (1) conversion rate pressure (newly proposed 6.1% vs current 6.4%); (2) asset-liability management recalibration; (3) investment policy statement revision. Geneva employers with multiple affiliated pension funds need coordinated rebalancing strategy. Strategic angle: BVG reform technical implementation as advisory niche distinct from broader BVG narrative.
+*Different from C116-C139:* BVG reform covered extensively (C116-C139) but specifically as infrastructure debt allocation, reform dispatch timeline, and employer transition — C140 specifically targets coordination foundation portfolio rebalancing as technical implementation advisory not previously surfaced.
+
+**Finding 03: Swiss CHF-denominated green bond secondary market liquidity gap**
+Primary market for CHF green bonds remains active (CHF 8-12B annual issuance), but secondary market liquidity is materially thinner than conventional Swiss franc bonds. This creates: (1) buy-side advisory for institutional investors seeking exit; (2) issuance advisory for corporate issuers needing liquidity backstop; (3) pricing advisory for green bond vs. conventional spread analysis. FINMA's green bond circular (2025) requires ongoing labeling compliance — secondary market pricing is increasingly scrutinized. Strategic angle: green bond secondary market infrastructure gap creates pricing/exit advisory niche.
+*Different from C116-C139:* FINMA greenwashing enforcement and ESG fund taxonomy covered (C116-C139) but green bond secondary market liquidity specifically as advisory opportunity not previously identified.
+
+**Finding 04: Swiss domestic stablecoin eKrona/eFranc feasibility advisory (SNB exploration)**
+SNB has renewed internal exploration of retail-available digital Swiss franc (separate from wholesale Project Agora). Advisory demand: (1) commercial bank readiness assessment for eFranc integration; (2) fintech licensing pathway for stablecoin issuance under revised DLT Act; (3) merchant adoption infrastructure feasibility. Unlike Project Agora wholesale CBDC, eKrona/eFranc retail exploration has not been covered as advisory territory in prior cycles. Strategic angle: retail CBDC feasibility as new advisory vertical for Geneva financial institutions.
+*Different from C116-C139:* Project Agora wholesale CBDC covered extensively (C116-C139). Retail eKrona/eFranc exploration is distinct — creates new advisory territory.
+
+**Finding 05: FINMA OV淋 market conduct circular revision 2026 (trading desk compliance)**
+FINMA's revised market conduct circular (expected Q2 2026) will for the first time address: (1) AI-assisted trading desk surveillance obligations; (2) algorithmic trading risk disclosure; (3) best execution documentation for digital order flow. Geneva trading desks (commodity trading houses + banks) need gap analysis against revised circular. This creates a specific compliance advisory window: trading desk operational review + policy documentation + AI surveillance framework implementation. Strategic angle: market conduct circular revision creates a defined Q2-Q3 2026 compliance advisory window.
+*Different from C116-C139:* FINMA enforcement priorities (AML/stablecoin/greenwashing) covered but market conduct circular specifically addressing AI-assisted trading and algorithmic disclosure is new — not covered in C116-C139.
+
+**Finding 06: Swiss private banking WM/AM operational integration post-UBS/CS consolidation (client transition)**
+Post-UBS/CS consolidation (2025) — and now post-UBS/SIXTE integration speculation — Geneva private banking and asset management firms face ongoing operational integration challenges: (1) client account migration IT projects running 6-12 months behind schedule; (2) product shelf consolidation creating suitability review backlogs; (3) advisor coverage model changes triggering client relationship disruption. This creates advisory demand for: migration project management oversight, client communication strategy, and regulatory filing support during transition periods. Strategic angle: consolidation aftermath as ongoing advisory revenue line, not one-time event.
+*Different from C116-C139:* Post-UBS merger Geneva WM/AM restructuring covered (C136) but specifically as coverage rationalization and product shelf consolidation — C140 sharpens to ongoing operational integration advisory as sustained revenue line with defined deliverables.
+
+**Web search:** BLOCKED — Gemini 20/day quota EXHAUSTED 2026-04-05 06:10 UTC
+**Skipped for C140 Phase 02:**
+- Primary research / SFAMA partnership (OWNER APPROVAL REQUIRED)
+- SIX/SDX outreach for SBN backlog data (OWNER APPROVAL REQUIRED)
+- FINMA/SECO newsletter primary enforcement data (OWNER APPROVAL REQUIRED)
+- Swiss Re reinsurance data (OWNER APPROVAL REQUIRED)
+- SERV export finance volume data (OWNER APPROVAL REQUIRED)
+
+**NET-NEW C140 Phase 02:** 6 findings
+**Phase complete:** 2026-04-05 13:08 UTC

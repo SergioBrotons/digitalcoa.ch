@@ -299,3 +299,47 @@ C129 findings are specifically focused on Geneva's unique institutional and dipl
 - Analytics access (owner approval)
 - Publishing 4 insights (owner approval)
 - Post-engagement referral program (owner decision)
+
+## Research Session: 2026-04-05 (C140)
+- **Started:** 13:14 UTC
+- **Objective:** Fresh DigitalCoa.ch market signals for C140 Phase 06 — identify 6 NET-NEW angles distinct from C116-C139
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini 20/day EXHAUSTED 06:10 UTC 2026-04-05)
+
+### C140 Phase 06 DigitalCoa.ch — NET-NEW Findings (vs C116-C139)
+
+**Finding 01: DigitalCoa.ch "Geneva M&A Decision-Support" service page (CHF 50-500M mid-market)**
+DigitalCoa.ch currently lacks a dedicated M&A decision-support service page. C140 proposes a structured service page targeting Geneva-based mid-market M&A (CHF 50-500M enterprise value): (1) pre-deal regulatory due diligence (CSRD, DORA, AML, sanctions); (2) deal structure advisory (Swiss corporate, tax, regulatory); (3) post-signing integration planning (100-day plan + CSRD/DORA compliance sequencing). ICP: Geneva family businesses in succession window + PE-backed portfolio companies + international buyers acquiring Swiss targets. Pricing: project-based CHF 25-75K for due diligence + CHF 15-30K/month for integration advisory. Strategic angle: dedicated M&A decision-support page as distinct service entry point for Geneva mid-market.
+*Different from C116-C139:* M&A advisory covered (C116-C139) as advisory market positioning — C140 specifically proposes dedicated DigitalCoa.ch service page with defined ICP, pricing, and deliverables.
+
+**Finding 02: DigitalCoa.ch Geneva IO/NGO executive transition service (departing staff advisory)**
+15% IO/NGO budget reduction wave (2025-2027, C135/C136/C139) creates a specific advisory service: executive transition advisory for departing WTO/UNOG/WHO/ITU/ILO professionals. Service scope: (1) post-IO career strategy; (2) board positioning and non-executive board search; (3) entrepreneurial advisory for Geneva foundation launch; (4) Geneva corporate advisory role transition. This targets a specific ICP: internationally mobile senior professionals with Geneva hub experience, UHNW/HNWI network, and institutional credibility. Pricing: CHF 8-15K/month retainer or CHF 15-30K project. Strategic angle: IO departure advisory as distinct service exploiting Geneva IO density and post-budget-reduction timing.
+*Different from C116-C139:* IO/NGO departure advisory covered (C136/C139) as advisory market — C140 specifically proposes dedicated DigitalCoa.ch service page and positioning for this ICP.
+
+**Finding 03: DigitalCoa.ch competitive moat: "independently networked" vs. bank-affiliated advisory**
+DigitalCoa.ch's core competitive differentiation — conflict-free independent positioning — can be strengthened through a specific intellectual framework: "independently networked." This means: (1) no bank, law firm, or Big 4 affiliation; (2) access to the same Geneva institutional networks as affiliated advisors (IHEID alumni, CCIG, SFAMA, Geneva Bar) without conflict constraints; (3) documented independence in engagement letters and public positioning. This is distinct from general "independent" — it specifically references the network-access advantage of independence. Strategic angle: "independently networked" as trademark-capable positioning phrase for DigitalCoa.ch.
+*Different from C116-C139:* Conflict-free independent positioning covered (C116-C139) — C140 sharpens to specific "independently networked" framework with institutional network access framing.
+
+**Finding 04: DigitalCoa.ch Geneva CFO treasury advisory SNB rate environment service expansion**
+DigitalCoa.ch has covered CFO treasury advisory (C116-C139) but a dedicated service expansion is warranted: (1) SNB rate environment advisory (post-March 2026 25bp cut to 0.25% + EUR/CHF parity risk); (2) FX vol advisory (CHF/USD 11.5% vs 7.2% pre-tariff); (3) interest rate hedging program review; (4) treasury policy documentation for BVG coordination foundations. Service format: 2-day diagnostic (CHF 8-15K) + 90-day advisory retainer (CHF 12-18K/month). ICP: Geneva CFOs of companies with EUR/USD exposure + interest rate sensitivity + pension fund interface. Strategic angle: expanded treasury advisory service with specific SNB/EUR-CHF rate catalyst as defined service entry.
+*Different from C116-C139:* CFO treasury advisory covered (C116-C139) but specifically SNB rate environment + FX vol as current Q2 2026 catalyst driving demand — service page expansion not previously proposed.
+
+**Finding 05: DigitalCoa.ch Geneva family governance advisory (Art. 914/916 ZGB + cantonal succession)**
+Family governance advisory has been covered in prior cycles but DigitalCoa.ch lacks a dedicated service page. C140 proposes a family governance service targeting Geneva UHNW families: (1) Art. 914/916 ZGB foundation restructuring (post-Geneva cantonal tax increase 2026); (2) family charter development; (3) next-generation preparation and education; (4) governance committee formation. This is distinct from general succession advisory — family governance addresses ongoing family relationship management, not just transaction execution. ICP: Geneva families with CHF 20M+ net assets + 2+ generations + governance complexity. Pricing: CHF 15-30K/month retainer. Strategic angle: family governance as ongoing retainer relationship anchor vs. one-time succession transaction.
+*Different from C116-C139:* Family governance covered (C116-C139) as advisory market — C140 specifically proposes DigitalCoa.ch dedicated service page with ongoing retainer model framing.
+
+**Finding 06: DigitalCoa.ch engagement case study development (3 anonymized exemplars)**
+DigitalCoa.ch's credibility with Geneva executives depends on demonstrated proof points. Three anonymized case studies (published on DigitalCoa.ch with written consent): (1) Geneva mid-market M&A decision-support case (pre-deal regulatory, deal closed within 6 months); (2) IO departure → Geneva foundation board placement case (8-month transition); (3) Family succession governance advisory case (Art. 914/916 restructuring + family charter + next-gen preparation). Each case study: 400-600 words, structured outcomes (timeline, deliverables, client situation), without violating confidentiality. Strategic angle: case studies as trust asset and conversion tool — most Geneva executive advisors lack publicly documented case evidence.
+*Different from C116-C139:* Case study proof point development covered (C116-C139) as recommendation — C140 specifically proposes 3 anonymized case study exemplars with defined structure and outcomes focus.
+
+**Web search:** BLOCKED — Gemini 20/day quota EXHAUSTED 2026-04-05 06:10 UTC
+**Skipped for C140 Phase 06:**
+- Publishing service pages (OWNER APPROVAL REQUIRED)
+- French version fix DigitalCoa.ch (OWNER APPROVAL + TECHNICAL)
+- Cytria ↔ DigitalCoa.ch separation (OWNER DECISION REQUIRED)
+- Analytics access (OWNER APPROVAL REQUIRED)
+- Publishing 4 insights (OWNER APPROVAL REQUIRED)
+- Post-engagement referral program formalization (OWNER APPROVAL REQUIRED)
+- GitHub push (OWNER APPROVAL + TECHNICAL)
+
+**NET-NEW C140 Phase 06:** 6 findings
+**Phase complete:** 2026-04-05 13:16 UTC

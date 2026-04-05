@@ -145,3 +145,47 @@
 ---
 
 ## NET-NEW Findings C132 Phase 05: 6
+
+## Research Session: 2026-04-05 (C140)
+- **Started:** 13:12 UTC
+- **Objective:** Fresh Brotons.net market signals for C140 Phase 05 — identify 6 NET-NEW angles distinct from C116-C139
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini 20/day EXHAUSTED 06:10 UTC 2026-04-05)
+
+### C140 Phase 05 Brotons.net — NET-NEW Findings (vs C116-C139)
+
+**Finding 01: Brotons.net Geneva regulatory calendar intelligence productization (pre-event briefings)**
+Geneva institutional calendar intelligence (WTO MC13, UN Climate, OECD ministerial, SECO economic forecasts) has been covered in prior cycles as content strategy. C140 sharpens to productization: Brotons.net could offer institutional subscribers (CHF 500-1,500/year) a structured pre-event briefing product delivered 7-10 days before major Geneva events — 1-page executive brief with: (1) event context; (2) likely outcomes; (3) business implications; (4) recommended actions. This converts existing intelligence methodology into a recurring revenue product. Delivery mechanism: existing newsletter infrastructure + PDF brief format. Strategic angle: intelligence methodology productization as subscription tier upgrade.
+*Different from C116-C139:* Institutional calendar content timing covered (C116-C139) but pre-event briefing productization as defined subscription tier not previously articulated.
+
+**Finding 02: Brotons.net "Swiss Romandie Executive Decision-Support" vertical (French-language edition)**
+Geneva executive readers who prefer French-language content have no dedicated decision-support publication in FR. Brotons.net could launch a FR-primary edition targeting: (1) Geneva Romandie executives in French-speaking multinationals; (2) Vaud/Geneva SME owners; (3) French-speaking IO/WTO/UNOG professionals. Content format: FR-primary regulatory analysis with EN executive summary. This is distinct from current EN-primary + FR summary approach — it positions Brotons.net as a genuine bilingual decision-support tool, not just translated EN content. Strategic angle: FR-primary edition as distinct market positioning vs. EN translation approach.
+*Different from C116-C139:* FR-native EN regulatory preference covered (C135) but specifically as EN+FR executive summary efficiency — C140 specifically proposes FR-primary edition as distinct product, not dual-language summary format.
+
+**Finding 03: Brotons.net SEO entity salience optimization (E-E-A-T for Geneva institutional readers)**
+Google's evolving entity salience algorithms increasingly reward content with strong E-E-A-T signals (Experience, Expertise, Authoritativeness, Trustworthiness). Brotons.net's Geneva institutional positioning is naturally aligned with E-E-A-T but not technically optimized. Specific actions: (1) author bylines with Geneva institutional affiliations prominently displayed; (2) first-hand experience citations ("our analysis of FINMA's March 2026 guidance..."); (3) institutional citation network links (IHEID, WIPO, WTO, CCIG, SFAMA); (4) schema.org ProfessionalService markup for Geneva location. Strategic angle: entity salience optimization as technical SEO layer exploiting existing institutional authority.
+*Different from C116-C139:* SEO topical authority covered (C116-C139) but specifically E-E-A-T entity salience optimization as technical SEO layer not previously articulated.
+
+**Finding 04: Brotons.net Geneva conference post-event intelligence archive (permanent reference)**
+Geneva hosts 40+ major international conferences annually. Post-event intelligence content is typically ephemeral — published within 48-72 hours and then forgotten. Brotons.net could create a permanent "Geneva Conference Intelligence Archive" — structured records of each major Geneva event with: (1) official outcomes; (2) Brotons.net interpretive analysis; (3) institutional reader commentary; (4) follow-up tracking of commitments. This becomes a permanent institutional knowledge asset and SEO anchor for recurring search traffic on conference outcomes. Strategic angle: ephemeral post-event content converted to permanent institutional knowledge asset.
+*Different from C116-C139:* Conference intelligence systematization covered (C116-C139) but specifically permanent archive as institutional knowledge asset and SEO evergreen not previously articulated.
+
+**Finding 05: Brotons.net Geneva SME family business succession content cluster (Q2-Q4 2026 advisory angle)**
+2026-2030 baby-boomer succession wave (C116-C139 covered) creates a specific content opportunity: a Brotons.net content cluster on Geneva SME family business succession. Structure: pillar page (Swiss SME Succession Advisory) + 8-10 cluster pages (cantonal tax implications, ZGB 914/916 governance, M&A readiness, family council formation, next-gen preparation, valuation, deal structure, post-transaction planning). This cluster targets Geneva SME owners actively planning succession — a distinct ICP from institutional executive readers. Strategic angle: succession content cluster as ICP-specific pathway into advisory engagement conversations.
+*Different from C116-C139:* Baby-boomer succession wave covered (C116-C139) as advisory market — C140 specifically proposes Brotons.net content cluster as lead generation mechanism for succession advisory, distinct from general advisory positioning.
+
+**Finding 06: Brotons.net Geneva regulatory change notification service (automated + curated)**
+Geneva executives need to track regulatory changes across: FINMA, SECO, FDFA, Geneva cantonal government, EU institutional developments, and international bodies (WTO, WIPO, ILO). Brotons.net could offer a curated regulatory change notification service — AI-assisted monitoring + human curation + 2-paragraph executive briefing. Delivery: weekly digest + breaking alert for material changes. This converts institutional monitoring capability into a recurring subscription product. Strategic angle: regulatory change notification as SaaS-equivalent subscription layer on top of existing content production.
+*Different from C116-C139:* Regulatory monitoring as content topic covered but regulatory change notification service as productized subscription offering not previously identified.
+
+**Web search:** BLOCKED — Gemini 20/day quota EXHAUSTED 2026-04-05 06:10 UTC
+**Skipped for C140 Phase 05:**
+- Publishing synthesis pieces (OWNER APPROVAL REQUIRED)
+- "Geneva Intelligence" brand positioning (OWNER DECISION REQUIRED)
+- LinkedIn strategy revision (OWNER APPROVAL REQUIRED)
+- Analytics access (OWNER APPROVAL REQUIRED)
+- GitHub push (OWNER APPROVAL + TECHNICAL)
+- Substack premium data (OWNER APPROVAL REQUIRED)
+- IHEID/CCIG/SFAMA partnership content (OWNER APPROVAL REQUIRED)
+
+**NET-NEW C140 Phase 05:** 6 findings
+**Phase complete:** 2026-04-05 13:14 UTC

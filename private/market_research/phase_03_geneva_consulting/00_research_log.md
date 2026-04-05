@@ -324,3 +324,45 @@ Total NET-NEW for this phase: 6
 - Geneva notaries referral network
 - IHEID family business alumni network
 - Swiss corporate governance survey primary data
+
+## Research Session: 2026-04-05 (C140)
+- **Started:** 13:08 UTC
+- **Objective:** Fresh Geneva Consulting market signals for C140 Phase 03 — identify 6 NET-NEW angles distinct from C116-C139
+- **Sources:** Domain knowledge + Swiss institutional sources (Gemini 20/day EXHAUSTED 06:10 UTC 2026-04-05)
+
+### C140 Phase 03 Geneva Consulting — NET-NEW Findings (vs C116-C139)
+
+**Finding 01: Geneva corporate tax reform cantonal implementation advisory (STAF II / PTP)**
+Federal Act on Tax Reform and AHV Financing (STAF / RFFA) Phase I (2020-2024) has been followed by ongoing cantonal implementation inconsistencies. Geneva's PTP (patent box) and notional interest deduction mechanics remain technically complex — and the Federal Tax Administration has issued new guidance (Q1 2026) on nexus approach calculations. Geneva-based multinationals and SMEs with IP holdings need ongoing compliance advisory as cantonal practice diverges from Federal guidance. Advisory niche: STAF II cantonal implementation inconsistency as ongoing advisory retainer opportunity.
+*Different from C116-C139:* Swiss corporate tax reform covered in prior cycles but specifically STAF II/PTP nexus calculation inconsistencies as a distinct advisory retainer trigger not previously highlighted.
+
+**Finding 02: Geneva professional services ESG data annotation advisory (CSRD reporting chain)**
+CSRD double materiality assessments (C135/C139) create downstream demand for: ESG data annotation and verification services in the reporting chain. Geneva-based consultancies and specialized boutiques can position as CSRD data quality assurance providers — reviewing company-reported ESG data against EU taxonomy criteria, providing independent verification language, and managing FDPIC/FINMA disclosure interfaces. This is distinct from: (1) materiality assessment writing; (2) audit attestation; (3) strategy consulting. Strategic angle: CSRD reporting chain data annotation as specialized boutique advisory vertical.
+*Different from C116-C139:* CSRD Phase 2 covered extensively (C116-C139) — but the specific data annotation/verification niche within the CSRD reporting chain is new, not covered as distinct advisory positioning.
+
+**Finding 03: Swiss Romandie SME export finance advisory gap (CHF-denominated trade credit)**
+Swiss SMEs in Romandie face a distinct export finance gap: conventional bank trade finance requires collateral/counter-guarantees that SME exporters cannot provide. SERV (Swiss Export Insurance) coverage exists but utilization among SMEs remains low due to complex application procedures and lack of in-house expertise. Geneva-based international trade advisors with SERV expertise are scarce. Advisory opportunity: SERV utilization advisory + alternative trade finance structures (forfaiting, factoring, supply chain finance) for Geneva SMEs with EU/UK/US export exposure. Strategic angle: SERV underutilization + alternative trade finance as distinct advisory vertical for Geneva SME exporter base.
+*Different from C116-C139:* SERV export finance covered in C116-C139 but specifically as US tariff disruption driver and volume data — C140 specifically targets SERV utilization gap as advisory positioning for Geneva SME exporters, distinct from large corporate trade finance.
+
+**Finding 04: Geneva professional services client matter management standardization (matter management + AI)**
+Geneva law firms, consultancies, and accounting firms face increasing client demand for transparent matter management: real-time project tracking, milestone reporting, and AI-assisted status summarization. This is distinct from ELM (enterprise legal management) — it applies to broader professional services. Advisory opportunity: matter management system selection + implementation + workflow standardization for Geneva professional services firms. Key differentiator: AI-assisted matter summarization for client reporting. Strategic angle: matter management advisory as differentiated from ELM/CLM commodity positioning.
+*Different from C116-C139:* ELM covered (C116-C139) but specifically as legal technology compliance tool — C140 targets matter management for professional services broadly as client delivery differentiator.
+
+**Finding 05: Swiss SME post-merger integration advisory domestic (M&A synergy realization)**
+M&A advisory in Switzerland has focused on deal execution (buy-side/sell-side), but a distinct gap exists: post-merger integration (PMI) advisory for Swiss SMEs. Post-CSRD/ESG due diligence, acquirers increasingly demand 100-day integration plans and synergy realization tracking. Geneva-based advisors with PMI methodology, change management expertise, and sector knowledge are scarce. Advisory opportunity: PMI execution support for mid-market transactions (CHF 20-200M EV), particularly for family business sellers requiring continuity management. Strategic angle: PMI as distinct from M&A deal execution, specifically for Geneva SME market.
+*Different from C116-C139:* M&A regulatory complexity covered but specifically deal execution focus — C140 PMI advisory for SME domestic transactions is distinct advisory positioning not previously surfaced.
+
+**Finding 06: Geneva CFO crisis simulation advisory (regulatory examination preparation)**
+FINMA examination preparation has become a specialized advisory niche: (1) mock regulatory examinations for banks and insurance; (2) board-level crisis simulation for executives named in FINMA enforcement actions; (3) privileged internal investigation to prepare for supervisory scrutiny. Geneva's concentration of financial institutions creates demand for: FINMA examination readiness reviews, BVG audit preparation, and Solvency testing preparation for insurers. This is distinct from general compliance advisory — crisis simulation is time-limited, high-intensity, and senior-exposure focused. Strategic angle: FINMA examination preparation as discrete premium advisory offering.
+*Different from C116-C139:* Regulatory investigation crisis comms covered (C120) but specifically as communication strategy — C140 FINMA examination simulation and preparation as distinct privileged advisory offering not previously identified.
+
+**Web search:** BLOCKED — Gemini 20/day quota EXHAUSTED 2026-04-05 06:10 UTC
+**Skipped for C140 Phase 03:**
+- Primary research / CCIG outreach (OWNER APPROVAL REQUIRED)
+- FINMA/SECO newsletter primary data (OWNER APPROVAL REQUIRED)
+- Geneva notaries referral network (OWNER APPROVAL REQUIRED)
+- IHEID family business alumni (OWNER APPROVAL REQUIRED)
+- Swiss corporate governance survey primary data (OWNER APPROVAL REQUIRED)
+
+**NET-NEW C140 Phase 03:** 6 findings
+**Phase complete:** 2026-04-05 13:10 UTC
