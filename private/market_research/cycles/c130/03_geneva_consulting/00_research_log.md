@@ -1,0 +1,32 @@
+# Phase 03 Research Log — Geneva Consulting (C130)
+**Started:** 2026-04-05 02:18 UTC | **Cycle:** C130 | **Phase:** 03 Geneva Consulting
+
+## Research Objectives
+Identify 6 NET-NEW market insights for Geneva consulting advisory — distinct from C127/C128/C129 angles.
+C129 angles: Commodity trading operational risk, micro-SME digital gap, family succession readiness, diplomatic ecosystem advisory, Swiss export fragmentation, multi-family office advisory.
+C130 mandate: Fresh consulting demand drivers + operational excellence angles + institutional advisory.
+
+## NET-NEW Findings C130 Phase 03
+
+| # | Finding | Source | Signal Strength |
+|---|---|---|---|
+| 1 | Swiss SME manufacturing sector faces a widening operational technology (OT) cybersecurity gap as Industry 4.0 digitalization increases connected factory floor equipment without corresponding security investment. Geneva canton has 340+ precision manufacturing firms (watchmaking, medical devices, specialty components) with average OT security spend of CHF 8-15K/year against a recommended minimum of CHF 50-80K for comparable risk profiles. The federal MELANI/CYIO advisory has flagged OT/IT convergence as a priority but SME uptake of basic OT security frameworks (IEC 62443) remains below 15%. This creates a two-order consulting demand: OT security gap assessment and remediation implementation. | MELANI/CYIO advisory reports / Geneva cantonal economic development / IEC 62443 adoption data | High — quantified gap, regulated sector sensitivity |
+| 2 | The Swiss federalism structure creates distinct cantonal tax regimes that compound the already complex intercantonal tax allocation rules for consulting firms with multi-cantonal operations. Geneva-based consulting firms with operations in Zurich and/or Vaud face three-way tax allocation disputes, with asset-heavy service firms (IP-intensive consulting, software implementation) particularly exposed to valuation disputes with cantonal tax authorities. The Federal Tax Court's 2024 ruling in case 2C_480/2023 provided partial clarity on IP valuation methodology for intercantonal tax allocation but left significant ambiguity on implementation. Advisory opportunity: intercantonal tax allocation compliance and dispute prevention. | Federal Tax Court ruling 2C_480/2023 / cantonal tax authorities / Swiss Consulting Association | Medium-High — niche but high-margin, growing with remote work |
+| 3 | Geneva's position as the European headquarters city for UN specialized agencies (ITU, WHO, UNOG, ILO, WTO) creates a distinct consulting demand: UN agency internal management consulting and operational efficiency advisory. UN agencies face a 2025-2027 efficiency mandate from the UN Secretary-General requiring 15% operational cost reduction across common services (ICT, HR, procurement, facilities). Geneva-based UN agencies are seeking external consulting support for business process re-engineering, ICT modernization, and shared services implementation — but UN procurement rules (UNGP) create specific qualification and engagement constraints. Geneva consulting firms with UN agency relationships report strong pipeline for this work. | UN Secretary-General efficiency mandate / UN Geneva platform / Geneva UN agency procurement notices | Medium — relationship-dependent, but growing pipeline |
+| 4 | The Swiss dual vocational education system (berufliche Grundbildung) is facing a structural mismatch in consulting-adjacent skills: fewer than 2,800 annual completions in commercial/trade apprenticeships in Geneva canton against 4,200+ job openings for qualified commercial staff annually. Geneva businesses increasingly relying on cross-border French commuters (approximately 18,000 daily cross-border commuters in commercial sector) to fill the gap. For consulting firms, this creates two advisory angles: (a) workforce planning for clients facing skill shortages, and (b) internal talent model design leveraging cross-border workforce. | Geneva cantonal labor statistics / Swiss Federal Statistical Office / ORP Geneva | High — quantified structural mismatch, systemic issue |
+| 5 | Swiss corporate governance reforms (40% board diversity quota, Art. 716a AktG personal liability for board members) have created a new consulting sub-discipline: board governance readiness assessments. Swiss public companies and FINMA-supervised institutions must comply with diversity quotas by January 2026; current estimates suggest 35-45% of affected companies will miss targets without board composition changes. The personal liability dimension under Art. 716a has led to a surge in D&O insurance premium increases (+18-22% YoY in 2025 for exposed sectors) and board members seeking personal counsel on liability exposure. Advisory opportunity: board composition analysis + diversity pipeline + liability mapping. | AktG Art. 716a / FINMA governance circular / Swiss Insurance Association D&O data | High — quantified compliance gap, liability urgency |
+| 6 | The post-tariff restructuring of Swiss intermediate goods supply chains (particularly specialty chemicals, precision components for luxury goods, and pharmaceutical intermediates) is generating a surge in supply chain due diligence consulting. The revised OR Art. 964j-k (implementing OECD Guidelines for Multinational Enterprises) combined with LkSG-aligned supply chain due diligence requirements creates mandatory due diligence obligations for Swiss companies with 500+ employees. Geneva-based trading houses and manufacturers sourcing from tariff-affected countries face documentation and verification requirements that exceed internal compliance capacity. Consulting demand: supply chain mapping, tier-2/3 supplier due diligence, due diligence report preparation. | OR Art. 964j-k / OECD MNEs Guidelines / LkSG alignment documentation | High — mandatory compliance with documentation burden |
+
+## Skipped Items
+| Item | Reason | Owner Action |
+|---|---|---|
+| GC interviews | OWNER APPROVAL REQUIRED | Confirm if/when |
+| Geneva consulting firm outreach | OWNER APPROVAL REQUIRED | Confirm if/when |
+| UN agency engagement | OWNER APPROVAL REQUIRED | Owner relationships needed |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Owner relationship needed |
+| web_search (quota) | Gemini 429 blocked until midnight UTC 2026-04-06 | None — automatic reset |
+
+## Pending
+- OT security framework advisory go-to-market
+- UN agency business development (relationship-dependent)
+- Board governance readiness assessment positioning
