@@ -1,5 +1,16 @@
 # Market Research Rotation State
-**Last updated:** 2026-04-05 00:30 UTC
+**Last updated:** 2026-04-05 03:09 UTC
+
+## CYCLE 131 — IN PROGRESS (Phase 01 COMPLETE)
+**C131 Phase 01 Completed:** 2026-04-05 03:09 UTC | NET-NEW: 6
+**Note:** Gemini 20/day quota RESET at midnight UTC 2026-04-05 — web_search available; 6/6 queries succeeded. All 6 phases pending for C131. GitHub push PENDING — no credentials confirmed. Advancing to C131 Phase 02.
+
+## C131 Phase 01 Geneva Legal — COMPLETE ✅
+**Completed:** 2026-04-05 03:09 UTC | NET-NEW: 6
+**Key Angles (vs C128-C130):** Federal Council AI civil liability proposal (strict liability + compliance defense); Geneva arbitration tariff-driven commodity dispute surge ICC/SCAI +18%; Geneva Bar AI ethics guidance (attorney verification obligation + client liability risk); FIPO blockchain patent guidelines update 2026 (filing window + AI disclosure); RDSV/DLT tokenization FINMA guidance acceleration Feb 2026; Lugano Convention UK enforcement gap (bilateral treaty not yet in force)
+**Web search:** 6/6 succeeded (Gemini fresh quota)
+**Skipped:** GC interviews; Geneva Bar Association outreach; FINMA/SECO newsletter; publishing any content
+**GitHub push:** ⚠️ PENDING — no credentials confirmed
 
 ## CYCLE 128 — COMPLETE ✅
 **Completed:** 2026-04-05 00:30 UTC | Total NET-NEW: 36 findings (6 phases × 6)
