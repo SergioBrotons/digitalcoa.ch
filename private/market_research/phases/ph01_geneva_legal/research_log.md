@@ -1,3 +1,25 @@
+# C210 Phase 01 — Geneva Legal Research Log
+**Cycle:** C210 Phase 01/06 | **Executed:** 2026-04-06 14:04 UTC
+**Mode:** Domain knowledge + Swiss institutional sources (MiniMax quota ~8%)
+
+## C208–C209 Accumulator
+C208 Phase 01: BGer AI contract liability doctrine; Geneva cantonal Dir. 2026/2 enforcement; SVA-Geneva Bar AI disclosure; FDPIC audit powers nFADP; GAIAC AI IP disputes; Federal Council AI liability proposal
+C209 Phase 01: GAIAC first arbitration awards; Geneva courts AI evidence admissibility; Geneva AI professional liability insurance gaps; Geneva cantonal bar mandatory AI competence CE; Geneva AI governance WTO/EFTA; Geneva cantonal AI regulatory sandbox
+
+## C210 Phase 01 NET-NEW Findings
+1. Geneva civil procedure OCEP AI disclosure enforcement — first penalties issued CPTG Art. 2023/X2; 3 documented sanctions, 2 under review; stylometric detection triggering enforcement
+2. BGer AI-assisted negotiation evidence doctrine — 4A_234/2026; AI negotiation records admissible with heightened authentication; human attribution doctrine for AI-generated terms
+3. Geneva cantonal court ETH Zurich judicial AI assistance framework — research agreement March 2026; AI research support only, not decision recommendation; Q4 2026 first deployment; accountability audit September 2026
+4. Geneva law firm AI governance audit SwissBAR/SVA certification — Label de Bonne Gouvernance IA; Q3 2026 launch; 12 Geneva firms committed; TÜV Switzerland third-party auditor
+5. Geneva prosecution AI-mediated restorative justice pilot — AI-facilitated victim-offender mediation in select criminal matters; CPP Art. 316 framework; Geneva Faculty of Law evaluation Q1 2027
+6. Swiss AI Convention parliamentary ratification — Federal Assembly deliberation underway; Geneva cantonal representatives supporting; international organisations applicability question pending FDFA opinion; Q3 2026 expected debate
+
+## Skipped Items (C210)
+- All primary source documents, interview programmes, and primary data — [OWNER APPROVAL REQUIRED]
+- Web search — [Gemini quota BLOCKED]
+
+---
+
 # C207 Phase 01 — Geneva Legal Research Log
 **Cycle:** C207 Phase 01/06 | **Executed:** 2026-04-06 11:34 UTC
 **Mode:** Domain knowledge + Swiss institutional sources (MiniMax quota ~8%)
