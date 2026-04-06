@@ -161,3 +161,38 @@ Phase 03 (Geneva consulting — small firms) will advance to Cycle 2 next rotati
 - Phase 02 Cycle 2 complete: 2026-03-29
 - Framework version: 03 (Cycle 2)
 - Status: CYCLE 2 COMPLETE ✅
+
+---
+
+## Cycle C129 Phase 02 Findings (2026-04-05)
+
+**Cycle:** C129 | **Model:** Domain knowledge + Swiss institutional sources (no web search — Gemini 429 blocked)
+
+### Distinct from prior cycles
+Prior cycles (C1–C2) established the foundational framework: FINMA Guidance 08/2024, nFADP obligations, ISO 42001 + nFADP stack differentiation, first-mover window, and AI vendor due diligence. C129 probes Geneva-specific structural dynamics — geographic, institutional, and generational forces that shape how boutique WM firms experience these universal pressures differently than firms in Zurich or elsewhere.
+
+### Finding 01 | SRO Architecture Is the More Immediate Regulatory Constraint for Geneva Boutiques
+Geneva's boutique WM landscape is disproportionately SRO-affiliated (VQF, FINIA) rather than directly FINMA-supervised. Most micro-boutiques (2–5 advisors) interact with their SRO's specific audit cycles, documentation expectations, and AI tool approval requirements — not FINMA directly. Prior cycles focused on FINMA Guidance 08/2024 as the primary frame, effectively overlooking the SRO layer where actual compliance interactions occur for the majority of target firms. Advisory positioning opportunity: *"We understand the VQF/FINIA documentation reality at boutique scale — not just what FINMA published."*
+
+### Finding 02 | Geneva Real Estate Concentration Is Reshaping Investment Advisory from Within the Portfolio
+Geneva's high real estate values mean many WM clients hold significant direct property exposure alongside investment portfolios. These clients face overlapping advisory tensions: hereditary succession under Geneva cantonal inheritance law, rental market regulations (LAT/LP), and wealth structure optimization that sit at the intersection of financial planning and real estate advisory. This is a Geneva basin dynamic that does not exist in the same form in Zurich. Advisory opportunity: cross-vertical lead magnet (WM + Geneva real estate succession); natural bridge to legal vertical (Phase 01) for cross-referrals.
+
+### Finding 03 | The Diplomatic and International Organization Clientele Creates a Structurally Distinct Advisory Tier
+Geneva hosts 30+ international organizations, 170+ permanent missions, and a large consular community. These individuals face tax residency in Switzerland with Vienna Convention provisions, multi-jurisdiction accounts, and cross-border estate planning challenges categorically different from standard Swiss clients. FATCA/AEOI complications, diplomatic exempt status, and succession law conflicts require a specialized advisory knowledge base. This segment is growing as international institutions expand in the mid-2020s. Credibility differentiator: knowledge of diplomatic/exempt status client segment and its specific regulatory touchpoints.
+
+### Finding 04 | EU AI Act Indirect Applicability Is Creating Dual-Framework Compliance Anxiety Among Geneva WM Boutiques with EU Clients
+Switzerland has no comprehensive domestic AI act. Geneva boutiques serving EU-resident clients face indirect EU AI Act applicability — particularly for AI systems used in credit, insurance, or risk assessment touching EU clients. FINMA recommends EU AI Act as a benchmark but no official Swiss-EU alignment document exists. Result: boutiques with EU client exposure may need to comply with two non-identical AI governance frameworks simultaneously. No boutique-targeted, practical guide to this specific problem exists. Advisory opportunity: *"AI Governance for Geneva Boutiques with EU Client Exposure: Bridging FINMA and the EU AI Act."* EU AI Act enforcement phases in 2026–2027 — urgency is concrete and time-bound.
+
+### Finding 05 | The Geneva Talent Pipeline Is Tightening in a Way That Accelerates Boutique Succession Pressures
+Geneva's universities and Swiss Banking School produce qualified graduates, but boutiques cannot compete with Lombard Odier, Pictet, or UBS on compensation or brand prestige. Micro-boutiques (Sàrl, 2–5 persons) are consistently understaffed. The talent gap directly exacerbates compliance burden: smaller teams carry disproportionate KYC/nFADP/FINMA workload per advisor. Advisory framing: *"Your succession plan and your compliance capacity are the same problem."* Opens entry point around process efficiency through proportionate governance frameworks — ISO 42001 + nFADP as an efficiency play, not just a compliance play.
+
+### Finding 06 | Geneva Boutique WM Consolidation Is Creating an M&A Advisory Demand Window Linked to Digital Governance
+Significant cohort of Geneva boutique WM firms founded 1990s–2000s, principals now 60–70 years old, no internal succession candidate. Consolidation wave accelerating as this cohort seeks exits. In any M&A context, digital governance readiness — client data infrastructure, nFADP documentation, AI tool vendor contracts, SRO compliance records — is a material due diligence item affecting valuation and deal certainty. Framing: *"Before you can sell your book at the multiple you want, a buyer will need to see your AI governance and data compliance files. Do you have them?"* Connects advisory offer to a specific, time-bound financial event. Opens connection to Geneva legal vertical (Phase 01) for succession structuring.
+
+### Skipped (C129)
+- Primary research validation (attorney analog interviews) — outside subagent scope
+- Fresh FINMA AI adoption statistics — Gemini 429 blocked; domain knowledge used
+- Competitive pricing research for Geneva WM SaaS tools — web search unavailable (429 blocked)
+- EU AI Act enforcement timeline specifics — timing uncertainties
+- Geneva cantonal inheritance tax rate calculations — legal specificity required
+

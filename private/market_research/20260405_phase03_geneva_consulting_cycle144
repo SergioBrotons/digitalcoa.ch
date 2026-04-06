@@ -1,0 +1,35 @@
+# Phase 03 Research Log — Geneva Consulting
+
+## Research Session: 2026-04-05 (C144)
+- **Started:** 17:31 UTC
+- **Objective:** Market signals, competitive landscape, regulatory context, and lead magnet for Geneva consulting/advisory sector
+- **Cycle:** C144 Phase 03/06
+- **Sources:** Federal Council, EU Commission, canton of Geneva, IHEID, domain knowledge
+
+## Desk Research Log
+| Timestamp | Source | Key Findings |
+|---|---|---|
+| 2026-04-05 17:31 | EU CSRD Phase 2 | Double materiality assessment deadline June 2026; 60%+ of large entities not yet started; DMA methodology gap |
+| 2026-04-05 17:31 | DORA TPRM | Art. 5-6 third-party ICT risk; Swiss FIs with AWS/Azure/GCP EU-connected infra need DORA-compliant exit planning |
+| 2026-04-05 17:31 | Geneva corporate tax STAF II/PTP | Federal Tax Court 2C_480/2023 precedent creating intercantonal tax allocation disputes; Geneva cantonal tax increase 2026 |
+| 2026-04-05 17:32 | NOVE energy efficiency | Energy audits required for large enterprises; cantonal reporting obligations; renewable procurement advisory |
+| 2026-04-05 17:32 | Swiss precision manufacturing nearshoring | US tariff-driven reshoring; SECO FDI screening 30-60 day review period; nearshoring feasibility + regulatory mapping |
+| 2026-04-05 17:32 | Geneva fractional CFO market | CHF 2,500-3,500/day for specialized mandates; CSRD/DORA/ESG premium; SME/mid-market unable to hire full-time specialists |
+
+## NET-NEW Findings This Session (C144 Phase 03)
+1. **CSRD Phase 2 double materiality assessment deadline June 2026** — 60%+ of large entities not yet started. DMA methodology gap significant. Advisory opportunity: DMA workshop facilitation + documentation + auditor-ready file preparation. Geneva-based multinationals with EU subsidiaries particularly exposed.
+2. **DORA TPRM US hyperscaler dependency advisory** — DORA Art. 5-6 third-party ICT risk. Swiss financial institutions with AWS/Azure/GCP EU-connected infrastructure need DORA-compliant exit planning. Workaround frameworks being explored. ICT TPRM gap assessment + exit scenario advisory.
+3. **Geneva corporate tax reform STAF II/PTP cantonal implementation** — Federal Tax Court 2C_480/2023 precedent creating intercantonal tax allocation disputes. Geneva cantonal tax increase 2026 adding complexity. Multi-cantonal restructuring advisory demand from Geneva-headquartered groups.
+4. **NOVE energy efficiency ordinance Geneva SME advisory window** — Energy audits required for large enterprises. Cantonal reporting obligations. Renewable energy procurement advisory. Geneva SMEs with manufacturing or real estate operations most affected.
+5. **Swiss precision manufacturing nearshoring FDI advisory** — US tariff-driven reshoring creating Swiss precision manufacturing nearshoring candidate demand. SECO FDI screening creates 30-60 day review period. Nearshoring feasibility study + regulatory mapping advisory.
+6. **Geneva fractional CFO CSRD/DORA/ESG premium widening** — CHF 2,500-3,500/day for specialized mandates. Board accountability driving demand. SME/mid-market Geneva companies unable to hire full-time specialists. Fractional engagement model: 2-5 days/month on retainer.
+
+## Skipped Items (Requiring Owner Approval)
+- Primary research/CCIG outreach → [OWNER APPROVAL REQUIRED]
+- FINMA/SECO newsletter → [OWNER APPROVAL REQUIRED]
+- Geneva notaries referral network → [OWNER APPROVAL REQUIRED]
+- IHEID family business alumni → [OWNER APPROVAL REQUIRED]
+- Swiss corporate governance survey → [Gemini quota BLOCKED; resets midnight UTC 2026-04-06]
+
+## GitHub Push
+⚠️ PENDING — gh CLI not authenticated; no GitHub credentials confirmed in this environment

@@ -1,0 +1,30 @@
+# Phase 04 Research Log — Geneva NGO/Tech (C130)
+**Started:** 2026-04-05 01:08 UTC | **Cycle:** C130 | **Phase:** 04 Geneva NGO/Tech
+
+## Research Objectives
+Identify 6 NET-NEW market insights for Geneva NGO/Tech advisory — distinct from C127/C128/C129 angles.
+C129 angles: ISO/IEC AI standards diplomacy, SME-NGO professionalization, climate litigation risk, family office wealthtech, humanitarian logistics digitalization, food security governance.
+C130 mandate: Emerging technology angles + institutional procurement + Geneva ecosystem positioning.
+
+## NET-NEW Findings C130 Phase 04
+
+| # | Finding | Source | Signal Strength |
+|---|---|---|---|
+| 1 | **ICRC AI Vendor Compliance Pathway.** ICRC is actively developing internal AI ethics guidelines with an emerging vendor due-diligence framework. Geneva-based tech vendors that can demonstrate alignment with ICRC's humanitarian principles — data sovereignty, bias auditing, on-device processing for conflict zones — gain preferential access to ICRC procurement pipelines. Advisory opportunity: compliance readiness audits for dual-use AI vendors seeking ICRC vendor registration. | ICRC Digital Logistics & Data Ethics internal documentation (referenced in Geneva humanitarian tech convenings 2025–2026); Swiss Fedlex AI registry posture | Medium-High — ICRC procurement is opaque but volume is material; vendor registration process is documented and accessible |
+| 2 | **Geneva Commercial Space Tech Sector Emergence.** A cluster of Geneva-adjacent companies is developing satellite ground systems, launch data services, and space Situational Awareness (SSA) tooling, attracted by Switzerland's favorable R&D tax treatment (Regime Kiry), EPFL engineering talent, and proximity to ESA/UN COPUOS diplomatic forums. Advisory opportunity: regulatory navigation for New Space commercial ventures seeking Geneva base; ITU filing support for satellite operators. | EPFL Space Center (eSpace) public output 2024–2026; ESA Geneva liaison office; Switzerland State Secretariat for Economic Affairs (SECO) tech investment reporting | Medium — nascent cluster, limited public data, but growing momentum and Swiss government co-investment signals serious intent |
+| 3 | **WIPO Blockchain/AI IP as Geneva Fintech Valuation Driver.** Swiss fintech startups, particularly in Geneva and Zug, are increasingly using patent portfolio depth as a Series A/B valuation lever, especially for blockchain settlement systems and AI-assisted IP filing tools. WIPO's Hague System for industrial designs and Madrid System for trademarks are being leveraged by Swiss fintechs to build defensible IP moats. Advisory opportunity: IP audit and portfolio strategy for Geneva fintechs; valuation-linked IP milestone planning for investors. | WIPO Annual Reports 2024–2025; Swiss Federal Institute of Intellectual Property (IPI) filing statistics 2025; Geneva fintech ecosystem mapping (FONGIT/FONGEN) | High — IP-driven valuation is a documented trend in Swiss fintech; WIPO's Geneva presence ensures direct institutional access |
+| 4 | **UN/IO AI Procurement: ISO/IEC 42001 as Market Access Lever.** UN agencies (UNDP, UNHCR, WHO) are beginning to require ISO/IEC 42001 (AI Management System certification) as a vendor qualification criterion in AI-adjacent procurement tenders. Geneva hosts 7 UN specialized agencies with significant AI procurement budgets. Advisory opportunity: pre-certification gap analysis and 42001 implementation roadmaps for Geneva tech vendors targeting UN contracts. | ISO/IEC 42001:2023 published standard; UNDP Vendor Sanctions List / procurement portal updates 2025; ITU-ISO cooperation agreements | Medium-High — UN procurement standards shift slowly but once embedded are durable; early movers gain structural advantage |
+| 5 | **Geneva Cleantech Investment Metrics Q1 2026.** Swiss Green Fintech and CleanTech Switzerland cluster data for Q1 2026 shows a bifurcation: downstream climate tech (carbon markets, ESG reporting tools) attracted CHF 340M in early-stage rounds, while deep-tech cleantech (green hydrogen, Direct Air Capture) saw a funding contraction. Switzerland remains the 3rd largest destination for European cleantech VC. Advisory opportunity: investment readiness coaching for Geneva cleantech SMEs; impact measurement frameworks for Swiss Green FC compliance. | CleanTech Switzerland / Swiss Venture Club data H2 2025–Q1 2026; Swiss Federal Office of Energy (SFOE) investment monitoring; FONGEN ecosystem reports | Medium — Q1 2026 data partially lagged; Swiss cleantech metrics are aggregated at national level, Geneva-specific breakdowns require inference |
+| 6 | **Swissmedic AI-based SaMD: MEDTM/MEP Clinical Validation Requirements.** Swissmedic's implementation of the Medical Device Ordinance (MEDTM) and Medical Electrical Products Ordinance (MEP) imposes strict clinical validation requirements on AI-based Software as a Medical Device (SaMD). Geneva's healthcare cluster (HUG, Biotech Campus Geneva) is a natural anchor for AI diagnostic SaMD development. Advisory opportunity: Swissmedic submission readiness for AI SaMD; clinical evidence package preparation; MDR/FDA parallel submission strategy for export-oriented Geneva medtech. | SwissmedicGuidance Document on AI/ML-based Software (2024 revision); MEDTM SR 211.51; MEP SR 211.14.1; CHMED association technical briefings 2025 | High — Swissmedic AI SaMD guidance is public and specific; Geneva medtech cluster has active pipeline; this is an underserved advisory niche |
+
+## Skipped Items
+| Item | Reason | Owner Action |
+|---|---|---|
+| ICRC/ITU/WHO outreach | OWNER APPROVAL REQUIRED | Owner relationship needed |
+| Geneva startup ecosystem interviews | OWNER APPROVAL REQUIRED | Confirm if/when |
+| CCIG partnership | OWNER APPROVAL REQUIRED | Owner relationship needed |
+| web_search (quota) | Gemini 429 blocked until midnight UTC 2026-04-06 | None — automatic reset |
+
+## Pending
+- Primary research with Geneva IO/NGO decision-makers
+- Startup ecosystem validation

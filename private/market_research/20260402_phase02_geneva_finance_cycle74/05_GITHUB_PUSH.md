@@ -6,11 +6,11 @@
 - Repo: digitalcoa-ch
 - Branch: staging
 
-### Push Status: PENDING
+### Push Status: COMPLETE ✓
 
-### Commit SHA (when pushed): TBD
+### Commit SHA: 4e213c7
 
-### Files to Push
+### Files Pushed
 - 01_RESEARCH_LOG.md
 - 02_SOURCES.md
 - 03_FINDINGS.md
@@ -19,4 +19,7 @@
 - 06_COMPLETION.md
 
 ### Notes
--
+- SNB site restructure: all monetary policy pages 404 (previously accessible)
+- Swiss banking access crisis: SBA DNS fail; SwissBanking 404; UBS/CS 403; SFAMA 404
+- FINMA institutional pages accessible and consistent
+- Gemini free tier: still exhausted; web_fetch-only research

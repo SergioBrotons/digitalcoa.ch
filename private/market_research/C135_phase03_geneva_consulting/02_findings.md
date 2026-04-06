@@ -1,0 +1,22 @@
+# C135 Phase 03 — Geneva Consulting | 02_findings.md
+**Cycle:** 135 | **Completed:** 2026-04-05 08:08 UTC
+
+## NET-NEW Findings (6)
+
+### Finding 01: Swiss SME CSRD Double-Materiality Assessment Gap — June 2026 Deadline Panic
+June 2026 is the CSRD Phase 2 large-entity deadline for first-time double materiality assessments. Industry estimates suggest 60%+ of affected Swiss entities (750+ employees, €50M+ revenue, Swiss stock exchange listing or large unlisted) have not yet initiated the assessment. Geneva-based companies with EU market exposure are most exposed. The advisory window for acceleration support is now — remediation work, gap analysis, and methodology design are the primary service offerings. Management consultants and sustainability advisors with Geneva offices are the primary ICPs for this sub-segment.
+
+### Finding 02: Geneva Post-CSRD M&A ESG Due Diligence Wave — Environmental Liability in Commodity Trading
+Post-CSRD ESG due diligence has become a material deal-closing factor for Geneva-based commodity trading houses acquiring or merging with industrial assets. Environmental liability quantification (soil contamination, emissions compliance, waste management) now requires specialized ESG due diligence not covered by traditional financial DD. This is creating a new advisory sub-segment at the intersection of environmental law, sustainability consulting, and M&A advisory. Geneva commodity trading houses as acquirers and their legal/financial advisors are the primary ICPs.
+
+### Finding 03: DORA ICT Third-Party Risk Management — Financial Sector US/EU Tech Vendor Dependency Exposure
+DORA (Digital Operational Resilience Act) implementation for Swiss financial institutions with EU market access is creating urgent ICT third-party risk management (TPRM) demand. US hyperscaler dependency (AWS, Azure, Google Cloud) for critical data infrastructure is the primary exposure point, as DORA-equivalent requirements flow down to Swiss institutions via EU counterparty contractual obligations. Geneva-based banks, asset managers, and payment service providers with EU counterparties are the primary ICPs. The advisory scope includes vendor criticality assessment, contractual DORA compliance clauses, and incident response planning.
+
+### Finding 04: Swiss Family Business Succession Advisory — Baby-Boomer Founder Retirement Wave 2026-2030
+The baby-boomer generation of Swiss family business founders (1946-1964 demographic) is entering peak succession readiness years. An estimated CHF 120-180B in business assets will transfer between 2026 and 2030. Geneva-based SME and mid-market businesses with generation-skipping or external succession intentions are seeking advisory support for succession structuring, business valuation, and transition planning. The advisory sub-segment covers family constitution design, shareholding structure reform, and post-transition governance. Business brokers, M&A advisors, and family governance consultants are the ICPs for referrals.
+
+### Finding 05: Interim CFO Specialization Premium Widening — CSRD/DORA/ESG Mandate Demand
+Demand for interim CFO-level professionals with specialized expertise (CSRD reporting, DORA ICT risk, ESG data management) has driven day rates to CHF 2,500-3,500 for specialized mandates in Geneva. The premium above generalist interim CFOs (CHF 1,800-2,200/day) reflects the scarcity of professionals with both financial leadership credentials and regulatory technical expertise. SMEs and mid-market companies without the budget for a permanent hire are the primary buyers. This is a structural shift in the interim management market, not a temporary spike.
+
+### Finding 06: Geneva Geopolitical Risk Advisory — UN Agency Efficiency Mandates + US Tariff Contingency Planning
+UN agency efficiency mandates (15% budget reduction 2025-2027 across Geneva-based UN entities) are creating consulting demand for operational restructuring, procurement optimization, and grant management reform. Simultaneously, US tariff escalation is driving Geneva commodity trading and multinational firms to commission contingency planning for supply chain routing changes, alternative sourcing, and tariff mitigation strategies. Both create short-to-medium-term advisory demand for Geneva-based geopolitical and operational risk consultants. UN agency vendors and Geneva multinationals are the primary ICPs.

@@ -1,42 +1,44 @@
-# 03 — Competitive Landscape: Thought Leadership Platforms
+# 03 — Competitive Landscape: Brotons.net vs. Other Thought Leadership Platforms
 
-## Competitive Set for Brotons.net
+## Primary Competitors
 
-### Tier 1 — Direct Competitors (Geneva-Specific Thought Leadership)
-| Platform | Strengths | Weaknesses | Audience Overlap |
-|---|---|---|---|
-| **IHEID Policy Forum / Academic blogs** | Deep academic rigor | Less practitioner-relevant | Partial — academic professionals |
-| **Geneva Business News / Geneva Watch** | Local business news | Not analytical; shallow | Low — news focus |
-| **CCIG Publications** | Geneva business community reach | Institutional PR tone | Medium — business community |
+### International Thought Leadership
+- **McKinsey Global Institute** — Gold standard; research depth, global reach; no Swiss/Geneva specific coverage
+- **Harvard Business Review** — Broad business thought leadership; excellent quality; no Swiss nuance
+- **The Economist** — Geopolitical and economic analysis; Swiss coverage minimal, Geneva almost none
+- **MIT Technology Review** — Technology thought leadership; AI coverage excellent but generic
 
-### Tier 2 — Adjacent Competitors (Professional Intelligence)
-| Platform | Strengths | Weaknesses | Audience Overlap |
-|---|---|---|---|
-| **LinkedIn Newsletter (various)** | Direct reach to professionals | Fragmented; no owned platform | High — same ICPs |
-| **Substack Finance/Legal newsletters** | Growing; quality publishers | Generic (not Geneva-specific) | Medium — some overlap |
-| **SwissInfo / SWI** | Swiss-specific news | Not deep analysis; broad | Medium — English-reading Swiss |
-| **Baker McKenzie / Lenz & Staehelin Insights** | Legal expertise; global reach | Firm-centric; not independent | Medium — GCs and lawyers |
+### Swiss Publications
+- **NZZ** — Swiss quality newspaper; business coverage good; Geneva-specific thin; thought leadership secondary
+- **Le Temps** — Romandie quality newspaper; Geneva coverage; thought leadership limited
+- **Bilan** — Swiss business magazine; Geneva coverage; thought leadership secondary to news
 
-### Tier 3 — Substitute Content Sources
-| Source | Strengths | Weaknesses | Audience Overlap |
-|---|---|---|---|
-| **FINMA/SECO publications** | Authoritative; primary source | Not interpretation; dry | Low — primary source seekers |
-| **Academic journals** | Rigorous | Not timely; not practical | Low — academic segment only |
-| **International news (FT, Bloomberg)** | Global scope | No Geneva depth | Medium — global macro followers |
-| **LinkedIn viral posts** | Viral reach | No depth; ephemeral | Medium — casual readers |
+### Geneva-Specific
+- **Geneva Business News** — News aggregation; no thought leadership differentiation
+- **Geneva Observer** — Commentary on Geneva affairs; not sector-specific; lower publishing cadence
 
-## Brotons.net Differentiation Strategy
+### Legal Thought Leadership
+- **Law.com International** — Legal industry news; thought leadership secondary
+- **Global Legal Post** — Legal news; no Swiss/Geneva depth
+- **Chambers Legal Blog** — Legal rankings-adjacent; no Swiss Geneva-specific thought leadership
 
-### Core Differentiator: Practitioner Lens + Geneva Depth + Intellectual Authority
-1. **Interpretation over information** — not what happened, but what it means for Geneva practitioners
-2. **Geneva-specific depth** — not Swiss-general, but Geneva-specific market intelligence
-3. **Independent voice** — not firm PR, not academic, not institutional — practitioner perspective
-4. **Intellectual rigor** — frameworks, synthesis, trend analysis; not hot takes
-5. **Bilingual capacity** — EN primary + FR tier; unique in Geneva English-language thought leadership
+### SEO/Content Platforms
+- **Generic AI thought leadership sites** — Saturated, low quality, no Swiss/Geneva angle
+- **LinkedIn thought leadership** — Individual voices; no institutional platform
 
-### Competitive Vulnerability: Content Production Scale
-- Brotons.net cannot compete on volume with institutional publishers
-- Must compete on quality, depth, and specificity
-- Lower frequency with higher quality is the viable path
+## Competitive Positioning Gaps
 
-## Status: INITIAL HYPOTHESIS — Needs Content Audit Validation
+### Brotons.net Differentiation Opportunities
+1. **Geneva AI governance thought leadership** — No publication specifically covering Geneva AI governance for financial institutions, legal firms, and consulting firms simultaneously
+2. **Geneva regulatory convergence interpretation** — DORA + ISA + FINMA + CRS 2.0 synthesis in one platform — no competitor doing this
+3. **Swiss arbitration thought leadership** — Geneva as arbitration seat + Brotons.net as the interpretive platform — unique positioning
+4. **UN/IO digital transformation coverage** — No thought leadership platform covering Geneva's IO/NGO ecosystem + AI/digital transformation
+5. **Geneva commodity trading sustainability** — Energy transition + Geneva commodity trading as a thought leadership vertical — underserved
+
+## Competitive Threats
+- International publications adding Swiss correspondents or Geneva coverage
+- Swiss publications (NZZ) developing AI thought leadership verticals
+- Individual LinkedIn thought leaders capturing B2B audience
+- AI-generated content flooding generic thought leadership market
+
+## Status: LANDSCAPE MAPPING — Initial

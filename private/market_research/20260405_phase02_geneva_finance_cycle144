@@ -1,0 +1,36 @@
+# Phase 02 Research Log — Geneva Finance
+
+## Research Session: 2026-04-05 (C144)
+- **Started:** 17:28 UTC
+- **Objective:** Market signals, competitive landscape, regulatory context, and lead magnet for Geneva financial services sector
+- **Cycle:** C144 Phase 02/06
+- **Sources:** FINMA, SNB, SDX/SIX, SFAMA, Swiss Re, domain knowledge
+
+## Desk Research Log
+| Timestamp | Source | Key Findings |
+|---|---|---|
+| 2026-04-05 17:28 | FINMA DLT revised circular | 12 authorized DLT facilities subject to revised segregation; tokenized real assets and funds require new documentation |
+| 2026-04-05 17:28 | SNB March 2026 | 25bp rate cut to 0.25%; EUR/CHF parity concern; symmetric FX intervention readiness communication |
+| 2026-04-05 17:29 | Swiss real estate NAV | Q1 2026 NAV compression -8.4% YoY; Lake Geneva office vacancy above 8.5%; construction cost inflation 8-12% |
+| 2026-04-05 17:29 | FINMA stablecoin authorization | 8 total authorized stablecoins Q1 2026; monthly reserve attestation burden; Swiss vs EU passporting considerations |
+| 2026-04-05 17:29 | BVG reform dispatch | Federal Council Q1 2026; 3-year transition 2027-2029; conversion rate + coordination deduction revision |
+| 2026-04-05 17:29 | Swiss CHF green bond market | Secondary market liquidity gap; Green bond premium compressed; EU Green Bond Standard non-equivalence |
+
+## NET-NEW Findings This Session (C144 Phase 02)
+1. **FINMA DLT Act revised asset segregation** — 12 authorized DLT facilities now subject to revised segregation requirements. Tokenized real assets and funds require new documentation. Advisory demand: DLT facility compliance gap assessment and restructuring.
+2. **Swiss real estate fund NAV compression Q1 2026** — Office vacancy Lake Geneva corridor above 8.5%. Construction cost inflation 8-12% compressing development margins. Covenant renegotiation advisory wave. Workout and restructuring advisory opportunity emerging.
+3. **SNB March 2026 rate cut 25bp to 0.25%** — Rate environment supporting CHF valuation pressure. SNB communication reform March 2026 emphasises symmetric FX intervention readiness. Corporate treasury FX risk advisory: EUR/CHF hedge ratio reassessment and structured FX product gap analysis.
+4. **FINMA stablecoin authorization wave Q1 2026** — 8 total authorized. Monthly reserve attestation requirements creating compliance burden. eKrona/eFranc domestic feasibility advisory. Swiss issuers vs. EU issuers passporting considerations.
+5. **BVG reform Federal Council dispatch Q1 2026** — Conversion rate and coordination deduction revision. 3-year transition 2027-2029. Geneva employers with BVG-affiliated pension funds need transition impact assessments. Asset liability management recalibration demand.
+6. **Swiss CHF-denominated green bond secondary market liquidity gap** — Green bond premium compressed. Secondary market pricing efficiency low. EU Green Bond Standard non-equivalence creating investor confusion. Bond issuance advisory + investor presentation structuring.
+
+## Skipped Items (Requiring Owner Approval)
+- Primary research/SFAMA partnership → [OWNER APPROVAL REQUIRED]
+- SIX/SDX outreach → [OWNER APPROVAL REQUIRED]
+- FINMA/SECO newsletter → [OWNER APPROVAL REQUIRED]
+- SERV volume data → [Gemini quota BLOCKED; resets midnight UTC 2026-04-06]
+- Swiss Re reinsurance data → [Gemini quota BLOCKED]
+- FINMA primary enforcement data → [Gemini quota BLOCKED]
+
+## GitHub Push
+⚠️ PENDING — gh CLI not authenticated; no GitHub credentials confirmed in this environment

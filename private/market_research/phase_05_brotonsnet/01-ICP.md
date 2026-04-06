@@ -1,57 +1,57 @@
-# 01 — ICP: Brotons.net Audience
+# 01 — ICP: Brotons.net Audience (Thought Leadership Platform)
 
-## Platform Role
-Brotons.net is the intellectual authority platform — thought leadership and interpretation for senior Geneva financial/legal/intelligence practitioners. It is NOT a newswire. It is a lens.
+## Platform Profile: Brotons.net
+- **Role:** Thought leadership, interpretation, authority building, trust formation, upstream audience development
+- **Primary Business Outcome:** Grow qualified readership, increase return visits, increase newsletter or contact intent, strengthen intellectual authority, create warm pathways into DigitalCoa.ch and selected advisory offers
+- **Feel:** A thinking platform, a lens, a signal-rich environment, intellectually strong and independent
+- **Positioning:** Distinct from DigitalCoa.ch (executive-grade, structured, commercially credible) — Brotons.net is higher tolerance for experimental essays, lower tolerance for commercial clutter
 
-## Primary Audience Profile
+## Target Audience Segments
+| Segment | Profile | Content Needs |
+|---|---|---|
+| Geneva finance professionals | Asset managers, private bankers, family office executives | Regulatory analysis, AI governance, market interpretation |
+| Legal professionals | Geneva lawyers, in-house counsel, compliance officers | Arbitration, regulatory change, AI legal liability |
+| Consulting professionals | Management consultants, sector specialists | Strategy, market interpretation, thought leadership |
+| IO/NGO executives | UN/IO leaders, NGO directors, program managers | Digital transformation, AI strategy, humanitarian tech |
+| Tech founders | Geneva startup founders, CERN/EPFL entrepreneurs | Regulatory navigation, AI governance, tech transfer |
+| Sophisticated general readers | UHNW, executives, policymakers | Broader social, economic, geopolitical interpretation |
 
-### ICP 1: General Counsel / Senior Legal Decision-Makers
-- **Role:** In-house counsel at Geneva banks, asset managers, commodity traders, family offices
-- **Pain Points:** Keeping pace with regulatory change; finding trusted interpretation (not just news); building legal risk frameworks; AI governance
-- **What They Value:** Sharp analysis, practical frameworks, Geneva-specific intelligence, peer-level discourse
-- **Reading Behavior:** LinkedIn professional feed → Substack newsletter → direct visits; morning reading during commute/coffee
-- **Language:** English primary; French valued for local context pieces
+## Pain Points (Reader Hypotheses)
+1. **Information overload** — too much content, too little synthesis; Brotons.net as filter for signal
+2. **Swiss market context** — international publications miss Swiss-specific nuance; Brotons.net fills the gap
+3. **Regulatory change tracking** — Swiss financial, legal, tech regulation complex; Brotons.net as interpretive lens
+4. **Geneva-specific intelligence** — IO/NGO ecosystem, Geneva arbitration, commodity trading dynamics; Brotons.net uniquely positioned
+5. **AI strategy gap** — professionals unsure how AI affects their sector; Brotons.net as AI thought leadership platform
+6. **Return visitor motivation** — what brings readers back; Brotons.net needs compelling recurring content pillars
 
-### ICP 2: C-Suite / CFO / Family Office Principals
-- **Role:** Decision-makers at Geneva private companies, UHNW family offices, investment vehicles
-- **Pain Points:** Strategic clarity on regulatory landscape; trusted advisors; wealth governance; succession
-- **What They Value:** Synthesis over detail; actionable insight; Geneva market intelligence; trust formation
-- **Reading Behavior:** Substack newsletter; LinkedIn shares by trusted advisors; direct URL visits
-- **Language:** English; some French for Romandie HNW families
+### Buying Triggers (What Makes Readers Return)
+- Consistent quality and intellectual rigor
+- Swiss-specific and Geneva-specific intelligence
+- Regulatory change interpretation (not just news)
+- AI strategy and governance deep dives
+- Thought leadership that challenges conventional wisdom
+- Clear, restrained, credible voice
 
-### ICP 3: Geneva IO / NGO Senior Professionals
-- **Role:** Directors, program heads, and senior advisors at Geneva-based IOs and international NGOs
-- **Pain Points:** Technology governance; AI policy; operational resilience; funding environment intelligence
-- **What They Value:** Geneva-specific institutional intelligence; cross-sector trend analysis; operational frameworks
-- **Reading Behavior:** Newsletter + LinkedIn; less Substack than corporate audience
-- **Language:** English primary; French for Geneva-based UN agency staff
+### Buying Barriers (Why Readers Leave or Don't Return)
+- Content that feels generic or internationally recycled
+- AI-generated-sounding or inflated claims
+- Commercial clutter or obvious lead generation
+- Lack of Swiss-specific depth
+- Inconsistent publishing cadence
+- Missing the "why" — just information without interpretation
 
-### ICP 4: Geneva Consultants and Advisory Professionals
-- **Role:** Senior advisors at boutique consulting firms, independent consultants, interim managers
-- **Pain Points:** Maintaining intellectual edge; new regulatory topics requiring rapid expertise; thought leadership for their own clients
-- **What They Value:** Frameworks they can adapt; trend analysis for client conversations; intellectual stimulation
-- **Reading Behavior:** Substack + LinkedIn; high sharing propensity
-- **Language:** English primary
+## Language / Tone
+- English primary (international audience, Geneva's English-speaking professional community)
+- French useful for Romandie crossover
+- Tone: calm, sharp, restrained, useful, credible — per SOUL.md
+- No hype, no AI clichés, no inflated claims
 
-## Audience Size Estimates (Geneva Addressable)
-- In-house legal (50+ lawyers firms + large corporates): ~800-1,200 senior practitioners
-- Family office principals and UHNW advisors: ~200-400
-- Geneva IO/NGO senior professionals: ~300-500
-- Senior consultants and independent advisors: ~500-800
-- **Total addressable for thought leadership:** ~1,800-2,900 individuals
+## Platform Architecture (Current)
+- Thought leadership essays
+- Market interpretation pieces
+- Regulatory analysis (Swiss/Geneva focus)
+- AI strategy and governance
+- Geneva ecosystem coverage (arbitration, IO/NGOs, commodity trading)
+- Email/newsletter for return visitors
 
-## Journey: Reader → Trusted Advisor → Advisory Prospect
-1. **Discovery:** LinkedIn share / Substack newsletter / search
-2. **First impression:** 1-2 strong analysis pieces establishing credibility
-3. **Return visit:** Recurring content aligned with professional needs
-4. **Newsletter subscription:** Substack free tier or email newsletter
-5. **Trust formation:** Consistent quality over 6-12 months
-6. **Advisory inquiry:** Either DigitalCoa.ch inquiry or warm introduction via Brotons.net connection
-
-## Content Triggers That Convert to Advisory Interest
-- Geneva-specific regulatory analysis (Basel IV, BVG, AI governance)
-- Trust formation through intellectual authority
-- Clear evidence of deep Geneva market expertise
-- Content that helps ICPs do their jobs better
-
-## Status: INITIAL HYPOTHESIS — Needs Content Audit Validation
+## Status: HYPOTHESIS — Needs Traffic/Analytics Validation

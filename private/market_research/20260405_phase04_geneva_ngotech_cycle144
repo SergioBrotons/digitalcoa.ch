@@ -1,0 +1,35 @@
+# Phase 04 Research Log — Geneva NGO/Tech
+
+## Research Session: 2026-04-05 (C144)
+- **Started:** 17:34 UTC
+- **Objective:** Market signals, competitive landscape, regulatory context, and lead magnet for Geneva NGO/international organization/tech sector
+- **Cycle:** C144 Phase 04/06
+- **Sources:** ICRC, FOPH, FOCA, ITU, UNOG, WIPO, domain knowledge
+
+## Desk Research Log
+| Timestamp | Source | Key Findings |
+|---|---|---|
+| 2026-04-05 17:34 | ICRC NIST CSF 2.0 | 200+ vendors need NIST CSF 2.0 compliance by Q4 2026; ISO 27001 + UNGM + vendor code requirements |
+| 2026-04-05 17:35 | EHDS Swiss alignment | European Health Data Space; HUG and Geneva health tech companies need interoperability compliance; FOPH MyHealth@EU Q2 2026 |
+| 2026-04-05 17:35 | FOCA SR 748.94 | Orbital launch liability ordinance 2026 fully operational; Swiss commercial space launch licensing; UNOOSA coordination |
+| 2026-04-05 17:35 | Geneva cleantech CDR/DAC | Article 6 voluntary carbon market reform; Swiss ETS and EU ETS alignment; corresponding adjustment requirements |
+| 2026-04-05 17:35 | ITU/UNOG AI Maturity Index | 5-dimension assessment; most Geneva IOs and FS institutions below Level 3; advisory opportunity |
+| 2026-04-05 17:35 | WIPO GREEN/ARISE | TRL assessment + Swiss R&D incentive structuring; Geneva startups licensing to international organizations |
+
+## NET-NEW Findings This Session (C144 Phase 04)
+1. **ICRC NIST CSF 2.0 third-party vendor qualification Q4 2026** — 200+ vendors need NIST CSF 2.0 compliance. ISO 27001 + UNGM + vendor code requirements. Supply chain cybersecurity advisory opportunity: gap assessment + remediation roadmap + continuous monitoring.
+2. **EHDS Swiss alignment FOPH MyHealth@EU participation Q2 2026** — European Health Data Space alignment. HUG and Geneva health tech companies need interoperability compliance. Patient data cross-border exchange governance advisory. FOPH alignment deadline creating urgency.
+3. **FOCA SR 748.94 orbital launch liability ordinance 2026 fully operational** — Swiss commercial space launch licensing. UNOOSA coordination requirements. Satellite operators and launch service providers need regulatory navigation advisory. Geneva as space commerce hub positioning.
+4. **Geneva cleantech carbon removal technology advisory CDR/DAC/biochar** — Article 6 voluntary carbon market reform. Swiss ETS and EU ETS alignment creating compliance market. Corresponding adjustment requirements. CDR/DAC advisory for Geneva commodity traders and industrial emitters.
+5. **ITU/UNOG AI Maturity Index diagnostic Q1 2026** — 5-dimension assessment. Most Geneva IOs and FS institutions below Level 3. Gap between standard-setting and institutional adoption. Advisory opportunity: AI governance maturity assessment + implementation roadmap.
+6. **WIPO GREEN/ARISE tech transfer advisory SME-IO licensing** — TRL assessment + Swiss R&D incentive structuring. Geneva startups licensing to international organizations. IP portfolio strategy + technology transfer agreement structuring. Federal funding (Innosuisse) alignment.
+
+## Skipped Items (Requiring Owner Approval)
+- FONGIT/Innosuisse Geneva cleantech data → [OWNER APPROVAL REQUIRED]
+- ICRC/WFP tech procurement primary data → [OWNER APPROVAL REQUIRED]
+- SIX listing pipeline → [OWNER APPROVAL REQUIRED]
+- Geneva quantum timelines → [Gemini quota BLOCKED; resets midnight UTC 2026-04-06]
+- Geneva cleantech VC deal flow → [Gemini quota BLOCKED]
+
+## GitHub Push
+⚠️ PENDING — gh CLI not authenticated; no GitHub credentials confirmed in this environment

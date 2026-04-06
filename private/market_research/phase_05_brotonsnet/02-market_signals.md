@@ -1,68 +1,32 @@
-# 02 — Market Signals: Thought Leadership / Content Platform
+# 02 — Market Signals: Brotons.net (Thought Leadership Platform)
 
-## Brotons.net Market Context
+## Active Signals (Q1-Q2 2026)
 
-### Thought Leadership Landscape in Geneva
-- **IHEID Policy Forum** — academic thought leadership; less practitioner-oriented
-- **CCIG (Geneva Chamber of Commerce)** — business events and publications; more commercial tone
-- **SFAMA publications** — industry association content; regulatory-focused; less independent
-- **Swiss Finance Institute** — research-focused; less accessible to practitioners
-- **LinkedIn professional publishing** — native platform for professional thought leadership
-- **Substack** — newsletter-native thought leadership; growing in Geneva finance/legal community
+### Content Platform Signals
+- **AI thought leadership saturation:** Most business publications cover AI generically; Swiss-specific and sector-specific AI thought leadership is less saturated
+- **Regulatory interpretation demand:** Regulatory change (FINMA, AI, DORA, CRS 2.0) creates need for interpretation, not just news — Brotons.net's core value
+- **Geneva arbitrage:** Geneva's IO/NGO/finance/arbitration ecosystem is under-covered by international publications; Brotons.net has structural advantage
+- **Return visitor challenge:** Most thought leadership platforms have low return visit rates; content cadence and depth determine retention
+- **Email newsletter value:** Newsletter remains highest-ROI audience development channel for B2B thought leadership; Brotons.net newsletter strategy under-developed
 
-### Key Market Signals
+### Platform Performance Signals
+- **B2B thought leadership effectiveness:** Rule of 7 — audiences need 7+ touchpoints before converting; Brotons.net should be top-of-funnel, trust-building
+- **Content quality vs. quantity debate:** Thought leadership market saturated with volume; quality synthesis wins over quantity
+- **Multi-channel distribution:** LinkedIn + newsletter + syndication = optimal thought leadership reach; single-channel underperforms
 
-#### 1. Professional Content Consumption in Geneva
-- Senior practitioners increasingly use LinkedIn + Substack for professional reading
-- Newsletter fatigue setting in for generic business content
-- Quality filter needed — practitioners have limited time for content that doesn't deliver immediate value
-- Geneva-specific intelligence gap: international news sources lack Geneva depth; local sources lack international scope
+### Competitive Platform Signals
+- **International publications:** McKinsey Global Institute, Harvard Business Review, FT, The Economist — excellent quality, no Swiss/Geneva specific depth
+- **Swiss publications:** NZZ, Le Temps, Bilan — Swiss general coverage, not sector-specific AI/regulatory thought leadership
+- **Legal publications:** Law.com, Global Legal Post, Swiss Legal News — industry news, not thought leadership
+- **Geneva-specific:** Geneva Business News, Geneva Observer — news focus, not interpretive thought leadership
 
-#### 2. Thought Leadership Distribution
-- LinkedIn remains primary discovery platform for Geneva professional audience
-- Substack growing as direct reader relationship channel
-- Owned website (Brotons.net) serves as authority anchor and SEO repository
-- Search remains significant for long-tail discovery of archived pieces
+## Trending Content Topics (Q1 2026)
+1. Geneva AI governance — sector-specific, not generic AI
+2. Regulatory convergence interpretation — DORA + ISA + FINMA + CRS 2.0 synthesis
+3. Geneva arbitration — Swiss neutrality advantage, ICC/SCAI 2025 rules
+4. UN/IO digital transformation — under-covered in thought leadership
+5. Swiss AI civil liability — Art. 41 OR amendment interpretation
+6. Geneva commodity trading sustainability — energy transition interpretation
+7. Brotons.net/DigitalCoa.ch cross-pollination — warm pathway strategy
 
-#### 3. Content Quality Signals That Matter
-- Return visitor rate (shows trusted content)
-- Substack open rate (shows content resonance)
-- LinkedIn engagement from senior practitioners (shows peer-level credibility)
-- Inbound quality from content touchpoints (shows business relevance)
-- Peer sharing within Geneva professional networks
-
-### Trend Indicators (2025-2026)
-| Signal | Direction | Brotons.net Implication |
-|---|---|---|
-| LinkedIn newsletter adoption | ↑ Rising | Substack + LinkedIn hybrid model increasingly standard |
-| AI-generated content flooding | ↑ Rising | Human judgment + interpretation premium growing |
-| Geneva regulatory change velocity | ↑ Rising | Demand for interpretation over news aggregation growing |
-| Thought leadership competition | ↑ Rising | Differentiation through genuine expertise essential |
-| Newsletter fatigue | ↑ Rising | Quality > quantity; return visitors > raw subscribers |
-| Bilingual content demand (EN+FR) | → Stable | Romandie audience values French-language content |
-
-### Geneva Institutional Calendar (Content Anchors)
-- **January:** CES immigration/Luxembourg forum season; Swiss tax planning
-- **March:** UN/IO spring session; Geneva arbitration season begins
-- **April:** Swiss tax return season; FINMA annual report
-- **June:** Geneva arbitration peak; summer slowdown
-- **September:** UN/IO autumn session; Geneva finance/legal conference season
-- **October:** Swiss budget season; SNB金融稳定报告
-- **November:** FINMA consultation responses; regulatory end-year sprint
-- **December:** Year-end planning; lighter editorial period
-
-### C115 Fresh Findings (2026-04-04)
-
-1. **Long-Tail SEO Opportunity via Practitioner Search Behavior** — Geneva senior practitioners use highly specific regulatory/practical search queries ("BVG reform impact family office succession 2025," "FINMA enforcement priorities"); Brotons.net long-form content with strong titles/descriptions captures high-intent organic traffic that institutional competitors (IHEID, SFAMA, CCIG) are not targeting
-
-2. **Audio/Podcast Format Gap** — Geneva professionals have high commute/travel load; audio TL format under-penetrated in Geneva financial/legal niche; Brotons.net audio adaptations of key pieces = differentiated format distribution
-
-3. **Peer-Trust Network Distribution Model** — Geneva professional culture is relationship-dense; peer recommendation > algorithmic discovery; Brotons.net content cited/shared within Geneva Bar Association, Swiss Arbitration Association, IHEID/HEG/UNIGE alumni networks = credibility multiplier; quality metrics should include Geneva peer-network citation
-
-4. **Regulatory Content Long-Tail SEO Durability** — Financial/legal regulatory content retains relevance for 3-7 years (vs. general business content); Brotons.net regulatory interpretation pieces = durable SEO assets; evergreen frameworks compound traffic over time
-
-5. **Romandie Bilingual Ecosystem — FR Tier Reaching Disconnected Audience** — Swiss Romandie professionals consume distinct publications (Le Temps, Revue Politique, Bilan Romand vs. NZZ/Handelszeitung); FR tier editorial approach should differ from EN tier (local market depth vs. international reach), not pure translation
-
-6. **Geneva Regulatory Complexity Concentration as Differentiator** — Geneva's density of IOs, UHNW families, commodity traders, private banks creates unique regulatory intersection points (sanctions + banking + relocation + arbitration); Brotons.net Geneva-grounded interpretation cannot be replicated by global competitors
-
-## Status: INITIAL HYPOTHESIS — Needs Validation
+## Status: ACTIVE — Updated Q1 2026

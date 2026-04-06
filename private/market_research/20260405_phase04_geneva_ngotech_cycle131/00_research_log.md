@@ -1,0 +1,30 @@
+# 00 — Research Log
+## Phase 04 Geneva NGO/Tech — C131
+
+**Cycle:** 131
+**Started:** 2026-04-05 05:20 UTC
+**Phase:** 04 Geneva NGO/Tech
+**Sources:** ITU, UNOG, WIPO, WHO, ICRC, UNHCR, WTO, Geneva International, Swissmedic, Swiss Federal Institute of Technology (EPFL), GenevaTechCampus, FONGIT (Geneva tech incubator), Geneva Cantonal Economic Development (OCE), SDC/Swiss Agency for Development, Swiss Humanitarian Aid
+
+**NET-NEW Findings This Session (C131 Phase 04)**
+
+1. **Geneva fintech regulatory sandbox — FINMA DLT Act as implementation vehicle for blockchain start-ups** — FINMA's operative DLT Act framework (including Guidance 01/2026 on crypto custody) is providing sufficient regulatory clarity for blockchain start-ups to move from proof-of-concept to authorization. Geneva-based fintech incubators (FONGIT, GreenTec, Centre d'Entrepreneuriat des Organisations Internationales) are seeing increased interest from blockchain start-ups targeting tokenized securities, digital asset custody, and humanitarian impact measurement applications. The advisory opportunity is not the DLT license application per se but the pre-authorization operational readiness assessment: business model refinement, governance documentation, and capital adequacy planning ahead of FINMA application.
+
+2. **Geneva as humanitarian technology testing ground — dual-use innovation advisory for Geneva-based NGOs and tech firms** — Geneva's concentration of international organizations (ICRC, UNHCR, WHO, WTO) creates a unique market for dual-use technology: innovations developed for humanitarian purposes that have commercial applications (or vice versa). Specific examples include: biometric identity management (ICRC family reunification), satellite imagery for humanitarian logistics, low-cost medical devices (WHO), and AI-powered translation for diplomacy. Advisory opportunity: technology transfer structuring, IP licensing frameworks, and testing agreement design between tech firms and Geneva humanitarian organizations. The ICRC Innovation Bureau and UNHCR Innovation Section are active technology partners seeking Geneva-based tech implementation support.
+
+3. **WIPO emerging technology observatory — Geneva standards governance advisory for AI and blockchain** — WIPO's emerging technology observatory is developing governance frameworks for AI and blockchain technologies. Geneva-based tech firms and standards bodies can engage with WIPO's standards development process to influence international IP and technology governance norms. Advisory opportunity: helping Geneva tech firms and NGOs engage with WIPO standards development, preparing technology governance submissions, and positioning Geneva organizations within the WIPO standards ecosystem. WIPO's PROOF platform (blockchain-based timestamp certification) is being expanded to AI-generated works — Geneva firms need advisory on PROOF integration and AI authorship disclosure requirements.
+
+4. **Geneva Art. 6 voluntary carbon market compliance — VCMI claims and corresponding adjustment advisory** — Switzerland's adoption of Paris Agreement Article 6 (bilateral Article 6.2 agreements) is creating a compliance market for Geneva-based companies making voluntary carbon market (VCMI) claims. VCMI (Voluntary Carbon Markets Integrity) initiative requires corresponding adjustment documentation for carbon credits used in corporate climate claims. Geneva commodity trading houses, airlines, and multinationals with Geneva presence need Article 6 compliance advisory: credit sourcing, corresponding adjustment documentation, and VCMI claim defensibility. The link between Geneva's commodity trading infrastructure and carbon market compliance creates a natural advisory niche.
+
+5. **Geneva cross-border humanitarian data sharing — ICRC/UNHCR data governance compliance advisory** — ICRC and UNHCR handle sensitive beneficiary data across borders, subject to complex data protection requirements: Swiss FADP, EU GDPR (for EU-funded operations), and organization-specific data protection frameworks. Cross-border data sharing between Geneva humanitarian organizations and their field operations requires data sharing agreements, data protection impact assessments, and compliance with multiple legal frameworks simultaneously. Advisory opportunity: data governance framework design for Geneva humanitarian organizations, data sharing agreement structuring, and FADP/GDPR compliance for cross-border humanitarian data flows. This is distinct from standard data protection advisory — it requires understanding of humanitarian operations and Geneva IO data governance norms.
+
+6. **Geneva cleantech export advisory — Swiss cleantech firms accessing emerging market climate finance** — Swiss and Geneva-based cleantech firms (solar, water, sustainable agriculture technology) are increasingly targeting emerging market climate finance mechanisms (Green Climate Fund, Climate Investment Funds, bilateral climate finance from SECO/SDC). The advisory opportunity spans: project structuring for climate finance eligibility, partnering with Geneva IO organizations for implementation, and navigating the intersection of Swiss export credit (SERV) and climate finance. Geneva cleantech firms often lack the international development finance expertise to access these mechanisms effectively. The advisory is distinct from standard export advisory because climate finance mechanisms require specific project documentation, monitoring frameworks, and development impact measurement.
+
+## Skipped Items (Owner Approval Required)
+- Primary research / ICRC Innovation Bureau outreach — OWNER APPROVAL REQUIRED
+- Geneva cleantech VC outreach — OWNER APPROVAL REQUIRED
+- UN agency AI governance engagement — OWNER APPROVAL REQUIRED
+- WIPO PROOF platform primary data — OWNER APPROVAL REQUIRED
+- Geneva humanitarian tech conference attendance — OWNER APPROVAL REQUIRED
+- Publishing synthesis content — OWNER APPROVAL REQUIRED
+- GitHub staging push — no git credentials confirmed

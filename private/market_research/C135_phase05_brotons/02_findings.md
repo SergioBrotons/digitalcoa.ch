@@ -1,0 +1,22 @@
+# C135 Phase 05 — Brotons.net | 02_findings.md
+**Cycle:** 135 | **Completed:** 2026-04-05 08:12 UTC
+
+## NET-NEW Findings (6)
+
+### Finding 01: Brotons.net Swiss Regulatory Intelligence Moat — Embedding Primary Source Access as Differentiation
+The primary source access advantage (Federal Council AI civil liability proposal, FINMA enforcement priorities 2026, SNB rate environment analysis, SchKG reform commentary) is not yet systematically embedded as a content differentiator on Brotons.net. Creating "primary source plus interpretation" format pieces — where the actual document/exposure/ruling is analyzed within 48 hours of release — builds a defensible intelligence moat that AI-generated content cannot replicate. This content format creates subscriber stickiness and newsletter forward motivation among Geneva executive readers who value interpretation, not just summary.
+
+### Finding 02: Brotons.net Institutional Trust Network Activation — Zero-Cost Peer Introduction via IHEID/SFAMA/CCIG
+The IHEID/CCIG/SFAMA institutional network creates a zero-cost peer introduction opportunity that has not been systematically activated. Geneva executives respect peer signals from their institutional affiliations. Creating a "Geneva Executive Reading Circle" concept — where Brotons.net content is explicitly endorsed by professional associations without formal partnership or commercial relationship — leverages the trust transfer without requiring budget or formal approval. This is a content distribution and credibility mechanism, not a commercial arrangement.
+
+### Finding 03: Brotons.net Bilingual Content Architecture for Swiss Romandie Executive Decision Support
+The EN+FR bilingual strategy for Brotons.net should be reoriented from language diversification to decision-support orientation. Geneva Romandie executives read in whichever language their decision context requires. The content architecture should map regulatory content (FINMA, SECO, Federal Council) to EN-primary with FR executive summary, and interpretive content (arbitration, consulting, strategy) to FR-primary with EN executive summary. This is a structural content strategy differentiation, not just translation.
+
+### Finding 04: Brotons.net Newsletter Pre-Event Intelligence Calendars — 90-Day Institutional Event Horizon
+Geneva's institutional event calendar (UNOG, WTO, WIPO, ITU, ICC, SCAI annual meetings, Geneva Arbitration Moot, EPFL academic terms, Swiss economic forums) creates a 90-day intelligence horizon that can be pre-emptively covered. Pre-event intelligence pieces — released 2-3 weeks before major events — provide Brotons.net readers with context preparation that generic event coverage does not. This positions Brotons.net as the pre-event preparation resource for Geneva executives attending or monitoring these events. This is a content timing strategy distinct from post-event analysis.
+
+### Finding 05: Brotons.net SEO Pillar Page Topical Authority — Featured Snippet Capture for Regulatory Q&A
+Implementing FAQPage schema + "People Also Ask" optimization for Swiss regulatory Q&A (FINMA licensing requirements, CSRD double materiality assessment process, DORA ICT risk framework compliance timeline, Swiss sanctions compliance checklist, Geneva arbitration filing requirements) can capture featured snippets and zero-click search traffic. This is a technical SEO play requiring schema markup, clear Q&A formatting, and authoritative content structure. The regulatory Q&A angle is under-exploited by generic AI content and is precisely where Brotons.net's institutional knowledge creates a content quality advantage.
+
+### Finding 06: Brotons.net Reader Segmentation — Institutional Affinity vs. Decision-Role Content Routing
+Geneva Brotons.net readers split into two distinct content consumption patterns: institutional affinity readers (who read based on organizational affiliation signals — UNOG, WIPO, WTO, IO professionals) and decision-role readers (C-suite, board members, senior advisors who read based on decision context). These two segments respond to different content formats, different call-to-action structures, and different newsletter framing. Creating a reader affinity segmentation — routing institutional readers toward interpretation pieces and decision-role readers toward action-oriented analysis — improves conversion (newsletter-to-website, website-to-briefing-call) without requiring login or explicit segmentation.

@@ -1,56 +1,36 @@
-# 05 — Lead Magnet: Brotons.net Conversion Pathway
+# 05 — Lead Magnet: Brotons.net (Content + Audience Development)
 
-## Lead Magnet Strategy for Brotons.net
+## Strategic Positioning Angle
+Brotons.net's value proposition is signal over noise — the interpretive lens for Geneva's regulatory, AI, and geopolitical complexity. The lead magnet strategy should reinforce this: content that synthesizes, interprets, and provides perspective that generic publications cannot.
 
-### Primary Conversion Goal
-Convert thought leadership readers into trusted advisors who:
-1. Subscribe to newsletter (Substack or email)
-2. Return regularly to Brotons.net
-3. Eventually inquire about DigitalCoa.ch advisory services OR make warm introduction
+## Lead Magnet Concepts
 
-### Lead Magnet Concepts
+### Option A: "The Geneva Regulatory Convergence Briefing" (Newsletter as Lead Magnet)
+Weekly or bi-weekly newsletter synthesizing Geneva regulatory developments: AI governance, DORA-parity, CRS 2.0, FinIA revision. Delivered directly to subscriber inboxes — highest-ROI audience development for B2B thought leadership.
 
-#### Lead Magnet 1: "Geneva Regulatory Intelligence Briefing" (Newsletter)
-- **Format:** Weekly or bi-weekly email + Substack newsletter
-- **Content:** 3-5 curated regulatory/policy developments with original interpretation
-- **Audience:** GCs, senior legal, CFOs, family office principals
-- **Value:** Saves readers 2-3 hours/week of regulatory monitoring
-- **Conversion mechanism:** Direct newsletter subscription; Substack free tier
-- **Bilingual:** EN primary; FR occasional edition
+**Format:** Weekly email briefing (500-800 words) + links to full Brotons.net analysis
+**Distribution:** Email newsletter (existing + new subscribers)
+**Value:** Return visit driver; authority builder; warm pathway to DigitalCoa.ch
+**CTA:** "Subscribe to the Geneva Regulatory Briefing"
 
-#### Lead Magnet 2: "Geneva Deal Intelligence" (Quarterly Synthesis)
-- **Format:** Quarterly synthesis of Geneva M&A, arbitration, regulatory developments
-- **Content:** Analysis of trends, not just transaction listing
-- **Audience:** Investment professionals, family offices, senior advisors
-- **Value:** Unique synthesis not available elsewhere
-- **Gated:** Email registration required; Substack free tier
+### Option B: "The Brotons.net Geneva AI Governance Series" (Content as Lead Magnet)
+A curated series of 6-8 essays on Geneva AI governance: AI civil liability, AI in financial institutions, AI in legal practice, AI in consulting, AI in humanitarian contexts. Gated or open — serves as the signature intellectual property.
 
-#### Lead Magnet 3: "Regulatory Change Readiness Framework" (Downloadable Tool)
-- **Format:** Structured framework / checklist for regulatory change management
-- **Content:** Practical framework for GCs and compliance teams to assess regulatory change readiness
-- **Audience:** In-house legal, compliance officers, CFOs
-- **Value:** Immediately actionable; demonstrates advisory capability
-- **Gated:** Email registration; direct pathway to DigitalCoa.ch inquiry
+**Format:** Long-form essay series (3,000-5,000 words each) + executive summary
+**Distribution:** Brotons.net publication + LinkedIn distribution + newsletter
+**Value:** Thought leadership anchor; SEO value; positions Brotons.net as the Geneva AI governance platform
 
-#### Lead Magnet 4: "Family Business Governance Starter Pack" (Content Series)
-- **Format:** 5-part email series on family business governance fundamentals
-- **Content:** Succession planning, family constitutions, governance structures, trust basics
-- **Audience:** Family office principals, business-owning families
-- **Value:** Practical education; trust formation through value delivery
-- **Gated:** Substack registration; warm nurture sequence
+### Option C: "The Geneva Arbitration Observer" (Niche Vertical as Lead Magnet)
+Monthly brief on Geneva-seated arbitration developments: ICC/SCAI rule changes, notable Geneva awards, procedural developments. Targets Geneva legal and financial sector readers.
 
-### Newsletter Conversion Metrics to Track
-- Substack free subscriber growth rate
-- Open rate (target: 35-45% for senior practitioner audience)
-- Click-through to Brotons.net articles
-- Return visitor rate
-- Inbound inquiry quality from newsletter readers
+**Format:** Monthly brief (1,000-1,500 words) + case analysis
+**Distribution:** Newsletter segment + Geneva legal sector outreach
+**Value:** Niche vertical authority; Geneva legal sector capture; warm pathway to DigitalCoa.ch advisory services
 
-### Content-to-Advisory Pipeline
-1. High-quality newsletter content → trust formation
-2. Newsletter reader engages with multiple pieces over 6-12 months
-3. Brotons.net expertise demonstrated through consistent quality
-4. Reader or their network makes warm inquiry to DigitalCoa.ch
-5. Discovery conversation: relationship already established through content
+## Preferred Format (Initial)
+Option A + Option B as combined strategy: Newsletter as ongoing audience development mechanism + AI Governance Series as the signature thought leadership product. Option C as secondary niche vertical.
 
-## Status: CONCEPT — Needs Owner Approval for Implementation
+## Target CTA
+"Subscribe to the Geneva Regulatory Briefing" + "Download the Geneva AI Governance Series" — dual CTA strategy for audience capture and thought leadership positioning.
+
+## Status: CONCEPT — Needs Owner Approval for Content Investment
