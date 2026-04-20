@@ -212,11 +212,6 @@
 **Mode:** Domain knowledge + Swiss institutional sources (MiniMax quota ~8% used — running at 10 req/min)
 **All 36 findings distinct from C210** — fresh angles across all phases
 
-## CYCLE 212 — NEXT
-**Phase 01 C212:** COMPLETE
-**Phase 02 C212:** COMPLETE (2026-04-20 11:45 UTC) ← current
-**Phases 03–06 C212:** PENDING next run
-
 ## CYCLE 209 — COMPLETE ✅
 **Total NET-NEW C209:** 36 findings (6 phases × 6)
 **Mode:** Domain knowledge + Swiss institutional sources (MiniMax quota ~8% used with 2+ hours to reset)
