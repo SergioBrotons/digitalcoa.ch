@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trivia Duel — 2 Players</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: #1a1a2e; color: #e0e0e0; min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+    .container { width: 100%; max-width: 700px; padding: 20px; }
+    h1 { text-align: center; color: #e94560; font-size: 2.5em; margin-bottom: 8px; }
+    .subtitle { text-align: center; color: #888; margin-bottom: 30px; font-size: 0.95em; }
+
+    .card { background: #16213e; border-radius: 16px; padding: 32px; box-shadow: 0 8px 32px rgba(0,0,0,0.4); }
+    .player-names { display: flex; gap: 16px; margin-bottom: 24px; }
+    .player-names input { flex: 1; background: #0f3460; border: 2px solid #0f3460; border-radius: 10px; padding: 12px 16px; color: #fff; font-size: 1em; width: 100%; }
+    .player-names input:focus { outline: none; border-color: #e94560; }
+    .player-names input::placeholder { color: #888; }
+
+    .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: #e94560; color: #fff; border: none; border-radius: 10px; padding: 14px 28px; font-size: 1.05em; font-weight: 600; cursor: pointer; transition: all 0.2s; width: 100%; }
+    .btn:hover { background: #ff6b6b; transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+
+    .cat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+    .cat-btn { background: #0f3460; border: 2px solid #0f3460; border-radius: 10px; padding: 14px 10px; color: #e0e0e0; font-size: 0.9em; font-weight: 600; cursor: pointer; transition: all 0.2s; text-align: center; }
+    .cat-btn:hover { border-color: #e94560; color: #e94560; }
+    .cat-btn.selected { border-color: #e94560; background: #e94560; color: #fff; }
+    .cat-btn span { display: block; font-size: 1.4em; margin-bottom: 4px; }
+
+    .scoreboard { display: flex; justify-content: space-around; margin-bottom: 20px; text-align: center; }
+    .score-block { background: #0f3460; border-radius: 12px; padding: 16px 24px; min-width: 120px; }
+    .score-block.active { border: 2px solid #e94560; }
+    .score-name { font-size: 0.85em; color: #888; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .score-val { font-size: 2.2em; font-weight: 700; color: #e94560; }
+    .score-block.active .score-val { color: #ff6b6b; }
+
+    .question-box { text-align: center; }
+    .turn-label { font-size: 0.8em; color: #888; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px; }
+    .question-text { font-size: 1.15em; line-height: 1.5; margin-bottom: 24px; color: #f0f0f0; }
+
+    .answers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .ans-btn { background: #0f3460; border: 2px solid #0f3460; border-radius: 10px; padding: 16px 12px; color: #e0e0e0; font-size: 0.95em; cursor: pointer; transition: all 0.2s; text-align: center; line-height: 1.4; }
+    .ans-btn:hover { border-color: #e94560; color: #e94560; }
+    .ans-btn.correct { border-color: #4ade80; background: #4ade80; color: #1a1a2e; }
+    .ans-btn.wrong { border-color: #e94560; background: #e94560; color: #fff; }
+    .ans-btn:disabled { cursor: default; }
+
+    .feedback { text-align: center; margin: 16px 0; font-size: 1.1em; font-weight: 600; min-height: 28px; }
+    .feedback.correct { color: #4ade80; }
+    .feedback.wrong { color: #e94560; }
+
+    .round-info { text-align: center; color: #666; font-size: 0.8em; margin-top: 12px; }
+
+    .winner-screen { text-align: center; }
+    .winner-trophy { font-size: 4em; margin-bottom: 16px; }
+    .winner-name { font-size: 2em; color: #e94560; margin-bottom: 8px; }
+    .winner-score { color: #888; margin-bottom: 24px; }
+    .winner-score span { color: #e94560; font-weight: 700; font-size: 1.3em; }
+
+    .tie-screen { text-align: center; }
+    .tie-emoji { font-size: 3em; margin-bottom: 16px; }
+
+    .hidden { display: none; }
+
+    .q-counter { text-align: center; color: #666; font-size: 0.8em; margin-bottom: 16px; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- START SCREEN -->
+  <div id="screen-start">
+    <h1>🎯 Trivia Duel</h1>
+    <p class="subtitle">2 Players — Face Off</p>
+    <div class="card">
+      <div class="player-names">
+        <input type="text" id="p1-name" placeholder="Player 1" maxlength="20">
+        <input type="text" id="p2-name" placeholder="Player 2" maxlength="20">
+      </div>
+      <p style="color:#666;font-size:0.85em;text-align:center;margin-bottom:16px;">Choose categories:</p>
+      <div class="cat-grid">
+        <button class="cat-btn selected" data-cat="all"><span>🎯</span>All</button>
+        <button class="cat-btn" data-cat="geography"><span>🌍</span>Geography</button>
+        <button class="cat-btn" data-cat="science"><span>🔬</span>Science</button>
+        <button class="cat-btn" data-cat="history"><span>📜</span>History</button>
+        <button class="cat-btn" data-cat="sports"><span>⚽</span>Sports</button>
+        <button class="cat-btn" data-cat="culture"><span>🎭</span>Culture</button>
+      </div>
+      <button class="btn" onclick="startGame()">▶ Start Game</button>
+    </div>
+  </div>
+
+  <!-- GAME SCREEN -->
+  <div id="screen-game" class="hidden">
+    <div class="card">
+      <div class="scoreboard">
+        <div class="score-block" id="score-p1">
+          <div class="score-name" id="label-p1">Player 1</div>
+          <div class="score-val" id="score-val-p1">0</div>
+        </div>
+        <div style="display:flex;align-items:center;color:#444;font-size:2em;font-weight:bold;">VS</div>
+        <div class="score-block" id="score-p2">
+          <div class="score-name" id="label-p2">Player 2</div>
+          <div class="score-val" id="score-val-p2">0</div>
+        </div>
+      </div>
+      <div class="turn-label" id="turn-label">Player 1's turn</div>
+      <div class="q-counter" id="q-counter">Question 1</div>
+      <div class="question-box">
+        <div class="question-text" id="question-text">Loading...</div>
+        <div class="feedback" id="feedback"></div>
+        <div class="answers" id="answers"></div>
+      </div>
+      <div class="round-info" id="round-info">Correct answer: <span id="correct-answer"></span></div>
+    </div>
+  </div>
+
+  <!-- END SCREEN -->
+  <div id="screen-end" class="hidden">
+    <div class="card">
+      <div id="end-content"></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+const QUESTIONS = [
+  // GEOGRAPHY
+  {q:"What is the capital of Australia?", a:["Canberra","Sydney","Melbourne","Perth"], c:0, cat:"geography"},
+  {q:"Which river flows through Geneva?", a:["Rhine","Rhône","Seine","Danube"], c:1, cat:"geography"},
+  {q:"What is the smallest country in the world?", a:["Monaco","Vatican City","San Marino","Liechtenstein"], c:1, cat:"geography"},
+  {q:"Which lake borders Geneva?", a:["Lake Geneva","Lake Zurich","Lake Constance","Lake Lugano"], c:0, cat:"geography"},
+  {q:"What is the tallest mountain in Switzerland?", a:["Matterhorn","Monte Rosa","Dufourspitze","Eiger"], c:2, cat:"geography"},
+  {q:"Which country has the most time zones?", a:["Russia","USA","China","France"], c:3, cat:"geography"},
+  {q:"What is the longest river in Europe?", a:["Danube","Volga","Rhine","Seine"], c:1, cat:"geography"},
+  {q:"Which ocean is the largest?", a:["Pacific","Atlantic","Indian","Arctic"], c:0, cat:"geography"},
+  // SCIENCE
+  {q:"What is H₂O commonly known as?", a:["Salt","Water","Sugar","Oxygen"], c:1, cat:"science"},
+  {q:"How many bones are in the adult human body?", a:["186","206","226","256"], c:1, cat:"science"},
+  {q:"What planet is known as the Red Planet?", a:["Venus","Jupiter","Mars","Saturn"], c:2, cat:"science"},
+  {q:"What is the chemical symbol for gold?", a:["Go","Gd","Au","Ag"], c:2, cat:"science"},
+  {q:"What gas do plants absorb from the air?", a:["Oxygen","Nitrogen","Carbon Dioxide","Hydrogen"], c:2, cat:"science"},
+  {q:"What is the speed of light approximately?", a:["300,000 km/s","150,000 km/s","500,000 km/s","1,000,000 km/s"], c:0, cat:"science"},
+  {q:"What is the hardest natural substance?", a:["Gold","Iron","Diamond","Platinum"], c:2, cat:"science"},
+  {q:"How many chromosomes do humans have?", a:["23","46","48","44"], c:1, cat:"science"},
+  // HISTORY
+  {q:"In which year did World War II end?", a:["1943","1944","1945","1946"], c:2, cat:"history"},
+  {q:"Who was the first person to walk on the Moon?", a:["Buzz Aldrin","Neil Armstrong","Yuri Gagarin","John Glenn"], c:1, cat:"history"},
+  {q:"Which year was the iPhone first released?", a:["2005","2006","2007","2008"], c:2, cat:"history"},
+  {q:"Who painted the Mona Lisa?", a:["Michelangelo","Raphael","Leonardo da Vinci","Donatello"], c:2, cat:"history"},
+  {q:"When did the Berlin Wall fall?", a:["1987","1988","1989","1990"], c:2, cat:"history"},
+  {q:"Who was the first King of Switzerland?", a:["Heinrich I","Rudolf I","Wilhelm Tell","Arnold Winkelried"], c:1, cat:"history"},
+  {q:"In which year did Switzerland join the UN?", a:["1998","2000","2002","2004"], c:2, cat:"history"},
+  {q:"What year was the Swiss Federal Constitution adopted?", a:["1848","1850","1847","1849"], c:0, cat:"history"},
+  // SPORTS
+  {q:"Which country won the 2022 FIFA World Cup?", a:["France","Brazil","Argentina","Germany"], c:2, cat:"sports"},
+  {q:"How many players are on a football team on the pitch?", a:["10","11","12","9"], c:1, cat:"sports"},
+  {q:"In tennis, what is a score of zero called?", a:["Nil","Love","Zero","Null"], c:1, cat:"sports"},
+  {q:"Which sport uses the term 'home run'?", a:["Cricket","Baseball","Softball","Rounders"], c:1, cat:"sports"},
+  {q:"Where were the 2024 Summer Olympics held?", a:["Tokyo","Paris","Los Angeles","London"], c:1, cat:"sports"},
+  {q:"Which Swiss tennis player won 8 Grand Slam titles?", a:["Roger Federer","Stan Wawrinka","Marc Rosset","Jiri Novak"], c:0, cat:"sports"},
+  {q:"How long is a marathon in kilometers?", a:["40.195","42.195","44.195","46.195"], c:1, cat:"sports"},
+  {q:"Which country has won the most FIFA World Cups?", a:["Germany","Italy","Argentina","Brazil"], c:3, cat:"sports"},
+  // CULTURE
+  {q:"Who wrote 'The Little Prince'?", a:["Victor Hugo","Antoine de Saint-Exupéry","Albert Camus","Marcel Proust"], c:1, cat:"culture"},
+  {q:"What is the national anthem of Switzerland?", a:["Swiss Psalm","Ranz des Vaches","Canzone Svizzera","Schweizerpsalm"], c:0, cat:"culture"},
+  {q:"Which famous physicist developed the theory of relativity?", a:["Isaac Newton","Niels Bohr","Albert Einstein","Stephen Hawking"], c:2, cat:"culture"},
+  {q:"What is the national flag of Switzerland?", a:["Red with white cross","White with red cross","Blue with white cross","Green with white cross"], c:0, cat:"culture"},
+  {q:"Which composer wrote the Swiss hymn to the Alps?", a:["Johann Strauss","Richard Wagner"," Alberich","Hans Georg Nägeli"], c:3, cat:"culture"},
+  {q:"What is the most spoken language in Switzerland?", a:["French","German","Italian","Romansh"], c:1, cat:"culture"},
+  {q:"Who painted 'The Night Watch'?", a:["Rembrandt","Van Gogh","Picasso","Da Vinci"], c:0, cat:"culture"},
+  {q:"Which instrument has 88 keys?", a:["Guitar","Piano","Violin","Accordion"], c:1, cat:"culture"},
+];
+
+const ROUNDS = 8; // questions per player
+let state = {};
+let selectedCat = 'all';
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function getQuestions(cat) {
+  const pool = cat === 'all' ? QUESTIONS : QUESTIONS.filter(q => q.cat === cat);
+  return shuffle(pool);
+}
+
+function showScreen(id) {
+  ['screen-start','screen-game','screen-end'].forEach(s => document.getElementById(s).classList.add('hidden'));
+  document.getElementById(id).classList.remove('hidden');
+}
+
+function startGame() {
+  const p1 = document.getElementById('p1-name').value.trim() || 'Player 1';
+  const p2 = document.getElementById('p2-name').value.trim() || 'Player 2';
+  const pool = getQuestions(selectedCat);
+  const qs = pool.slice(0, ROUNDS * 2);
+  state = { p1, p2, qs, idx: 0, scores: [0,0], round: 1, done: false };
+  document.getElementById('label-p1').textContent = p1;
+  document.getElementById('label-p2').textContent = p2;
+  document.getElementById('score-val-p1').textContent = '0';
+  document.getElementById('score-val-p2').textContent = '0';
+  showScreen('screen-game');
+  loadQuestion();
+}
+
+document.querySelectorAll('.cat-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('selected'));
+    btn.classList.add('selected');
+    selectedCat = btn.dataset.cat;
+  });
+});
+
+function loadQuestion() {
+  if (state.idx >= state.qs.length) { endGame(); return; }
+  const qi = Math.floor(state.idx / 2);
+  const q = state.qs[state.idx];
+  const player = state.idx % 2;
+  const playerName = player === 0 ? state.p1 : state.p2;
+  const isP1 = player === 0;
+  document.getElementById('score-p1').classList.toggle('active', isP1);
+  document.getElementById('score-p2').classList.toggle('active', !isP1);
+  document.getElementById('turn-label').textContent = `${playerName}'s turn`;
+  document.getElementById('q-counter').textContent = `Question ${qi + 1} — Round ${state.round}`;
+  document.getElementById('question-text').textContent = q.q;
+  document.getElementById('feedback').textContent = '';
+  document.getElementById('feedback').className = 'feedback';
+  document.getElementById('round-info').style.visibility = 'hidden';
+  const btns = shuffle(q.a.map((a, i) => ({a, i})));
+  const answersEl = document.getElementById('answers');
+  answersEl.innerHTML = '';
+  btns.forEach(({a, i}) => {
+    const btn = document.createElement('button');
+    btn.className = 'ans-btn';
+    btn.textContent = a;
+    btn.dataset.correct = i === q.c ? '1' : '0';
+    btn.addEventListener('click', () => handleAnswer(btn, btn.dataset.correct === '1', q.a[q.c]));
+    answersEl.appendChild(btn);
+  });
+}
+
+function handleAnswer(btn, correct, correctAnswer) {
+  if (state.done) return;
+  document.querySelectorAll('.ans-btn').forEach(b => { b.disabled = true; b.classList.remove('wrong'); });
+  if (correct) {
+    btn.classList.add('correct');
+    const player = state.idx % 2;
+    state.scores[player]++;
+    if (player === 0) {
+      document.getElementById('score-val-p1').textContent = state.scores[0];
+    } else {
+      document.getElementById('score-val-p2').textContent = state.scores[1];
+    }
+    document.getElementById('feedback').textContent = '✓ Correct!';
+    document.getElementById('feedback').className = 'feedback correct';
+  } else {
+    btn.classList.add('wrong');
+    document.querySelectorAll('.ans-btn').forEach(b => {
+      if (b.dataset.correct === '1') b.classList.add('correct');
+    });
+    document.getElementById('feedback').textContent = '✗ Wrong!';
+    document.getElementById('feedback').className = 'feedback wrong';
+  }
+  document.getElementById('correct-answer').textContent = correctAnswer;
+  document.getElementById('round-info').style.visibility = 'visible';
+  const nextBtn = document.createElement('button');
+  nextBtn.className = 'btn';
+  nextBtn.style.marginTop = '16px';
+  nextBtn.style.fontSize = '0.9em';
+  const isLast = state.idx >= state.qs.length - 1;
+  nextBtn.textContent = isLast ? '🏆 See Results' : 'Next Question →';
+  nextBtn.addEventListener('click', () => {
+    nextBtn.remove();
+    state.idx++;
+    if (state.idx % 2 === 0) state.round++;
+    loadQuestion();
+  });
+  document.getElementById('answers').appendChild(nextBtn);
+}
+
+function endGame() {
+  state.done = true;
+  const [s1, s2] = state.scores;
+  let html = '';
+  if (s1 > s2) {
+    html = `<div class="winner-trophy">🏆</div><div class="winner-name">${state.p1} Wins!</div><div class="winner-score">Final Score: <span>${s1}</span> – ${s2}</div>`;
+  } else if (s2 > s1) {
+    html = `<div class="winner-trophy">🏆</div><div class="winner-name">${state.p2} Wins!</div><div class="winner-score">Final Score: ${s1} – <span>${s2}</span></div>`;
+  } else {
+    html = `<div class="tie-emoji">🤝</div><div class="winner-name">It's a Tie!</div><div class="winner-score">Final Score: <span>${s1}</span> – ${s2}</div>`;
+  }
+  html += `<button class="btn" onclick="location.reload()" style="margin-top:8px;">🔄 Play Again</button>`;
+  document.getElementById('end-content').innerHTML = html;
+  showScreen('screen-end');
+}
+</script>
+</body>
+</html>
