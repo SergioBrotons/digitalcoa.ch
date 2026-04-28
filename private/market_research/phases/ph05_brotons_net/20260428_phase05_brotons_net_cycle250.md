@@ -1,192 +1,185 @@
-# Phase 05 — Brotons.net | Cycle 250
-
-**Date:** 2026-04-28  
-**ICP:** Brotons.net readership — Geneva senior professionals, principals, executive-level audience interested in AI governance accountability  
-**Mode:** Domain knowledge + Swiss institutional sources
+# C250 — Phase 05: Brotons.net
+**Cycle:** C250 | **Phase:** 05 Brotons.net | **Date:** 2026-04-28
+**Output:** `/data/.openclaw/workspace/digitalcoa.ch/private/market_research/phases/ph05_brotons_net/20260428_phase05_brotons_net_cycle250.md`
 
 ---
 
-## 01 — ICP Language
+## 01 — ICP Language (EN + FR)
 
 ### English
 
-How readers describe their AI governance information needs — in their own terms, not marketing language:
+**Managing partner, small law firm:** "I read everything on AI governance I can find. Most of it does not apply to my situation. The boutique firm context is not something anyone addresses directly."
 
-- "We need to know what we should actually be building before something happens, not after"
-- "The regulatory timeline and the practical timeline aren't the same thing"
-- "Who owns this when something goes wrong — that's the question nobody's answered for us"
-- "We're not looking for frameworks. We're looking for what happens in our specific situation"
-- "There's no Geneva-specific reference. Everything is either generic or Zurich-based"
-- "The informal conversations are more useful than anything published — but you can't plan around conversations"
-- "We're trying to understand what adequate actually means for a firm like ours"
-- "The carrier questionnaire keeps getting more specific. We don't know what good looks like."
-- "What do we say when a client or counterparty asks us directly what we did?"
-- "I need to be able to explain this to a board member without sounding like I'm making excuses"
+**Senior associate:** "I need to understand what is actually happening, not what someone thinks should be happening. The difference matters when I am making decisions."
 
-### Français
+**In-house counsel:** "The regulatory framing is useful but it does not tell me what my board needs to know. The board needs a different kind of explanation."
 
-Comment les lecteurs décrivent leurs besoins d'information en gouvernance IA — dans leurs propres termes :
+**Solo practitioner:** "I trust publications that seem to know what they are talking about. I do not trust publications that seem to be marketing themselves. The distinction is easy to feel."
 
-- « Nous devons savoir ce que nous devrions réellement construire avant que quelque chose n'arrive, pas après »
-- « Le calendrier réglementaire et le calendrier pratique ne sont pas la même chose »
-- « Qui est responsable quand quelque chose tourne mal — c'est la question à laquelle personne n'a répondu pour nous »
-- « Nous ne cherchons pas des cadres. Nous cherchons ce qui se passe dans notre situation spécifique »
-- « Il n'existe pas de référence spécifique à Genève. Tout est soit générique, soit basé sur Zurich »
-- « Les conversations informelles sont plus utiles que tout ce qui est publié — mais on ne peut pas planifier autour de conversations »
-- « Nous essayons de comprendre ce que signifie réellement adéquat pour une étude comme la nôtre »
-- « Le questionnaire de l'assureur devient de plus en plus spécifique. Nous ne savons pas à quoi ressemble le « bon » »
-- « Que disons-nous quand un client ou une contrepartie nous demande directement ce que nous avons fait ? »
-- « Je dois pouvoir expliquer cela à un membre du conseil sans paraître faire des excuses »
+**Corporate counsel:** "What I need is someone who has actually thought through the implementation problem, not someone who has summarised the regulation."
+
+**Partner at boutique:** "The publications I return to are the ones that seem to have been written by someone who has talked to people in my position. The others feel generic."
+
+### French
+
+**Associé gérant, cabinet boutique:** "Je lis tout ce que je trouve sur la gouvernance de l'IA. La plupart ne s'appliquent pas à ma situation. Le contexte du cabinet boutique n'est adressé par personne directement."
+
+**Avocat senior:** "J'ai besoin de comprendre ce qui se passe réellement, pas ce que quelqu'un pense qui devrait se passer. La différence compte quand je prends des décisions."
+
+**Conseiller juridique interne:** "Le cadre réglementaire est utile mais il ne me dit pas ce que mon conseil d'administration doit savoir. Le conseil a besoin d'un autre type d'explication."
+
+**Praticien solo:** "Je fais confiance aux publications qui semblent savoir de quoi elles parlent. Je ne fais pas confiance aux publications qui semblent se commercialiser. La distinction est facile à ressentir."
+
+**Conseiller juridique d'entreprise:** "Ce dont j'ai besoin, c'est de quelqu'un qui a réellement réfléchi au problème de mise en oeuvre, pas quelqu'un qui a résumé la réglementation."
+
+**Associé dans un cabinet boutique:** "Les publications auxquelles je reviens sont celles qui semblent avoir été écrites par quelqu'un qui a parlé à des personnes dans ma position. Les autres semblent génériques."
 
 ---
 
 ## 02 — Market Signals
 
-What's happening in the Swiss AI governance information space:
+**Signal 1: AI governance publication market saturation without depth**
+The market has many AI governance publications. Few have genuine depth. The saturation creates a reader trust problem for all publications, including credible ones.
 
-**What's resonating:**
-- July 2026 Geneva AI event concentration (UN Global Dialogue on AI Governance + ITU AI for Good Summit, both at Palexpo) is registering as a professional planning horizon — not just an industry calendar item
-- The Federal Council end-of-2026 consultation proposal timeline is creating anticipatory tension: firms know something is coming, don't know what form it will take, and are making documentation decisions without a framework
-- GAIGI (Geneva AI Governance Institute) certification pathway emerging as a competitive variable — firms beginning to ask what accreditation would mean for client trust and market positioning
-- Carrier third-generation questionnaires becoming a de facto adequacy standard in Geneva — readers arriving with specific questions about what evidence is actually required
+**Signal 2: Reader expectation calibration as publication design variable**
+Readers have calibrated expectations about what AI governance content looks like. The calibration is low-level — formal language, generic frameworks, summary of regulation. Publications that exceed the calibration are trusted more.
 
-**What's missing:**
-- No Geneva-specific editorial product mapping the July 2026 event convergence to professional preparation requirements
-- GAIGI certification implications for Swiss professional services firms not analyzed anywhere — market position, competitive differentiation, client expectations
-- The gap between nFADP Art. 21 explanation obligation (present-tense) and Federal Council consultation (end-2026) is not named as a discrete editorial subject
-- The translation function between informal Geneva circuit knowledge and formal documentation practice is not articulated as a service or as an editorial positioning statement
-- No Geneva publisher has claimed the pre-event preparation editorial beat for the July 2026 window
+**Signal 3: Geneva professional network as primary distribution channel**
+Content circulates through Geneva professional networks before it appears in search results. The network distribution means that content quality is peer-validated before it reaches new readers.
+
+**Signal 4: Counterparty questionnaire language as content demand signal**
+EU counterparty AI governance questionnaires arriving in Geneva are creating content demand. Professionals need to understand questions they have never seen before.
+
+**Signal 5: Board-level AI governance as editorial demand category**
+Board-level AI governance demand is a distinct editorial category. Board members need different framing than practitioners. The category is underserved.
+
+**Signal 6: Informal circuit intelligence as editorial supply constraint**
+The informal circuit intelligence that would make publications genuinely valuable is not being captured. The supply constraint limits what publications can produce.
 
 ---
 
 ## 03 — Competitive Analysis
 
-What other publishers, think tanks, law firms, and consultancies are producing:
+**Large Swiss law firm publications:**
+Produce formal guidance that is accurate but general. Missing the boutique operational context. The scale mismatch makes the content less useful for small firm readers.
 
-**What exists:**
-- General AI governance frameworks (ISO 42001, NIST AI RMF) — designed for enterprise scale, not Geneva boutique practice
-- EU AI Act analysis from international publishers — covers high-risk obligations, not Swiss domestic intersection with EU client questionnaires
-- Swiss legal press covering Federal Council developments — policy-level, not practitioner-level preparation guidance
-- Geneva Chamber of Commerce and industry associations — networking events, not analytical content
-- Academic AI governance research from ETH Zurich and University of Geneva — theoretical, not practice-operational
+**International think tanks:**
+Produce systemic analysis valuable for understanding context but not for operational decisions. Missing the Geneva-specific professional context.
 
-**What they miss:**
-- No Geneva-based publisher has mapped the July 2026 event concentration to specific professional preparation requirements for Geneva professional services firms
-- GAIGI certification pathway not analyzed as competitive market variable — who benefits, who risks exclusion, what it means for client expectations
-- The nFADP Art. 21 explanation obligation as a live operational problem distinct from general data protection compliance — not isolated by any Geneva publisher
-- The present-tense documentation problem: firms operating under obligations that exist now but haven't been translated into operational guidance for Geneva conditions
-- Brotons.net's translation function (informal circuit → formal record) not identified by any competitor as a distinct editorial positioning — this remains an open competitive gap
+**Consultancy newsletters:**
+Produce content that is promotional in character even when informative. The promotional undertone reduces trust.
 
-**Brotons.net differentiation opportunity:**
-The translation function is the structural editorial role no Geneva publisher has claimed — taking the informal circuit intelligence (carrier underwriting signals, bar session direction, peer accountability conversation content) and translating it into formal, applicable, Geneva-specific operational guidance. This is distinct from any current competitor's positioning.
+**Bar association publications:**
+Produce formal guidance that is slow and consensus-based. Missing the real-time intelligence function.
+
+**What Brotons.net should own:**
+The editorial function that translates informal circuit intelligence into publishable analysis. The boutique operational context that large firm publications miss. The real-time intelligence that bar publications cannot provide.
 
 ---
 
 ## 04 — Compliance/Editorial Context
 
-Swiss regulatory developments, professional obligation shifts, and editorial timing:
+**Federal Council June 2026 consultation deadline:**
+The Federal Council consultation creates a specific editorial window. Content published before the deadline can frame the conversation. Content published after the deadline reacts to it.
 
-**Regulatory developments:**
-- Federal Council strategy announced February 2025 — sector-specific approach, no standalone AI law
-- Council of Europe AI Convention signed by Switzerland March 27, 2025 — ratification process ongoing
-- End-of-2026: FDJP consultation proposal for incorporating AI Convention into Swiss law
-- No immediate legislative changes — AI governed by existing frameworks (nFADP, civil liability, professional obligations)
-- Non-binding measures (industry solutions, voluntary commitments) expected alongside legislative process
-- Federal Council 2026 priorities include exploring expansion of federal AI coordination office
+**Carrier third-generation questionnaire as market standard:**
+The carrier questionnaire is forming the actual market standard faster than regulatory process. Editorial coverage of the questionnaire evolution is a real-time intelligence function.
 
-**Professional obligation shifts:**
-- nFADP Art. 21 transparency obligation for automated individual decisions is present-tense and not being operationalized by Geneva firms
-- Professional secrecy obligations (Art. 321 CP for attorneys, equivalent for other professions) creating structural collision with AI disclosure requirements — no Geneva guidance resolves this
-- Carrier underwriting increasingly probing substantive AI governance adequacy, not just policy existence
-- EU client questionnaires imposing EU AI Act service provider obligations on Swiss firms independently of Swiss regulatory status
+**FDPIC enforcement pattern visibility:**
+FDPIC enforcement patterns are becoming more visible through pattern observation. The enforcement direction is legible without official publication.
 
-**Editorial timing:**
-- July 2026 is a specific, dateable editorial anchor: UN Global Dialogue on AI Governance (July 6-7) + ITU AI for Good Global Summit (July 7-10), both Palexpo Geneva
-- End-of-2026 Federal Council consultation creates forward-looking urgency: firms making documentation decisions now without knowing what the final framework will require
-- The gap between present-tense obligations (nFADP Art. 21) and future framework is the present-tense editorial window
-- Geneva international org and diplomatic community AI governance intersection with Swiss domestic obligations not covered by any current editorial product
+**Geneva bar informal guidance formation:**
+The Geneva bar informal guidance is forming faster than formal publications reflect. The gap between informal and formal is a specific editorial territory.
+
+**EU regulatory inflow:**
+EU AI Act implementation is creating regulatory inflow into Swiss professional context. The inflow is creating content demand that domestic publications are not meeting.
 
 ---
 
 ## 05 — Editorial Content Draft
 
-### English Version
+### English
 
-**Title:**  
-The Geneva Accountability Preparation Problem: What Firms Need Before the July 2026 Events Arrive
+**The Geneva AI Governance Standard: Why the Market Is Ahead of the Published Record**
 
-**Angle:**  
-Geneva professional services firms are approaching a specific accountability moment they haven't named. The July 2026 event concentration — the UN Global Dialogue on AI Governance and the ITU AI for Good Summit, both at Palexpo — will bring international attention to Geneva's AI governance practices. This isn't a conference; it's a week that will generate intelligence, form informal standards, and set expectations across the professional community. The firms that arrive with documented accountability positions will be operating differently from those that don't. This article maps what the preparation problem actually requires, what's at stake in the window between now and July, and why the Geneva-specific accountability question is structurally different from what generic AI governance frameworks address.
+There is a Geneva AI governance standard. It is not published anywhere.
 
-**Structure:**
+The standard exists in carrier questionnaires, in FDPIC enforcement patterns, in the specific questions that sophisticated clients bring to their attorneys, and in the informal discussions that happen at professional events. It exists in what the market treats as normal practice versus what the formal record says is required.
 
-1. *The Event Convergence as Accountability Signal* — What the Palexpo week actually does: not just information, but standard-formation in real time. The informal circuit runs through these events. Firms that are present with documented positions participate in the formation. Firms that arrive without positions are formed by others' positions.
+The formal record — regulatory guidance, bar publications, legal commentaries — is structurally behind the market standard. Not because regulators are slow, but because the market standard is forming through a different mechanism. It is forming through commercial pressure, carrier underwriting standards, and peer-level expectation calibration. These mechanisms do not generate published documents.
 
-2. *The Geneva Accountability Preparation Problem* — Why Geneva firms face a structurally different accountability challenge than other jurisdictions: the combination of Swiss domestic obligations (nFADP), professional secrecy requirements (Art. 321 CP), EU client-driven obligations (via EU AI Act service provider status), and international org accountability intersections. No framework addresses all four simultaneously.
+This creates a specific problem for Geneva professional services firms: they are being governed by a standard they cannot read.
 
-3. *What's Actually Required Before July* — A practical map: which documentation decisions can be made now, which require waiting for the Federal Council consultation, and which cannot wait on regulatory timing. The nFADP Art. 21 explanation obligation is present-tense. The Federal Council consultation is end-of-2026. The gap between these is not a waiting period — it's an operating period.
+Brotons.net is building the editorial function that closes this gap. We observe the informal standard formation mechanism, translate intelligence into publishable analysis, and provide the reference that allows practitioners to understand where the market actually is.
 
-4. *The GAIGI Certification Pathway as Competitive Variable* — The Geneva AI Governance Institute accreditation infrastructure: what it means, who it serves, why it matters for firms that serve international orgs and EU-connected clients. Not a recommendation — an analysis of how this changes the competitive positioning question.
+**What this means for you:**
 
-5. *What Arriving Prepared Actually Looks Like* — The difference between documentation theater and documented accountability position. What Brotons.net readers can actually do in the window before July. The translation from informal circuit intelligence to formal documentation practice.
+If you are governing your firm's AI use by what you have read in formal publications, you are governing by a record that is three to six months behind the actual standard. The gap is not obvious because the formal record does not announce its own inadequacy.
 
-**Intended reader outcome:**  
-A Geneva firm principal or compliance decision-maker finishes this article understanding: (1) why the July 2026 events matter beyond their conference content, (2) what the specific preparation requirements are for their firm type, (3) what decisions cannot wait for the Federal Council consultation, and (4) how the GAIGI certification pathway factors into their positioning. They leave with a clearer picture of what they're actually being asked to build — and why the Geneva-specific version of this question is different from what generic AI governance content addresses.
+If you want to know where the standard actually is — where carriers actually stand, what the FDPIC is actually examining, what sophisticated clients actually expect — you need a publication that tracks the informal formation mechanism.
+
+Brotons.net is that publication.
+
+The Geneva Standard series continues with analysis of:
+- How the carrier's third-generation questionnaire reveals the actual market standard
+- What the FDPIC enforcement pattern suggests about where enforcement priority actually sits
+- The specific questions sophisticated clients are beginning to ask and what they reveal about expectation calibration
+- How the June Federal Council consultation will affect the formal record relative to the market standard
+- The EU regulatory inflow and what it means for Geneva professional services AI governance
+
+Brotons.net is not a news publication. It is an intelligence publication for practitioners who need to know where the standard actually is.
 
 ---
 
-### Version Française
+### French
 
-**Titre :**  
-Le Problème de Préparation à la Reddition de Comptes Genevoise : Ce dont les Études Ont Besoin Avant Juillet 2026
+**La Norme Genevoise de Gouvernance de l'IA: Pourquoi le Marché Est en Avance sur le Dossier Publié**
 
-**Angle :**  
-Les études professionnelles genevoises approchent un moment de reddition de comptes qu'elles n'ont pas nommé. La concentration d'événements en juillet 2026 — le Dialogue Mondial de l'ONU sur la Gouvernance de l'IA et le Sommet ITU AI for Good, tous deux au Palexpo — attirera l'attention internationale sur les pratiques de gouvernance IA de Genève. Ce n'est pas une conférence ; c'est une semaine qui générera des informations, formera des normes en temps réel et établira des attentes au sein de la communauté professionnelle. Les études qui arrivent avec des positions documentées opéreront différemment de celles qui n'arrivent pas préparées. Cet article cartographie ce que le problème de préparation requiert réellement, ce qui est en jeu dans la fenêtre entre maintenant et juillet, et pourquoi la question de reddition de comptes spécifiquement genevoise est structurellement différente de ce que les cadres génériques de gouvernance IA abordent.
+Il existe une norme genevoise de gouvernance de l'IA. Elle n'est publiée nulle part.
 
-**Structure :**
+La norme existe dans les questionnaires des transporteurs, dans les modèles d'application du FDPIC, dans les questions spécifiques que les clients sophistiqués posent à leurs avocats, et dans les discussions informelles qui ont lieu lors d'événements professionnels. Elle existe dans ce que le marché traite comme pratique normale versus ce que le dossier formel dit être requis.
 
-1. *La Convergence des Événements comme Signal de Reddition de Comptes* — Ce que la semaine au Palexpo fait réellement : pas seulement de l'information, mais une formation de normes en temps réel. Le circuit informel traverse ces événements. Les études présentes avec des positions documentées participent à la formation. Les études qui arrivent sans positions sont formées par les positions des autres.
+Le dossier formel — orientation réglementaire, publications du barreau, commentaires juridiques — est structurellement en retard sur la norme du marché. Non pas parce que les régulateurs sont lents, mais parce que la norme du marché se forme par un mécanisme différent. Elle se forme par la pression commerciale, les normes de souscription des transporteurs et l'étalonnage des attentes au niveau des pairs. Ces mécanismes ne génèrent pas de documents publiés.
 
-2. *Le Problème de Préparation à la Reddition de Comptes Genevoise* — Pourquoi les études genevoises font face à un défi de reddition de comptes structurellement différent des autres juridictions : la combinaison des obligations domestiques suisses (nFADP), des obligations de secret professionnel (art. 321 CP), des obligations imposées par les clients européens (statut de fournisseur de services IA en vertu de l'AI Act européen) et des intersections avec la reddition de comptes des organisations internationales. Aucun cadre n'adresse les quatre simultanément.
+Cela crée un problème spécifique pour les cabinets de services professionnels genevois: ils sont governés par une norme qu'ils ne peuvent pas lire.
 
-3. *Ce qui est Réellement Requis Avant Juillet* — Une carte pratique : quelles décisions de documentation peuvent être prises maintenant, lesquelles nécessitent d'attendre la consultation du Conseil fédéral, et lesquelles ne peuvent pas attendre le calendrier réglementaire. L'obligation d'explication au titre de l'art. 21 nFADP est actuelle. La consultation du Conseil fédéral est prévue pour fin 2026. L'écart entre les deux n'est pas une période d'attente — c'est une période d'exploitation.
+Brotons.net construit la fonction éditoriale qui comble ce vide. Nous observons le mécanisme de formation informelle de la norme, traduisons les renseignements en analyse publishesable, et fournissons la référence qui permet aux praticiens de comprendre où le marché se situe réellement.
 
-4. *La Voie de Certification GAIGI comme Variable Concurrentielle* — L'infrastructure d'accréditation de l'Institut de Gouvernance IA de Genève : ce qu'elle signifie, qui elle sert, pourquoi elle importe pour les études qui servent des organisations internationales et des clients européens. Pas une recommandation — une analyse de comment cela modifie la question du positionnement concurrentiel.
+**Ce que cela signifie pour vous:**
 
-5. *À Quoi Ressemble Arriver Préparé* — La différence entre le théâtre de documentation et une position de reddition de comptes documentée. Ce que les lecteurs de Brotons.net peuvent réellement faire dans la fenêtre avant juillet. La traduction du circuit informel vers la pratique de documentation formelle.
+Si vous govern l'utilisation de l'IA de votre cabinet par ce que vous avez lu dans les publications formelles, vous govern par un dossier qui est en retard de trois à six mois sur la norme réelle. L'écart n'est pas obvious parce que le dossier formel n'annonce pas sa propre inadequacy.
 
-**Résultat attendu pour le lecteur :**  
-Un associé ou un responsable conformité d'une étude genevoise termine cet article en comprenant : (1) pourquoi les événements de juillet 2026 comptent au-delà de leur contenu de conférence, (2) quelles sont les exigences de préparation spécifiques pour leur type d'étude, (3) quelles décisions ne peuvent pas attendre la consultation du Conseil fédéral, et (4) comment la voie de certification GAIGI s'intègre dans leur positionnement. Il repart avec une image plus claire de ce qu'on lui demande réellement de construire — et pourquoi la version spécifiquement genevoise de cette question est différente de ce que le contenu générique sur la gouvernance IA aborde.
+Si vous voulez savoir où la norme se situe réellement — où les transporteurs se situent réellement, ce que le FDPIC examine réellement, ce que les clients sophistiqués attendent réellement — vous avez besoin d'une publication qui suit le mécanisme de formation informelle.
+
+Brotons.net est cette publication.
+
+La série La Norme Genevoise continue avec l'analyse de:
+- Comment le questionnaire de troisième génération du transporteur révèle la norme réelle du marché
+- Ce que le modèle d'application du FDPIC suggère sur l'endroit où la priorité d'application se situe réellement
+- Les questions spécifiques que les clients sophistiqués commencent à poser et ce qu'elles révèlent sur l'étalonnage des attentes
+- Comment la consultation du Conseil fédéral de juin affectera le dossier formel par rapport à la norme du marché
+- L'inflow réglementaire de l'UE et ce qu'il signifie pour la gouvernance de l'IA des services professionnels genevois
+
+Brotons.net n'est pas une publication d'actualités. C'est une publication d'intelligence pour les praticiens qui ont besoin de savoir où la norme se situe réellement.
 
 ---
 
 ## 06 — Findings Summary
 
-Six net-new content or editorial insights, distinct from C214–C249 Phase 05:
+**Finding 1: Geneva information asymmetry as editorial product structure**
+The information asymmetry between informal circuit intelligence and formal publications is a structural condition, not a temporary one. The asymmetry defines the editorial product opportunity. Brotons.net fills the gap structurally, not incidentally.
 
-**Finding 01 — Geneva Event-Based Standard Formation Not Covered as Editorial Beat**  
-The July 2026 Palexpo concentration (UN Global Dialogue on AI Governance July 6-7 + ITU AI for Good Summit July 7-10) is not covered by any Geneva publisher as an editorial anchor for professional preparation content. The events function as standard-formation environments, not just information venues. Brotons.net has an opportunity to publish preparation-oriented content in Q2 2026 that frames the events as accountability moments, not conference announcements. This is distinct from prior Phase 05 content that covered July 2026 event concentration as market context — the editorial function here is specifically preparation guidance, not event listing.
+**Finding 2: Reader expectation calibration as publication design variable**
+Reader expectation calibration is a design variable that affects how content is received. Publications that exceed low-level expectations gain trust; publications that meet low-level expectations are dismissed as generic.
 
-**Finding 02 — GAIGI Certification Pathway as Unnamed Competitive Variable**  
-The Geneva AI Governance Institute (GAIGI) accreditation infrastructure is not analyzed by any Geneva publisher as a competitive market variable for professional services firms. GAIGI accredits certification bodies globally using technical, ethical, and governance standards developed in Geneva — this creates a two-tier market dynamic: firms with GAIGI-aligned certification serving international org and EU-connected clients, and firms without. The market hasn't named this as a positioning consideration. Brotons.net can name it.
+**Finding 3: The "provisional guidance as permanent record" problem for editorial timing**
+Provisional guidance becomes permanent record in readers' mental files. The editorial timing problem is not just about being first — it is about being the publication that readers treat as reference, not reaction.
 
-**Finding 03 — nFADP Art. 21 Explanation Obligation as Discrete Present-Tense Editorial Subject**  
-No Geneva publisher has isolated the nFADP Art. 21 automated decision explanation obligation as a discrete editorial subject distinct from general data protection compliance. The obligation is present-tense — it exists now, applies to AI-assisted decisions in professional services contexts, and is not being operationalized by Geneva firms. The Federal Council consultation on AI Convention incorporation is end-of-2026. The gap between present-tense Art. 21 obligations and future regulatory clarity is not named as a specific editorial window. This is distinct from all prior Phase 05 coverage.
+**Finding 4: Competitor content circulation pattern as distribution channel**
+Competitor content circulates through Geneva professional networks before reaching Brotons.net readers. Monitoring what circulates and where it falls short is a content development input.
 
-**Finding 04 — Geneva Professional Accountability Preparation as Named Editorial Category**  
-The concept of "accountability preparation" — firms arriving at the July 2026 event environment with documented positions vs. arriving without — is not named as a discrete editorial category by any Geneva publisher. This is different from regulatory anticipation content (what will the rules be?) and from compliance documentation content (what do we need to have?). Accountability preparation is specifically about what a firm can say it did, why it did it that way, and what it would do differently — before an event or examination forces the question. This framing opens a distinct editorial territory.
+**Finding 5: Reader trust accumulation mechanism across articles**
+Reader trust accumulates across articles, not from single articles. Each piece either builds or depletes the trust account. The accumulation mechanism makes editorial consistency a long-term competitive moat.
 
-**Finding 05 — Geneva International Org AI Accountability Intersection Not Mapped**  
-The intersection of Swiss domestic AI governance obligations with Geneva international org AI accountability frameworks is not mapped for Geneva professional services firms serving international org clients. Geneva firms advising international orgs or serving on their boards face accountability exposure in Swiss law for AI decisions made by entities that operate under different accountability frameworks. No Geneva publisher has addressed what this intersection means for the firm's own AI governance documentation requirements. This is distinct from prior Phase 05 content that addressed international org AI governance from the org's perspective rather than from the Geneva professional services firm advising them.
-
-**Finding 06 — Translation Function as Explicit Editorial Positioning Statement**  
-The Brotons.net editorial function — translating informal Geneva circuit intelligence into formal, applicable, Geneva-specific operational guidance — is not articulated as a distinct positioning statement anywhere in the Geneva market. No competitor has claimed this role. The informal circuit (carrier underwriting signals, bar session direction, peer accountability conversations, client questionnaire patterns) runs 3-6 months ahead of formal published record, and no Geneva publisher has named this translation function as its core editorial proposition. Naming it explicitly would clarify the publication's role and create a framework for all subsequent content decisions.
-
----
-
-## Staging Commit
-
-```
-git add -A
-git commit -m "Phase 05 C250 (Brotons.net): Geneva event-based standard formation, GAIGI certification pathway, nFADP Art.21 present-tense obligations, accountability preparation editorial category, international org intersection, translation function positioning — 6 net-new findings distinct from C214-C249 Phase 05"
-```
+**Finding 6: Editorial voice consistency as competitive moat in a market with voice drift**
+The Swiss AI governance publication market has voice drift — most publications sound similar because they are written to formula. Voice consistency is a competitive moat because it is rare. Readers recognize distinct voice and return to it.

@@ -1,233 +1,179 @@
-# Phase 04 — Geneva NGO / Tech
-## Market Research Cycle C250 | DigitalCoa.ch
-**Date:** 2026-04-28 | **ICP:** Geneva NGO / Tech — Executive Director or Program Manager, 10–100 employees | **Status:** Complete
+# C250 — Phase 04: Geneva NGO/Tech
+**Cycle:** C250 | **Phase:** 04 Geneva NGO/Tech | **Date:** 2026-04-28
+**Output:** `/data/.openclaw/workspace/digitalcoa.ch/private/market_research/phases/ph04_geneva_ngotech/20260428_phase04_geneva_ngotech_cycle250.md`
 
 ---
 
-## 01 — ICP Language
+## 01 — ICP Language (EN + FR)
 
-### How This ICP Actually Describes AI Problems
+### English
 
-**English**
+**Executive director:** "We are managing AI deployment in programs that have beneficiaries we have never met in person. The AI processes their data. I do not know what the AI concluded about them. If something goes wrong, I cannot reconstruct what happened."
 
-This ICP does not use the vocabulary of AI governance. The conversation sounds like this:
+**Program manager:** "The board approved an AI strategy two years ago. Nobody has reviewed it. The tool landscape has changed completely. The strategy is a document, not a living governance mechanism."
 
-*"Our donors want to see how we're measuring impact — and we need to show them, but the moment we put beneficiary data into a dashboard we lose control of it."*
+**Finance director:** "AI compliance costs are absorbed into general operations. They are not small. We cannot see them clearly enough to manage them."
 
-*"We signed a grant agreement that says we'll use AI responsibly. Nobody told us what that means operationally."*
+**Operations director:** "When a donor sends an AI governance questionnaire, we fill it out because we need the funding. We fill it out without knowing whether what we wrote is accurate."
 
-*"Our team in the field is using tools that were not designed for humanitarian contexts. When something goes wrong, we discover we have no record of what happened."*
+**Board member:** "I signed the ZEWO AI declaration. I do not know what it commits us to in practice. The signature was required; the comprehension was not checked."
 
-*"ZEWO asked us to document our AI use. We don't have a methodology for that. We have a spreadsheet of tools."*
+**Senior program officer:** "Our beneficiaries are being profiled by AI systems we do not fully understand. If a beneficiary asks what data we have about them and what the AI concluded, I do not know if we can answer."
 
-*"Our board approved an AI policy two years ago. Nobody has looked at it since."*
+### French
 
-*"The organization writing the AI guidelines for our sector is not applying them to its own programs."*
+**Directeur exécutif:** "Nous gérons le déploiement de l'IA dans des programmes qui ont des bénéficiaires que nous n'avons jamais rencontrés en personne. L'IA traite leurs données. Je ne sais pas ce que l'IA a conclu à leur sujet. Si quelque chose se passe mal, je ne peux pas reconstruire ce qui s'est passé."
 
-The core framing is accountability, responsibility, and operational control — not technology risk. The underlying anxiety: *who is accountable when an AI-assisted decision causes harm to a beneficiary, and do we have the record to show our reasoning?*
+**Responsable de programme:** "Le conseil a approuvé une stratégie IA il y a deux ans. Personne ne l'a examinée. Le paysage des outils a complètement changé. La stratégie est un document, pas un mécanisme de gouvernance vivant."
 
-Language register: concrete, case-based, donor-facing. When Geneva NGO staff describe AI problems, they describe accountability failures, not model failures. The technology is rarely the starting point.
+**Directeur financier:** "Les coûts de conformité IA sont absorbés dans les opérations générales. Ils ne sont pas faibles. Nous ne pouvons pas les voir assez clairement pour les gérer."
 
-**Français**
+**Directeur des opérations:** "Quand un donateur envoie un questionnaire de gouvernance IA, nous le remplissons parce que nous avons besoin du financement. Nous le remplissons sans savoir si ce que nous avons écrit est précis."
 
-Ce profil interlocuteur n'utilise pas le vocabulaire de la gouvernance IA. La conversation ressemble à ceci :
+**Membre du conseil:** "J'ai signé la déclaration IA ZEWO. Je ne sais pas ce qu'elle nous engage en pratique. La signature était requise; la compréhension n'a pas été vérifiée."
 
-*« Nos donors veulent voir comment nous mesurons notre impact — et nous devons le loro montrer, mais dès que nous mettons les données des bénéficiaires dans un tableau de bord, nous perdons le contrôle. »*
-
-*« Nous avons signé une convention de subvention qui dit que nous utiliserons l'IA de manière responsable. Personne ne nous a expliqué ce que cela signifie concrètement. »*
-
-*« Notre équipe sur le terrain utilise des outils qui n'ont pas été conçus pour les contextes humanitaires. Quand quelque chose ne va pas, nous découvrons que nous n'avons aucun enregistrement. »*
-
-*« ZEWO nous a demandé de documenter notre utilisation de l'IA. Nous n'avons pas de méthodologie pour cela. Nous avons un tableau des outils. »*
-
-*« Notre conseil a approuvé une politique d'IA il y a deux ans. Personne ne l'a revue depuis. »*
-
-*« L'organisation qui rédige les directives d'IA pour notre secteur ne les applique pas à ses propres programmes. »*
-
-Le cadre fondamental est la responsabilité, la redevabilité et le contrôle opérationnel — pas le risque technologique. L'anxiété sous-jacente : *qui est responsable lorsqu'une décision assistée par l'IA nuit à un bénéficiaire, et disposons-nous de l'enregistrement montrant notre raisonnement ?*
-
-Registre linguistique : concret, basé sur des cas concrets, orienté vers les donors. Lorsque le personnel des ONG genevoises décrit les problèmes d'IA, ils décrivent des échecs de responsabilité, pas des échecs de modèle. La technologie n'est que rarement le point de départ.
+**Officier de programme senior:** "Nos bénéficiaires sont profilés par des systèmes d'IA que nous ne comprenons pas pleinement. Si un bénéficiaire demande quelles données nous avons sur lui et ce que l'IA a conclu, je ne sais pas si nous pouvons répondre."
 
 ---
 
 ## 02 — Market Signals
 
-### Current Problems, Failure Modes, Paradoxes, Complaints
+**Signal 1: ZEWO AI declaration commitment comprehension gap**
+NGOs signing ZEWO AI declarations without understanding what the commitments actually require. The gap between signature and comprehension creates exposure immediately upon signing.
 
-**The Donor Dashboard Accountability Paradox**
-Geneva NGOs submit program data to donor-operated AI dashboards — tools the NGO did not select, cannot audit, and cannot govern. The donor has visibility. The NGO has accountability records in infrastructure it does not own. This is treated as a normal grant obligation. It is structurally distinct from a confidentiality problem: the issue is not whether the data is confidential, but whether the NGO controls the accountability record generated by its own submissions.
+**Signal 2: Purpose limitation structural conflict with AI tool design**
+FADP purpose limitation and AI tool design assumptions are in architectural conflict. The conflict cannot be resolved through policy at the organizational level without changing tool selection.
 
-**The Grantee AI Inheritance Problem**
-When a Geneva lead NGO commissions or partners with a Global South implementing partner using AI-assisted tools, the Geneva entity inherits the AI decision record without reviewing the underlying process. The donor reporting chain runs through Geneva. The AI process runs elsewhere. No standard engagement letter or grant agreement addresses this three-party accountability structure.
+**Signal 3: Donor AI questionnaire compliance theatre**
+Donor AI questionnaires being completed to secure funding, not to document actual governance state. The theatre is systemic and self-reinforcing, creating false records.
 
-**Beneficiary Identity Reconstruction at Wind-Down**
-AI systems processing beneficiary data generate synthetically inferred profiles — behavioral inferences, need assessments, demographic extrapolations — that persist beyond the source data. At program wind-down, the question of what to do with these inferred profiles has no Geneva-specific guidance, no humanitarian standard, and no clear answer under Swiss data protection law. The inferred profile is not the consent form.
+**Signal 4: AI policy staleness as board governance failure**
+Board-approved AI policies that no one reviews create staleness that board governance is not designed to address. The policy exists; the governance does not.
 
-**The Three-Framework Non-Reconciliation**
-ZEWO certification requirements, institutional donor AI conditions embedded in grant agreements, and Swiss nFADP obligations are simultaneously present and structurally non-reconciled. An NGO cannot satisfy all three simultaneously without a reconciliation methodology that does not exist. The most common response is selective compliance — choosing which framework is most visible in the current reporting cycle. This is not a compliance failure. It is a structural problem disguised as an implementation problem.
+**Signal 5: AI compliance cost invisibility through overhead absorption**
+AI compliance costs absorbed into general operations without visibility. The invisibility prevents management and optimization. The costs compound silently.
 
-**The Geneva International Org Accountability Gap**
-Geneva offices of international organizations bear Swiss law obligations for AI decisions made by headquarters or parent bodies outside Switzerland. Swiss law applies to the Geneva entity. The decisions generating accountability do not. The accountability gap is not a legal ambiguity — it is a structural condition with no published resolution pathway.
-
-**Board-Approved AI Policy as Historical Document**
-Geneva NGO boards approve AI governance policies that become technically outdated from the moment of signing. No board document includes a built-in obsolescence mechanism. The approved policy creates the appearance of governance while the organization's actual AI deployment has evolved beyond it. The board believes the governance question has been addressed. The document does not support that belief.
-
-**The Resource Constraint Misframe**
-Resource-constrained AI governance is consistently described as a capacity gap — not enough staff, not enough budget, not enough technical expertise. The framing leads to inadequate solutions: simplified policies that do not fit operational reality. The correct framing is a design problem: governance architecture must be constructed to fit the part-time compliance function and non-technical program staff that actually exist.
-
-**The Standards Authorship Paradox**
-Organizations that author AI governance standards for the humanitarian sector — through working groups, UN frameworks, ZEWO guidance — frequently do not apply those standards to their own programs. The paradox is structural: sector-wide guidance is authored by organizations that are themselves not compliant with the guidance they are writing. This is not hypocrisy. It is a governance design failure with a specific name: standards authorship without internal application.
-
-**The Humanitarian AI Evidence Standard Vacuum**
-No working definition exists for what constitutes adequate AI evidence in a humanitarian context. Donors ask for evidence of AI-assisted program outcomes. NGOs produce AI-generated beneficiary statistics. The authenticity and provenance of that evidence — how the AI produced the numbers, what data was used, what was not — is not a named donor requirement yet, but it is becoming one. The gap will activate when a major donor introduces a specific authenticity standard. That moment is predictable and approaching.
+**Signal 6: Program reconstruction failure as primary operational gap**
+The inability to reconstruct AI-assisted decisions when something goes wrong. The gap is primary and unaddressed. It creates a blind spot in program integrity management.
 
 ---
 
 ## 03 — Competitive Analysis
 
-### Gaps — What No One Is Addressing
+**Gap 1: ZEWO AI declaration commitment clarification**
+No advisory product exists for clarifying what ZEWO AI declarations commit the organization to. The gap between signing and comprehending is unaddressed.
 
-**Gap 01: The Neutrality Accountability Architecture**
-Switzerland's neutrality creates a specific data sovereignty condition for AI processing in Geneva. International organizations headquartered in Geneva claim privileges that place AI data processing in Geneva in a legal gray zone: Swiss law applies, but organizational privileges may exempt the processing from obligations the NGO bears. No Geneva-based advisory service addresses this intersection. No Geneva consultancy has named the neutrality accountability gap as a discrete service category.
+**Gap 2: Purpose limitation compliant AI tool selection methodology**
+No methodology exists for selecting AI tools that are compatible with FADP purpose limitation obligations. The selection is made without the compliance constraint being visible.
 
-**Gap 02: The Post-2026 Transition Advisory Window**
-The Federal Council's 2026 AI decision creates a specific pre-deliberation positioning window. Organizations that document their AI governance approach before the regulatory frame crystallizes will be perceived as having an independently developed position — not a compliance response. The service design for this window (pre-positioning briefing, documentation architecture, board language review) is not available in the Geneva market. No one has named it as a discrete offering.
+**Gap 3: Donor AI questionnaire response framework**
+No framework exists for responding to donor AI governance questionnaires in a way that is both funding-securing and accurate. The gap between the two requirements is unaddressed.
 
-**Gap 03: The Three-Framework Reconciliation Methodology**
-ZEWO certification, institutional donor AI conditions, and nFADP create simultaneous obligations that are structurally non-reconciled without an integrated framework. No Geneva advisory service offers a reconciliation methodology. Compliance consultants address each framework separately. The intersection is unmanaged. Organizations are left to make unsystematic trade-offs between obligations that do not align.
+**Gap 4: AI policy living document architecture**
+No product exists for keeping AI policies current as the tool landscape changes. The architecture for a living document is different from the architecture for a static policy.
 
-**Gap 04: The Small Implementing Partner Accountability Cascade**
-Grant agreements between Geneva lead NGOs and small Global South implementing partners contain AI conditions that the Geneva entity cannot audit. The accountability cascade is contractual: the lead NGO bears accountability for AI-assisted decisions made by partners without Geneva-level governance infrastructure. No standard grant agreement clause or audit right framework addresses this. The cascade activates at the moment a donor asks the Geneva entity to demonstrate program AI governance — not the partner's governance.
+**Gap 5: AI compliance cost visibility system**
+No system exists for making AI compliance costs visible and manageable. The invisibility is structural; the solution requires explicit cost classification.
 
-**Gap 05: The Beneficiary Consent / Donor Visibility Paradox as Named Structural Conflict**
-Donor visibility requirements increasingly require demonstrating how AI affects programs — which requires aggregate beneficiary data. Swiss and EU data protection law requires limiting that data. The conflict is real, simultaneous, and unresolved. Most Geneva NGOs are managing it by deferring — neither fully satisfying donor visibility nor fully protecting beneficiary data — without naming the structural conflict. Naming it as a discrete paradox (not a compliance failure) creates space for a resolution methodology that is genuinely different from "pick which obligation to prioritize."
-
-**Gap 06: AI Evidence Authenticity Requirements Emerging Before Methodology**
-Donors are beginning to probe the authenticity and provenance of AI-generated evidence submitted in program reports — how the AI produced the statistics, what data was used, what was excluded. This is a substantive requirement with no standard methodology. Geneva NGOs are producing AI-generated donor reports that satisfy the surface requirement while leaving the authenticity question unresolved. No advisory service, no methodology guide, and no standard form addresses what authenticatable AI evidence means in a humanitarian reporting context.
+**Gap 6: Program reconstruction protocol design**
+No protocol exists for reconstructing AI-assisted decisions after an incident. The protocol would specify what data to capture, how to capture it, and how to present it when needed.
 
 ---
 
 ## 04 — Compliance Context
 
-### Geneva / Swiss Specific Obligations
+**ZEWO AI accountability under enhanced scrutiny:**
+ZEWO certification process includes AI governance as a specific scrutiny area. Enhanced scrutiny creates documentation requirements not present in prior certification cycles.
 
-### ZEWO Certification
-ZEWO certification requires Swiss charitable organizations to demonstrate responsible use of funds and organizational integrity. For AI-assisted programs, ZEWO's 2026 guidance requires documented AI governance — without specifying methodology. The practical exposure: ZEWO audits documentation completeness, not operational AI governance quality. The gap between documentation and actual governance is not probed by the audit. Organizations with adequate documentation and inadequate governance pass certification.
+**Institutional donor AI liability clause proliferation:**
+Institutional donors are inserting AI liability clauses into grant agreements. The clauses create exposure that NGOs sign without evaluating. The proliferation is accelerating.
 
-### Institutional Donor AI Conditions
-Major institutional donors — multilateral development banks, bilateral agencies, EU funding mechanisms — embed AI conditions in grant agreements. These conditions vary by donor, are often vaguely worded ("use AI responsibly"), and arrive in agreements signed before the NGO has an AI governance methodology. The compliance obligation is contractual and present-tense. No standard exists for what satisfying these conditions requires operationally.
+**nFADP Articles 13 and 21 specific obligations:**
+Art. 13 requires explanation of AI-assisted decisions to data subjects in intelligible form. Art. 21 requires documentation of AI-assisted decision logic. Both require protocol design, not just policy writing.
 
-### Swiss nFADP (SR 235.1)
-The revised Federal Act on Data Protection requires lawful basis, purpose limitation, and data minimization for beneficiary personal data processed by AI tools. For humanitarian programs serving vulnerable populations, the tension with donor impact measurement requirements is direct and structural. nFADP does not provide a humanitarian exception. The compliance question — how to simultaneously satisfy donor impact reporting and nFADP data minimization — is unresolved in Geneva NGO practice.
+**Art. 75 ZGB board member personal liability:**
+Board members approving AI policies without review mechanisms face personal liability under Art. 75 ZGB. The liability is active and unnamed. Board members do not know they are exposed.
 
-### EU AI Act — Downstream Effect on EU-Funded Programs
-Geneva NGOs receiving EU funding for AI-assisted humanitarian programs are potentially subject to EU AI Act obligations as downstream deployers of high-risk AI systems. The EU AI Act's territorial reach through funding relationships is not a settled legal question. It is a present-tense compliance question for any Geneva NGO operating EU-funded programs with AI-assisted components. Simultaneous Swiss nFADP + EU AI Act + institutional donor conditions is the three-framework condition generating the structural compliance conflict described in Gap 03.
+**Implementing partner data flows:**
+AI tools processing beneficiary data create data flows that nFADP governs. The flows through implementing partners create a cascade of obligations that lead NGOs cannot fully control.
 
-### Geneva-Specific Institutional Accountability
-The intersection of Swiss law, international organization privileges, and Geneva's diplomatic environment creates accountability conditions specific to this location. Geneva offices of international organizations bear Swiss law obligations for AI decisions made by parent bodies outside Switzerland. This is not a legal ambiguity — it is a structural accountability gap with no published resolution pathway. Organizations operating at this intersection face compliance questions that cannot be answered by any single framework.
+**Donor data minimization conflicts:**
+Donor impact measurement requires data aggregation. FADP purpose limitation restricts aggregation. The conflict is structural and unresolvable at organizational level without donor agreement.
 
 ---
 
 ## 05 — Lead Magnet Draft
 
-### In Sergio's Voice — Bilingual EN + FR
+### English
+
+**Geneva NGO AI Program Integrity Briefing**
+
+NGOs managing AI exposure without a clear framework for what their commitments actually require, what their documentation actually covers, and what happens when something goes wrong.
+
+This briefing is for executive directors, program managers, and board members at Geneva-based NGOs who have signed donor AI declarations, deployed AI tools in program delivery, or faced a donor AI governance questionnaire without knowing whether their response was adequate.
+
+**What the briefing covers:**
+
+- What your ZEWO AI declaration actually commits you to, and how to assess whether your current practice meets those commitments
+- The purpose limitation structural conflict: why your privacy policy and your AI tool are in tension, and what to do about it
+- How to respond to donor AI governance questionnaires in a way that is both funding-securing and accurate
+- The program reconstruction problem: what to capture and how to capture it so that when something goes wrong, you can reconstruct what the AI did
+- Board member personal liability under Art. 75 ZGB: what the liability actually is, and what governance mechanisms reduce it
+- AI compliance cost visibility: how to see the costs clearly enough to manage them, not just absorb them
+
+**Format:** 90-minute briefing, in person or remote, in English or French
+**Investment:** CHF 1,800
+**Output:** Written summary of program integrity assessment within five business days
+
+I work with a small number of Geneva NGOs on their specific AI governance situations. This briefing is structured around your organization, not a generic framework.
+
+To schedule: reply to this message or use the contact form on digitalcoa.ch.
 
 ---
 
-**[ENGLISH VERSION]**
+### French
 
-# Geneva NGO AI Governance Accountability Briefing
+**Briefing d'Intégrité de Programme IA pour les ONG Genevoises**
 
-## The Five Accountability Problems Geneva NGOs Are Discovering Before Their Donors Ask
+Les ONG gestionnant l'exposition à l'IA sans cadre clair sur ce que leurs engagements requièrent réellement, ce que leur documentation couvre réellement, et ce qui se passe quand quelque chose se passe mal.
 
----
+Ce briefing est destiné aux directeurs exécutifs, responsables de programmes et membres de conseils d'administration des ONG basées à Genève qui ont signé des déclarations IA de donateurs, déployé des outils d'IA dans la livraison de programmes, ou fait face à un questionnaire de gouvernance IA de donateur sans savoir si leur réponse était adequate.
 
-**For:** Executive directors and program managers, Geneva-based NGOs, 10–100 employees, deploying AI in program delivery, beneficiary management, or donor reporting.
+**Ce que couvre le briefing:**
 
-**What it is:**
-A 90-minute private executive briefing — in English or French — examining the five named accountability gaps specific to Geneva NGO AI deployment. Not a training. Not a policy template. A structured analysis of where your current AI governance creates personal and organizational accountability exposure that donors, ZEWO, and Swiss law are beginning to probe systematically.
+- Ce à quoi votre déclaration IA ZEWO vous engage réellement, et comment évaluer si votre pratique actuelle répond à ces engagements
+- Le conflit structurel de limitation de purpose: pourquoi votre politique de confidentialité et votre outil d'IA sont en tension, et quoi faire à ce sujet
+- Comment répondre aux questionnaires de gouvernance IA des donateurs de manière à la fois sécurisée pour le financement et précise
+- Le problème de reconstruction de programme: quoi capturer et comment capturer pour que quand quelque chose se passe mal, vous puissiez reconstruire ce que l'IA a fait
+- Responsabilité personnelle des membres du conseil en vertu de l'Art. 75 ZGB: ce qu'elle est réellement, et quels mécanismes de gouvernance la réduisent
+- Visibilité des coûts de conformité IA: comment voir les coûts assez clairement pour les gérer, pas seulement les absorber
 
-**What you receive:**
-- Pre-briefing organizational AI inventory questionnaire
-- 90-minute private video or in-person briefing
-- Written summary in English and French, delivered within five business days
-- 30-day written follow-up question window
+**Format:** Briefing de 90 minutes, en personne ou à distance, en anglais ou en français
+**Investissement:** CHF 1 800
+**Livrable:** Résumé écrit de l'évaluation de l'intégrité du programme dans les cinq jours ouvrables
 
-**Price:** CHF 1,800 — individual briefing, English or French
+Je travaille avec un nombre limité d'ONG genevoises sur leurs situations spécifiques de gouvernance de l'IA. Ce briefing est structuré autour de votre organisation, pas d'un cadre générique.
 
-**Why CHF 1,800:**
-A small NGO operating with limited capacity should not pay the same rate as a financial institution. The briefing is designed for your governance reality — part-time compliance function, non-technical program staff, no dedicated AI governance officer. The methodology fits the organization, not a generic framework.
-
-**CTA:**
-Write to: sergio@digitalcoa.ch
-Subject: Geneva NGO AI Accountability Briefing
-Include your organization's name, your role, and whether you are currently deploying AI in program delivery or donor reporting.
-
-The briefing is delivered by Sergio directly. No sales team. No follow-up sequence.
-
----
-
-**[FRENCH VERSION]**
-
-# Briefing sur la Redevabilité de la Gouvernance IA pour les ONG Genevoises
-
-## Les Cinq Problèmes de Redevabilité que les ONG Genevoises Découvrent Avant que Leurs Donateurs ne le Leur Demandent
-
----
-
-**Pour :** Directeurs exécutifs et chargés de programme, ONG basées à Genève, 10–100 employés, déployant l'IA dans la livraison de programmes, la gestion des bénéficiaires ou les rapports aux donateurs.
-
-**Ce que c'est :**
-Un briefing exécutif privé de 90 minutes — en anglais ou en français — examinant les cinq lacunes de redevabilité spécifiques au déploiement de l'IA par les ONG genevoises. Pas une formation. Pas un modèle de politique. Une analyse structurée des endroits où votre gouvernance IA actuelle crée une exposition à la redevabilité personnelle et organisationnelle que les donateurs, ZEWO et le droit suisse commencent à sonder systématiquement.
-
-**Ce que vous recevez :**
-- Questionnaire d'inventaire organisationnel de l'IA pré-briefing
-- Briefing vidéo privé de 90 minutes ou en personne
-- Résumé écrit en anglais et en français, livré dans les cinq jours ouvrables
-- Fenêtre de suivi écrit de 30 jours pour les questions
-
-**Prix :** CHF 1,800 — briefing individuel, anglais ou français
-
-**Pourquoi CHF 1,800 :**
-Une petite ONG opérant avec des capacités limitées ne devrait pas payer le même tarif qu'une institution financière. Le briefing est conçu pour votre réalité de gouvernance — fonction conformité à temps partiel, personnel de programme non technique, aucun responsable dédié à la gouvernance de l'IA. La méthodologie correspond à l'organisation, pas à un cadre générique.
-
-**CTA :**
-Écrire à : sergio@digitalcoa.ch
-Objet : Briefing Redevabilité IA ONG Genève
-Inclure le nom de votre organisation, votre rôle, et si vous déployez actuellement l'IA dans la livraison de programmes ou les rapports aux donateurs.
-
-Le briefing est animé par Sergio directement. Pas d'équipe commerciale. Pas de séquence de suivi.
-
----
-
-## Package Note / Note sur le Forfait
-
-A **Governance Architecture Package** is available at CHF 3,200 for organizations that need more than a briefing — a structured three-framework reconciliation matrix (ZEWO + institutional donor conditions + nFADP) and a practical AI governance assessment format for board reporting. The same 90-minute format, extended to accommodate the matrix walkthrough.
+Pour planifier: répondez à ce message ou utilisez le formulaire de contact sur digitalcoa.ch.
 
 ---
 
 ## 06 — Findings Summary
 
-### Six Net-New Insights — Distinct from C214–C249 Phase 04
+**Finding 1: ZEWO AI declaration commitment comprehension gap as structural NGO exposure**
+The gap between signing a ZEWO AI declaration and understanding what it commits the organization to. NGOs commit to obligations they have not evaluated. The gap creates immediate exposure upon signature.
 
-**Finding 01 — Geneva Neutrality Accountability Architecture**
-Switzerland's neutral status creates a specific AI data sovereignty condition in Geneva that has not been named as a discrete advisory category. International organizations headquartered in Geneva operate under legal privileges that may exempt AI data processing from Swiss domestic obligations — while the Swiss entity simultaneously bears full accountability for those decisions. No Geneva advisory service addresses this intersection. The neutrality accountability gap is structurally distinct from the HQ/Geneva office accountability gap identified in prior cycles: it operates through legal privilege, not organizational hierarchy.
+**Finding 2: Purpose limitation structural conflict with AI tool design as architectural problem**
+FADP purpose limitation and AI tool design assumptions are in architectural conflict. The conflict cannot be resolved through policy at the organizational level. It requires AI tool selection that accounts for the compliance constraint.
 
-**Finding 02 — Post-2026 Federal Council Transition Advisory Window**
-The Federal Council's 2026 AI decision creates a discrete pre-deliberation positioning window for Geneva NGOs that has not been named as a service design category. Organizations that document their AI governance approach before the regulatory frame crystallizes will be perceived as having an independently developed position — not a compliance response to a newly created obligation. The briefing design for this window (pre-positioning advisory, documentation architecture, board language calibration) is not available in the Geneva market. The timing of this window is dateable and closing.
+**Finding 3: Donor AI questionnaire compliance theatre as systemic pattern**
+Donor AI governance questionnaires being completed to secure funding, not to document actual governance state. The theatre is systemic and self-reinforcing. It creates a false record that obscures the actual governance state.
 
-**Finding 03 — Three-Framework Structural Compliance Conflict as Named Category**
-ZEWO certification, institutional donor AI conditions, and Swiss nFADP are simultaneously non-reconciled — not inadequately implemented, but structurally in conflict. The existing framing across C214–C249 is "compliance collision" or "tri-framework reconciliation gap." This framing implies the problem is an implementation challenge. The correct framing is a structural compliance conflict: the three frameworks require mutually exclusive operational behaviors simultaneously. No Geneva advisory service has named this distinction. No methodology exists for resolving it. The conflict is currently managed by default through selective compliance — which is not a compliance failure, but a rational organizational response to an unresolvable structural condition.
+**Finding 4: AI policy staleness as board governance architectural gap**
+Board-approved AI policies that no one reviews are stale documents, not living governance mechanisms. The staleness is an architectural gap in board governance, not an oversight problem. The gap requires a living document architecture.
 
-**Finding 04 — Small Implementing Partner Accountability Cascade in Grant Agreements**
-The accountability cascade from Geneva lead NGOs to small Global South implementing partners through AI conditions embedded in grant agreements is structurally unaddressed. No standard grant agreement clause or audit right framework protects the Geneva entity. The contractual accountability flows to Geneva. The AI decisions happen with partners lacking Geneva-level governance infrastructure. This is distinct from the "implementing partner AI cascade tort liability" identified in C240 — that framing was about legal liability (Art. 41 ff. OR). This framing is about contractual accountability architecture: what provisions would need to exist in grant agreements to make the accountability cascade sustainable.
+**Finding 5: AI compliance cost invisibility through overhead absorption as budget management failure**
+AI compliance costs absorbed into general operations are invisible and unmanageable. The invisibility is a budget management failure. Making the costs visible requires explicit cost classification.
 
-**Finding 05 — Beneficiary Consent / Donor Visibility Paradox as Named Structural Conflict**
-The conflict between donor AI visibility requirements and FADP beneficiary rights is real, simultaneous, and unresolved in Geneva NGO practice. It has been referenced in prior cycles as a "donor visibility vs. confidentiality paradox" (C214) and as "donor visibility vs. beneficiary autonomy direct structural conflict" (C225). Both framings treat it as a tension to be managed. The correct framing is a named structural paradox: the two obligations are not in tension because one must be prioritized over the other — they are in structural conflict because satisfying one creates the condition for violating the other. Naming it as a paradox (not a trade-off) is the precondition for a resolution methodology that does not currently exist.
-
-**Finding 06 — AI Evidence Authenticity Requirements Arriving Before Methodology**
-The authenticity and provenance of AI-generated beneficiary evidence is emerging as a substantive donor requirement in humanitarian reporting — before any methodology exists for what authenticatable AI evidence means in this context. Donors are beginning to probe: how did the AI produce those statistics, what data was used, what was excluded, how can the figures be substantiated? Geneva NGOs are producing AI-generated donor reports that satisfy the surface requirement while leaving the authenticity question unresolved. The gap will activate when a major institutional donor introduces a specific authenticity standard — a predictable event given current trends. No Geneva advisory service, no methodology guide, and no standard form addresses this specific exposure.
-
----
-
-*Document prepared: 2026-04-28 | Cycle: C250 Phase 04 | ICP: Geneva NGO / Tech | Output file: digitalcoa.ch/private/market_research/phases/ph04_geneva_ngotech/20260428_phase04_geneva_ngotech_cycle250.md*
+**Finding 6: Program reconstruction failure as primary operational integrity gap**
+The primary operational integrity gap is not AI governance documentation — it is the inability to reconstruct what the AI did when something goes wrong. The reconstruction failure is unaddressed and creates a blind spot that no policy can close retroactively.
