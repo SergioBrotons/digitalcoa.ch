@@ -1136,3 +1136,7 @@ phases/
 ## CYCLE 290 — PHASE 06 COMPLETE ✅
 
 ## CYCLE 290 — ALL PHASES COMPLETE ✅
+
+**Phase 04 C291:** COMPLETE (2026-05-29 04:50 GMT+2) ← Geneva healthcare ICP, small medical practice 1–8 physicians, 2–15 staff, carrier attestation arriving in healthcare through physician liability insurance carriers 6-12 months after legal/finance wave with physician license as primary accountability asset at stake — license-centric framing distinct from fine-centric framing in other verticals — medical standard of care as unresolved dual paralysis where both AI-use and AI-non-use create potential liability exposure simultaneously — nFADP Art. 5(c) + treatment consent structural conflation requiring three-consent-architecture solution no market provider offers — FMH human oversight principle has no Tuesday translation at same time standard of care for AI-assisted decisions is undefined — GHF 2026 creates awareness amplification without operational output with specific content timing window (pre-forum April-May + post-forum June-November 2026) — 6 NET-NEW findings distinct from C214–C289 Phase 04, ICP language EN+FR, lead magnet The Geneva Medical Practice AI Accountability Guide: What You Signed, What You're Liable For, and What No One Has Told You Yet CHF 2,200 professional 90-min EN+FR / CHF 4,200 half-day
+
+## CYCLE 291 — PHASE 04 COMPLETE ✅
