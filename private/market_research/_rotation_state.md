@@ -532,18 +532,38 @@ Note: All 6 files written and pushed before completion announcement.
 - Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
 - Note: All 6 files written and pushed before completion announcement.
 
-## C311 Phase 04 Completed (2026-05-31)
-- 6 NET-NEW findings:
-  1. Medical assistant AI delegation accountability now named and active — staff using AI on patient data without documented physician authorization framework; physician personally liable; gap now visible on carrier forms
-  2. OaF survey baseline activating documentation specification — carrier outcomes and feedback surveys now include AI-specific questions requiring documentation not found in standard medical records; OaF responses create contemporaneous evidence records
-  3. Clinical reasoning chain as distinct evidentiary standard — Swissmedic and carriers asking for reasoning chain documentation, not just tool use; existing records show conclusions; reasoning chain format doesn't exist in standard EMR
-  4. Swissmedic operator classification vendor ≠ physician — vendor Swissmedic certification addresses tool compliance; physician operator classification depends on use case and physician decisions; separate question, physician responsible
-  5. AI incident Swissdamed format gap is regulatory, not competitive — mandatory reporting applies; no published format for AI-involved incidents; physicians operating without protocol
-  6. Carrier form physician-personal certification without documentation — carrier forms now require physician name + license number + personal attestation of human oversight; nFADP Art.63 personal liability created; physician signs without supporting evidence
-- All 6 files written and saved to /private/market_research/20260531_phase04_geneva_healthcare_cycle311/
+- Git push: PENDING
+- Note: All 6 files written before completion announcement.
+
+## C311 Phase 06 Completed (2026-05-31)
+- Phase 06 (DigitalCoa Competitive Research): COMPLETE ✅ — C311 FULLY CLOSED
+- 6 NET-NEW competitive findings:
+  1. No competitor offers evidence architecture — every competitor offers frameworks, policies, training, or compliance documentation; carrier asks for evidence, no one delivers it
+  2. No competitor offers retroactive reconstruction — all frameworks are forward-looking; market has 12-24 months of undocumented AI use; "going forward" is not an answer to "I already signed"
+  3. No competitor addresses individual carrier attestation — organizational and privacy-focused competitors miss the managing partner's personal exposure
+  4. No competitor closes vendor records gap — vendor holds records client is accountable for producing; no vendor contract addresses record production; gap is structural and confirmed by every carrier audit
+  5. No competitor offers EN+FR evidence architecture — English frameworks don't address Geneva's English carrier forms + French regulatory proceedings = documentation mismatch
+  6. No competitor differentiates on personal liability — "For physicians, evidence is personal. And your license is on the line." applies across all verticals; no competitor uses this framing
+- All 6 files written and saved to /private/market_research/20260531_phase06_digitalcoa_competitive_cycle311/
 - Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
-- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
-- C311 Phase 04 core insight: The C311 healthcare ICP is managing six named accountability vectors simultaneously — medical assistant AI delegation without authorization framework, OaF survey requiring documentation standard records don't provide, clinical reasoning chain Swissmedic asks for but no format exists, Swissmedic operator classification vendor certification ≠ physician question, AI-involved Swissdamed incident format gap is regulatory not competitive, and carrier form physician-personal certification without documentation. The market has moved from "am I exposed?" through "my license is at risk" and "I know I'm exposed with no documentation" to "I have multiple named vectors active simultaneously, none with a published resolution." Positioning anchor confirmed: "For physicians, evidence is personal. And your license is on the line."
-- Output: /private/market_research/20260531_phase04_geneva_healthcare_cycle311/
-- Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
-- Note: All 6 files written and pushed before completion announcement.
+- Lead magnet: "The Question No One Else Is Asking" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C311 Phase 06 core insight: The market has moved from "do I have a problem?" (C308) to "why didn't my solution work?" (C309) to "my solution was built to the wrong specification" (C310) to "I already signed. Now what?" (C311). No competitor addresses the professional who already certified, already has personal exposure, needs evidence now. Every competitor offers what they can sell. Sergio offers what the carrier actually wants to see. Evidence architecture is category creation — Q4 (specific + evidence) is unoccupied.
+- C311 FULL CYCLE COMPLETE — all six phases closed
+- Output: /private/market_research/20260531_phase06_digitalcoa_competitive_cycle311/
+- Git push: PENDING
+
+## C311 Full Cycle Complete (2026-05-31)
+All six phases of C311 complete. Cycle summary:
+
+**Phase 01 (Legal):** Carrier form structural shift, OaF survey baseline, junior associate AI surface, retroactive reconstruction evidentiary fragility, boutique translation gap, personal liability priority
+**Phase 02 (Finance):** Institutional DDQ as competitive intelligence, authorization chain compound liability, model drift live documentation obligation, institutional client standard above FINMA, two-document false security, multi-mandate coherence visible
+**Phase 03 (Consulting):** Client AI questionnaire pre-review, sub-consultant delegation structural gap, proposal methodology defensibility as competitive differentiation, retroactive methodology reconstruction distinct service, carrier form pre-review, personal nFADP Art.63 framing
+**Phase 04 (Healthcare):** Medical assistant AI delegation accountability, OaF survey baseline activating documentation specification, clinical reasoning chain as distinct evidentiary standard, Swissmedic operator classification, AI incident format gap, carrier form physician-personal certification
+**Phase 05 (Cross-Vertical):** Carrier form universal design specification, authorization chain universal liability, documentation debt non-linear, adequate universal floating signifier, commercial enforcement precedes regulatory, one evidence architecture / four vertical overlays
+**Phase 06 (Competitive):** No evidence architecture competitor, no retroactive reconstruction competitor, no individual carrier attestation competitor, no vendor records gap competitor, no EN+FR evidence architecture competitor, no personal liability framing competitor
+
+**C311 Final Synthesis:** "The market offers frameworks. I produce evidence. Your form is the design specification."
+**C311 Anchor:** "For physicians, evidence is personal. And your license is on the line."
+**C311 Cycle Insight:** Market has moved to "I already signed. Now what?" — professional already certified, already has personal exposure, needs evidence now. No competitor addresses this specific moment.
+
+**Next cycle:** C312 (to be initiated by main agent).
