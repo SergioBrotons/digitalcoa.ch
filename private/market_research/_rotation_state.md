@@ -72,3 +72,13 @@ Six NET-NEW cross-vertical findings for C305:
 
 ## Cycle Count
 32 complete cycles (C214–C305)
+## C306 Phase 01 Completed (2026-05-30)
+- Phase 01 (Geneva legal): COMPLETE ✅
+- 6 NET-NEW findings: broker accountability, tool sprawl, evidence architecture, multi-authority sequencing, bilingual client comms, post-attestation reconstruction
+- All 6 files written and pushed to Git
+
+## C306 Phase 02 Completed (2026-05-30)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings: institutional DDQ scoring shift to evidence-first, multi-party integration chain PII exposure, FINMA technical blueprint awareness gap, carrier attestation/vendor contract misalignment, EU AI Act deployer structural problem, three-vector documentation debt acceleration
+- All 6 files written and pushed to Git
+- Key extensions from C305 Phase 02: specific mechanisms identified for each market failure; service model more precisely defined
