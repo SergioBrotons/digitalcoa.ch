@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C307** — Phase 02 (Geneva finance) next in rotation
+**C307** — Phase 03 (Geneva consulting) next in rotation
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -133,4 +133,5 @@ Six NET-NEW competitive findings for C306 Phase 06:
 ## C307 Rotation State
 - Phase 01 (Geneva legal): COMPLETE ✅
 - Phase 02 (Geneva finance): COMPLETE ✅
-- Next: Phase 03 (Geneva consulting)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- Next: Phase 04 (Geneva healthcare)
