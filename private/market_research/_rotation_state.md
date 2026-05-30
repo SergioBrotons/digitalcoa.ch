@@ -1,13 +1,16 @@
 # Research Rotation State
 
 ## Current Cycle
-**C301** — Phase 01 IN PROGRESS
+**C301** — Phase 01 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
 
 ## Completed Phases (C301)
-- Phase 01 (Geneva legal): IN PROGRESS
+- Phase 01 (Geneva legal): COMPLETE
+
+## Next Cycle
+**C301 Phase 02** (Geneva finance) — next heartbeat spawns next phase
 
 ## Phase Rotation Log (C214–C301)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
