@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C308** — Phase 02 (Geneva finance) COMPLETE ✅ — C308 Phase 02 CLOSED
-**Next: C308 Phase 03 (Geneva consulting) begins
+**C308** — Phase 03 (Geneva consulting) COMPLETE ✅ — C308 Phase 03 CLOSED
+**Next: C308 Phase 04 (Geneva healthcare) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -21,6 +21,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
 - C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
+
+## C308 Phase 03 Completed (2026-05-30)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Client RFP AI scoring criteria escalating beyond initial screening questions
+  2. Carrier attestation renewal misrepresentation risk — informed ICP paradox (more knowledge = higher exposure)
+  3. Sub-consultant AI delegation invisible accountability gap in client-facing deliverables
+  4. Proposal methodology defensibility — two-dimensional (disclosure + traceability), neither covered by boutiques
+  5. Personal nFADP Art.52 activating through broker conversations, not regulatory communications
+  6. Proportionate AI governance service design gap — not a product gap, a service architecture gap
+- All 6 files written and saved to /private/market_research/20260530_phase03_geneva_consulting_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR, Geneva-based
+- C308 Phase 03 core insight: Four simultaneous pressures (client RFP AI gates, carrier attestation accuracy, proposal methodology defensibility, personal nFADP Art.52 exposure) require one evidence architecture — not four separate documentation exercises. The consulting boutique ICP is in execution mode (what do I do first), not discovery mode (do I have a problem). Commercial gate pressure operates independently of regulatory deadlines.
+- Output: /private/market_research/20260530_phase03_geneva_consulting_cycle308/
 
 ## C308 Phase 02 Completed (2026-05-30)
 - Phase 02 (Geneva finance): COMPLETE ✅
