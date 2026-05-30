@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C305** — Phase 05 COMPLETE
+**C306** — Phase 01 pending
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -12,7 +12,10 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 03 (Geneva consulting): COMPLETE
 - Phase 04 (Geneva healthcare): COMPLETE
 - Phase 05 (cross-vertical): COMPLETE ✅
-- Phase 06 (DigitalCoa competitive): pending
+- Phase 06 (DigitalCoa competitive): COMPLETE ✅
+
+## C306 Next Up
+- Phase 01 (Geneva legal): next spawn
 
 ## Next Cycle
 **C305 Phase 06** (DigitalCoa competitive) — next heartbeat spawns
