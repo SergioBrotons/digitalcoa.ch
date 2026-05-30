@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C302** — Phase 01 + Phase 02 COMPLETE
+**C302** — Phase 01 + Phase 02 + Phase 03 + Phase 04 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -10,6 +10,7 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 01 (Geneva legal): COMPLETE
 - Phase 02 (Geneva finance): COMPLETE
 - Phase 03 (Geneva consulting): COMPLETE
+- Phase 04 (Geneva healthcare): COMPLETE
 
 ## Phase Rotation Log (C214–C302)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
@@ -18,7 +19,7 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | ... | ... | ... | ... | ... | ... | ... |
 | C300 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | C301 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
-| C302 | legal [COMPLETE] | finance [COMPLETE] | consulting [COMPLETE] | healthcare | cross-vertical | DigitalCoa |
+| C302 | legal [COMPLETE] | finance [COMPLETE] | consulting [COMPLETE] | healthcare [COMPLETE] | cross-vertical | DigitalCoa |
 
 ## Timing Notes
 - June 19 SBA Day of Lawyers — ~2 weeks away (acute legal engagement trigger)
@@ -63,6 +64,22 @@ ODAGE March 21 event ("IA comme ICARE") confirms professional body acknowledgmen
 5. **50–200 employee boutique — the compliance gap between small and large** — mid-size Geneva WM firms face same obligations as large institutions without large-institution compliance resources; institutional client due diligence + carrier attestation + FINMA 08/2024 + Art. 63 personal liability; addressable market gap confirmed
 
 6. **Finance vs. legal vertical — distinct enforcement vectors** — legal ICP converts via court sanctions and bar disciplinary events; finance ICP converts via institutional mandate RFP scoring and carrier attestation; shared evidence reconstruction problem, fluency inversion, and vendor contract trap; distinct conversion triggers
+
+## C302 Key Insights — Phase 04 (Geneva Healthcare)
+
+**NET-NEW findings (C302 Phase 04):**
+
+1. **Carrier attestation form as primary acute forcing function** — malpractice carrier AI attestation form converts healthcare ICPs faster than any regulatory framework; physician cannot answer it, broker cannot help, fear of coverage implications drives action
+
+2. **FMH human oversight stated without operational definition** — FMH has stated human oversight is required but has not defined what it means in a small practice context; requirement acknowledged, compliance pathway absent; physician cannot comply because no one has defined compliance
+
+3. **Physician license irreplaceable — highest personal stake of any vertical** — FMH license cannot be re-earned after revocation; disciplinary action is personal; nFADP Art. 63 personal liability applies to responsible individual physician; emotional lever converts abstract concern to action
+
+4. **nFADP + Swissmedic dual-layer compliance paralysis** — small practices face two simultaneous regulatory layers with no guidance on which applies when; swissdamed July 1, 2026 makes paralysis concrete and urgent; no advisory service addresses dual-layer question in practical small-practice terms
+
+5. **Anticipatory breach fear — peer scare as primary trigger** — fear of being "next headline" is anticipatory (no in-practice incident required); peer colleague breach scare converts faster than any regulatory document; physician willing to invest in prevention before incident if framed as affordable
+
+6. **Medical assistant shortage makes efficiency AI non-negotiable** — Geneva highest wages in Switzerland, structural demographic crisis; clause du besoin July 2025 makes practice license appreciating asset; efficiency AI is survival, not luxury; compliance and efficiency converge in small practice context
 
 ## Competitive Positioning
 > "The market offers frameworks. We offer evidence."
