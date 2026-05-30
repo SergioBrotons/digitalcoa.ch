@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C309 Phase 02** — IN PROGRESS — Geneva finance
-**Next: C309 Phase 03 (Geneva consulting)**
+**C309 Phase 03** — COMPLETE ✅ — Geneva consulting
+**Next: C309 Phase 04 (Geneva healthcare)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -36,6 +36,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Boutique Wealth Manager's AI Governance Briefing" — CHF 2,200 per 90-minute session, EN + FR
 - C309 Phase 02 core insight: The market has moved from "do I have a problem?" to "can I keep the mandate?" — DDQ as competitive gate, not just regulatory obligation. Institutional client is the forcing function the Swiss regulator has not yet become. Article 63 personal liability for investment decisions is distinct from carrier attestation exposure.
 - Output: /private/market_research/20260530_phase02_geneva_finance_cycle309/
+
+## C309 Phase 03 Completed (2026-05-30)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Client RFP AI scoring has become primary commercial gate — boutique documentation hasn't caught up
+  2. Proposal methodology defensibility has two dimensions (disclosure + traceability), boutique firms missing both
+  3. Sub-consultant AI delegation creates invisible accountability gap — carrier attestation signed with no monitoring system
+  4. Personal nFADP Article 52 exposure activating through broker conversations, not regulatory channels
+  5. Bilingual EN/FR documentation is design requirement, not translation task — market has neither
+  6. Proportionate AI governance service design gap is preventing action, not knowledge
+- All 6 files written and saved to /private/market_research/20260530_phase03_geneva_consulting_cycle309/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C309 Phase 03 core insight: The market has moved from "can I keep the mandate?" (Phase 02) to "can I win the next one?" — acquisition mode. Client RFP is the forcing function for consulting boutiques, as institutional DDQ is for WM and carrier renewal is for law firms. Proposal methodology defensibility is more immediate for consulting than regulatory compliance — the proposal IS the product.
+- Output: /private/market_research/20260530_phase03_geneva_consulting_cycle309/
 
 ## C308 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
