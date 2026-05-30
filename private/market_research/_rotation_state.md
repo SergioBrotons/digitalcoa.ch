@@ -22,6 +22,20 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
 
+## C308 Phase 05 Completed (2026-05-30)
+- Phase 05 (cross-vertical synthesis): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Three-compounding-vectors documentation debt structure (time, tool count, staff use — not linear, non-linear acceleration)
+  2. Retroactive documentation reconstruction is majority market problem, not a niche
+  3. Broker referral channel is primary acquisition path, not secondary
+  4. Carrier forms are accountability architecture, not compliance checklists — pre-signing review is highest-value intervention
+  5. Evidence standard shift (policy 2024 vs. contemporaneous record 2026) is structural, not fixable by policy updates
+  6. Geneva bilingual regulatory complexity is a service design requirement, not a localization task
+- All 6 files written and saved to /private/market_research/20260530_phase05_crossvertical_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- C308 Phase 05 core insight: Three-vectors compounding is the structural reason linear solutions fail. Retroactive reconstruction is the majority market segment. Broker referral channel is primary acquisition. Pre-signing carrier form review is the highest-value intervention point. Bilingual documentation is a design decision, not translation.
+- Output: /private/market_research/20260530_phase05_crossvertical_cycle308/
+
 ## C308 Phase 04 Completed (2026-05-30)
 - Phase 04 (Geneva healthcare): COMPLETE ✅
 - 6 NET-NEW findings:
@@ -226,4 +240,4 @@ C307 full-cycle core insight: The Geneva SMB AI accountability market is not an 
 **Service model claim:** "One evidence architecture, four vertical overlays. Not four products, one system."
 
 ## Cycle Count
-34 complete cycles (C214–C307)
+35 complete cycles (C214–C308)
