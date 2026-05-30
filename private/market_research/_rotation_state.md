@@ -1,14 +1,14 @@
 # Research Rotation State
 
 ## Current Cycle
-**C303 Phase 01** — COMPLETE
+**C303 Phase 02** — COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
 
 ## Completed Phases (C303)
 - Phase 01 (Geneva legal): COMPLETE ✓
-- Phase 02 (Geneva finance): pending
+- Phase 02 (Geneva finance): COMPLETE ✓
 - Phase 03 (Geneva consulting): pending
 - Phase 04 (Geneva healthcare): pending
 - Phase 05 (cross-vertical): pending
@@ -22,31 +22,29 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | C302 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | C303 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 
-## Timing Notes
-- June 19 SBA Day of Lawyers — ~2 weeks away (acute legal engagement trigger)
-- Swissdamed July 1, 2026 — medical DEVICES only; NOT general AI attestation
+## Phase 02 (Geneva Finance — Boutique Wealth Management) — NET-NEW Findings
+
+**C303 Phase 02 Key Findings:**
+1. Institutional client AI governance questionnaire is a competitive event before it's a compliance event — mandate decisions 2026-2027 being made from existing responses
+2. Evidence vs. policy is the specific operational gap the finance ICP can name but cannot address
+3. Portfolio construction AI is a discrete accountability category nobody names in the Geneva market
+4. Carrier Form v4 evidence standard has crossed from attestation to documentation requirement
+5. Cross-track documentation coherence is an unnamed service category (Swissdamed, EU AI Act, FINMA, nFADP)
+6. Pre-signing personal liability review for carrier attestation has no market equivalent at boutique WM scale
+
+**Core Positioning:** "The market offers frameworks. We produce evidence."
+
+**Timing:**
+- Swissdamed July 1, 2026 — medical DEVICES only; NOT general AI attestation (clarify for ICP)
 - EU AI Act — August 2026 (~14 months)
-- Swiss Federal Council AI consultation draft — end 2026
-- First-mover window — still open, closing
+- Institutional mandate decisions — being made NOW from existing documentation
+- Carrier Form v4 evidence requirements — active, documentation window is present-tense
 
-## Market State (C303 Phase 01)
-Geneva legal ICP: accountability gap is documentation, not policy. Carrier attestation created record not defense. "Internal" tool belief is structurally wrong. Privilege protection for AI research undefined at Geneva scale. Vendor contract trap is most silent gap. June 19 is acute conversion trigger — no competitor addressing it.
-
-## Key Synthesis (C303 Phase 01)
-
-**Core Positioning:** "The market offers frameworks. We offer evidence."
-
-**Geneva Legal NET-NEW Findings:**
-1. Accountability gap is documentation problem, not policy problem
-2. Carrier attestation created record, not defense
-3. "Internal tool" safety belief is structurally incorrect
-4. Privilege protection for AI research undefined at Geneva scale
-5. Vendor contract trap is most silent and most dangerous gap
-6. June 19 is acute conversion trigger — no competitor addressing it
-
-**First-mover opportunity:** Define "Geneva-standard AI governance documentation" for small firms. No competitor has done it. The ICP is waiting for it.
-
-**June 19 positioning:** "Two weeks until the Day of Lawyers. You know you'll be asked. You know you can't answer. That's the window."
+**Finance Vertical Distinct from Legal Vertical:**
+- Finance enforcement: institutional client RFP scoring + carrier attestation evidence
+- Legal enforcement: court sanctions + bar disciplinary events
+- Both share: evidence reconstruction problem, vendor contract trap, documentation gap
+- Finance ICP trigger: losing institutional mandate before peer disciplinary event
 
 ## Cycle Count
 30 complete cycles (C214–C303)
