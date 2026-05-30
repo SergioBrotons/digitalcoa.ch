@@ -12,7 +12,10 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 03 (Geneva consulting): COMPLETE
 - Phase 04 (Geneva healthcare): COMPLETE
 - Phase 05 (cross-vertical): COMPLETE
-- Phase 06 (DigitalCoa competitive): pending
+- Phase 06 (DigitalCoa competitive): COMPLETE ✓
+
+## Next Cycle
+**C305 Phase 01** (Geneva legal) — next heartbeat spawns next phase
 
 ## Next Cycle
 **C304 Phase 05** (cross-vertical) — next heartbeat spawns next phase
@@ -102,6 +105,34 @@ Phases 01–04 identified vertical-specific mechanisms. Phase 05 identifies the 
 
 **Positioning (C303/C304 maintained + Phase 05 confirmed):** "The market offers frameworks. We produce evidence."
 
+## C304 Key Synthesis — Phase 06 (DigitalCoa Competitive Positioning)
+
+**6 NET-NEW findings for C304 Phase 06:**
+
+1. **Debt Freeze Is the Discrete Service:** Documentation debt has a specific compounding mechanism — not just growing, but compounding at a rate tied to AI adoption frequency. The service is not retrospective reconstruction — it's "debt freeze + forward capture architecture." The debt freeze framing speaks to ICP's actual emotional state: terrified of future growth, not just worried about the past.
+
+2. **One Evidence Architecture, Four Vertical Overlays:** The six phases of C304 are not six vertical markets — they are one problem expressed in four vertical contexts. The evidence architecture that solves legal documentation debt is the same architecture that solves finance authorization records, consulting methodology evidence, and healthcare supervision logs — with vertical-specific overlays. DigitalCoa is one system with vertical application contexts, not four products.
+
+3. **Two-Level Positioning Statement:** "The market offers frameworks. We offer evidence." operates on two levels simultaneously — category (frameworks ≠ evidence) and emotional (frameworks protect the firm; evidence protects your name). The same phrase does category work and emotional conversion work without explanation. Every piece of DigitalCoa messaging is a variation on this structure.
+
+4. **Geneva Standard Has Specific Content Definition:** "Geneva-standard AI governance documentation" is not just an aspirational label — it has specific content: (1) authorization records for every AI system, (2) supervision logs proving oversight occurred continuously, (3) decision attribution for every AI-assisted decision, (4) vendor contract review documentation for Article 321 CC compliance. The first to publish this definition becomes the reference authority.
+
+5. **Retainer Is Structurally Required, Not Optional:** Documentation debt compounds continuously, carrier forms upgrade continuously, new AI tools enter the practice continuously. A one-time engagement produces a point-in-time evidence system that immediately begins accumulating new debt. The advisory retainer is not commercial preference — it's the only service design that actually solves the ICP's problem.
+
+6. **June 19 SBA Day Competitive Gap:** June 19, 2026 — SBA Day of Lawyers — is the highest-concentration Geneva legal ICP event of the year. Carrier form v4 is circulating. Managing partners with attestation obligations and no evidence system will be present. No competitor will use this event. The lead magnet must be ready for June 19 distribution. The first-mover activation point for the convergence window.
+
+**C304 Phase 06 advance on Phase 05:**
+Phase 05 identified the universal problem and cross-vertical patterns. Phase 06 adds the competitive layer — what the market says, where competitors fail, and what DigitalCoa must own to win. The Phase 06 findings transform Phase 05's universal structure finding into a specific go-to-market strategy.
+
+**Positioning (C304 maintained):** "The market offers frameworks. We offer evidence."
+
+**Core positioning confirmed:**
+- Category: "evidence" — the word no competitor uses, the word ICPs say
+- Emotional: personal liability — "your name, your liability, your evidence system"
+- Service model: advisory retainer — structurally required, not optional
+- Brand moat: Geneva standard definition — first to define owns the phrase
+- Immediate action: June 19 lead magnet (EN + FR)
+
 ## Cycle Count
 31 complete cycles (C214–C304)
 
@@ -109,4 +140,4 @@ Phases 01–04 identified vertical-specific mechanisms. Phase 05 identifies the 
 C303 universal documentation debt structure remains valid. Universal structure: Tools adopted → no records created → debt accumulates silently → forcing functions arrive → ICP cannot produce evidence → personal liability exposed. Structurally identical across all verticals.
 
 ## Last Run
-C304 Phase 05 — 2026-05-30
+C304 Phase 06 — 2026-05-30
