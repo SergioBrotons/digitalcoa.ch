@@ -1,21 +1,21 @@
 # Research Rotation State
 
 ## Current Cycle
-**C304** — Phase 01 COMPLETE
+**C304** — Phase 02 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
 
 ## Completed Phases (C304)
 - Phase 01 (Geneva legal): COMPLETE
-- Phase 02 (Geneva finance): pending
+- Phase 02 (Geneva finance): COMPLETE
 - Phase 03 (Geneva consulting): pending
 - Phase 04 (Geneva healthcare): pending
 - Phase 05 (cross-vertical): pending
 - Phase 06 (DigitalCoa competitive): pending
 
 ## Next Cycle
-**C304 Phase 02** (Geneva finance) — next heartbeat spawns next phase
+**C304 Phase 03** (Geneva consulting) — next heartbeat spawns next phase
 
 ## Phase Rotation Log (C214–C304)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
@@ -51,6 +51,20 @@ Documentation debt reframed as legal debt — specific retention dimensions, art
 
 **Positioning:** "The market offers frameworks. We produce evidence." (C303 anchor maintained + extended)
 
+## C304 Key Synthesis — Phase 02 (Geneva Finance)
+
+**6 NET-NEW findings for C304 Phase 02:**
+
+1. **Vendor terms drift:** Post-signature vendor terms changes create attestation inaccuracy with no monitoring mechanism — ongoing exposure
+2. **Continuous AI authorization architecture:** Authorization records for 24/7 AI systems were never designed to exist — structural documentation gap
+3. **FINMA ≠ nFADP Art. 63 protection:** FINMA-compliant documentation does not produce Art. 63 personal due diligence evidence — different protection objectives
+4. **EU AI Act deployer obligation:** Non-EU vendors cannot provide EU Declaration of Conformity — structurally unsolvable at boutique WM scale
+5. **Documentation debt quantification:** Debt compounds with each deployment, no static state, no payment mechanism without intervention
+6. **Carrier subrogation vs. Art. 63 protection:** Same attestation cannot satisfy both — different protection objectives requiring different documentation
+
+**C304 Phase 02 advance on C303:**
+C303 identified the evidence gap. C304 identifies the structural reasons the evidence gap cannot be closed by incremental documentation effort — and the specific service categories required to address each structural problem. The advance is from "what's missing" to "why it's structurally missing and what specifically solves it."
+
 ## Cycle Count
 31 complete cycles (C214–C304)
 
@@ -58,4 +72,4 @@ Documentation debt reframed as legal debt — specific retention dimensions, art
 C303 universal documentation debt structure remains valid. Universal structure: Tools adopted → no records created → debt accumulates silently → forcing functions arrive → ICP cannot produce evidence → personal liability exposed. Structurally identical across all verticals.
 
 ## Last Run
-C304 Phase 01 — 2026-05-30
+C304 Phase 02 — 2026-05-30
