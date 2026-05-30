@@ -6,6 +6,15 @@
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
 
+## C307 Phase 02 Completed (2026-05-30)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings: institutional AI governance questionnaire as competitive gatekeeper, carrier pre-signing review gap, portfolio construction AI authorization chain documentation, third-generation carrier processor chain questions activating undisclosed nFADP Art.9, SRO silence as structural accountability vacuum, cross-mandate documentation coherence paradox
+- All 6 files written and saved to /private/market_research/20260530_phase02_geneva_finance_cycle307/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Wealth Manager's AI Accountability Briefing: What You're Actually Responsible For — Before Your Carrier Asks" — CHF 2,200 per 90-minute session
+- Key shift from C307 Phase 01: ICP now in action phase, not discovery phase — sales dynamic changes from problem awareness to methodology-seeking
+- Output: /private/market_research/20260530_phase02_geneva_finance_cycle307/
+
 ## C307 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
 - 6 NET-NEW findings: accountability inversion, privilege exposure via vendor, carrier-Ordre documentation conflict, bilingual client communication, multi-standard confusion, active exposure recognition as decisive trigger
@@ -121,5 +130,7 @@ Six NET-NEW competitive findings for C306 Phase 06:
 
 ## Cycle Count
 33 complete cycles (C214–C306)
-## C307 Rotation Begins
-- Next: Phase 01 (Geneva legal) — C307 Phase 01
+## C307 Rotation State
+- Phase 01 (Geneva legal): COMPLETE ✅
+- Phase 02 (Geneva finance): COMPLETE ✅
+- Next: Phase 03 (Geneva consulting)
