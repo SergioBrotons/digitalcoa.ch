@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C309 Phase 03** — COMPLETE ✅ — Geneva consulting
-**Next: C309 Phase 04 (Geneva healthcare)**
+**C309 Phase 04** — COMPLETE ✅ — Geneva healthcare
+**Next: C309 Phase 05 (Cross-vertical synthesis)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -51,6 +51,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
 - C309 Phase 03 core insight: The market has moved from "can I keep the mandate?" (Phase 02) to "can I win the next one?" — acquisition mode. Client RFP is the forcing function for consulting boutiques, as institutional DDQ is for WM and carrier renewal is for law firms. Proposal methodology defensibility is more immediate for consulting than regulatory compliance — the proposal IS the product.
 - Output: /private/market_research/20260530_phase03_geneva_consulting_cycle309/
+
+## C309 Phase 04 Completed (2026-05-30)
+- Phase 04 (Geneva healthcare): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Carrier attestation physician-personal certification activating — forms now naming physician individually, creating nFADP Art. 63 personal liability
+  2. Efficiency-liability paradox explicit — "more AI = more efficient and more exposed simultaneously," no resolution in standard frameworks
+  3. Staff AI delegation invisible accountability gap confirmed — medical assistants using AI on patient data, physician personally liable with no tracking system
+  4. Swissmedic operator classification undefined for small practice — vendor "certification" doesn't clarify physician operator status or obligations
+  5. FMH human oversight no operational protocol for small practice — principle stated without procedure; physician operates without reference standard
+  6. Post-incident documentation protocol absent for Swiss primary care — no standardized AI incident documentation format exists
+- All 6 files written and saved to /private/market_research/20260530_phase04_geneva_healthcare_cycle309/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C309 Phase 04 core insight: Healthcare combines highest personal stakes (physician license irreplaceable), physician-personal carrier certification, Swissmedic operator obligations, staff delegation accountability, and FMH undefined oversight. The efficiency-liability paradox is the core tension: AI makes you more efficient and more exposed simultaneously. Evidence architecture preserves efficiency and contains exposure. Positioning anchor: "For physicians, evidence is personal. And your license is on the line."
+- Output: /private/market_research/20260530_phase04_geneva_healthcare_cycle309/
 
 ## C308 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
