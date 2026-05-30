@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C309 Phase 04** — COMPLETE ✅ — Geneva healthcare
-**Next: C309 Phase 05 (Cross-vertical synthesis)**
+**C310 Phase 02** — COMPLETE ✅ — Geneva finance
+**Next: C310 Phase 03 (Geneva consulting)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -379,4 +379,19 @@ All six phases of C309 complete. Cycle summary:
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
 - C310 Phase 01 core insight: Market has moved from implementation failure mode (C309 — "I did something, it didn't work") to structural failure mode (C310 — "my solution was built to the wrong specification"). Carrier form changed the question type (firm-level to matter-level). Comparison trap creates false adequacy. Authorization chain was never documented. Non-linear documentation debt requires retroactive reconstruction, not another policy. Pre-signing carrier form review is the highest-value intervention point no competitor has built.
 - Output: /private/market_research/20260531_phase01_geneva_legal_cycle310/
+
+## C310 Phase 02 Completed (2026-05-31)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Institutional DDQ matter-level shift — firm-level policy cannot answer matter-level questions; documentation design problem
+  2. Authorization chain compound liability — vendor implementation and associate activation undocumented; layered personal liability
+  3. Model drift documentation obligation — institutional DDQ asks for monitoring evidence; 18 months undocumented
+  4. Institutional client standard exceeds FINMA — competitive gate set above regulatory floor; DDQ reading is primary intelligence
+  5. Two-document false security — carrier attestation and institutional DDQ are different documents; not interchangeable
+  6. Multi-mandate coherence architecture — WM-specific problem; consistent evidence across mandates, not four separate responses
+- All 6 files written and saved to /private/market_research/20260531_phase02_geneva_finance_cycle310/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Boutique Wealth Manager's AI Governance Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C310 Phase 02 core insight: The institutional DDQ is a competitive intelligence document. No one is reading it as such. The DDQ has shifted from firm-level to matter-level (same structural shift as C310 Phase 01 carrier form shift). Authorization chain runs through vendor and associate in compound structure. Model drift is now a live documentation obligation. Institutional client sets a higher standard than FINMA. Carrier attestation and institutional DDQ are not interchangeable. Multi-mandate firms need coherent documentation architecture.
+- Output: /private/market_research/20260531_phase02_geneva_finance_cycle310/
 
