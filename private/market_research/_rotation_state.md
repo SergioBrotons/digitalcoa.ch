@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C303 Phase 02** — COMPLETE
+**C303 Phase 03** — COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -45,6 +45,34 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Legal enforcement: court sanctions + bar disciplinary events
 - Both share: evidence reconstruction problem, vendor contract trap, documentation gap
 - Finance ICP trigger: losing institutional mandate before peer disciplinary event
+
+## Cycle Count
+30 complete cycles (C214–C303)
+
+## Phase 03 (Geneva Consulting — Boutique Consulting Firms) — NET-NEW Findings
+
+**C303 Phase 03 Key Findings:**
+1. Engagement letter AI clauses — the contractual accountability foundation is absent; silence on AI in the foundational contract creates contractual liability
+2. Working papers AI documentation — the internal evidence standard has no AI equivalent; prompt, dataset scope, exclusion criteria not captured
+3. AI review vs. AI generation — the methodology attribution problem that "AI-assisted" hides; fundamentally different liability and disclosure profiles
+4. EU AI Act high-risk classification — Geneva consulting boutique exposure is unnamed; determination service absent from Geneva market
+5. Multi-framework accountability stack — managing director is named by all frameworks simultaneously; no methodology for managing them as an integrated system
+6. AI knowledge-authority inversion at partnership level — the person who signs doesn't know what AI is used; the person who knows doesn't sign
+
+**Core Positioning:** "The market offers frameworks. We produce evidence — for Geneva consulting boutiques."
+
+**Timing:**
+- EU AI Act — ~14 months from August 2026; determination question is live now
+- Carrier Form v4 evidence requirements — active, documentation window is present-tense
+- Client AI governance questionnaires — mandate decisions being made NOW from existing documentation
+- Engagement letter review — available year-round; high urgency from contractual risk
+- Geneva standard definition — first-mover opportunity; no one has named it yet
+
+**Consulting Vertical Distinct from Finance Vertical:**
+- Consulting enforcement: client AI governance questionnaire (vendor in client's regulatory chain) + engagement letter contractual exposure
+- Finance enforcement: institutional mandate RFP scoring + carrier attestation evidence
+- Both share: evidence reconstruction problem, nFADP Art. 63 personal liability, documentation debt accumulation
+- Consulting ICP trigger: engagement letter review discovery, EU AI Act determination question, client AI questionnaire
 
 ## Cycle Count
 30 complete cycles (C214–C303)
