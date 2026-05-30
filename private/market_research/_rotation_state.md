@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C304** — Phase 02 COMPLETE
+**C304** — Phase 04 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -9,13 +9,13 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 ## Completed Phases (C304)
 - Phase 01 (Geneva legal): COMPLETE
 - Phase 02 (Geneva finance): COMPLETE
-- Phase 03 (Geneva consulting): pending
-- Phase 04 (Geneva healthcare): pending
+- Phase 03 (Geneva consulting): COMPLETE
+- Phase 04 (Geneva healthcare): COMPLETE
 - Phase 05 (cross-vertical): pending
 - Phase 06 (DigitalCoa competitive): pending
 
 ## Next Cycle
-**C304 Phase 03** (Geneva consulting) — next heartbeat spawns next phase
+**C304 Phase 05** (cross-vertical) — next heartbeat spawns next phase
 
 ## Phase Rotation Log (C214–C304)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
@@ -65,6 +65,22 @@ Documentation debt reframed as legal debt — specific retention dimensions, art
 **C304 Phase 02 advance on C303:**
 C303 identified the evidence gap. C304 identifies the structural reasons the evidence gap cannot be closed by incremental documentation effort — and the specific service categories required to address each structural problem. The advance is from "what's missing" to "why it's structurally missing and what specifically solves it."
 
+## C304 Key Synthesis — Phase 04 (Geneva Healthcare)
+
+**6 NET-NEW findings for C304 Phase 04:**
+
+1. **Carrier Attestation Evidence Creation Paradox:** Attestation creates documented standard AND makes documentation gap worse through time-pressure documentation creation — evidence absent makes attestation worse than not attesting
+2. **Solo Practice Dual-Role Architectural Impossibility:** FMH oversight requires role separation solo practice cannot provide — oversight obligation architecturally impossible without specific documentation protocol
+3. **AI Vendor Contract Article 321 CC Invisible Exposure:** Vendor contracts create Article 321 CC disclosure trigger without satisfying professional secrecy obligation — physician signs without review, unaware of criminal exposure
+4. **Retroactive Documentation Reconstruction Structural Impossibility:** Documentation enabling reconstruction must exist at signing — after-the-fact reconstruction is structurally impossible regardless of effort
+5. **Swissdamed Classification Determination Active Deadline:** Classification determination is active obligation; framework designed for manufacturers creates compliance paralysis at independent practice scale
+6. **Efficiency-Liability Paradox Structural Resolution Service Gap:** Binary market offerings fail; missing service is efficiency-enabling compliance framework — lets practice use AI without risking license
+
+**C304 Phase 04 advance on C303:**
+C303 identified the evidence gap and FMH guidance emptiness for healthcare. C304 Phase 04 identifies the specific structural mechanisms: carrier attestation paradox, solo practice architectural impossibility, Article 321 CC invisible exposure, retroactive reconstruction structural impossibility, Swissdamed classification determination as discrete service, and efficiency-enabling compliance as missing third option. The advance is from naming the problem to identifying the specific mechanism and the specific service that resolves it.
+
+**Positioning anchor (C303/C304 maintained):** "For physicians, evidence is personal. The documentation that protects your license is not the same as the documentation that satisfies a framework."
+
 ## Cycle Count
 31 complete cycles (C214–C304)
 
@@ -72,4 +88,4 @@ C303 identified the evidence gap. C304 identifies the structural reasons the evi
 C303 universal documentation debt structure remains valid. Universal structure: Tools adopted → no records created → debt accumulates silently → forcing functions arrive → ICP cannot produce evidence → personal liability exposed. Structurally identical across all verticals.
 
 ## Last Run
-C304 Phase 02 — 2026-05-30
+C304 Phase 04 — 2026-05-30
