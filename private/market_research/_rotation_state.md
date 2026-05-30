@@ -480,3 +480,37 @@ Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
 Files: 01_icp_language.md, 02_market_signals.md, 03_competitive_analysis.md, 04_compliance_context.md, 05_lead_magnet_draft.md (EN+FR), 06_findings_summary.md
 Web research: Rate limited (429). Used C310 context + domain knowledge to complete research.
 Note: All 6 files written and pushed before completion announcement.
+
+## C311 Phase 03 Completed (2026-05-31 01:41 GMT+2)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Client AI questionnaire pre-review as highest-value intervention — client questionnaire is competitive intelligence document, not compliance exercise; pre-review before answering is unoccupied
+  2. Sub-consultant AI delegation as structural gap — managing director authorized sub-consultant's engagement, not the AI tools they use; no Geneva consulting boutique has a documented delegation framework
+  3. Proposal methodology defensibility as competitive differentiation — methodology is the product; AI-assisted methodology that can't be described is a business development problem, not just a compliance problem
+  4. Retroactive methodology reconstruction as distinct service — firms that already produced AI-assisted deliverables without documentation need retroactive path, not just forward documentation
+  5. Carrier form pre-review before signing — pre-signing review prevents exposure; retroactive reconstruction remediates it; both services needed
+  6. Personal nFADP Article 63 exposure as conversation starter — managing director is personally accountable under Article 63; correct framing creates real engagement
+- All 6 files written and saved to /private/market_research/20260531_phase03_geneva_consulting_cycle311/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "What Your Client's AI Questionnaire Is Actually Asking You to Prove" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C311 Phase 03 core insight: Client AI questionnaire is the forcing function for Geneva consulting boutiques — not compliance intent, not regulatory urgency, just a procurement deadline with two weeks to respond. The pre-questionnaire review is the highest-value intervention point. Sub-consultant AI delegation is a structural gap, not firm-specific oversight. Methodology documentation is both compliance requirement and competitive differentiation. Personal Article 63 exposure framing creates engagement. Retroactive reconstruction for already-exposed firms is distinct from forward documentation service.
+- Output: /private/market_research/20260531_phase03_geneva_consulting_cycle311/
+- Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
+- Note: All 6 files written and pushed before completion announcement.
+
+## C311 Phase 02 Completed (2026-05-31 01:37 GMT+2)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Institutional DDQ as competitive intelligence document — not a compliance exercise; the DDQ reveals what the institutional client actually requires before the mandate is at risk
+  2. Authorization chain compound liability — vendor implementation + associate activation, both undocumented; managing director personally liable for AI use they did not authorize
+  3. Model drift as live documentation obligation — 12-24 months of undocumented AI operation; institutional DDQ now asks for monitoring evidence; retroactive gap is specific and named
+  4. Institutional client standard above FINMA — competitive gate set above regulatory floor; DDQ reading is primary intelligence, not compliance exercise
+  5. Two-document false security — carrier attestation and institutional DDQ are different documents requiring different documentation; MD has been treating them as one
+  6. Multi-mandate coherence is now visible structural problem — inconsistent DDQ responses across clients becoming visible through institutional peer networks
+- All 6 files written and saved to /private/market_research/20260531_phase02_geneva_finance_cycle311/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "What Your Institutional Client Is Actually Asking For" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C311 Phase 02 core insight: The institutional client is the forcing function before FINMA becomes one. The DDQ is competitive intelligence — no one is reading it as such. The authorization chain is compound (vendor + associate), creating layered personal liability the MD didn't know existed. Model drift monitoring is a live obligation, not a theoretical concern. Multi-mandate coherence is a design constraint, not a documentation completion task. Pre-signing carrier form + DDQ review is the highest-value intervention point — zero competitors occupy it.
+- Output: /private/market_research/20260531_phase02_geneva_finance_cycle311/
+- Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
+- Note: All 6 files written and pushed before completion announcement.
