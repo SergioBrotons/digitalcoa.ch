@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C310 Phase 02** — COMPLETE ✅ — Geneva finance
-**Next: C310 Phase 03 (Geneva consulting)**
+**C310 Phase 04** — COMPLETE ✅ — Geneva healthcare
+**Next: C310 Phase 05 (Cross-vertical synthesis)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -409,4 +409,19 @@ All six phases of C309 complete. Cycle summary:
 - Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
 - C310 Phase 03 core insight: The commercial forcing function (client questionnaire) has arrived before the regulatory forcing function. The ICP is asking "How do I win the next mandate AND not be exposed?" — acquisition mode + risk management simultaneously. Client questionnaire is the mechanism that makes both visible at the same time. The proposal has become a liability document in three directions: capability commitment, methodology exposure, and audit standard-setting.
 - Output: /private/market_research/20260531_phase03_geneva_consulting_cycle310/
+
+## C310 Phase 04 Completed (2026-05-31)
+- Phase 04 (Geneva healthcare): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Retroactive documentation gap primary — 12–24 months of undocumented AI use now visible to carriers asking specific questions; retroactive reconstruction is the primary problem, not forward documentation
+  2. Clinical reasoning accountability gap distinct — documenting AI's role in diagnostic reasoning is distinct from documenting tool use; Swissmedic asks reasoning chain, not conclusions
+  3. nFADP data minimization conflict active — AI tools require comprehensive patient data; nFADP says minimize; no published resolution for clinical AI
+  4. FMH human oversight silence documented condition — physicians sought clarity, received principle, implemented own protocol; this is evidence of active engagement
+  5. Real-time patient encounter documentation gap — clinical reasoning capture during consultation is the operational core; format doesn't exist in standard EMR
+  6. AI tool tiering without physician framework — 2–4 tools in different risk categories, same documentation approach; no proportionate framework exists
+- All 6 files written and saved to /private/market_research/20260531_phase04_geneva_healthcare_cycle310/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C310 Phase 04 core insight: The market has moved to "I know I'm exposed, I have no documentation from when I started, and I don't know how to reconstruct it" — action mode with no clear path. Retroactive reconstruction methodology is the primary product need. Clinical reasoning documentation is the operational core. FMH silence is documented condition (physicians asked, received principle, implemented own). Positioning anchor confirmed: "For physicians, evidence is personal."
+- Output: /private/market_research/20260531_phase04_geneva_healthcare_cycle310/
 
