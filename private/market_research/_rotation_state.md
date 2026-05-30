@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C309 Phase 01** — IN PROGRESS — Geneva legal
-**Next: C309 Phase 02 (Geneva finance)**
+**C309 Phase 02** — IN PROGRESS — Geneva finance
+**Next: C309 Phase 03 (Geneva consulting)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -21,6 +21,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
 - C309 core insight: The market has moved from "do I have a problem?" to "why didn't my solution work?" — implementation failure mode, not discovery failure mode. Documentation paradox is the primary blocker. Managing partner competence gap requires supervision architecture not training. Carrier form reading is the market intelligence function no competitor has built.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle309/
+
+## C309 Phase 02 Completed (2026-05-30)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Institutional DDQ as competitive gate — DDQ failure = mandate loss, not just compliance gap
+  2. nFADP Art.63 personal liability for investment decisions — managing director personally exposed
+  3. Human oversight operationalization gap — FINMA requires it, no one defines what it means in practice
+  4. Vendor AI governance contract gap — liability allocation for AI-influenced investment decisions unresolved
+  5. Portfolio AI shadow systems — associate-implemented AI without managing director authorization
+  6. FINMA "adequate" gap — principles-based guidance without operational definition for boutique WM
+- All 6 files written and saved to /private/market_research/20260530_phase02_geneva_finance_cycle309/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Boutique Wealth Manager's AI Governance Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C309 Phase 02 core insight: The market has moved from "do I have a problem?" to "can I keep the mandate?" — DDQ as competitive gate, not just regulatory obligation. Institutional client is the forcing function the Swiss regulator has not yet become. Article 63 personal liability for investment decisions is distinct from carrier attestation exposure.
+- Output: /private/market_research/20260530_phase02_geneva_finance_cycle309/
 
 ## C308 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
