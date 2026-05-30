@@ -1,10 +1,19 @@
 # Research Rotation State
 
 ## Current Cycle
-**C307** — Phase 01 (Geneva legal) next in rotation
+**C307** — Phase 02 (Geneva finance) next in rotation
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C307 Phase 01 Completed (2026-05-30)
+- Phase 01 (Geneva legal): COMPLETE ✅
+- 6 NET-NEW findings: accountability inversion, privilege exposure via vendor, carrier-Ordre documentation conflict, bilingual client communication, multi-standard confusion, active exposure recognition as decisive trigger
+- All 6 files written and saved to /private/market_research/20260530_phase01_geneva_legal_cycle307/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
+- Key shift from C306: ICP moved from discovery phase ("am I exposed?") to action phase ("what do I do now, in what order?")
+- Output: /private/market_research/20260530_phase01_geneva_legal_cycle307/
 
 ## C306 Full Cycle Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
