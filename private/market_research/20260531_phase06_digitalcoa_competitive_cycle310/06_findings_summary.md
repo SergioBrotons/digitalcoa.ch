@@ -1,238 +1,116 @@
-# Findings Summary: C310 Phase 06 — DigitalCoa Competitive Research
-## Key Competitive Insights and Cycle Synthesis
+# Findings Summary: DigitalCoa Competitive Research — C310 Phase 06
+
+## 6 NET-NEW Competitive Findings: Distinct from C214–C309
 
 ---
 
-## C310 Full Cycle Summary
+### Finding 01 — Evidence Architecture Is Category Creation, Not Differentiation
 
-### Phase-by-Phase Progression
+**The finding:** No competitor occupies Q4 (specific + evidence) of the competitive map. The evidence production category is unnamed and unoccupied. Sergio created the category through sustained research and positioning. This is a category creation position, not a differentiation position.
 
-**Phase 01 (Legal):** Market moved to structural failure mode — solutions built to wrong specification. Carrier form question type shift from firm-level to matter-level. Authorization chain was never documented. Comparison trap creates false adequacy.
+**Mechanism:** Framework language saturates the market → evidence language is absent → no competitor uses evidence as primary positioning → first namer owns the category.
 
-**Phase 02 (Finance):** Institutional DDQ as competitive intelligence document. Authorization chain compound liability through vendor + associate. Model drift now live documentation obligation. Institutional client standard exceeds FINMA.
+**Implication:** The primary competitive action is sustained category naming. Every piece of content, every client conversation, every broker relationship is an opportunity to use evidence language that matches what the carrier actually asks.
 
-**Phase 03 (Consulting):** Client questionnaire is commercial gate, not just compliance. Proposal methodology exposure in three directions. Sub-consultant delegation chain invisible. Engagement letter structurally predates AI.
-
-**Phase 04 (Healthcare):** Retroactive documentation gap is primary problem. Clinical reasoning accountability distinct from tool use documentation. FMH human oversight silence is documented condition. Efficiency-liability paradox without resolution.
-
-**Phase 05 (Cross-Vertical):** Six patterns hold identically across all four verticals — carrier form as design spec, authorization chain as universal liability, non-linear documentation debt, comparison trap false adequacy, commercial document AI clause gap, commercial enforcement preceding regulatory.
-
-**Phase 06 (Competitive):** Competitive landscape analysis confirms — no competitor delivers evidence architecture. Category is unoccupied. Q4 (specific + evidence) is owned by DigitalCoa. Category creation, not differentiation.
+**Ready-to-use language:** "The market offers frameworks. I produce evidence. Your form is the design specification."
 
 ---
 
-## C310 Phase 06: Six NET-NEW Competitive Findings
+### Finding 02 — Broker Channel Is Structurally Unaddressed by All Competitors
 
-### Finding 1: Category Creation, Not Differentiation
+**The finding:** No competitor has built a broker referral program for AI governance services. Insurance brokers (PI insurers, independent FAs, brokers) are the primary trust intermediaries across all four verticals. They see the problem first and must refer — but have no specific naming to give. First-mover advantage is available and defensible.
 
-**The finding:** The Geneva SMB AI accountability market has a category gap, not a positioning gap.
+**Mechanism:** Broker must identify inadequate AI governance (placement function) → cannot advise on it (creates liability) → knows clients need documentation they can't specify → cannot refuse to place coverage → sees problem first, must refer, has no name to give → named broker relationships = highest-converting referral channel.
 
-What the market offers: Frameworks (firm-level, general, forward-only, English-only)
-What the market needs: Evidence architecture (matter-level, specific, retroactive + forward, EN/FR)
+**Implication:** Build a broker referral program: specific naming, specific referral language, specific service design, specific commission structure. The broker channel is the primary acquisition path that no competitor has addressed.
 
-No competitor delivers evidence architecture. The category is unoccupied. DigitalCoa occupies Q4 (specific + evidence) of the competitive map — not a differentiation position, a category creation position.
-
-**Competitive implication:** The naming is the competitive act. "Evidence architecture", "authorization chain", "carrier form as design specification" are terms DigitalCoa first used in this market. Owning the naming is owning the category.
+**Ready-to-use language:** "Your broker sees the problem first. I can give them a name to refer you by."
 
 ---
 
-### Finding 2: Pre-Signing Intervention Gap — Highest-Value, Zero Competitors
+### Finding 03 — Retroactive Reconstruction Is a Unique Capability With No Competitive Equivalent
 
-**The finding:** Pre-signing carrier form review is the highest-value intervention point in the market. Zero competitors have built it.
+**The finding:** The primary market need (12–24 months of undocumented AI use) is unaddressed by all competitors. Linear forward-only solutions (policies, frameworks) are structurally insufficient. Retroactive reconstruction requires methodology, operational capacity, and Geneva calibration that no competitor has built.
 
-The ICP receives a carrier form with their name on it. They have 2-3 weeks to sign. They don't know what questions the carrier is actually asking, what evidence they need before signing, or what happens if they sign without adequate documentation.
+**Mechanism:** ICP adopted AI 12–24 months ago → no documentation created at adoption → documentation debt accumulated silently → linear forward-only solution addresses only new AI use → retroactive gap remains → no competitor offers reconstruction.
 
-The intervention: Read the form, identify the evidence gaps, provide a memo describing what needs to be documented and in what form. Bounded, specific, high-value. The ICP sends the form; Sergio returns a gap memo.
+**Implication:** Retroactive reconstruction is a unique capability. It requires a specific methodology developed through cycles of research and client work. The methodology improves with each reconstruction. No competitor can replicate this quickly.
 
-**Competitive implication:** This is the market intelligence function no competitor has built. The carrier form is private but dominant. Reading it as design specification is the methodology. No competitor does this.
-
----
-
-### Finding 3: Retroactive Reconstruction — Primary Market Problem, No Solution
-
-**The finding:** The market's primary problem is retrospective documentation debt. No competitor has a retroactive reconstruction methodology.
-
-12-24 months of undocumented AI use accumulated. Carrier forms now asking specific questions about that period. Linear documentation solutions (forward-only) structurally cannot address retrospective gaps. Retroactive reconstruction requires methodology, not just documents.
-
-The evidence architecture is designed to handle both:
-- Forward documentation (ongoing)
-- Retrospective reconstruction (backward-looking)
-
-**Competitive implication:** This is the primary market need no competitor solves. The methodology for reconstructing 12-24 months of undocumented AI use is specific, systematic, and not replicable without the operational knowledge. Unique capability.
+**Ready-to-use language:** "You've been using AI for months or years without documenting it. I can reconstruct what happened and build forward from where you are."
 
 ---
 
-### Finding 4: Broker Channel — Primary Acquisition Path, No Competitor Built
+### Finding 04 — Boutique AI Governance Firms Have Language Proximity but Not Product Architecture
 
-**The finding:** Geneva professional services operates on broker referral. The broker circuit is the primary acquisition channel. No competitor has built a broker referral program.
+**The finding:** The closest language to Sergio in the competitive landscape comes from boutique AI governance firms. However, they have the wrong pricing model (enterprise) and wrong SMB delivery model (framework-heavy, not evidence-heavy). Language proximity without product architecture is not competitive threat.
 
-Insurance brokers, business brokers, accountants, trusted advisors — these are the first call when an ICP receives a carrier form. The broker normalizes the problem, creates urgency, and refers to a specialist.
+**Mechanism:** Boutique AI governance firms use evidence-adjacent language → attracts same ICP audience → but delivers framework, not evidence → ICP receives policy document, not evidence production → disappointed ICP seeks actual evidence producer.
 
-The informal broker circuit operates on sustained intelligence-sharing trust logic. Once established, broker referral relationships are durable. The Romandie gift-economy trust logic (sustained intelligence-sharing precedes mandate) is the trust formation mechanism.
+**Implication:** Maintain evidence production positioning and SMB-calibrated service design. The competitive threat is not from firms with similar language — it is from firms that can actually deliver evidence production at SMB scale.
 
-**Competitive implication:** Broker circuit is the most defensible competitive moat. No competitor has built systematic broker education, broker briefing format, or broker co-branding. First-mover opportunity, still available.
-
----
-
-### Finding 5: Bilingual EN/FR — Regulatory Design Requirement, Not Translation
-
-**The finding:** Bilingual EN/FR documentation is a regulatory design requirement, not a localization task. No competitor offers this as standard product.
-
-Geneva professional services operates in two documentation environments simultaneously:
-- Carrier forms in English
-- French regulatory proceedings
-- Client communications in French or English as appropriate
-
-Evidence architecture must work in both languages, not as translation but as design. The documentation structure must be bilingual, not the documents translated after creation.
-
-**Competitive implication:** This is a structural service design gap, not a localization task. No competitor has built EN/FR as standard evidence architecture. The design requirement is misunderstood as a translation task by competitors.
+**Ready-to-use language:** "Other firms gave you a policy. I give you evidence."
 
 ---
 
-### Finding 6: One Evidence Architecture / Four Verticals — Structural Product Advantage
+### Finding 05 — Mid-Tier Accounting Firms Are the Most Likely Near-Term Displacement Risk
 
-**The finding:** One evidence architecture with four vertical overlays is a structural product advantage. No competitor offers this.
+**The finding:** Mid-tier accounting firms have existing SMB relationships, one hire away from AI governance capability, and existing compliance infrastructure. They could enter the market within 12–18 months. This is the most credible competitive threat.
 
-The documentation structure is unified across legal, finance, consulting, and healthcare. The carrier form question types differ by vertical, but the evidence architecture is coherent. This is not four products — one system with four overlays.
+**Mechanism:** SMB demand for AI governance increases → accounting firms hire one senior AI governance specialist → leverage existing SMB relationships → competitive offering launched.
 
-The structural advantage:
-- Single methodology, multiple verticals
-- Cross-vertical insights inform each vertical
-- Evidence coherence across mandates for multi-service firms
-- Operational efficiency vs. four separate product lines
+**Implication:** Build broker referral channel and client relationships before accounting firms can respond. Broker relationships are personal and durable. Accounting firms cannot displace personal broker relationships quickly.
 
-**Competitive implication:** Structural product architecture vs. vertical-specific consulting. Competitors offering vertical-specific frameworks cannot match the evidence coherence or operational efficiency of a unified system.
+**Response:** First-mover broker channel advantage is the most defensible moat. Build it now.
 
 ---
 
-## Competitive Landscape: Key Findings
+### Finding 06 — "For Physicians, Evidence Is Personal" Has No Competitive Equivalent
 
-### Two-Circuit Market Structure
+**The finding:** Personal liability framing is独占 (regulatory reality, not marketing). No competitor uses personal liability language as their primary positioning. The physician's license is on the line personally — this is not a compliance exercise, it is a professional survival question. This framing is独占 and cannot be replicated quickly.
 
-**Circuit 1 (Formal):** Published regulatory guidance — FINMA, FMH, Swiss Federal Council, EU AI Act. Limited operational content. Carrier forms fill the vacuum.
+**Mechanism:** Physician license is irreplaceable → personal liability exposure is active → carrier forms now naming physicians individually → no competitor addresses personal liability directly → regulatory reality,独占.
 
-**Circuit 2 (Informal):** Broker referrals, peer networks, Romandie gift-economy trust logic. The primary acquisition circuit. No competitor has systematic presence.
+**Implication:** Maintain personal liability framing as the emotional anchor. This is not marketing — it is the regulatory reality that no competitor is addressing directly.
 
-**DigitalCoa operates in both circuits.** This is a structural advantage.
-
-### The Competitive Quadrant Map
-
-```
-                    SPECIFIC
-                      │
-           Q2         │         Q1
-      (generic +      │     (generic +
-       evidence)      │      evidence)
-                      │
-    ──────────────────┼──────────────────
-                      │
-           Q4         │         Q3
-      (specific +     │     (specific +
-     no evidence)     │      no evidence)
-                      │
-                    GENERAL
-```
-
-**Q4 (specific + no evidence):** DigitalCoa — evidence architecture positioning
-**Q2 (generic + no evidence):** Framework providers, compliance platforms
-**Q3 (specific + no evidence):** Pseudo-competitors making claims without methodology
-**Q1 (generic + evidence):** Empty — no one has built evidence-based positioning
-
-**Positioning:** Q4 is the category creation quadrant.
-
-### Competitor Claims vs. Delivery Matrix
-
-| Competitor Type | Claims | Delivers | Gap |
-|-----------------|--------|----------|-----|
-| Framework providers | Comprehensive AI governance | Firm-level policy document | Wrong specification, no retroactive |
-| Compliance platforms | Automated compliance | Self-service questionnaire | Wrong delivery model for solo practitioner |
-| Legal/consultants | Full-service AI compliance | Policy review, gap analysis | Discovery mode, not solution mode |
-| Accounting firms | SME AI governance | Enterprise framework adapted | Wrong scale, English-only |
-| Tech vendors | Swiss data protection | DPA with standard clauses | Vendor compliance ≠ ICP carrier coverage |
-
-### Structural Moats
-
-1. **Naming authority** — "Authorization chain", "evidence architecture", "carrier form as design specification" are owned terms
-2. **Broker circuit trust** — Durable referral relationships, no competitor has built this
-3. **Retroactive reconstruction methodology** — Unique capability, primary market problem
-4. **Bilingual EN/FR design** — Structural service design gap, not replication available
+**Ready-to-use language:** "For physicians, evidence is personal. Your signature. Your license. Your accountability."
 
 ---
 
 ## C310 Final Cycle Synthesis
 
-### Core Positioning
+### The Three Core Problems (C310)
 
-**C310 positioning:** "The market offers frameworks. I produce evidence. Your form is the design specification."
+The C310 research cycle revealed three problems that converge across all four verticals:
 
-**C310 anchor:** "For physicians, evidence is personal."
+1. **The form has your name on it.** — Carrier forms now name the individual professional personally. The signature creates a documented standard under personal liability. Pre-signing review is the highest-value intervention point.
 
-**C310 cycle insight:** The market has moved from "do I have a problem?" (C308) → "why didn't my solution work?" (C309) → "my solution was built to the wrong specification" (C310).
+2. **Your vendor has the records.** — AI vendor records are not privileged. Opposing counsel can subpoena the vendor. The carrier is asking for vendor-held records that vendor contracts never addressed. You are personally accountable for records you don't hold.
 
-The carrier form changed the question type. Firm-level policy cannot answer matter-level questions. The authorization chain was never documented. The documentation debt is non-linear. Linear solutions are structurally insufficient.
+3. **Your staff is using AI you didn't authorize.** — Associates and employees use AI tools without documented authorization. The managing professional is personally liable for supervising AI use they don't know about. The authorization chain was never documented.
 
-### Universal ICP Language (C310)
+### The Positioning Statement (C310)
 
-- "The form your carrier sent you is the specification."
-- "Send me the vendor contract. I'll give you a memo describing your Article 321 CC exposure in two weeks."
-- "The Geneva accountability ecosystem has two circuits. I work in both."
-- "Evidence of human authorization for your specific AI-assisted decisions."
-- "Three weeks before renewal. That's when firms call me."
-- "No one told you that every AI-assisted decision needs to be documented. Now the documentation debt is coming due."
+"The market offers frameworks. I produce evidence. Your form is the design specification."
 
-### The Six Cross-Vertical Patterns (C310 Phase 05)
+This statement does three things simultaneously:
+- Names the category (evidence production vs. framework provision)
+- Addresses the emotional state (evidence is what the carrier actually asks for)
+- Establishes the methodology (carrier form as design specification)
 
-1. Carrier form is the design specification — universal across all four verticals
-2. Authorization chain is the universal liability — managing professional personally accountable
-3. Documentation debt is non-linear — retroactive reconstruction required
-4. Comparison trap creates false adequacy — peer standard ≠ carrier standard
-5. Commercial document has no AI clause — engagement letter/mandate predates AI
-6. Commercial enforcement precedes regulatory deadline — mandate loss before regulator acts
+### The Cycle Count
 
-### Service Model (C310)
-
-- Entry: Vendor Contract Review (CHF 1,100 — bounded, specific, universal entry)
-- Activation: Carrier Attestation Preparation (CHF 2,200 — demonstrates document specificity)
-- Core: 90-Minute Evidence Architecture Briefing (CHF 2,200 — ongoing relationship foundation)
-- Ongoing: AI Governance Advisory Retainer (CHF 1,650/quarter — EN/FR, sustained)
-
-### The Most Important Competitive Insight for C310 Cycle Close
-
-**The category is unnamed. The naming is the primary competitive act.**
-
-No competitor has named:
-- Evidence architecture as a category
-- Authorization chain as a liability
-- Non-linear documentation debt as structural
-- Matter-level specification as distinct from firm-level policy
-- Carrier form as design specification (market intelligence function)
-
-The naming creates the market. DigitalCoa owns the naming in this market.
+37 complete cycles (C214–C310)
 
 ---
 
-## C311 Forward
+## Ready-to-Use Language Summary
 
-**What changes in C311:**
-
-The market is now in structural failure mode. The ICPs who will engage in C311 are those who:
-- Have tried frameworks, policies, general disclosure clauses
-- Found that their solutions were built to the wrong specification
-- Are looking for someone who reads the carrier form as market intelligence
-- Need retroactive reconstruction, not another forward-looking policy
-- Operate in both EN/FR documentation environments
-
-**The competitive window:**
-The first-mover window is still open. The category is forming. Naming authority matters. Broker circuit trust is durable. Retroactive reconstruction methodology is not easily replicated.
-
-**C311 priorities:**
-1. Broker referral program development — primary acquisition channel
-2. Pre-signing carrier form review as defined service — highest-value intervention
-3. Bilingual EN/FR evidence architecture as standard — regulatory design requirement
-4. Retroactive reconstruction methodology documentation — primary market problem
-
----
-
-*EN + FR — Phase 06 C310 — FINAL*
-*C310 FULLY CLOSED — 36 cycles complete (C214–C310)*
-*Output: /private/market_research/20260531_phase06_digitalcoa_competitive_cycle310/*
+| Finding | Core Phrase |
+|---|---|
+| Category creation | "The market offers frameworks. I produce evidence." |
+| Carrier form as design spec | "Your form is the design specification." |
+| Broker channel | "Your broker sees the problem first. I can give them a name to refer you by." |
+| Retroactive reconstruction | "You've been using AI for months without documenting it. I can reconstruct what happened." |
+| Boutique competitor gap | "Other firms gave you a policy. I give you evidence." |
+| Personal liability anchor | "For physicians, evidence is personal. Your signature. Your license. Your accountability." |
+| Three problems simultaneously | "You have three problems simultaneously. The form has your name on it. Your vendor has the records. Your staff is using AI you didn't authorize." |
