@@ -1,82 +1,39 @@
 # Research Rotation State
 
 ## Current Cycle
-**C300** — Phase 04 COMPLETE
+**C301** — Phase 01 IN PROGRESS
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
 
-## Completed Phases (C300)
-- Phase 01 (Geneva legal): COMPLETE
-- Phase 02 (Geneva finance): COMPLETE
-- Phase 03 (Geneva consulting): COMPLETE
-- Phase 04 (Geneva healthcare): COMPLETE
-- Phase 05 (cross-vertical): COMPLETE
-- Phase 06 (DigitalCoa competitive): COMPLETE ✅
+## Completed Phases (C301)
+- Phase 01 (Geneva legal): IN PROGRESS
 
-## Next Cycle
-**C300 COMPLETE** — All 6 phases finished. Next heartbeat spawns C301 Phase 01.
-
-## Phase Rotation Log (C214–C300)
+## Phase Rotation Log (C214–C301)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
 |-------|----------|----------|----------|----------|----------|----------|
 | C214 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | ... | ... | ... | ... | ... | ... | ... |
-| C298 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | C299 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
-| C300 | legal | finance | consulting | healthcare | ? | ? |
+| C300 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 
 ## Timing Notes
-- Swissdamed July 1, 2026 — ~5 weeks from now (as of C299 completion)
+- June 19 SBA Day of Lawyers — ~2-3 weeks away (acute legal engagement trigger)
+- Swissdamed July 1, 2026 — medical DEVICES only; NOT general AI attestation for law/finance/consulting
 - EU AI Act implementing legislation — ~14 months
+- Swiss Federal Council AI consultation draft — end 2026
 - First-mover window — still open, closing
-- C299 key insight: market shifted from awareness gap to consequence management
-- SBA Day of Lawyers June 19, 2026 — acute near-term engagement opportunity (C300)
 
 ## Market State (C300)
-Market has moved into attestation debt phase. Firms signed carrier AI attestations without underlying documentation. Carrier assessors themselves lack AI governance competence — bidirectional incompetence confirmed. June 19 community event acting as forcing function. Shadow AI (4–8 tools per firm) is architectural, not just procedural gap. Blank-page paralysis now the primary blocker — firms want to document but are blocked at the starting point.
+Market has crossed from awareness gap to consequence management. ICP across all verticals living in downstream consequences of documents signed without evaluation. Behavioral normalization of non-review confirmed as structural adaptive response. Universal attestation debt entry point. Retroactive documentation structurally impossible. Timing convergence (June 19 + Swissdamed July 1 + end-2026) creates stacked urgency. Vendor exit barriers prevent governance improvement. Trust deficit blocks productivity. Blank-page documentation paralysis.
 
-## C300 Phase 02 Key Findings (Geneva Finance)
-- Institutional questionnaire second-generation data use: 2024 responses active as 2026-2027 competitive intelligence
-- Carrier attestation pre-signing review gap: structural analogue to medical practitioner market, no WM equivalent
-- Portfolio construction AI continuous authorization architecture: discrete named category, no Geneva methodology
-- Carrier third-gen as de facto nFADP Art. 9 enforcement instrument — confirmed standard, not emerging
-- Four-track documentation inconsistency: active exposure, not theoretical risk
-- Swissdamed/EU AI Act classification paralysis: blocking proportionate compliance action
+## Competitive Moat Elements (C300)
+- Pre-briefing qualification call as dual calibration-and-service trust formation mechanism
+- Written summary survivability as architectural design constraint
+- Carrier iteration intelligence as observable character signal
+- Capacity constraint visibility as accurate self-assessment signal
+- Return engagement density at accountability occasions as behavioral evidence
+- Geneva circuit referral as second-order evaluation mechanism
 
-## C300 Phase 03 Key Findings (Geneva Consulting)
-- Client-contracted AI governance questionnaires: engagement contract trigger, not regulatory — competitive pressure
-- Proposal methodology defensibility crisis: existential threat to consulting business model, not compliance gap
-- Sub-consultant AI delegation chain: unmonitored structural exposure, chain never closed
-- Engagement letter AI silence: structural contractual protection gap, no liability framework
-- Carrier attestation pre-signing review: consulting-specific medical practitioner analogue — no Geneva service exists
-- Swissdamed/EU AI Act classification paralysis: active compliance blocker, criteria not calibrated for consulting firms
-
-## Phase 03 Cycle 300 Completion
-- 20260530_phase03_geneva_consulting_cycle300: COMPLETE (6 files written)
-- Git push to SergioBrotons/digitalcoa.ch staging: DONE
-
-## Market State Update (C300 Phase 03)
-Consulting ICP has moved into client-contractual exposure phase. Client AI clauses in engagement contracts are now the primary forcing function — not carrier, not regulator. Methodology defensibility crisis is existential for consulting boutiques. Sub-consultant AI delegation chain is structurally open and unmonitored. Engagement letter silence creates no contractual protection. Carrier pre-signing review service gap confirmed analogue to medical practitioner market. Swissdamed/EU AI Act classification for consulting firms remains unaddressed in Geneva market.
-## C300 Phase 04 Key Findings (Geneva Healthcare)
-- Vendor-coordinated Swissdamed notice campaign as commercial strategy disguised as compliance notification
-- Carrier attestation format evolution (v2) as documentation infrastructure gap revealer
-- Vendor contract exit barrier as governance improvement blocker (new mechanism)
-- nFADP Art.9 processor chain discovery as present-tense accountability activation
-- Retroactive documentation impossibility as naming of architectural governance failure
-- FMH human oversight operational translation absence as practice-size-named problem
-
-## Phase 04 Cycle 300 Completion
-- 20260530_phase04_geneva_healthcare_cycle300: COMPLETE (6 files written)
-- Git push to SergioBrotons/digitalcoa.ch staging: DONE
-
-## Phase 05 Cycle 300 Completion
-- 20260530_phase05_crossvertical_cycle298: COMPLETE (6 files written)
-- Git push to SergioBrotons/digitalcoa.ch staging: DONE
-
-## Phase 06 Cycle 300 Completion (DigitalCoa Competitive)
-- 20260530_phase06_digitalcoa_competitive_cycle300: COMPLETE (6 files written)
-- Output: /data/.openclaw/workspace/digitalcoa_staging/private/market_research/20260530_phase06_digitalcoa_competitive_cycle300/
-- 6 NET-NEW competitive positioning findings (distinct from C214-C299)
-- Focus: DigitalCoa.ch distinct market position, trust formation mechanisms, competitive white space, ICP language, lead magnet EN+FR
-- Git push: PENDING
+## Cycle Count
+27 complete cycles (C214–C300)
