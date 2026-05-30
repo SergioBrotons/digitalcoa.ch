@@ -1,11 +1,26 @@
 # Research Rotation State
 
 ## Current Cycle
-**C307** — Phase 06 (DigitalCoa competitive) COMPLETE ✅ — C307 FULLY CLOSED
-**Next: C308 Phase 01 (Geneva legal) begins
+**C308** — Phase 01 (Geneva legal) COMPLETE ✅ — C308 Phase 01 CLOSED
+**Next: C308 Phase 02 (Geneva finance) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C308 Phase 01 Completed (2026-05-30)
+- Phase 01 (Geneva legal): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Matter-level AI use documentation gap (carrier asks per-matter evidence, not firm-level policy)
+  2. Associate personal AI subscriptions create unmanaged vendor relationships on firm matters
+  3. Geneva civil procedure has no AI disclosure protocol — unresolved litigation exposure
+  4. Swissdamed timing creates documented confusion — does not cover legal AI
+  5. Insurance renewal window is a distinct trigger from initial attestation — different ICP psychology
+  6. Matter-type AI use taxonomy creates documentation uniformity that doesn't match practice reality
+- All 6 files written and saved to /private/market_research/20260530_phase01_geneva_legal_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
+- C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
+- Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
 
 ## C307 Phase 06 Completed (2026-05-30)
 - Phase 06 (DigitalCoa competitive): COMPLETE ✅ — C307 FULLY CLOSED
