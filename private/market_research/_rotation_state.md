@@ -1,11 +1,26 @@
 # Research Rotation State
 
 ## Current Cycle
-**C308** — COMPLETE ✅ — ALL 6 PHASES CLOSED
-**Next: C309 Phase 01 (Geneva legal) begins
+**C309 Phase 01** — IN PROGRESS — Geneva legal
+**Next: C309 Phase 02 (Geneva finance)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C309 Phase 01 Completed (2026-05-30)
+- Phase 01 (Geneva legal): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Policy-evidence gap — written policy and carrier form are structurally different documents; policy answers wrong question
+  2. Documentation paradox is primary action blocker — ICP fears created records will be used in litigation; not ignorance, fear
+  3. Managing partner AI competence gap is active personal liability problem — accountable for decisions I cannot evaluate
+  4. Vendor compelled records privilege pathway — third-party vendor records not protected by attorney-client privilege
+  5. AI billing in fee agreements — unresolved commercial question now creating client relationship friction
+  6. Carrier form sophistication escalating faster than firm documentation improves — calibration gap widening
+- All 6 files written and saved to /private/market_research/20260530_phase01_geneva_legal_cycle309/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C309 core insight: The market has moved from "do I have a problem?" to "why didn't my solution work?" — implementation failure mode, not discovery failure mode. Documentation paradox is the primary blocker. Managing partner competence gap requires supervision architecture not training. Carrier form reading is the market intelligence function no competitor has built.
+- Output: /private/market_research/20260530_phase01_geneva_legal_cycle309/
 
 ## C308 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
