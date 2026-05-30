@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C308** — Phase 03 (Geneva consulting) COMPLETE ✅ — C308 Phase 03 CLOSED
-**Next: C308 Phase 04 (Geneva healthcare) begins
+**C308** — Phase 04 (Geneva healthcare) COMPLETE ✅ — C308 Phase 04 CLOSED
+**Next: C308 Phase 05 (cross-vertical synthesis) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -21,6 +21,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
 - C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
+
+## C308 Phase 04 Completed (2026-05-30)
+- Phase 04 (Geneva healthcare): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. FMH human oversight stated without operational definition — no small practice protocol published
+  2. Efficiency-liability paradox — every AI delegation reduces documented physician involvement
+  3. Swissdamed operator obligations — physician as "operator" with independent compliance obligations
+  4. Staff AI tool use on patient data — invisible accountability gap; physician personally liable
+  5. Carrier attestation personalization — forms shifting to physician-personal certification
+  6. Post-incident documentation burden — no standardized Swiss primary care protocol exists
+- All 6 files written and saved to /private/market_research/20260530_phase04_geneva_healthcare_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — CHF 2,200 per 90-minute session
+- C308 Phase 04 core insight: The Geneva small practice physician faces five simultaneous accountability pressures (FMH undefined oversight, Swissdamed operator obligations, carrier attestation personalization, staff AI use gap, post-incident documentation burden) that all converge on their personal medical license. The efficiency-liability paradox is the core tension: AI makes you more efficient and more exposed simultaneously. The evidence architecture preserves efficiency and contains exposure. Positioning anchor: "For physicians, evidence is personal."
+- Output: /private/market_research/20260530_phase04_geneva_healthcare_cycle308/
 
 ## C308 Phase 03 Completed (2026-05-30)
 - Phase 03 (Geneva consulting): COMPLETE ✅
