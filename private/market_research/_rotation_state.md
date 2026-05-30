@@ -1,10 +1,41 @@
 # Research Rotation State
 
 ## Current Cycle
-**C307** — Phase 03 (Geneva consulting) next in rotation
+**C307** — Phase 06 (DigitalCoa competitive) COMPLETE ✅ — C307 FULLY CLOSED
+**Next: C308 Phase 01 (Geneva legal) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C307 Phase 06 Completed (2026-05-30)
+- Phase 06 (DigitalCoa competitive): COMPLETE ✅ — C307 FULLY CLOSED
+- 6 NET-NEW competitive findings:
+  1. Two-circuit market structure (informal moves referrals, formal publishes guidance)
+  2. Category forming from carrier form language, not advisory marketing
+  3. Four-step ICP trust formation sequence (institutional → peer → broker → document)
+  4. Operator model required for solo practitioners, not framework/educator model
+  5. Romandie gift-economy trust logic (sustained intelligence-sharing precedes mandate)
+  6. Cross-vertical ICP is primary beachhead market, no competitor serves them
+- All 6 files written and saved to /private/market_research/20260530_phase06_digitalcoa_competitive_cycle307/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet finalized: "The Geneva Executive AI Accountability Briefing" — Sergio's voice, first-person singular, CHF 2,200 per 90-minute session
+- C307 cycle key insight: The market is not "AI governance" — it is "evidence of human authorization for specific AI-assisted decisions." Carrier form vocabulary is the category definition.
+- Output: /private/market_research/20260530_phase06_digitalcoa_competitive_cycle307/
+
+## C307 Phase 05 Completed (2026-05-30)
+- Phase 05 (cross-vertical synthesis): COMPLETE ✅
+- 6 NET-NEW findings: three-vector documentation debt, one evidence architecture four vertical overlays, personal exposure/carrier coverage separation, vendor contract terms define accountability mechanism, delegation accountability unnamed in market, regulatory pressure convergence sustained
+- Output: /private/market_research/20260530_phase05_crossvertical_cycle307/
+
+## C307 Phase 04 Completed (2026-05-30)
+- Phase 04 (Geneva healthcare): COMPLETE ✅
+- 6 NET-NEW findings: HIN transport security misread, AI boundary crossing continuous, patient portal AI report delivery, layered AI interpretation chain, emergency AI use exception, FMH CME AI evaluation chain
+- Output: /private/market_research/20260530_phase04_geneva_healthcare_cycle307/
+
+## C307 Phase 03 Completed (2026-05-30)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- 6 NET-NEW findings: client DDQ commercial gate, carrier AI attestation misrepresentation, proposal methodology defensibility, sub-consultant delegation gap, nFADP Art.52 personal exposure, EU AI Act GPAI cascade
+- Output: /private/market_research/20260530_phase03_geneva_consulting_cycle307/
 
 ## C307 Phase 02 Completed (2026-05-30)
 - Phase 02 (Geneva finance): COMPLETE ✅
@@ -85,6 +116,7 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | C304 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | C305 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
 | C306 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
+| C307 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
 
 ## Timing Notes
 - June 19 SBA Day of Lawyers — imminent (acute legal engagement trigger)
@@ -93,16 +125,18 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - End 2026 — Swiss Federal Council AI consultation results (~6 months)
 - First-mover window — still open, closing
 
-## Market State (C306)
-Six NET-NEW competitive findings for C306 Phase 06:
-1. Framework language saturates market; evidence language is absent (competitive language trap)
-2. Pre-signing intervention gap — highest value, zero competitors do it
-3. Broker quadruple bind as permanent referral architecture
-4. Carrier form language correcting vendor coverage myth at scale
-5. Self-service platform failure universal at solo practitioner scale
-6. Francophone circuit operates on different trust logic — most analysis ignores it
+## Market State (C307)
+Six NET-NEW competitive findings for C307 Phase 06:
+1. Two-circuit market structure — informal circuit moves referrals, formal circuit publishes guidance
+2. Category forming from carrier form language, not advisory marketing
+3. Four-step ICP trust formation sequence (institutional → peer → broker → document specificity)
+4. Operator model required for solo practitioners — not framework, not educator
+5. Romandie gift-economy trust logic — sustained intelligence-sharing precedes mandate conversion
+6. Cross-vertical ICP is primary beachhead market — no competitor serves them
 
-## C306 Key Synthesis
+C307 full-cycle core insight: The Geneva SMB AI accountability market is not an "AI governance market" — it is an "evidence of human authorization for specific AI-assisted decisions market." Carrier form vocabulary is the category definition. The category is forming from regulatory requirements, not advisory marketing.
+
+## C307 Key Synthesis
 
 **Service Model:**
 - Entry: Vendor Contract Review (bounded, specific, CHF 1,100)
@@ -111,27 +145,25 @@ Six NET-NEW competitive findings for C306 Phase 06:
 - Ongoing: AI Governance Advisory Retainer (quarterly, EN + FR)
 
 **Positioning:**
-- "The market offers frameworks. We produce evidence." — category + emotional work
-- "The category is unnamed. The naming is the primary competitive act."
+- "The market offers frameworks. We produce evidence." — carrier form vocabulary match
+- "The category is forming from regulatory requirements, not advisory marketing."
 - Personal liability framing leads (license before regulatory)
+- Anchor: "For physicians, evidence is personal."
 
-**Universal ICP Language (C306 Phase 06):**
-- "Every advisor uses 'governance.' None tell you what your carrier actually asks for."
-- "Send me the form before you sign. I'll tell you what your signature commits you to."
-- "The vendor's DPA is not your professional secrecy obligation."
+**Universal ICP Language (C307 Phase 06):**
+- "The form your carrier sent you is the specification."
+- "Send me the vendor contract. I'll give you a memo describing your Article 321 CC exposure in two weeks."
 - "The Geneva accountability ecosystem has two circuits. I work in both."
+- "Evidence of human authorization for your specific AI-assisted decisions."
+- "Three weeks before renewal. That's when firms call me."
 
 **Entry Sequence:**
-1. Pre-signing carrier attestation review (preventive, highest value)
-2. AI Vendor Contract Review (bounded, specific, universal entry)
-3. Carrier Attestation Preparation (high-intent, time-sensitive)
-4. Evidence Architecture Design (durable service relationship)
-5. AI Governance Advisory Retainer (ongoing, EN + FR)
+1. Vendor Contract Review (bounded, specific, CHF 1,100 — universal entry, all verticals)
+2. Carrier Attestation Preparation (CHF 2,200 — demonstrates document specificity)
+3. Evidence Architecture Design (CHF 3,300 — ongoing relationship)
+4. AI Governance Advisory Retainer (CHF 1,650/quarter — EN + FR, sustained)
+
+**Service model claim:** "One evidence architecture, four vertical overlays. Not four products, one system."
 
 ## Cycle Count
-33 complete cycles (C214–C306)
-## C307 Rotation State
-- Phase 01 (Geneva legal): COMPLETE ✅
-- Phase 02 (Geneva finance): COMPLETE ✅
-- Phase 03 (Geneva consulting): COMPLETE ✅
-- Next: Phase 04 (Geneva healthcare)
+34 complete cycles (C214–C307)
