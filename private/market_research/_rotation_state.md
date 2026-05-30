@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C304** — Phase 04 COMPLETE
+**C304** — Phase 05 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -11,7 +11,7 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 02 (Geneva finance): COMPLETE
 - Phase 03 (Geneva consulting): COMPLETE
 - Phase 04 (Geneva healthcare): COMPLETE
-- Phase 05 (cross-vertical): pending
+- Phase 05 (cross-vertical): COMPLETE
 - Phase 06 (DigitalCoa competitive): pending
 
 ## Next Cycle
@@ -81,6 +81,27 @@ C303 identified the evidence gap and FMH guidance emptiness for healthcare. C304
 
 **Positioning anchor (C303/C304 maintained):** "For physicians, evidence is personal. The documentation that protects your license is not the same as the documentation that satisfies a framework."
 
+## C304 Key Synthesis — Phase 05 (Cross-Vertical)
+
+**6 NET-NEW findings for C304 Phase 05:**
+
+1. **Universal Post-Adoption Evidence Debt Structure:** Identical documentation debt cycle operates across all four verticals — AI adopted → no evidence produced → debt accumulates → forcing function arrives → personal liability exposed. The pattern's cross-vertical universality was not identified in any Phase 01–04 analysis. Solution is unified evidence architecture with vertical application overlays, not vertical-specific products.
+
+2. **Carrier Attestation Paradox Architecture (Cross-Vertical):** Carrier attestation forms create documented standards that make evidence absence worse than no attestation at all. Active in legal + healthcare simultaneously; arriving in finance + consulting as carriers update forms. Highest-intent market activation signal across all verticals.
+
+3. **Solo Practitioner Dual-Role Paradox Universal Version:** Principal who most needs evidence is least capable of producing it within their own practice. Universal across all four verticals, not unique to healthcare. Service design must account for zero internal compliance capacity.
+
+4. **Vendor Contract Review as Universal Professional Secrecy Trigger:** Article 321 CC vendor contract exposure extends beyond physicians/lawyers — finance and consulting have equivalent confidentiality obligations under Swiss contract law. Vendor contract review is the universal entry service across all verticals.
+
+5. **Regulatory Pressure Layering Effect:** Geneva SMB practices face simultaneous layered pressures (carrier attestations now, Swissdamed July 1, EU AI Act August 2026, nFADP ongoing) on different timelines with different requirements. Changes service model from one-time engagement to ongoing advisory retainer.
+
+6. **Efficiency-Liability Paradox Resolution — Cross-Vertical:** AI adoption is simultaneously necessary and liability-creating. Market has offered frameworks (don't resolve paradox) or restrictions (don't solve efficiency problem). Missing third option: efficiency-enabling compliance architecture. The service that lets practices use AI without risking license.
+
+**C304 Phase 05 advance on Phases 01–04:**
+Phases 01–04 identified vertical-specific mechanisms. Phase 05 identifies the cross-vertical patterns that prove the mechanisms are expressions of one universal problem: the Geneva SMB professional evidence production failure. The advance is from vertical-specific to unified cross-vertical — confirming that one evidence production system, applied vertically, is the correct service architecture.
+
+**Positioning (C303/C304 maintained + Phase 05 confirmed):** "The market offers frameworks. We produce evidence."
+
 ## Cycle Count
 31 complete cycles (C214–C304)
 
@@ -88,4 +109,4 @@ C303 identified the evidence gap and FMH guidance emptiness for healthcare. C304
 C303 universal documentation debt structure remains valid. Universal structure: Tools adopted → no records created → debt accumulates silently → forcing functions arrive → ICP cannot produce evidence → personal liability exposed. Structurally identical across all verticals.
 
 ## Last Run
-C304 Phase 04 — 2026-05-30
+C304 Phase 05 — 2026-05-30
