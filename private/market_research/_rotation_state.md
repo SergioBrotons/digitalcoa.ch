@@ -2,7 +2,7 @@
 
 ## Current Cycle
 **C311 Phase 04** — COMPLETE ✅ — Geneva healthcare
-**Next: C311 Phase 05 (Cross-vertical synthesis)**
+**Next: C311 Phase 06 (DigitalCoa competitive research)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -515,8 +515,24 @@ Note: All 6 files written and pushed before completion announcement.
 - Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
 - Note: All 6 files written and pushed before completion announcement.
 
-## C311 Phase 04 Completed (2026-05-31 01:xx GMT+2)
-- Phase 04 (Geneva healthcare): COMPLETE ✅
+## C311 Phase 05 Completed (2026-05-31)
+- Phase 05 (Cross-Vertical Synthesis): COMPLETE ✅
+- 6 NET-NEW cross-vertical findings:
+  1. Carrier form is universal design specification — no competitor reads carrier forms as market intelligence documents before signing
+  2. Authorization chain is universal liability structure — principal accountable for AI use through people/tools they didn't directly control, unnamed in market
+  3. Documentation debt is non-linear — 12–24 months retrospective; linear solutions structurally insufficient; retroactive reconstruction required
+  4. "Adequate" is universal floating signifier — never defined, universally paralyzing, appears on every carrier form in all four verticals
+  5. Commercial enforcement activates before regulatory — mandate loss, coverage gap, client loss before regulator acts; creates structural window
+  6. One evidence architecture / four vertical overlays — same documentation structure across all verticals; only overlay terminology changes
+- All 6 files written and saved to /private/market_research/20260531_phase05_crossvertical_cycle311/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C311 Phase 05 core insight: Six patterns hold identically across legal, finance, consulting, and healthcare — carrier form as design spec, authorization chain liability, non-linear documentation debt, "adequate" undefined, commercial before regulatory, one architecture/four overlays. One evidence architecture serves all four verticals. The architecture is the moat. The vertical overlay is the calibration. Pre-signing review, authorization chain documentation, retroactive reconstruction, "adequate" definition, commercial document AI clause, and ongoing monitoring — one system, four overlays.
+- Output: /private/market_research/20260531_phase05_crossvertical_cycle311/
+- Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
+- Note: All 6 files written and pushed before completion announcement.
+
+## C311 Phase 04 Completed (2026-05-31)
 - 6 NET-NEW findings:
   1. Medical assistant AI delegation accountability now named and active — staff using AI on patient data without documented physician authorization framework; physician personally liable; gap now visible on carrier forms
   2. OaF survey baseline activating documentation specification — carrier outcomes and feedback surveys now include AI-specific questions requiring documentation not found in standard medical records; OaF responses create contemporaneous evidence records
