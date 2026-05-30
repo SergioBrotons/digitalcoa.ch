@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C308** — Phase 04 (Geneva healthcare) COMPLETE ✅ — C308 Phase 04 CLOSED
-**Next: C308 Phase 05 (cross-vertical synthesis) begins
+**C308** — COMPLETE ✅ — ALL 6 PHASES CLOSED
+**Next: C309 Phase 01 (Geneva legal) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -21,6 +21,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
 - C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
+
+## C308 Phase 06 Completed (2026-05-30)
+- Phase 06 (DigitalCoa competitive): COMPLETE ✅ — C308 FULLY CLOSED
+- 6 NET-NEW competitive findings:
+  1. Evidence architecture is an unoccupied category — no competitor has evidence architecture as core product
+  2. Carrier form is the design specification — de facto standard in absence of auditable Swiss standard
+  3. Retroactive reconstruction is the market's primary problem — majority of documentation debt is retrospective
+  4. Broker referral is the primary channel, unaddressed by all competitors — first-mover opportunity
+  5. Bilingual EN/FR is a regulatory design requirement — no competitor offers this as standard product
+  6. One evidence architecture/four verticals is a structural product advantage — no competitor offers this
+- All 6 files written and saved to /private/market_research/20260530_phase06_digitalcoa_competitive_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet finalized: "The Geneva Executive AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C308 cycle key insight: DigitalCoa occupies Q4 (specific + evidence) of the competitive map — empty, unoccupied, owned. Category creation, not differentiation. Broker channel is the most defensible competitive moat. Carrier form is the design specification. Retroactive reconstruction is the unique capability.
+- Output: /private/market_research/20260530_phase06_digitalcoa_competitive_cycle308/
 
 ## C308 Phase 05 Completed (2026-05-30)
 - Phase 05 (cross-vertical synthesis): COMPLETE ✅
@@ -188,9 +203,9 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | C214 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
 | ... | ... | ... | ... | ... | ... | ... |
 | C304 | legal | finance | consulting | healthcare | cross-vertical | DigitalCoa |
-| C305 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
 | C306 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
 | C307 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
+| C308 | legal ✅ | finance ✅ | consulting ✅ | healthcare ✅ | cross-vertical ✅ | DigitalCoa ✅ |
 
 ## Timing Notes
 - June 19 SBA Day of Lawyers — imminent (acute legal engagement trigger)
@@ -199,18 +214,18 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - End 2026 — Swiss Federal Council AI consultation results (~6 months)
 - First-mover window — still open, closing
 
-## Market State (C307)
-Six NET-NEW competitive findings for C307 Phase 06:
-1. Two-circuit market structure — informal circuit moves referrals, formal circuit publishes guidance
-2. Category forming from carrier form language, not advisory marketing
-3. Four-step ICP trust formation sequence (institutional → peer → broker → document specificity)
-4. Operator model required for solo practitioners — not framework, not educator
-5. Romandie gift-economy trust logic — sustained intelligence-sharing precedes mandate conversion
-6. Cross-vertical ICP is primary beachhead market — no competitor serves them
+## Market State (C308)
+Six NET-NEW competitive findings for C308 Phase 06:
+1. Evidence architecture is an unoccupied category — no competitor has evidence architecture as core product
+2. Carrier form is the design specification — de facto standard in absence of auditable Swiss standard
+3. Retroactive reconstruction is the market's primary problem — majority of documentation debt is retrospective
+4. Broker referral is the primary channel, unaddressed by all competitors — first-mover opportunity
+5. Bilingual EN/FR is a regulatory design requirement — no competitor offers this as standard product
+6. One evidence architecture/four verticals is a structural product advantage — no competitor offers this
 
-C307 full-cycle core insight: The Geneva SMB AI accountability market is not an "AI governance market" — it is an "evidence of human authorization for specific AI-assisted decisions market." Carrier form vocabulary is the category definition. The category is forming from regulatory requirements, not advisory marketing.
+C308 full-cycle core insight: The Geneva SMB AI accountability market is structurally misaligned with actual buyer needs. The market offers frameworks; SMBs need evidence systems. The market offers compliance checklists; SMBs need carrier-ready documentation. The market offers policy documents; SMBs need retroactive reconstruction. The market offers English-only; Geneva requires EN/FR. The market offers vertical-specific consulting; Sergio offers one system with four overlays. The market approaches SMBs directly; Sergio works through broker referral. DigitalCoa occupies Q4 (specific + evidence) of the competitive map — a category creation position, not a differentiation position.
 
-## C307 Key Synthesis
+## C308 Key Synthesis
 
 **Service Model:**
 - Entry: Vendor Contract Review (bounded, specific, CHF 1,100)
@@ -224,12 +239,14 @@ C307 full-cycle core insight: The Geneva SMB AI accountability market is not an 
 - Personal liability framing leads (license before regulatory)
 - Anchor: "For physicians, evidence is personal."
 
-**Universal ICP Language (C307 Phase 06):**
+**Universal ICP Language (C308 Phase 06):**
 - "The form your carrier sent you is the specification."
 - "Send me the vendor contract. I'll give you a memo describing your Article 321 CC exposure in two weeks."
 - "The Geneva accountability ecosystem has two circuits. I work in both."
 - "Evidence of human authorization for your specific AI-assisted decisions."
 - "Three weeks before renewal. That's when firms call me."
+- "No one told you that every AI-assisted decision needs to be documented. Now the documentation debt is coming due."
+- "The market offers frameworks. I produce evidence."
 
 **Entry Sequence:**
 1. Vendor Contract Review (bounded, specific, CHF 1,100 — universal entry, all verticals)
@@ -240,4 +257,4 @@ C307 full-cycle core insight: The Geneva SMB AI accountability market is not an 
 **Service model claim:** "One evidence architecture, four vertical overlays. Not four products, one system."
 
 ## Cycle Count
-35 complete cycles (C214–C308)
+36 complete cycles (C214–C308)
