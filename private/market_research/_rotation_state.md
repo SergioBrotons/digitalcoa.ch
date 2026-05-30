@@ -1,7 +1,7 @@
 # Research Rotation State
 
 ## Current Cycle
-**C301** — Phase 03 COMPLETE
+**C301** — Phase 05 COMPLETE
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -11,9 +11,10 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 02 (Geneva finance): COMPLETE
 - Phase 03 (Geneva consulting): COMPLETE
 - Phase 04 (Geneva healthcare): COMPLETE
+- Phase 05 (Cross-vertical synthesis): COMPLETE
 
 ## Next Phase
-**C301 Phase 05** (cross-vertical) — next heartbeat spawns next phase
+**C301 Phase 06** (DigitalCoa competitive) — next heartbeat spawns next phase
 
 ## Phase Rotation Log (C214–C301)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
@@ -31,8 +32,15 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Swiss Federal Council AI consultation draft — end 2026
 - FINMA Guidance 08/2024 — December 2024, now driving upstream AI governance demands on consulting vendors
 
-## Market State (C301 Phase 04)
-Geneva healthcare ICP: independent practitioners, small group practices (2–10), outpatient clinics. Senior physician personally accountable. Primary pressure point: carrier attestation without operational definition of human oversight. FMH states the principle of human oversight but provides no procedure. nFADP data processing agreements are a silent gap — GDPR compliance ≠ nFADP compliance. Swissdamed July 1, 2026 creates classification paralysis (medical device boundary for AI tools undefined). Documentation debt is the unseen cost: efficient AI generation does not produce auditable physician-review records. Personal license liability is the emotional driver — physician license is irreplaceable. Swissdamed applies to medical devices NOT general AI. The ICP does not say "I need an AI strategy" — they say "I need to know what's going to happen to my license."
+## Market State (C301 Phase 05)
+Cross-vertical synthesis across all four verticals (legal, finance, consulting, healthcare). Key C301 patterns:
+- Evidence standard has replaced policy standard (carrier form v4 asks for authorization records, not policies)
+- Decision attribution problem is the named primary exposure — ICP cannot reconstruct who made which AI decision in which client matter
+- Vendor contract trap — years of click-through acceptance have created governance architecture constraints
+- Compliance fatigue loop — performing compliance without making structural decisions
+- Peer enforcement is the conversion trigger that abstract risk cannot produce
+- Strategic classification deferral has become risk accumulation, not risk reduction
+- No Geneva-calibrated, boutique-scale, evidence-focused advisory service exists — first-mover opportunity open
 
 ## Competitive Moat Elements (C301)
 - Pre-briefing qualification call as dual calibration-and-service trust formation mechanism
@@ -41,9 +49,10 @@ Geneva healthcare ICP: independent practitioners, small group practices (2–10)
 - Capacity constraint visibility as accurate self-assessment signal
 - Return engagement density at accountability occasions as behavioral evidence
 - Geneva circuit referral as second-order evaluation mechanism
-- Healthcare-specific: nFADP-aligned DPA template library for AI vendors (not yet built — market gap)
-- Healthcare-specific: FMH-compliant human oversight procedure documentation package (not yet built — market gap)
-- Healthcare-specific: Swissdamed AI classification decision tool (not yet built — market gap)
+- Evidence infrastructure (carrier form v4 responses) — not policy documentation
+- Decision attribution infrastructure — captures what actually happened
+- Vendor contract exit planning as governance architecture prerequisite
+- Peer enforcement response service — 2-3 week conversion window after peer events
 
 ## Cycle Count
-27 complete cycles (C214–C300) + C301 Phases 01–04 complete
+27 complete cycles (C214–C300) + C301 Phases 01–05 complete
