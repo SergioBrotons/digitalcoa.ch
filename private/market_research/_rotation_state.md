@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C310 Phase 04** — COMPLETE ✅ — Geneva healthcare
-**Next: C310 Phase 05 (Cross-vertical synthesis)**
+**C311 Phase 04** — COMPLETE ✅ — Geneva healthcare
+**Next: C311 Phase 05 (Cross-vertical synthesis)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -512,5 +512,22 @@ Note: All 6 files written and pushed before completion announcement.
 - Lead magnet: "What Your Institutional Client Is Actually Asking For" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
 - C311 Phase 02 core insight: The institutional client is the forcing function before FINMA becomes one. The DDQ is competitive intelligence — no one is reading it as such. The authorization chain is compound (vendor + associate), creating layered personal liability the MD didn't know existed. Model drift monitoring is a live obligation, not a theoretical concern. Multi-mandate coherence is a design constraint, not a documentation completion task. Pre-signing carrier form + DDQ review is the highest-value intervention point — zero competitors occupy it.
 - Output: /private/market_research/20260531_phase02_geneva_finance_cycle311/
+- Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
+- Note: All 6 files written and pushed before completion announcement.
+
+## C311 Phase 04 Completed (2026-05-31 01:xx GMT+2)
+- Phase 04 (Geneva healthcare): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Medical assistant AI delegation accountability now named and active — staff using AI on patient data without documented physician authorization framework; physician personally liable; gap now visible on carrier forms
+  2. OaF survey baseline activating documentation specification — carrier outcomes and feedback surveys now include AI-specific questions requiring documentation not found in standard medical records; OaF responses create contemporaneous evidence records
+  3. Clinical reasoning chain as distinct evidentiary standard — Swissmedic and carriers asking for reasoning chain documentation, not just tool use; existing records show conclusions; reasoning chain format doesn't exist in standard EMR
+  4. Swissmedic operator classification vendor ≠ physician — vendor Swissmedic certification addresses tool compliance; physician operator classification depends on use case and physician decisions; separate question, physician responsible
+  5. AI incident Swissdamed format gap is regulatory, not competitive — mandatory reporting applies; no published format for AI-involved incidents; physicians operating without protocol
+  6. Carrier form physician-personal certification without documentation — carrier forms now require physician name + license number + personal attestation of human oversight; nFADP Art.63 personal liability created; physician signs without supporting evidence
+- All 6 files written and saved to /private/market_research/20260531_phase04_geneva_healthcare_cycle311/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C311 Phase 04 core insight: The C311 healthcare ICP is managing six named accountability vectors simultaneously — medical assistant AI delegation without authorization framework, OaF survey requiring documentation standard records don't provide, clinical reasoning chain Swissmedic asks for but no format exists, Swissmedic operator classification vendor certification ≠ physician question, AI-involved Swissdamed incident format gap is regulatory not competitive, and carrier form physician-personal certification without documentation. The market has moved from "am I exposed?" through "my license is at risk" and "I know I'm exposed with no documentation" to "I have multiple named vectors active simultaneously, none with a published resolution." Positioning anchor confirmed: "For physicians, evidence is personal. And your license is on the line."
+- Output: /private/market_research/20260531_phase04_geneva_healthcare_cycle311/
 - Git push: SUCCESS — staging branch pushed to SergioBrotons/digitalcoa.ch
 - Note: All 6 files written and pushed before completion announcement.
