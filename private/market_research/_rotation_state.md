@@ -10,9 +10,10 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Phase 01 (Geneva legal): COMPLETE
 - Phase 02 (Geneva finance): COMPLETE
 - Phase 03 (Geneva consulting): COMPLETE
+- Phase 04 (Geneva healthcare): COMPLETE
 
 ## Next Phase
-**C301 Phase 04** (Geneva healthcare) — next heartbeat spawns next phase
+**C301 Phase 05** (cross-vertical) — next heartbeat spawns next phase
 
 ## Phase Rotation Log (C214–C301)
 | Cycle | Phase 01 | Phase 02 | Phase 03 | Phase 04 | Phase 05 | Phase 06 |
@@ -30,8 +31,8 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Swiss Federal Council AI consultation draft — end 2026
 - FINMA Guidance 08/2024 — December 2024, now driving upstream AI governance demands on consulting vendors
 
-## Market State (C301 Phase 03)
-Market is in consequence management mode across all verticals. Consulting-specific finding: carrier attestation has become the primary forcing function over regulation. Client AI governance questionnaires driven by FINMA Guidance 08/2024. Documentation debt is the structural problem — firms signed attestations without any underlying methodology infrastructure. Sub-consultant AI delegation accountability gap is a structural unaddressed risk in multi-party consulting arrangements. Geneva label triggers higher scrutiny from clients and carriers.
+## Market State (C301 Phase 04)
+Geneva healthcare ICP: independent practitioners, small group practices (2–10), outpatient clinics. Senior physician personally accountable. Primary pressure point: carrier attestation without operational definition of human oversight. FMH states the principle of human oversight but provides no procedure. nFADP data processing agreements are a silent gap — GDPR compliance ≠ nFADP compliance. Swissdamed July 1, 2026 creates classification paralysis (medical device boundary for AI tools undefined). Documentation debt is the unseen cost: efficient AI generation does not produce auditable physician-review records. Personal license liability is the emotional driver — physician license is irreplaceable. Swissdamed applies to medical devices NOT general AI. The ICP does not say "I need an AI strategy" — they say "I need to know what's going to happen to my license."
 
 ## Competitive Moat Elements (C301)
 - Pre-briefing qualification call as dual calibration-and-service trust formation mechanism
@@ -40,6 +41,9 @@ Market is in consequence management mode across all verticals. Consulting-specif
 - Capacity constraint visibility as accurate self-assessment signal
 - Return engagement density at accountability occasions as behavioral evidence
 - Geneva circuit referral as second-order evaluation mechanism
+- Healthcare-specific: nFADP-aligned DPA template library for AI vendors (not yet built — market gap)
+- Healthcare-specific: FMH-compliant human oversight procedure documentation package (not yet built — market gap)
+- Healthcare-specific: Swissdamed AI classification decision tool (not yet built — market gap)
 
 ## Cycle Count
-27 complete cycles (C214–C300) + C301 Phases 01–03 complete
+27 complete cycles (C214–C300) + C301 Phases 01–04 complete
