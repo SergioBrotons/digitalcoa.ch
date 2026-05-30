@@ -395,3 +395,18 @@ All six phases of C309 complete. Cycle summary:
 - C310 Phase 02 core insight: The institutional DDQ is a competitive intelligence document. No one is reading it as such. The DDQ has shifted from firm-level to matter-level (same structural shift as C310 Phase 01 carrier form shift). Authorization chain runs through vendor and associate in compound structure. Model drift is now a live documentation obligation. Institutional client sets a higher standard than FINMA. Carrier attestation and institutional DDQ are not interchangeable. Multi-mandate firms need coherent documentation architecture.
 - Output: /private/market_research/20260531_phase02_geneva_finance_cycle310/
 
+## C310 Phase 03 Completed (2026-05-31)
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Client AI governance questionnaire as primary commercial gate — competitive mandate gate before regulatory compliance
+  2. Proposal methodology liability in three directions — capability commitment + methodology theft + standard-setting simultaneously
+  3. Sub-consultant delegation chain structurally unmonitored — prime consultant signs carrier forms with no monitoring system
+  4. Engagement letter commercial terms predate AI — structural misalignment, no AI clause architecture exists
+  5. Carrier form as design specification extends to client questionnaires — questionnaire is competitive intelligence document
+  6. Proportionate service architecture gap preventing market activation — ICP knows problem, finds no proportionate solution
+- All 6 files written and saved to /private/market_research/20260531_phase03_geneva_consulting_cycle310/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — CHF 2,200 per 90-minute session, EN + FR
+- C310 Phase 03 core insight: The commercial forcing function (client questionnaire) has arrived before the regulatory forcing function. The ICP is asking "How do I win the next mandate AND not be exposed?" — acquisition mode + risk management simultaneously. Client questionnaire is the mechanism that makes both visible at the same time. The proposal has become a liability document in three directions: capability commitment, methodology exposure, and audit standard-setting.
+- Output: /private/market_research/20260531_phase03_geneva_consulting_cycle310/
+
