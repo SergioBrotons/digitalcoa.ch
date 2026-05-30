@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C308** — Phase 01 (Geneva legal) COMPLETE ✅ — C308 Phase 01 CLOSED
-**Next: C308 Phase 02 (Geneva finance) begins
+**C308** — Phase 02 (Geneva finance) COMPLETE ✅ — C308 Phase 02 CLOSED
+**Next: C308 Phase 03 (Geneva consulting) begins
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -21,6 +21,21 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - Lead magnet: "The Geneva Small Law Firm AI Accountability Briefing" — CHF 2,200 per 90-minute session
 - C308 core insight: The market is not just "evidence of human authorization" — it is "evidence calibrated to the specific matter, the specific renewal question, the specific associate tool, and the specific client." Matter-level, associate-managed, renewal-specific, litigation-aware, matter-type stratified, Swissdamed-clarified.
 - Output: /private/market_research/20260530_phase01_geneva_legal_cycle308/
+
+## C308 Phase 02 Completed (2026-05-30)
+- Phase 02 (Geneva finance): COMPLETE ✅
+- 6 NET-NEW findings:
+  1. Institutional DDQ as competitive gatekeeper (commercial consequence, not just documentation gap)
+  2. FINMA examination AI questions without published standard (field reality, not just regulatory gap)
+  3. nFADP Article 63 personal liability in partner-level conversations (the "me personally" framing activating)
+  4. Carrier attestation misrepresentation risk during renewal (distinct from initial attestation psychology)
+  5. Portfolio construction AI tool authorization chain (specific high-stakes use case)
+  6. Boutique firm documentation coherence problem (structural misalignment, not just scale problem)
+- All 6 files written and saved to /private/market_research/20260530_phase02_geneva_finance_cycle308/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Wealth Manager's AI Accountability Briefing" — CHF 2,200 per 90-minute session
+- C308 Phase 02 core insight: The Geneva boutique wealth management ICP faces four simultaneous regulatory pressures (FINMA examination, institutional DDQ, carrier attestation renewal, Article 63 personal liability) requiring one coherent evidence architecture, not four separate documentation exercises. The structural misalignment between the accountability model (one partner, full personal liability) and the operational reality (distributed AI use, no systematic documentation) is the defining problem.
+- Output: /private/market_research/20260530_phase02_geneva_finance_cycle308/
 
 ## C307 Phase 06 Completed (2026-05-30)
 - Phase 06 (DigitalCoa competitive): COMPLETE ✅ — C307 FULLY CLOSED
