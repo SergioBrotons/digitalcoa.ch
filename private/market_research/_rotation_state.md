@@ -1,8 +1,8 @@
 # Research Rotation State
 
 ## Current Cycle
-**C312 Phase 02** — COMPLETE ✅ — Geneva finance (boutique wealth management)
-**Next: C312 Phase 03 (Geneva consulting)**
+**C312 Phase 06** — COMPLETE ✅ — DigitalCoa competitive (FINAL phase of C312 — C312 FULLY CLOSED)
+**Next: C313 Phase 01 (Geneva legal — new cycle)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -624,8 +624,18 @@ All six phases of C311 complete. Cycle summary:
 - Phase 01 (Geneva legal): COMPLETE ✅
 - Phase 02 (Geneva finance): COMPLETE ✅
 - Phase 03 (Geneva consulting): COMPLETE ✅
-- Phase 04 (Geneva healthcare): COMPLETE ✅
-- Phase 05 (cross-vertical): COMPLETE ✅
-- Phase 06 (DigitalCoa competitive): PENDING
+## C312 Full Cycle Complete (2026-05-31)
+All six phases of C312 complete. Cycle summary:
 
-**Next:** C312 Phase 06 (DigitalCoa competitive) — to be initiated by main agent.
+**Phase 01 (Legal):** Carrier form architecture, OaF survey baseline, associate AI surface, retroactive reconstruction fragility, boutique translation gap, personal liability priority
+**Phase 02 (Finance):** Institutional DDQ as competitive intelligence, authorization chain compound liability, model drift live obligation, institutional standard above FINMA, two-document false security, multi-mandate coherence
+**Phase 03 (Consulting):** Client AI questionnaire pre-review, sub-consultant delegation structural gap, proposal methodology three-directional liability, engagement letter pre-AI architecture, retroactive methodology reconstruction, nFADP Art.52 personal exposure
+**Phase 04 (Healthcare):** Authorization specificity, EMR-AI data flow routing, patient consent architecture, insurance coverage ambiguity, patient-facing nFADP — converging on physician-personal accountability
+**Phase 05 (Cross-Vertical):** All six structural conditions confirmed simultaneously — carrier form individual architecture, authorization chain universal liability, non-linear documentation debt, "adequate" floating signifier, commercial before regulatory, one architecture/four overlays
+**Phase 06 (Competitive):** ICP language "I already signed," Q4 category creation, retroactive reconstruction unique capability, broker channel primary and empty, "adequate" operationalization highest-value differentiator
+
+**C312 Final Synthesis:** "You have six problems simultaneously. The form has your name on it. Your associate's AI use is your liability. Your vendor holds records you're accountable for producing. 'Adequate' is undefined. Going forward doesn't fix what's already done. The commercial consequence arrives first."
+**C312 Anchor:** "For physicians, evidence is personal. And your license is on the line."
+**C312 Cycle Insight:** Market moved from "do I have a problem?" (C308) → "why didn't my solution work?" (C309) → "my solution was built to the wrong specification" (C310) → "I already certified" (C311) → "you have six problems simultaneously" (C312). Six structural conditions confirmed simultaneously in every vertical.
+
+**Next cycle:** C313 (to be initiated by main agent).
