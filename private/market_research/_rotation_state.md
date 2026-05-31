@@ -586,12 +586,29 @@ All six phases of C311 complete. Cycle summary:
 - Git push: SUCCESS ✅ — pushed to origin staging
 - Note: All 6 files written and pushed before completion announcement.
 
+## C312 Phase 04 Completed (2026-05-31)
+- Phase 04 (Geneva healthcare — 2–10 physicians): COMPLETE ✅
+- 5 NET-NEW findings:
+  1. AI diagnostic authorization chain within specialty scope — carrier attestation forms now asking which tools, which functions, which FMH specialty scope; physician authorized for general use, not specialty-specific
+  2. EMR-AI data flow routing outside HIN corridor — patient data routes from HIN-protected EMR to AI processing servers outside corridor; HIN covers transport, not processing; physicians operating on incorrect security assumption
+  3. Patient consent architecture for AI-assisted diagnostic decisions — consent forms pre-date AI; patients asking about AI involvement; no documented consent framework or response protocol
+  4. Medical liability insurance coverage ambiguity for AI-influenced diagnostic decisions — insurers have no published position; physicians discovering by calling directly; need written confirmation before incident
+  5. Patient-facing nFADP Article 63 activation through documented patient conversations — physician response to patient question about AI involvement creates record in patient file; nFADP activation point distinct from carrier forms and Swissmedic inquiries
+- All 6 files written and saved to /private/market_research/20260531_phase04_geneva_healthcare_cycle312/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "The Geneva Physician's AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C312 Phase 04 core insight: Five pressure points are converging on physician-personal accountability and beginning to interact — authorization specificity connects to carrier attestation; EMR-AI data flow reveals HIN assumption gap; patient questions activate nFADP through documented conversations; insurance ambiguity connects to efficiency-liability paradox; patient-facing nFADP connects to all of the above. These are not five parallel problems. They are one problem with five pressure points. The market has moved from "multiple named accountability vectors active simultaneously" (C311) to "the consequences of these gaps are now touching each other."
+- Phase 03 → Phase 04 bridge: Consulting Phase 03 dual-entry (carrier form + client AI questionnaire) maps to healthcare Phase 04 dual documentation axis (carrier form + EMR-AI data flow architecture). Both concern the architecture of AI deployment, not just whether AI was used.
+- Output: /private/market_research/20260531_phase04_geneva_healthcare_cycle312/
+- Git push: SUCCESS ✅ — pushed to origin staging
+- Note: All 6 files written and pushed before completion announcement.
+
 ## C312 Full Cycle Status
 - Phase 01 (Geneva legal): COMPLETE ✅
 - Phase 02 (Geneva finance): COMPLETE ✅
 - Phase 03 (Geneva consulting): COMPLETE ✅
-- Phase 04 (Geneva healthcare): PENDING
+- Phase 04 (Geneva healthcare): COMPLETE ✅
 - Phase 05 (cross-vertical): PENDING
 - Phase 06 (DigitalCoa competitive): PENDING
 
-**Next:** C312 Phase 04 (Geneva healthcare) — to be initiated by main agent.
+**Next:** C312 Phase 05 (cross-vertical synthesis) — to be initiated by main agent.
