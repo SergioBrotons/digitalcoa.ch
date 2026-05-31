@@ -568,20 +568,30 @@ All six phases of C311 complete. Cycle summary:
 
 **Next cycle:** C312 (to be initiated by main agent).
 
-## C312 Phase 02 Completed (2026-05-31)
-- Phase 02 (Geneva finance — boutique wealth management): COMPLETE ✅
+## C312 Phase 03 Completed (2026-05-31)
+- Phase 03 (Geneva consulting — boutique, 2–50 employees): COMPLETE ✅
 - 6 NET-NEW findings:
-  1. Institutional DDQ as portfolio-specific competitive gate activating cross-mandate exposure visibility
-  2. Portfolio construction authorization chain documentation gap creates compound evidence problem
-  3. Model drift monitoring obligation now activated through institutional DDQ re-review practice
-  4. Carrier attestation renewal third-gen vendor processor chain questions creating undisclosed nFADP Art.9 exposure
-  5. Multi-mandate boutique WM firms creating cross-institutional-client coherence exposure visible through Geneva peer network
-  6. Institutional DDQ reading as competitive intelligence practice unnamed in boutique WM market
-- All 6 files written and saved to /private/market_research/20260531_phase02_geneva_finance_cycle312/
+  1. Client AI governance questionnaire as primary commercial gate — scored procurement document; pre-mandate competitive intelligence; pre-review service unoccupied
+  2. Proposal methodology three-directional liability — capability commitment + methodology exposure + audit standard simultaneously; proposal IS the product
+  3. Sub-consultant delegation structurally different from associate supervision — independent professionals cannot be directed, only contracted; engagement authorization ≠ AI tool authorization
+  4. Engagement letter pre-AI architecture creating active client relationship friction — scope predates AI delivery tools; AI clause architecture needed; distinct from fee agreement gap
+  5. Retroactive methodology reconstruction is distinct service from forward documentation — 12–24 months of AI-assisted proposals without methodology documentation; client as third-party witness; reconstruction methodology required
+  6. nFADP Article 52 personal exposure activating through client conversations, not regulatory channels — data processing trigger for consulting MD using AI on client data; client questionnaire conversation = documented Article 52 evidence
+- All 6 files written and saved to /private/market_research/20260531_phase03_geneva_consulting_cycle312/
 - Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
-- Lead magnet: "The Boutique Wealth Manager's AI Governance Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
-- C312 Phase 02 core insight: The institutional DDQ is a competitive intelligence document. No one is reading it as such. The Phase 01 finding (carrier form architecture creates documented standard) extends here: the institutional DDQ is the parallel document with your name on it — different intelligence, same intervention logic. Authorization chain was never documented. Model drift monitoring is now a live obligation. Cross-mandate coherence is becoming externally visible. The market has moved from "can I keep the mandate?" (C311 Phase 02) to "can I prove what I actually did?" — evidence of specific decisions, not evidence of firm-level policy.
-- Phase 01 → Phase 02 bridge: Carrier form (Phase 01) + Institutional DDQ (Phase 02) = dual-entry evidence architecture service model for boutique WM
-- Output: /private/market_research/20260531_phase02_geneva_finance_cycle312/
+- Lead magnet: "The Geneva Consulting Boutique AI Accountability Briefing" — Sergio's voice, first-person singular, EN + FR, CHF 2,200 per 90-minute session
+- C312 Phase 03 core insight: Two forcing functions operating simultaneously — acquisition pressure (client AI questionnaire as procurement gate: can I win the next mandate?) and risk management pressure (carrier attestation, retroactive methodology gap, client questions about past work: can I contain exposure from AI-assisted deliverables already produced?). The consulting boutique needs an evidence architecture serving both: pre-questionnaire review for next mandate + retroactive reconstruction for last twenty.
+- Phase 02 → Phase 03 bridge: WM Phase 02 dual-entry (carrier form + institutional DDQ) maps to consulting Phase 03 dual-entry (carrier form + client AI questionnaire). Both are pre-signing intervention points, both unoccupied.
+- Output: /private/market_research/20260531_phase03_geneva_consulting_cycle312/
 - Git push: SUCCESS ✅ — pushed to origin staging
 - Note: All 6 files written and pushed before completion announcement.
+
+## C312 Full Cycle Status
+- Phase 01 (Geneva legal): COMPLETE ✅
+- Phase 02 (Geneva finance): COMPLETE ✅
+- Phase 03 (Geneva consulting): COMPLETE ✅
+- Phase 04 (Geneva healthcare): PENDING
+- Phase 05 (cross-vertical): PENDING
+- Phase 06 (DigitalCoa competitive): PENDING
+
+**Next:** C312 Phase 04 (Geneva healthcare) — to be initiated by main agent.
