@@ -1,34 +1,38 @@
 # Market Research Rotation State
 
-Last updated: 2026-07-01 (C315 Phase 01 close)
+Last updated: 2026-07-01 (C315 Phase 02 close)
 
 ## Cycle Status
 
-### C315 — EU AI Act Post-Deadline Enforcement Lens — IN PROGRESS (1/6 phases)
+### C315 — EU AI Act Post-Deadline Enforcement Lens — IN PROGRESS (2/6 phases)
 **Timing driver:** EU AI Act high-risk applicability active since late August 2026, ~30 days post-activation
-**Cycle count:** 46 cumulative (C315 P01 = 46th cycle)
+**Cycle count:** 47 cumulative (C315 P02 = 47th cycle)
 **Pivot:** T-minus 30 (C314 readiness) → T-plus 30 (C315 enforcement)
 
 | Phase | Vertical | Git Commit | Date |
 |-------|----------|------------|------|
-| 01 | Geneva Legal — Post-Deadline Enforcement | (pending push) | 2026-07-01 |
-| 02 | Geneva Finance — Post-Deadline FINMA-Article 26 Enforcement | — | — |
+| 01 | Geneva Legal — Post-Deadline Enforcement | afeec04 | 2026-07-01 |
+| 02 | Geneva Finance — Post-Deadline FINMA-Article 26 Enforcement | (pending push) | 2026-07-01 |
 | 03 | Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement | — | — |
 | 04 | Geneva Healthcare — Post-Deadline Physician Article 26 Enforcement | — | — |
 | 05 | Cross-Vertical Synthesis — T-plus 30 Days Universal Condition | — | — |
 | 06 | DigitalCoa Competitive — T-plus 30 Days Category Reaffirmation | — | — |
 
-### C315 P01 NET-NEW Findings (Geneva Legal — Post-Deadline Enforcement)
-1. Member State authority (MSA) designation map + jurisdictional analysis — fifteen designated MSAs + Swiss federal coordination
-2. First named-individual deployer action response — Genevoise peer named in formal MSA notice, Article 26 attribution
-3. Carrier attestation update cycle — three new EU AI Act clauses (Article 9, 12, 26) at mid-year 2026 refresh
-4. Article 12 logging audit trigger — MSA audit through vendor infrastructure + carrier letter to firm
-5. Article 26 named-sub-principal bar enforcement — OaF / FSA post-deadline guidance, named associate personally exposed
-6. Client-driven enforcement inquiry reversal — from C314 readiness posture to C315 enforcement history
+### C315 P02 NET-NEW Findings (Geneva Finance — Post-Deadline FINMA-Article 26 Enforcement)
+1. FINMA Circular 2026/03 §7.4 enforcement pipeline — first FINMA supervisory letter naming MD, Banking Act Art.47 fallback, 30-day window
+2. Article 99 administrative letter pipeline through EU pension fund — MSA letter forwarded as institutional client notice, FINMA-MSA dual-regime reconciliation
+3. Carrier attestation FINMA-specific update cycle — four FINMA clauses at mid-year refresh (§7.4 named-AI-system inventory, §7.4 named-individual oversight, §7.4 named-incident-response, Banking Act Art.47 organizational-conduct)
+4. Geneva Private Banking Week September 2026 follow-up disclosure cycle — first Genevoise MD public FINMA supervisory letter disclosure, GPBA mailing list benchmark, second-wave disclosure pressure
+5. Sub-processor vendor enforcement audit triggers — MSA audit through Swiss-hosted portfolio construction vendor, named-portfolio-manager activity disclosure, vendor cooperation duty exposure
+6. nFADP Art.63 personal liability enforcement activation — FDPIC supervisory letter naming MD across three regimes (nFADP Art.63 + EU AI Act Art.26 + FINMA §7.4), FDPIC-FINMA-MSA coordination signal
 
 ### C315 P01 ICP Language Chain
 - Geneva Legal Post-Deadline: "Your peer has been named. The deadline is past. The first notices are out. Will mine be next?"
 - Hinge phrases: Which authority has jurisdiction over your firm / The MSA has named the managing partner and the associate / Three new clauses at the mid-year refresh / The MSA sent an audit to your vendor, the carrier sent you a letter / The OaF is following EU AI Act Article 26 now / The client is asking about your enforcement history
+
+### C315 P02 ICP Language Chain
+- Geneva Finance Post-Deadline: "FINMA has my name. The MSA has my mandate. The FDPIC has my portfolio manager. The carrier has my attestation. The peer MD has been named publicly at Geneva Private Banking Week. Here is what to do this week."
+- Hinge phrases: FINMA has my name, the supervisory letter cites §7.4 / The EU pension fund forwarded an Article 99 administrative letter / Carrier added four FINMA-specific clauses at mid-year refresh / Geneva Private Banking Week featured a Genevoise MD disclosure / Vendor's logs revealed my mandate to the MSA, vendor disclosed me / FDPIC opened Art.63 file naming me across three regimes
 
 ### C315 P01 Service Architecture (24 modules total = 18 from C312-C314 + 6 new in C315 P01)
 - Module 19: MSA designation map + jurisdictional analysis
@@ -38,6 +42,15 @@ Last updated: 2026-07-01 (C315 Phase 01 close)
 - Module 23: Article 26 named-sub-principal authorization roster
 - Module 24: Post-deadline client disclosure methodology
 - **Pricing — C315 Post-Deadline Enforcement Bundle: CHF 11,900** (all six C315 modules, delivered T-plus 30 to T-plus 180)
+
+### C315 P02 Service Architecture (24 modules total = 18 from C312-C314 P02 + 6 new in C315 P02)
+- Module 19: FINMA Circular 2026/03 §7.4 supervisory letter response architecture (named-MD attribution + Banking Act Art.47 fallback)
+- Module 20: Article 99 administrative letter response architecture with FINMA-MSA dual-regime reconciliation
+- Module 21: Carrier attestation FINMA Circular 2026/03 §7.4 mid-year clause translation memo (four FINMA-specific clauses)
+- Module 22: Geneva Private Banking Week peer disclosure response methodology (second-wave disclosure pressure)
+- Module 23: Sub-processor vendor enforcement audit response architecture (MSA-vendor-boutique cooperation framework)
+- Module 24: FDPIC Art.63 supervisory letter response architecture (nFADP + EU AI Act Art.26 + FINMA §7.4 cross-regime coordination)
+- **Pricing — C315 P02 Post-Deadline FINMA-Article 26 Enforcement Bundle for Geneva Boutique WM: CHF 11,900** (all six C315 P02 modules, delivered T-plus 30 to T-plus 180)
 
 ### C314 — EU AI Act 30-day Operational Lens — FULLY CLOSED (6/6 phases)
 **Timing driver:** EU AI Act high-risk applicability active late August 2026 — ~30 days from research
@@ -81,19 +94,22 @@ Last updated: 2026-07-01 (C315 Phase 01 close)
 
 ---
 
-## C315 — Active Cycle: Geneva Legal (Phase 01) — COMPLETE
+## C315 — Active Cycle: Geneva Legal (Phase 01) + Geneva Finance (Phase 02) — COMPLETE
 
-**Cycle count:** 46 cycles (C315 P01 closed 2026-07-01)
-**Output directory:** /digitalcoa_staging/private/market_research/20260701_phase01_geneva_legal_cycle315/
+**Cycle count:** 47 cycles (C315 P01 closed 2026-07-01, C315 P02 closed 2026-07-01)
+**P01 output directory:** /digitalcoa_staging/private/market_research/20260701_phase01_geneva_legal_cycle315/
+**P02 output directory:** /digitalcoa_staging/private/market_research/20260701_phase02_geneva_finance_cycle315/
 
 ### C315 Pivot Summary
 - C314 (closed) = readiness BEFORE the deadline (T-minus 30 days)
 - C315 (active) = first 30 days AFTER the deadline (T-plus 30 days)
-- Pivot realized: post-deadline enforcement signals (Member State authority designation, market surveillance authority activity, first formal notices, Article 26 named-sub-principal bar enforcement, carrier attestation update cycle, client-driven enforcement inquiry reversal)
+- Pivot realized: post-deadline enforcement signals
+  - P01 (legal): MSA designation, market surveillance authority activity, first formal notices to legal services deployers, Article 26 named-sub-principal bar enforcement, carrier attestation legal clauses, Article 12 logging audit, client-driven enforcement inquiry reversal
+  - P02 (finance): FINMA Circular 2026/03 §7.4 supervisory pipeline activation, MSA Article 99 administrative letter pipeline through EU pension fund, FDPIC Art.63 personal liability enforcement, carrier FINMA-specific attestation clauses, Geneva Private Banking Week peer disclosure cycle, sub-processor vendor enforcement audits
 
 ### Phase Rotation Sequence (C315 Cycle)
 1. **Phase 01: Geneva Legal — post-deadline enforcement — COMPLETE 2026-07-01**
-2. Phase 02: Geneva Finance — post-deadline FINMA-Article 26 enforcement
+2. **Phase 02: Geneva Finance — post-deadline FINMA-Article 26 enforcement — COMPLETE 2026-07-01**
 3. Phase 03: Geneva Consulting — post-deadline sub-consultant Article 26 enforcement
 4. Phase 04: Geneva Healthcare — post-deadline physician Article 26 enforcement
 5. Phase 05: Cross-Vertical Synthesis — T-plus 30 days universal condition
@@ -118,5 +134,6 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - C312: 6 phases (carrier attestation — first readiness cycle)
 - C313: 6 phases (post-31-day-pause — first re-engagement cycle)
 - C314: 6 phases (EU AI Act 30-day operational lens — fully closed)
+- C315: 2 phases complete (legal + finance post-deadline enforcement), 4 phases remaining
 
-Total: 45 cycles as of C314 close.
+Total: 47 cycles as of C315 P02 close.
