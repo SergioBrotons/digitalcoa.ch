@@ -1,11 +1,28 @@
 # Research Rotation State
 
 ## Current Cycle
-**C312 Phase 06** — COMPLETE ✅ — DigitalCoa competitive (FINAL phase of C312 — C312 FULLY CLOSED)
-**Next: C313 Phase 01 (Geneva legal — new cycle)**
+**C313 Phase 01** — COMPLETE ✅ — Geneva legal (FIRST phase of C313, post-31-day pause re-engagement)
+**Next: C313 Phase 02 (Geneva finance)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C313 Phase 01 Completed (2026-07-01)
+- Phase 01 (Geneva legal): COMPLETE ✅ — first phase post-31-day pause (May 31 → July 1)
+- 6 NET-NEW findings (distinct from C214–C312):
+  1. Form-completion vector exposure — attestation loop closed when AI is used to answer the AI attestation; form-completion vendor creates Article 321 exposure the form asks about
+  2. Summer associate authorization discontinuity — new hires create documented authorization gap within days of arrival; handover window compounds annually
+  3. Vendor data residency as false reassurance — Swiss-hosted vendors still route sub-processors, metadata, and parent-company cloud infrastructure extraterritorially; Article 321 reads through marketing claim
+  4. Mid-year carrier check-in documentation truncation — annual documentation cycle structurally behind new twice-yearly carrier cadence; documentation dated within 90 days is new freshness standard
+  5. Peer signature visibility — June 2026 bar-conference disclosures produced public named-firm attestation content; comparison trap moved from inference to direct comparison
+  6. AI vendor succession / data portability — vendor bankruptcy, acquisition, or service termination transfers client data to new controller; Article 321 obligations don't transfer; succession gap unnamed in vendor contracts
+- All 6 files written and saved to /private/market_research/20260701_phase01_geneva_legal_cycle313/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "I Thought Things Had Calmed Down. They Didn't." — Sergio's voice, first-person singular, EN + FR, CHF 2,200 for 90-minute Geneva AI Accountability Briefing
+- C313 Phase 01 core insight: The 31-day pause between C312 (May 31) and C313 (July 1) was not market stasis — it was market shift masked as market pause. The C313 ICP returned from the pause to discover six new conditions layered on the C312 foundation. Twelve total liability vectors, twelve white spaces. The C313 service is the C312 service plus six new modules: form-completion vendor review, authorization handover documentation, Swiss-hosted vendor sub-processor audit, mid-year documentation refresh, peer-attestation gap analysis, and vendor succession planning. All twelve deliverables work off the same evidence architecture. Lead magnet pivot from C312 trigger "I already signed, now what?" to C313 trigger "I thought things had calmed down. They didn't."
+- Output: /private/market_research/20260701_phase01_geneva_legal_cycle313/
+- Git push: SUCCESS ✅ — pushed to origin staging
+- Note: All 6 files written and pushed before completion announcement.
 
 ## C309 Phase 01 Completed (2026-05-30)
 - Phase 01 (Geneva legal): COMPLETE ✅
@@ -332,7 +349,8 @@ C308 full-cycle core insight: The Geneva SMB AI accountability market is structu
 **Service model claim:** "One evidence architecture, four vertical overlays. Not four products, one system."
 
 ## Cycle Count
-36 complete cycles (C214–C308)
+40 complete cycles (C214–C312 — full C312 closed) + C313 Phase 01 (Geneva legal — first phase after 31-day pause)
+Total fully-closed cycles: 39. C313 Phase 01 complete; C313 Phases 02–06 pending.
 ## C309 Phase 06 Completed (2026-05-30)
 - Phase 06 (DigitalCoa Competitive Research): COMPLETE ✅
 - 6 NET-NEW competitive findings:
