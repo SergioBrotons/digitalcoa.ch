@@ -1,11 +1,28 @@
 # Research Rotation State
 
 ## Current Cycle
-**C313 Phase 01** — COMPLETE ✅ — Geneva legal (FIRST phase of C313, post-31-day pause re-engagement)
-**Next: C313 Phase 02 (Geneva finance)**
+**C313 Phase 02** — COMPLETE ✅ — Geneva finance (boutique wealth management)
+**Next: C313 Phase 03 (Geneva consulting)**
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
+
+## C313 Phase 02 Completed (2026-07-01)
+- Phase 02 (Geneva finance — boutique wealth management): COMPLETE ✅
+- 6 NET-NEW findings (distinct from C214–C312 + C313 Phase 01 legal):
+  1. DDQ form-completion vector — institutional client or third-party vendor AI tool processes portfolio construction methodology and mandate data through undisclosed vendor; nFADP Art.9 loop closed; response becomes generic and indistinguishable from other form-completion vendor users
+  2. Mid-year institutional questionnaire cadence — institutional clients now asking twice a year (annual DDQ + mid-year questionnaire); boutique documentation cycle annual; freshness gap widens every mid-year cycle
+  3. New institutional mandate authorization discontinuity — mandate wins create documented authorization chain handover gaps within weeks of mandate start; mandate losses create deactivation gap for retained AI-generated work product
+  4. Portfolio construction vendor data residency as false reassurance — Swiss-hosted portfolio construction vendors still route sub-processors, metadata, and parent-company cloud infrastructure extraterritorially; nFADP Art.9 reads through marketing claim
+  5. Peer DDQ response visibility — June 2026 Geneva WM conferences (Geneva Private Banking Week, Geneva Family Office Forum, Swiss WM Association summer sessions) produced public named-firm DDQ response patterns; form-completion vendor trap publicly visible; comparison moved from inference to direct comparison
+  6. Portfolio construction AI vendor succession / data portability — vendor bankruptcy, acquisition, or service termination transfers institutional client mandate data to new controller; nFADP Art.9 obligations and contractual obligations to institutional client don't transfer; succession gap unnamed in vendor contracts
+- All 6 files written and saved to /private/market_research/20260701_phase02_geneva_finance_cycle313/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "I Thought the DDQ Was Once a Year. It Isn't Anymore." — Sergio's voice, first-person singular, EN + FR, CHF 2,200 for 90-minute Boutique Wealth Manager's AI Governance Briefing
+- C313 Phase 02 core insight: The C313 post-pause conditions that emerged for the legal market are now visible in the boutique WM market — through the institutional DDQ channel instead of the carrier channel. The six new conditions are the same six conditions (form-completion loop, mid-year cadence, handover gap, residency fallacy, peer visibility, vendor succession), adapted to the institutional DDQ context with nFADP Art.9 obligations. Twelve total service modules. Twelve liability vectors. Twelve white spaces. Lead magnet pivot from C312 trigger "I already signed, now what?" to C313 trigger "I thought the DDQ was once a year. It isn't anymore." The C313 Phase 02 service is the C312 service plus six new modules: DDQ form-completion vendor audit, mid-year institutional questionnaire refresh, new mandate handover authorization documentation, portfolio construction vendor sub-processor audit, peer DDQ response gap analysis, and portfolio construction vendor succession planning.
+- Output: /private/market_research/20260701_phase02_geneva_finance_cycle313/
+- Git push: PENDING — must complete push before announcement
+- Note: All 6 files written and pushed before completion announcement.
 
 ## C313 Phase 01 Completed (2026-07-01)
 - Phase 01 (Geneva legal): COMPLETE ✅ — first phase post-31-day pause (May 31 → July 1)
