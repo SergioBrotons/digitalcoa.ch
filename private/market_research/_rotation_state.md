@@ -1,6 +1,6 @@
 # Market Research Rotation State
 
-**Last updated:** 2026-07-01 17:54 Berlin time
+**Last updated:** 2026-07-01 17:58 Berlin time
 
 ## Current Cycle
 **C314 — IN PROGRESS** (Phase 01 complete)
@@ -42,7 +42,8 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | Healthcare | Medical liability attestation + consent forms + Convention de remplacement | nFADP Art.63 + Art. 321 CP + FMH |
 
 ## C314 ICP Language Chain
-- C314 P01: "Your client just asked if you're EU AI Act ready. The deadline is in 30 days."
+- C314 P01: "T-minus 30 days. I don't know if I'm in scope."
+- C314 P02: (pending)
 - C314 P02: (pending)
 - C314 P03: (pending)
 - C314 P04: (pending)

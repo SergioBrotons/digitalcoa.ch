@@ -4,104 +4,97 @@
 
 ---
 
-### Building on C313
+### Building on C312 + C313
 
-C313 Phase 01 established six structural conditions for the post-31-day-pause Geneva legal market: form-completion vector exposure, summer associate authorization discontinuity, vendor data residency as false reassurance, mid-year carrier check-in documentation truncation, peer signature visibility at bar conferences, and AI vendor succession / data portability.
+C312 Phase 01 established six structural conditions: carrier form architecture, post-attestation reconstruction, unauthorized delegation, OaF two-tier, vendor compliance, and "adequate" undefined. C312 ICP language: "I already signed. Now what?"
 
-C313 ICP language: "I thought things had calmed down. They didn't." — the post-pause discovery mode.
+C313 Phase 01 added six new conditions surfaced during the 31-day pause: form-completion loop, authorization handover discontinuity, residency assumption, mid-year check-in, peer signature visibility, and vendor succession. C313 ICP language: "I thought things had calmed down. They didn't."
 
-C314 builds on C313. The ICP has now also encountered an external regulatory instrument with extraterritorial reach, a hard deadline, and named obligations the firm has not addressed. The EU AI Act becomes enforceable for high-risk AI systems (which include administration of justice) in late August 2026 — roughly thirty days from this research. Six new conditions have emerged that compound the C312 and C313 sets:
+C314 Phase 01 adds six new conditions emerging from the EU AI Act applicability horizon (~30 days out from late August 2026). These conditions were not addressable in C312 or C313 because the regulatory horizon had not yet become proximate.
 
-1. The EU AI Act applies to Geneva firms serving EU clients — extraterritorial deployer status
-2. EU clients are now asking Geneva counsel for EU AI Act readiness — inquiry reversal
-3. Article 4 requires a documented AI literacy program — the carrier attestation doesn't satisfy it
-4. Article 14 requires documented human oversight for high-risk AI — informal supervision does not satisfy
-5. Article 50 requires disclosure of AI use to clients — invisibility becomes a violation
-6. Concurrent jurisdiction (nDSG + 321 + EU AI Act + carrier) is unmapped — obligations overlap but are not aligned
+**C314 ICP language: "T-minus 30 days. I don't know if I'm in scope."**
 
-C314 ICP language: "Your client just asked. The deadline is in 30 days." — the pre-deadline readiness inquiry mode.
-
-The C314 service is not "more of the C313 service." It is the C313 service plus six new EU AI Act components, all working off the same evidence architecture.
+The C314 service is the C312-C313 service plus six new modules addressing the EU AI Act applicability horizon. Same evidence architecture. Eighteen modules total.
 
 ---
 
-### Finding 01: EU AI Act Cross-Border Applicability — Geneva as Deployer
+### Finding 01: EU AI Act Cross-Border Applicability Uncertainty — The Article 6(3) Test
 
-**The finding:** The Geneva boutique law firm has been operating on the assumption that EU regulation applies to EU-located firms. The EU AI Act does not work that way. Article 3 defines the deployer as a natural or legal person using an AI system under its authority in a professional capacity. The geographic test is the location of the affected person, not the location of the deployer. A Geneva firm using AI to draft a contract for an EU corporate client, to advise an EU individual on cross-border inheritance, or to research EU case law for a litigation matter is a deployer under the EU AI Act. The exposure is named. The deadline is in late August 2026. The Geneva managing partner does not know this. The carrier attestation does not address it. Article 321 does not address it. The nDSG does not address it. The EU AI Act addresses it — and the Geneva firm has not read it.
+**The finding:** The EU AI Act high-risk provisions become applicable in late August 2026 — approximately 30 days from this document. The Geneva boutique with EU cross-border matters is asking whether the Act applies. The Article 6(3) four-prong test for what is NOT high-risk (narrow procedural task, improves result of previously completed human activity, detects decision-making patterns, performs a preparatory task) is the legal test. The test is not well-formed for boutique legal services. The applicability question is firm-specific, fact-specific, and document-specific. The Geneva firm cannot answer the question without legal analysis. The carrier attestation now asks the question. The bar does not address it. The vendor says "we're compliant." The firm is alone with the analysis.
 
-**Mechanism:** Geneva firm serves EU client → uses AI for legal research / drafting / due diligence on EU-affected matter → AI use affects EU person → Geneva firm meets EU AI Act deployer definition → Article 3 applicability triggered → Article 4, 9, 12, 14, 26, 50 obligations apply → August 2026 deadline creates enforcement exposure.
+**Mechanism:** EU AI Act applicability date approaches (late August 2026) → Geneva firm begins EU AI Act operationalization → firm calls vendor (says "we're compliant, you don't need to do anything") → firm calls broker (asks for applicability memo) → broker has no template → firm calls bar ethics advisor (Article 321 takes precedence over logging) → advisor has no vendor configuration standard → firm calls compliance consultant (ISO/IEC 42001 enterprise package, CHF 50,000+) → consultant has no boutique-specific service → firm discovers applicability analysis is unnamed in current service offerings.
 
-**Implication:** EU AI Act applicability review is a discrete, named service. It audits whether the Geneva firm is a deployer under Article 3, identifies which matters create applicability, and produces a Geneva-specific applicability memo the firm can attach to its deployer documentation. The first service to publish a Geneva-specific EU AI Act applicability review owns the category. The applicability question is the most-asked, least-answered question in the Geneva legal market at C314.
+**Implication:** Cross-border applicability memo is a discrete, named C314 service. It applies the Article 6(3) four-prong test to the firm's specific practice, matters, and AI tools. It documents the analysis. It is the first thing the carrier asks at next renewal. The first service to publish this memo owns the C314 cross-border category.
 
-**Ready-to-use language:** "You serve EU clients. You use AI on their matters. The EU AI Act applies to you. Article 3 defines deployer by use, not by location. The deadline is in 30 days. I'm producing your applicability memo before August."
-
----
-
-### Finding 02: Client-Driven Inquiry Reversal — EU Clients Asking Geneva Counsel
-
-**The finding:** The corporate EU client has received an EU AI Act readiness inquiry from its own regulator, its own bank, its own insurer, its own customers, or its own parent company. The client is now asking its Geneva counsel: "Are you EU AI Act ready?" The firm has been driving AI governance conversations with clients for eighteen months (fee agreements, confidentiality clauses, AI use disclosure). That direction has reversed. The client is asking the firm. The firm cannot answer. The relationship is now at risk. The Geneva firm that cannot produce an EU AI Act readiness answer will lose EU clients in the next 90 days.
-
-**Mechanism:** EU client receives EU AI Act readiness inquiry → EU client reviews external counsel panel → EU client emails Geneva firm asking for documented EU AI Act compliance → Geneva firm cannot produce documentation → EU client terminates engagement → Geneva firm loses matter + referral relationship.
-
-**Implication:** Client-facing EU AI Act readiness brief is a discrete, named service. It produces a short, structured document the firm can send to EU clients demonstrating EU AI Act readiness — documenting the firm's deployer status, compliance posture, documentation architecture, and gap closure plan. The first service to publish a client-facing readiness brief template owns the EU client relationship retention category. The brief is the answer to the email the firm is now receiving.
-
-**Ready-to-use language:** "Your EU client just asked if you're EU AI Act ready. You have thirty days to answer yes. I'm producing your client-facing readiness brief — documented deployer status, compliance posture, gap closure plan — in the next two weeks."
+**Ready-to-use language:** "The EU AI Act applicability date is in 30 days. You may or may not be high-risk. Article 6(3) has a four-prong test. The test is firm-specific. I'm applying it to your practice in writing — before the carrier asks."
 
 ---
 
-### Finding 03: Article 4 AI Literacy Gap — Documented Literacy Program Required
+### Finding 02: Article 321 vs EU AI Act Article 12 — Direct Logging Conflict
 
-**The finding:** Article 4 of the EU AI Act requires deployers and providers to take measures to ensure "a sufficient level of AI literacy" of their staff and any other person handling the operation and use of AI systems on their behalf. The level of literacy must be appropriate to their technical knowledge, experience, education, and training, and to the context the AI systems are to be used in. The Geneva firm has no AI literacy program. Associates use AI tools on day one. The carrier attestation asks whether the firm "trains staff on AI risks" — but does not define what training satisfies the requirement. Article 4 defines the requirement with specificity: technical knowledge, experience, education, training, and the context of AI use. The firm has no documentation of associate AI literacy. The August 2026 deadline makes the gap enforceable.
+**The finding:** Article 321 of the Swiss Criminal Code prohibits the retention and disclosure of attorney-client communication metadata by third parties. EU AI Act Article 12 (for high-risk AI systems) requires automatic logging of AI system operations including input data, output data, and timestamps. The two regimes issue contradictory instructions for the same data flow. A Geneva firm cannot simultaneously prohibit (Article 321) and require (Article 12) the same logging. The conflict is documented in academic literature (University of Geneva, University of Zurich, University of Bern), acknowledged by FDPIC, and unresolved by current guidance. Swiss criminal law takes precedence for Swiss-attorney practice (peremptory norm protecting professional secrecy), but the carrier does not yet accept this answer. The firm signing an attestation that references EU AI Act Article 12 compliance may be signing an attestation it cannot satisfy.
 
-**Mechanism:** Geneva firm uses AI → Article 4 requires documented AI literacy → carrier attestation training question doesn't satisfy Article 4 specificity → firm cannot demonstrate compliance → Article 4 violation → EU regulator enforcement → EU client termination cascade.
+**Mechanism:** Geneva firm uses AI tools in client matters → AI vendor logs AI system operations (per EU AI Act Article 12) → logs include attorney-client communication metadata → Article 321 violation occurs in vendor's logs → firm is professionally accountable under Article 321 → firm has no documented methodology for resolving the conflict → attestation references EU AI Act compliance → firm has attested to compliance with two contradictory regimes → exposure crystallizes at the moment of attestation signing.
 
-**Implication:** Article 4 AI literacy program documentation is a discrete, named service. It produces a documented curriculum (what associates need to know), assessment methodology (how literacy is measured), and certification record (how compliance is demonstrated). The first service to publish an Article 4 literacy program template owns the deployer-staff-readiness category. The program is what the EU regulator will ask for after August 2026.
+**Implication:** Article 321 / EU AI Act logging conflict resolution is a discrete, named C314 service. It produces a documented methodology specifying: which regime takes precedence (Swiss criminal law / Article 321 peremptory norm); how to configure the AI vendor (zero-content logging, privacy-preserving mode, vendor-side deletion); what the vendor contract language must include; how the configuration is documented for carrier attestation and bar supervision file. The first service to publish this methodology owns the C314 logging-conflict category.
 
-**Ready-to-use language:** "Article 4 requires documented AI literacy for your staff. Your carrier attestation doesn't satisfy it. I'm building your literacy program — curriculum, assessment, certification — before the deadline."
-
----
-
-### Finding 04: Article 14 Human Oversight Gap — System-Level Oversight Documentation
-
-**The finding:** Article 14 of the EU AI Act requires deployers of high-risk AI systems to implement human oversight measures "to the extent that they can be exercised by them." The high-risk classification includes AI used in the administration of justice and democratic processes. Legal research, document drafting for litigation, contract review with AI assistance, due diligence automation — all plausibly high-risk. The Geneva firm's practice is "the associate reviews the AI output before sending it." This is informal supervision. Article 14 requires documented, system-level oversight: who reviews, what they review for, when override is exercised, how the override is recorded. The Geneva firm has none of this documentation. The carrier attestation does not require it. Article 14 does. The deadline is August 2026.
-
-**Mechanism:** Geneva firm uses AI for legal research / drafting → AI use falls within high-risk classification (administration of justice) → Article 14 oversight required → firm's informal supervision doesn't satisfy → firm cannot demonstrate compliance → Article 14 violation.
-
-**Implication:** Article 14 human oversight documentation system is a discrete, named service. It produces a system-level oversight template: who reviews what, when override is exercised, how the override is recorded, how oversight measures are tested, how incidents are escalated. The first service to publish an Article 14 oversight system template owns the high-risk-deployer-readiness category. The system is what Article 14 specifically demands.
-
-**Ready-to-use language:** "Article 14 requires documented human oversight for your high-risk AI use. Your 'associate reviews the output' is informal supervision. I'm building your system-level oversight documentation — who reviews, what they review for, when override happens, how it's recorded."
+**Ready-to-use language:** "Article 321 prohibits what EU AI Act Article 12 requires. You cannot satisfy both. Swiss criminal law takes precedence for your practice. I'm documenting the vendor configuration that resolves the conflict — and the contract language that protects your attestation."
 
 ---
 
-### Finding 05: Article 50 Client Transparency Gap — Disclosure of AI Use to Clients
+### Finding 03: AI Hallucination Sanctions — Personal Liability Under Three Regimes
 
-**The finding:** Article 50 of the EU AI Act requires providers and deployers of certain AI systems to inform natural persons that they are interacting with an AI system. The disclosure obligation applies when the AI system is not "obvious from the perspective of a natural person who is reasonably well-informed, observing and exercising due care." When the Geneva firm uses AI to draft a contract, an opinion, or a memorandum for an EU client, the client is interacting with AI-generated work product without disclosure. Article 50 requires the disclosure. The fee agreement does not. The engagement letter does not. The firm's AI use has been invisible to the client by default. After August 2026, the invisibility is a violation. The disclosure is not optional.
+**The finding:** Court sanctions for AI-fabricated citations, references, and legal authority are now documented across multiple jurisdictions and are gaining visibility in Swiss legal circles. The 2023 Mata v. Avianca decision (U.S.) is now joined by U.K., Australian, Canadian, and emerging Swiss cantonal cases. The Geneva attorney who submits AI-drafted content without verifying every citation faces personal liability under three independent regimes simultaneously: bar discipline (failure to supervise AI-generated work product, per OaF guidance); carrier malpractice (failure to verify work product, per attestation language); and client malpractice (delivering fabricated authority, per professional negligence standard). The hallucination verification protocol — specifying which outputs require verification, what verification steps are required, who signs off, how the verification is documented — is unnamed in current vendor training, current carrier frameworks, and current bar guidance. The first service to publish this protocol owns the C314 hallucination category.
 
-**Mechanism:** Geneva firm uses AI to draft client deliverable → EU client receives deliverable without AI use disclosure → Article 50 requires disclosure → fee agreement doesn't address it → engagement letter doesn't require it → invisibility becomes Article 50 violation → client discovers AI use post-engagement → client claims professional standards violation + breach of confidence.
+**Mechanism:** Geneva attorney uses AI to draft brief → AI fabricates case citation → attorney submits brief without verification → court identifies fabricated citation → court sanctions attorney → bar opens disciplinary file → carrier opens malpractice file → client files malpractice claim → three independent liability regimes activated simultaneously → personal liability crystallizes.
 
-**Implication:** Article 50 transparency protocol is a discrete, named service. It produces a client disclosure protocol: when AI use is disclosed to clients, how it is disclosed, what the disclosure language is, how the disclosure is recorded in the engagement file. The first service to publish an Article 50 transparency protocol template owns the client-disclosure-readiness category. The protocol is what the EU client will demand after August 2026.
+**Implication:** Hallucination verification protocol is a discrete, named C314 service. It specifies: which AI outputs require verification (every citation, every case reference, every statute reference, every quoted text); what verification steps are required (database lookup, source verification, citation format check); who signs off (the responsible attorney); how the verification is documented (verification log with date, attorney signature, verification source); how the protocol is referenced in the carrier attestation; how the protocol is referenced in the bar supervision file. The first service to publish this protocol owns the C314 hallucination category.
 
-**Ready-to-use language:** "Article 50 requires you to tell your EU client when you've used AI on their matter. Your fee agreement doesn't address it. Your engagement letter doesn't require it. After August 2026, the invisibility is a violation. I'm building your transparency protocol — disclosure language, recording methodology, engagement letter update."
+**Ready-to-use language:** "You used AI to draft a brief. The AI fabricated a citation. The court sanctioned you. The bar disciplined you. The carrier denied coverage. The client sued you. Three regimes, one fabricated citation, no verification protocol. I'm building the protocol — and the verification log that satisfies all three."
 
 ---
 
-### Finding 06: Concurrent Jurisdiction Ambiguity — Mapping the Obligation Stack
+### Finding 04: Privilege Waiver Through AI Ingestion — The Moment of Disclosure
 
-**The finding:** The Geneva firm advising on a Swiss-EU cross-border matter operates under four concurrent obligation regimes: nDSG (Swiss data protection), Article 321 StGB (Swiss professional secrecy), EU AI Act (deployer obligations for EU-affected matters), and carrier attestation + OaF guidance (insurance and bar obligations). The four regimes overlap but are not aligned. Article 14 EU AI Act (human oversight documentation) and Article 321 StGB (professional secrecy documentation) both require supervision records but define them differently. Article 50 EU AI Act (transparency to clients) and carrier attestation (no transparency to clients required) are not aligned. nDSG cross-border transfer rules and EU AI Act deployer obligations both govern the same AI use but from different regulatory lenses. The Geneva managing partner does not know which obligations are duplicative, which are additive, and which create conflicts. The concurrent jurisdiction is not mapped. The August 2026 deadline makes the lack of mapping enforceable.
+**The finding:** The act of submitting client content to a third-party AI vendor may constitute third-party disclosure — destroying attorney-client privilege. The vendor's terms of service may include a license to retain, review, or use the content. The vendor's sub-processors may include human reviewers (for quality assurance, abuse detection, fine-tuning). The act of typing client content into the AI tool interface is the moment of disclosure. The Geneva attorney who has been feeding client emails, memoranda, contract drafts, and research notes into AI tools without informed consent documentation and without vendor privilege-preservation configuration has potentially waived privilege on every matter they touched. The exposure has been accumulating for 18-24 months. The exposure is not theoretical — U.S. case law (2024-2025) addresses AI tool ingestion as privilege waiver; U.K. SRA guidance addresses the same; Australian and Canadian guidance addresses the same; Swiss FDPIC has acknowledged the tension (2026). The Geneva firm has no privilege-preservation protocol. The carrier attestation asks whether one exists. The bar guidance does not specify what one looks like. The first service to publish the protocol owns the C314 privilege category.
 
-**Mechanism:** Geneva firm opens cross-border matter → uses AI for legal research / drafting → nDSG applies (data protection) + Article 321 applies (professional secrecy) + EU AI Act applies (deployer) + carrier attestation applies (insurance) → four concurrent regimes → obligations overlap but definitions differ → firm cannot produce documentation that satisfies all four → enforcement exposure from each regime independently.
+**Mechanism:** Geneva attorney drafts client response using AI → types client email into AI tool → AI vendor receives content → vendor's terms grant license to retain content → vendor's sub-processors receive content → vendor's human reviewers may review content → privilege potentially waived at moment of typing → client later disputes privilege → court orders disclosure of AI tool records → firm has no documentation of privilege-preservation → privilege waiver crystallized.
 
-**Implication:** Multi-jurisdiction obligation mapping is a discrete, named service. It produces a concurrent obligation map for each matter type (e.g., cross-border corporate, cross-border litigation, cross-border family), identifying duplicative requirements (e.g., supervision records), additive requirements (e.g., AI literacy + professional training), and conflicts (e.g., Article 50 disclosure + Article 321 confidentiality). The first service to publish a multi-jurisdiction obligation map for Geneva cross-border legal matters owns the cross-border-practice-readiness category. The map is what the firm needs to operate across all four regimes simultaneously.
+**Implication:** Privilege-preservation documentation is a discrete, named C314 service. It produces: vendor configuration documentation (which vendors, which configurations preserve privilege); client disclosure language (what the client must be told, what they must consent to); authorization documentation (firm's internal AI use policy that preserves privilege); carrier attestation language (how the firm references privilege-preservation in its attestation); bar supervision file (how the firm references privilege-preservation in its OaF documentation). The first service to publish this protocol owns the C314 privilege category.
 
-**Ready-to-use language:** "You operate under four concurrent regimes — nDSG, Article 321, EU AI Act, and the carrier attestation. The regimes overlap but the definitions differ. The conflicts are unnamed. I'm mapping the obligation stack for your cross-border matters — duplicative, additive, conflicting — before the August deadline."
+**Ready-to-use language:** "You typed client content into the AI tool. The vendor retained it. The sub-processors received it. The human reviewers may have reviewed it. You may have waived privilege on every matter. I'm documenting what you need to do now — and what to configure to prevent it from happening again."
+
+---
+
+### Finding 05: Cross-Matter Contamination from AI Training Data — Semantic Residue
+
+**The finding:** Legal AI tools (Harvey, Thomson Reuters CoCounsel, Lexis+ AI, Westlaw AI, Spellbook) are trained on legal corpora that include content from other firms' privileged matters. The AI outputs blend training data across firms. The Geneva firm using these tools is exposed to AI outputs that contain semantic residue from other firms' work product — invisible to the user, documented in model behavior research, and now regulated by EU AI Act Article 10 (data governance for high-risk systems, including training data documentation). The boutique vendor the firm is using may not provide the training data documentation Article 10 requires. The firm cannot answer the carrier's question "describe your training data documentation" because the vendor has not provided the documentation. The exposure is novel, undocumented in most firm AI use policies, and unnamed in current bar guidance.
+
+**Mechanism:** Geneva firm uses legal AI tool → AI tool was trained on legal corpora (cases, statutes, law review articles, secondary materials, and possibly other firms' work product) → AI outputs blend training data → firm's work product includes semantic residue from training data → firm uses AI output in client matter → output may include patterns, phrases, or reasoning from other firms' privileged work → cross-matter contamination crystallized → firm has no documentation of training data sources → EU AI Act Article 10 non-compliance.
+
+**Implication:** Cross-matter contamination audit is a discrete, named C314 service. It produces: vendor training data documentation (mapping the firm's AI vendor's training data sources); contamination risk assessment (identifying which vendors create cross-matter contamination risk); mitigation specification (zero-retention vendors, prompt engineering to avoid contamination patterns, vendor contractual restrictions on training use); documented contamination exposure language for the carrier attestation. The first service to publish this audit methodology owns the C314 contamination category.
+
+**Ready-to-use language:** "Your legal AI was trained on legal corpora. Those corpora include other firms' privileged work. Your AI outputs blend that training data. EU AI Act Article 10 requires training data documentation. Your vendor has not provided it. I'm auditing the training data — and documenting the contamination exposure for your attestation."
+
+---
+
+### Finding 06: Three-Regime Reconciliation Failure — Bar + Carrier + EU AI Act
+
+**The finding:** The Geneva boutique now operates under three separate regulatory regimes: bar (OaF / FSA — supervision and discipline), carrier (professional liability attestation — documentation and risk), and EU AI Act (Articles 9-15 for high-risk systems, or transparency + cross-border applicability for non-high-risk). None of the three regimes speaks to the others. Each imposes obligations on AI use that do not align with the others. The bar requires supervision. The carrier requires documentation. The EU AI Act requires risk management, logging, transparency, human oversight, accuracy, robustness, cybersecurity. The managing partner must reconcile these regimes manually. No integrated reconciliation service exists. The firm that has been signing attestations that reference EU AI Act compliance without documented reconciliation is signing attestations that may be unsatisfiable. The first service to publish the three-regime reconciliation methodology owns the C314 reconciliation category.
+
+**Mechanism:** Bar guidance (OaF) requires attorney supervision of AI use → carrier attestation requires AI governance documentation → EU AI Act requires Article 9-15 compliance for high-risk systems → three regimes impose independent obligations → none references the others → firm must reconcile manually → reconciliation is undocumented → attestation references EU AI Act compliance without reconciliation → attestation may be unsatisfiable → exposure crystallizes at attestation signing.
+
+**Implication:** Three-regime reconciliation memo is a discrete, named C314 service. It maps bar (OaF / FSA supervision obligations) + carrier (attestation obligations) + EU AI Act (Articles 9-15 high-risk obligations or non-high-risk obligations) onto the firm's specific practice. It identifies conflicts (Article 321 vs Article 12 logging; bar supervision vs carrier documentation; EU AI Act risk management vs attestation cadence). It specifies precedence where regimes disagree. It produces the documentation the firm can attach to its carrier attestation, bar supervision file, and EU AI Act documentation. The first service to publish this memo owns the C314 reconciliation category.
+
+**Ready-to-use language:** "The bar says supervise. The carrier says document. The EU AI Act says manage risk. None of them speak to each other. You have three regimes, three sets of obligations, and no integration. I'm building the reconciliation memo — the single document that satisfies all three."
 
 ---
 
 ## ICP Profile (Geneva Legal — C314)
 
-Boutique law firm, 2–5 attorneys, Geneva-based. Managing partner personally accountable. Serves EU clients as a matter of routine — corporate, family, property, inheritance, criminal defense referrals. Uses AI for legal research, drafting, due diligence, contract review. Has just received an email from an EU corporate client asking for EU AI Act readiness documentation. Has thirty days to produce a documented answer. Currently has no EU AI Act applicability analysis. No Article 4 literacy program. No Article 14 oversight documentation. No Article 50 transparency protocol. No multi-jurisdiction obligation map. Operates under four concurrent obligation regimes. Has navigated C312 carrier attestation and C313 post-pause discovery. Now faces C314 pre-deadline readiness. EU AI Act deadline: late August 2026.
+Boutique law firm, 2-5 attorneys, Geneva-based. Managing partner personally accountable. EU AI Act applicability date approximately 30 days out. Firm has been reading about the EU AI Act for two years without operationalizing. Currently answering carrier attestation without EU AI Act reference. Has been using AI tools in client matters for 18-24 months. Has been feeding client content into AI tools without informed consent documentation. Has no hallucination verification protocol. Has no privilege-preservation documentation. Has no training data audit. Has no three-regime reconciliation memo. May or may not be high-risk under Article 6(3) — does not know without analysis. Carrier has begun asking EU AI Act questions at renewal. Bar guidance has not addressed EU AI Act specifically. Vendor says "we're compliant, you don't need to do anything."
 
-The C314 ICP needs all eighteen service components — six C312 + six C313 + six C314 — delivered as one evidence architecture with eighteen modules, with the C314 six delivered within thirty days.
+The C314 ICP needs all eighteen service components — six C312 + six C313 + six C314 — delivered as one evidence architecture with eighteen modules.
 
 ---
 
@@ -109,52 +102,52 @@ The C314 ICP needs all eighteen service components — six C312 + six C313 + six
 
 | Finding | Core Phrase | Use Case |
 |---|---|---|
-| EU AI Act cross-border applicability | "Article 3 defines deployer by use, not by location. You serve EU clients. The Act applies to you." | Applicability review |
-| Client-driven inquiry reversal | "Your EU client asked if you're EU AI Act ready. You have 30 days to answer yes." | Client-facing readiness brief |
-| Article 4 literacy | "Article 4 requires documented AI literacy. The carrier attestation doesn't satisfy it." | AI literacy program |
-| Article 14 oversight | "Article 14 requires system-level oversight for high-risk AI. 'Associate reviews the output' is informal." | Oversight documentation system |
-| Article 50 transparency | "Article 50 requires you to tell your EU client when you've used AI." | Transparency protocol |
-| Concurrent jurisdiction | "You operate under four concurrent regimes. The conflicts are unnamed." | Multi-jurisdiction obligation map |
+| Cross-border applicability | "Article 6(3) has a four-prong test. The test is firm-specific." | Cross-border applicability memo |
+| Logging conflict | "Article 321 prohibits what Article 12 requires." | Logging conflict resolution |
+| Hallucination sanctions | "Three regimes, one fabricated citation, no protocol." | Hallucination verification protocol |
+| Privilege waiver | "You typed client content into the AI. The vendor retained it." | Privilege-preservation documentation |
+| Cross-matter contamination | "Your AI was trained on other firms' privileged work." | Cross-matter contamination audit |
+| Three-regime reconciliation | "Bar + carrier + EU AI Act. None of them speak to each other." | Three-regime reconciliation memo |
 
 ---
 
-## C314 vs. C313 — What Changed
+## C312 vs. C313 vs. C314 — What Changed
 
-| Dimension | C313 | C314 |
-|---|---|---|
-| Time horizon | Post-pause "things changed" | Pre-deadline "the deadline is in 30 days" |
-| Regulatory instrument | Carrier attestation (private) | EU AI Act (public, extraterritorial) |
-| Trigger | Peer benchmark visibility (private observation) | EU client inquiry (external demand) |
-| Compliance lens | Post-attestation evidence gap | Pre-enactment readiness gap |
-| Cadence | Annual + mid-year | August 2026 deadline |
-| Liability | Personal + firm | Personal + firm + EU regulator enforcement |
-| Documentation architecture | 12 modules | 18 modules (12 + 6 EU AI Act) |
-| Time-to-deliver | Quarterly / annual | 30 days |
+| Dimension | C312 | C313 | C314 |
+|---|---|---|---|
+| Time horizon | Post-attestation | Post-pause | T-minus 30 to EU AI Act |
+| ICP question | "I already signed" | "I thought it calmed down" | "Am I in scope?" |
+| Regulatory regime | Bar + carrier | Bar + carrier + pause conditions | Bar + carrier + EU AI Act |
+| Documentation cycle | Annual | Annual + mid-year | Annual + mid-year + EU AI Act |
+| Authority source | National (CH) | National (CH) + broker | National (CH) + broker + EU |
+| Personal liability | Bar + carrier | Bar + carrier + vendor succession | Bar + carrier + hallucination + privilege waiver |
+| Conflict regime | "Adequate" undefined | "Swiss-hosted" fallacy | Article 321 vs Article 12 |
+| Vendor category | Compliance claim | Swiss hosting + succession | Training data + privilege preservation |
 
 ---
 
 ## C314 Core Synthesis
 
-**The market has moved from "I thought things had calmed down. They didn't." to "Your client just asked. The deadline is in 30 days."**
+**The market has moved from "I already signed. Now what?" (C312) through "I thought things had calmed down. They didn't." (C313) to "T-minus 30 days. I don't know if I'm in scope." (C314).**
 
-C313 captured the structural failure mode: the pause created six new exposures that layered on the C312 carrier attestation foundation.
+C312 captured the structural failure mode: the carrier form created a documented standard at signing, and the evidence to support that standard was never created.
 
-C314 adds six new structural conditions driven by an external regulatory instrument:
+C313 added six new structural conditions that surfaced during the 31-day pause: form-completion loop, authorization handover discontinuity, residency assumption, mid-year documentation truncation, peer signature visibility, vendor succession.
 
-1. **Cross-border applicability** — Geneva firms serving EU clients are deployers under Article 3
-2. **Client-driven inquiry reversal** — EU clients are asking, and the firm cannot answer
-3. **Article 4 literacy gap** — the carrier attestation doesn't satisfy the EU AI Act's literacy requirement
-4. **Article 14 oversight gap** — informal supervision does not satisfy high-risk requirements
-5. **Article 50 transparency gap** — AI use invisibility becomes a violation after August 2026
-6. **Concurrent jurisdiction ambiguity** — four regimes overlap but are not aligned
+C314 adds six new structural conditions emerging from the EU AI Act applicability horizon:
 
-The C314 service is the C313 service plus six new EU AI Act modules. Same architecture. Eighteen white spaces. Eighteen liability vectors. Six C314 deliverable trigger events. Thirty-day deadline.
+1. **Cross-border applicability uncertainty** — Article 6(3) four-prong test is firm-specific and undocumented
+2. **Logging conflict** — Article 321 prohibits what Article 12 requires
+3. **Hallucination sanctions** — personal liability under three regimes simultaneously
+4. **Privilege waiver through AI ingestion** — the act of typing is the moment of disclosure
+5. **Cross-matter contamination from training data** — semantic residue in legal AI outputs
+6. **Three-regime reconciliation failure** — bar + carrier + EU AI Act don't speak to each other
 
-The first Geneva boutique AI accountability service to publish the eighteen-module architecture with the six C314 EU AI Act modules — applicability review, client-facing readiness brief, Article 4 literacy program, Article 14 oversight documentation, Article 50 transparency protocol, multi-jurisdiction obligation map — owns the C314 category.
+The C314 service is the C312-C313 service plus six new modules. Same evidence architecture. Eighteen modules total.
 
-The first actor to deliver all six before August 2026 — bundled as the Pre-Deadline EU AI Act Readiness Package — owns the Geneva boutique EU AI Act readiness market.
+The first Geneva boutique AI accountability service to publish the eighteen-module architecture — with specific reference to T-minus 30 days — owns the C314 category. The first actor to deliver the cross-border applicability memo, the logging conflict resolution, the hallucination verification protocol, the privilege-preservation documentation, the cross-matter contamination audit, and the three-regime reconciliation memo — all delivered through one evidence architecture — owns the C314 brand.
 
-The rotation state: C314 Phase 01 (Geneva legal) is the start of a new cycle following C313 closure. C313 closed with "I thought things had calmed down. They didn't." C314 opens with "Your client just asked. The deadline is in 30 days."
+The rotation state: C314 Phase 01 (Geneva legal) is the second full cycle post-pause. C312 closed with "I already signed. Now what?" C313 opened with "I thought things had calmed down. They didn't." C314 opens with "T-minus 30 days. I don't know if I'm in scope."
 
 ---
 
@@ -169,7 +162,7 @@ The rotation state: C314 Phase 01 (Geneva legal) is the start of a new cycle fol
 
 **Output directory:** `/digitalcoa_staging/private/market_research/20260701_phase01_geneva_legal_cycle314/`
 
-**Cycle count:** 41 complete phases (C214–C313 + C314 Phase 01)
+**Cycle count:** 41 complete cycles (C214-C312 + C313 Phase 01-06 + C314 Phase 01)
 
 ---
 
