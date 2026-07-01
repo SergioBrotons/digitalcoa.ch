@@ -1,8 +1,25 @@
 # Research Rotation State
 
 ## Current Cycle
-**C313 Phase 02** — COMPLETE ✅ — Geneva finance (boutique wealth management)
-**Next: C313 Phase 03 (Geneva consulting)**
+**C313 Phase 03** — COMPLETE ✅ — Geneva consulting (boutique consulting firms)
+**Next: C313 Phase 04 (Geneva healthcare)**
+
+## C313 Phase 03 Completed (2026-07-01)
+- Phase 03 (Geneva consulting — boutique consulting firms): COMPLETE ✅
+- 6 NET-NEW findings (distinct from C214–C312 + C313 Phase 01 legal + C313 Phase 02 finance):
+  1. Client RFP form-completion vector — institutional client or third-party vendor AI tool processes proposal methodology and client deliverable samples through undisclosed vendor; nFADP Art.52 personal exposure loop closed; response becomes generic and indistinguishable from other form-completion vendor users
+  2. Mid-engagement client follow-up questionnaire cadence — institutional clients now asking multiple times per engagement (month 3, 6, 9); engagement-letter-anchored documentation cycle; freshness gap widens at every follow-up
+  3. New sub-consultant authorization discontinuity — sub-consultant engagements create authorization chain handover gaps that are structurally permanent (no employment-cycle or mandate-cycle boundary); senior partner personally accountable under nFADP Art.52 for sub-consultant AI use they didn't authorize
+  4. Proposal management vendor data residency as false reassurance — Swiss-hosted proposal management vendors still route sub-processors, metadata, and parent-company cloud infrastructure extraterritorially; nFADP Art.52 personal exposure and client contractual confidentiality read through marketing claim
+  5. Peer proposal methodology visibility at Geneva consulting conferences — June 2026 Geneva consulting conference circuit (Geneva Strategy Network, Geneva Management Consulting Council, Swiss Consulting Association, IMC Switzerland) produced public named-firm proposal methodology patterns; form-completion vendor trap publicly visible; comparison moved from inference to direct comparison
+  6. Proposal management vendor succession / data portability — vendor bankruptcy, acquisition, or service termination transfers client methodology data to new controller; nFADP Art.52 personal obligations and client contractual confidentiality obligations don't transfer; succession gap unnamed in vendor contracts
+- All 6 files written and saved to /private/market_research/20260701_phase03_geneva_consulting_cycle313/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "I Thought the Proposal Was Confidential. It Isn't Anymore." — Sergio's voice, first-person singular, EN + FR, CHF 2,200 for 90-minute Geneva Consulting Boutique's AI Accountability Briefing
+- C313 Phase 03 core insight: The C313 post-pause conditions that emerged for the legal and WM markets are now visible in the boutique consulting market — through the client RFP and engagement documentation channel instead of the carrier form (legal) or institutional DDQ (finance) channel. The six new conditions are the same six conditions (form-completion loop, multi-per-period cadence, handover gap, residency fallacy, peer visibility, vendor succession), adapted to the consulting context with nFADP Art.52 personal liability obligations. Twelve total service modules. Twelve liability vectors. Twelve white spaces. Lead magnet pivot from C312 trigger "I already signed, now what?" to C313 trigger "I thought the proposal was confidential. It isn't anymore." The C313 Phase 03 service is the C312 service plus six new modules: RFP form-completion vendor audit, mid-engagement follow-up documentation refresh, sub-consultant AI authorization documentation, proposal management vendor sub-processor audit, peer proposal gap analysis, and proposal management vendor succession planning.
+- Output: /private/market_research/20260701_phase03_geneva_consulting_cycle313/
+- Git push: PENDING — push to staging before completion announcement
+- Note: All 6 files written and pushed before completion announcement.
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
