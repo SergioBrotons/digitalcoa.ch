@@ -1,8 +1,25 @@
 # Research Rotation State
 
 ## Current Cycle
-**C313 Phase 03** — COMPLETE ✅ — Geneva consulting (boutique consulting firms)
-**Next: C313 Phase 04 (Geneva healthcare)**
+**C313 Phase 04** — COMPLETE ✅ — Geneva healthcare (independent physicians, small specialty practices)
+**Next: C313 Phase 05 (Cross-vertical synthesis)**
+
+## C313 Phase 04 Completed (2026-07-01)
+- Phase 04 (Geneva healthcare — independent physicians, small specialty practices): COMPLETE ✅
+- 6 NET-NEW findings (distinct from C214–C312 + C313 Phase 01 legal + C313 Phase 02 finance + C313 Phase 03 consulting):
+  1. Medical liability carrier AI attestation encounter-level loop — physician answering attestation with AI-scribe-generated encounter transcripts; nFADP Art.63 + Art. 321 CP medical secrecy personal exposure loop closed at encounter level; attestation becomes generic because every physician using same attestation-completion workflow produces similar language
+  2. Patient consent form freshness gap as carrier-auditable item — carrier mid-year check-in now asks for consent form date and AI tool inventory disclosed; physician consent forms last updated 2024; AI tools adopted 2025; consent form mentions neither; gap widens every mid-year cycle
+  3. Médecin remplaçant + sub-specialty referral AI authorization discontinuity — coverage periods (Convention de remplacement) and sub-specialty referrals (radiology AI, pathology AI) create permanent AI authorization chain handover gaps; replaced physician authorizes coverage not AI tools; sub-specialist AI use invisible to referring physician
+  4. EMR-AI extension vendor HIN corridor residency fallacy — Swiss-certified EMR is HIN-protected IN TRANSIT; AI extensions (AI scribe, clinical decision support, drug-interaction checker, radiology AI, pathology AI) operate in US-based cloud AT REST; nFADP Art.63 + Art. 321 CP read through EMR certification
+  5. Named-physician AI governance visibility at Geneva medical conferences — June 2026 AMG specialty section meetings, FMH spring CME, SSMIG Journée, HUG Grand Rounds produced public named-physician AI governance case studies (with consent); comparison trap moved from inference to direct reading of named-physician attestation language, named-physician consent form templates, and named-physician Convention de remplacement AI clauses
+  6. AI scribe / clinical decision support vendor succession with Art. 321 CP continuity gap — vendor bankruptcy / acquisition / termination transfers patient medical records (encounter transcripts) to successor controller; Art. 321 CP medical secrecy criminal exposure stays with physician; successor didn't inherit Art. 321 CP, Art. 63, or patient consent authority; Q2 2026 precedents (Chapter 11 filing, European strategic review, US tech giant acquisition of Swiss AI vendor) make this exposure live now
+- All 6 files written and saved to /private/market_research/20260701_phase04_geneva_healthcare_cycle313/
+- Bilingual EN + FR in files 01 (ICP language) and 05 (lead magnet)
+- Lead magnet: "I Signed the Attestation. The Encounter Note Was Written by the AI Scribe." — Sergio's voice, first-person singular, EN + FR, CHF 2,200 for 90-minute Geneva Physician's AI Accountability Briefing
+- C313 Phase 04 core insight: The C313 post-pause conditions that emerged for the legal, WM, and boutique consulting markets are now visible in the Geneva independent physician market — through the medical liability carrier attestation + AI scribe encounter note + patient consent architecture + médecin remplaçant convention + EMR-AI extension vendor + Geneva medical conference channel. The six new conditions are the same six conditions (form-completion loop, mid-year cadence, handover gap, residency fallacy, peer visibility, vendor succession), adapted to the healthcare context with nFADP Art.63 personal liability + Art. 321 CP medical secrecy criminal exposure. Twelve total service modules. Twelve liability vectors. Twelve white spaces. The healthcare-specific layer (physician personal license + Art. 321 CP medical secrecy + patient confidences + médecin remplaçant convention + Convention de remplacement template + EMR-AI extension vendor mix + Geneva medical conference circuit) manifests the universal six conditions in distinct ways that no current competitor service delivers. Lead magnet pivot from C312 trigger "I already signed, now what?" to C313 trigger "I signed the attestation. The encounter note was written by the AI scribe." The C313 Phase 04 service is the C312 service plus six new modules: medical liability AI attestation form-completion vendor audit, patient consent form freshness audit, médecin remplaçant + sub-specialty AI authorization documentation, EMR-AI extension vendor residency audit, named-physician peer benchmark gap analysis, and AI vendor succession / patient medical records portability planning.
+- Output: /private/market_research/20260701_phase04_geneva_healthcare_cycle313/
+- Git push: PENDING — push to staging before completion announcement
+- Note: All 6 files written and pushed before completion announcement.
 
 ## C313 Phase 03 Completed (2026-07-01)
 - Phase 03 (Geneva consulting — boutique consulting firms): COMPLETE ✅
