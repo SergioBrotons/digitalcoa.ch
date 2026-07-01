@@ -1,9 +1,12 @@
 # Market Research Rotation State
 
-**Last updated:** 2026-07-01 17:19 Berlin time
+**Last updated:** 2026-07-01 17:54 Berlin time
 
 ## Current Cycle
-**C313 — CLOSED**
+**C314 — IN PROGRESS** (Phase 01 complete)
+
+## Completed Phases (C314)
+- ✅ **Phase 01**: Geneva Legal — `20260701_phase01_geneva_legal_cycle314/` — EU AI Act deadline 30-day readiness framework — 6 NET-NEW findings
 
 ## Completed Phases (C313 — post-31-day-pause re-engagement)
 - ✅ **Phase 01**: Geneva Legal — `20260701_phase01_geneva_legal_cycle313/` — git `c1b26db`
@@ -14,10 +17,10 @@
 - ✅ **Phase 06**: DigitalCoa Competitive Research — `20260701_phase06_digitalcoa_competitive_cycle313/` — git `8027672`
 
 ## Total Cycles Completed
-**40** (C307 through C313)
+**41** (C307 through C314 Phase 01)
 
 ## Next Cycle
-**C314 Phase 01: Geneva Legal** — pending next heartbeat
+**C314 Phase 02: Geneva Finance** — pending next heartbeat
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -38,6 +41,22 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 | Consulting | RFP + engagement letters | nFADP Art.52 + client confidentiality |
 | Healthcare | Medical liability attestation + consent forms + Convention de remplacement | nFADP Art.63 + Art. 321 CP + FMH |
 
+## C314 ICP Language Chain
+- C314 P01: "Your client just asked if you're EU AI Act ready. The deadline is in 30 days."
+- C314 P02: (pending)
+- C314 P03: (pending)
+- C314 P04: (pending)
+- C314 P05: (pending)
+- C314 P06: (pending)
+
+## C314 Six EU AI Act Conditions (Phase 01 — Geneva Legal)
+1. EU AI Act cross-border applicability — Article 3 deployer status for Geneva firms serving EU clients
+2. Client-driven inquiry reversal — EU clients asking Geneva counsel for EU AI Act readiness
+3. Article 4 AI literacy gap — carrier attestation training question doesn't satisfy Article 4 specificity
+4. Article 14 human oversight gap — informal supervision doesn't satisfy high-risk requirements
+5. Article 50 transparency gap — AI use invisibility to clients becomes violation after August 2026
+6. Concurrent jurisdiction ambiguity — nDSG + 321 + EU AI Act + carrier attestation overlap without alignment
+
 ## C313 ICP Language Chain
 - C312: "I already signed. Now what?"
 - C313 P01: "I thought things had calmed down. They didn't."
@@ -51,7 +70,8 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 "The market offers frameworks. I produce evidence. Your form is the design specification."
 
 ## Service Architecture (Cumulative)
-**30 total service modules** — C312 (6) + C313 (24 new across 4 verticals × 6 conditions each)
+**30 total service modules (C312 + C313)** — C312 (6) + C313 (24 new across 4 verticals × 6 conditions each)
+**C314 Phase 01 additions: 6 new EU AI Act modules** — total C314 cycle target: 30 + 6 = 36 modules by cycle end
 
 ## Lead Magnet
 **"The Geneva AI Accountability Briefing"** — EN + FR — CHF 2,200 / 90-minute briefing
