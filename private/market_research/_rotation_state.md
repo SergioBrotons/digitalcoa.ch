@@ -1,6 +1,46 @@
 # Market Research Rotation State
 
-Last updated: 2026-07-01 (C315 Phase 02 close)
+Last updated: 2026-07-01 (C315 Phase 03 close)
+
+## Cycle Status
+
+### C315 — EU AI Act Post-Deadline Enforcement Lens — IN PROGRESS (3/6 phases)
+**Timing driver:** EU AI Act high-risk applicability active since late August 2026, ~30 days post-activation
+**Cycle count:** 48 cumulative (C315 P03 = 48th cycle)
+**Pivot:** T-minus 30 (C314 readiness) → T-plus 30 (C315 enforcement)
+
+| Phase | Vertical | Git Commit | Date |
+|-------|----------|------------|------|
+| 01 | Geneva Legal — Post-Deadline Enforcement | afeec04 | 2026-07-01 |
+| 02 | Geneva Finance — Post-Deadline FINMA-Article 26 Enforcement | f896904 | 2026-07-01 |
+| 03 | Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement | (pending push) | 2026-07-01 |
+| 04 | Geneva Healthcare — Post-Deadline Physician Article 26 Enforcement | — | — |
+| 05 | Cross-Vertical Synthesis — T-plus 30 Days Universal Condition | — | — |
+| 06 | DigitalCoa Competitive — T-plus 30 Days Category Reaffirmation | — | — |
+
+### C315 P03 NET-NEW Findings (Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement)
+1. Sub-consultant AI authorization roster audit — first MSA Article 99 procedural letter specifically naming the sub-consultant individual (named AI tool, named deliverable, named engagement, named EU client); MSA obtains sub-consultant name from EU client procurement file, senior partner's proposal management vendor logs, or sub-consultant's own AI vendor logs (Article 12 audit); 30-day response window
+2. Sub-consultant carrier attestation cycle — three new sub-consultant-specific clauses at mid-year 2026 refresh (sub-consultant AI authorization attestation + sub-consultant AI literacy attestation + sub-consultant incident response attestation); clauses cite EU AI Act Article 26 + nFADP Art.63 by article number; require named-sub-consultant individual evidence; handover-window documentation requirement
+3. Sub-consultant handover-window named-sub-principal discontinuity — monthly sub-consultant turnover creates Article 26 named-sub-principal attribution gap; named sub-consultant from carrier attestation, MSA audit response, and FDPIC file all reference sub-consultants no longer on engagement; new sub-consultant has not signed AI authorization record, AI literacy credential, or supervision protocol; discontinuity requires monthly cadence handover documentation, not annual attestation cadence
+4. Article 50 deliverable transparency enforcement through EU client contractual disclosure clause — EU corporate clients require specific 4-element disclosure per named deliverable (named AI tool + named sub-consultant individual + named human review checkpoint + named deliverable reproducibility statement); MSA audit response requires Article 50 compliance demonstration; first Genevoise peer firm cited for Article 50 deliverable transparency failure
+5. Sub-consultant vendor sub-processor audit — MSA audits the sub-consultant's own AI vendor (not the senior partner's AI vendor, not the EU client's AI vendor); sub-consultant's AI vendor cooperation duty discloses engagement-level logs revealing named sub-consultant individual activity; Geneva boutique identity disclosed through engagement reference; senior partner does not control the sub-consultant's AI vendor
+6. Three-regime sub-consultant enforcement coordination — nFADP Art.63 + EU AI Act Art.26 + carrier attestation coordinating through the named sub-consultant individual; named sub-consultant is integrating individual across MSA Article 99 + FDPIC Art.63 + carrier attestation sub-consultant-specific clause + EU AI Act Art.26 named-sub-principal attribution; three-regime coordination documented per-engagement with handover-window continuity
+
+### C315 P03 ICP Language Chain
+- Geneva Consulting Post-Deadline Sub-Consultant: "My sub-consultant's name is in the MSA's letter. The deliverable's name is in the carrier's attestation. My name is in the FDPIC's file. The sub-consultant changed last month. The new sub-consultant is on the same EU client deliverable. The deadline is past. The first named-sub-consultant enforcement letter has been sent. Will mine be next? Here is what to do this week."
+- Hinge phrases: The MSA named my sub-consultant, the sub-consultant in the letter is no longer on the engagement / My carrier added three sub-consultant-specific clauses, the sub-consultant in the attestation handed over / My sub-consultant changed last month, the new sub-consultant is on the same engagement / My EU client activated Article 50 through the contractual disclosure clause / The MSA audited my sub-consultant's AI vendor, I did not know which AI vendor my sub-consultant was using / My sub-consultant's name is in three files: the MSA's letter, the FDPIC's file, the carrier's attestation
+
+### C315 P03 Service Architecture (36 modules total = 30 from C312-C313-C314-C315 P01-P02 + 6 new in C315 P03)
+- Module 31: Sub-consultant AI authorization roster audit response architecture
+- Module 32: Sub-consultant carrier attestation clause translation memo
+- Module 33: Sub-consultant handover-window named-sub-principal continuity architecture
+- Module 34: Article 50 deliverable transparency enforcement language template
+- Module 35: Sub-consultant vendor sub-processor audit response architecture
+- Module 36: Three-regime sub-consultant enforcement coordination architecture
+- **Pricing — C315 P03 Post-Deadline Sub-Consultant Article 26 Enforcement Bundle for Geneva Boutique Consulting: CHF 11,900** (the 6 new C315 P03 modules, delivered T-plus 30 to T-plus 180)
+- **Total cross-cycle architecture: 36 modules. Post-Deadline Cross-Vertical Enforcement Bundle: CHF 17,900** (legal + finance + consulting + healthcare vertical bundles, all 24 C315 modules)
+
+---
 
 ## Cycle Status
 
@@ -94,11 +134,12 @@ Last updated: 2026-07-01 (C315 Phase 02 close)
 
 ---
 
-## C315 — Active Cycle: Geneva Legal (Phase 01) + Geneva Finance (Phase 02) — COMPLETE
+## C315 — Active Cycle: Geneva Legal (Phase 01) + Geneva Finance (Phase 02) + Geneva Consulting (Phase 03) — COMPLETE
 
-**Cycle count:** 47 cycles (C315 P01 closed 2026-07-01, C315 P02 closed 2026-07-01)
+**Cycle count:** 48 cycles (C315 P01 closed 2026-07-01, C315 P02 closed 2026-07-01, C315 P03 closed 2026-07-01)
 **P01 output directory:** /digitalcoa_staging/private/market_research/20260701_phase01_geneva_legal_cycle315/
 **P02 output directory:** /digitalcoa_staging/private/market_research/20260701_phase02_geneva_finance_cycle315/
+**P03 output directory:** /digitalcoa_staging/private/market_research/20260701_phase03_geneva_consulting_cycle315/
 
 ### C315 Pivot Summary
 - C314 (closed) = readiness BEFORE the deadline (T-minus 30 days)
@@ -134,6 +175,8 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 - C312: 6 phases (carrier attestation — first readiness cycle)
 - C313: 6 phases (post-31-day-pause — first re-engagement cycle)
 - C314: 6 phases (EU AI Act 30-day operational lens — fully closed)
-- C315: 2 phases complete (legal + finance post-deadline enforcement), 4 phases remaining
+- C315: 3 phases complete (legal + finance + consulting post-deadline enforcement), 3 phases remaining
+
+Total: 48 cycles as of C315 P03 close.
 
 Total: 47 cycles as of C315 P02 close.
