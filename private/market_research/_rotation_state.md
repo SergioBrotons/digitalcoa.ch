@@ -1,13 +1,14 @@
 # Market Research Rotation State
 
-**Last updated:** 2026-07-01 18:03 Berlin time
+**Last updated:** 2026-07-01 18:12 Berlin time
 
 ## Current Cycle
-**C314 — IN PROGRESS** (Phase 02 complete; Phase 03 next)
+**C314 — IN PROGRESS** (Phase 03 complete; Phase 04 next)
 
 ## Completed Phases (C314)
 - ✅ **Phase 01**: Geneva Legal — `20260701_phase01_geneva_legal_cycle314/` — EU AI Act deadline 30-day readiness framework — 6 NET-NEW findings — git `9fed5ef`
 - ✅ **Phase 02**: Geneva Finance — `20260701_phase02_geneva_finance_cycle314/` — EU AI Act 30-day readiness for boutique WM (EU institutional client channel, nFADP Art.63 + FINMA Circular 2026/03 §7.4 + carrier + EU AI Act four-regime stack) — 6 NET-NEW findings
+- ✅ **Phase 03**: Geneva Consulting — `20260701_phase03_geneva_consulting_cycle314/` — EU AI Act 30-day deployer readiness for boutique consulting (EU corporate client RFP EU AI Act section, named-individual deliverable accountability, sub-consultant AI authorization chain under Article 26, documented client conversation protocol as nFADP Art.63 vector, Article 50 deliverable transparency, FINMA-adjacent trigger through fintech client channel) — 6 NET-NEW findings
 
 ## Completed Phases (C313 — post-31-day-pause re-engagement)
 - ✅ **Phase 01**: Geneva Legal — `20260701_phase01_geneva_legal_cycle313/` — git `c1b26db`
@@ -18,10 +19,10 @@
 - ✅ **Phase 06**: DigitalCoa Competitive Research — `20260701_phase06_digitalcoa_competitive_cycle313/` — git `8027672`
 
 ## Total Cycles Completed
-**42** (C307 through C314 Phase 02)
+**43** (C307 through C314 Phase 03)
 
 ## Next Cycle
-**C314 Phase 03: Geneva Consulting** — pending next heartbeat
+**C314 Phase 04: Geneva Healthcare** — pending next heartbeat
 
 ## Rotation Sequence
 legal → finance → consulting → healthcare → cross-vertical → DigitalCoa → repeat
@@ -45,7 +46,7 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 ## C314 ICP Language Chain
 - C314 P01: "T-minus 30 days. I don't know if I'm in scope."
 - C314 P02: "My institutional client just asked for EU AI Act readiness. The deadline is in 30 days. I am the answer they need, and I don't have it."
-- C314 P03: (pending)
+- C314 P03: "My EU client just asked who is responsible for the AI use on this engagement, by name. The deadline is in 30 days. The answer is me. And I cannot produce the documentation that proves it."
 - C314 P04: (pending)
 - C314 P05: (pending)
 - C314 P06: (pending)
@@ -91,7 +92,8 @@ legal → finance → consulting → healthcare → cross-vertical → DigitalCo
 **30 total service modules (C312 + C313)** — C312 (6) + C313 (24 new across 4 verticals × 6 conditions each)
 **C314 Phase 01 additions: 6 new EU AI Act modules (legal vertical)** — Article 6(3) applicability, Art.321 vs Art.12 conflict, hallucination protocol, privilege preservation, contamination audit, three-regime reconciliation
 **C314 Phase 02 additions: 6 new EU AI Act modules (finance vertical)** — Article 3 deployer applicability memo, four-regime personal liability map, authorization chain documentation system, sub-processor audit memo, DDQ-to-questionnaire continuity bridge, FINMA Circular 2026/03 §7.4 compliance pack
-**C314 cycle target: 30 + 12 = 42 modules by cycle end** (P01 6 + P02 6 + P03 6 + P04 6 + P05 cross-vertical + P06 DigitalCoa — projected)
+**C314 Phase 03 additions: 6 new EU AI Act modules (consulting vertical)** — Article 3 deployer applicability memo (consulting vertical, engagement-specific + deliverable-named), sub-consultant AI authorization chain documentation system, documented client conversation protocol (Art.63 vector for AI-transcribed conversations), Article 50 deliverable transparency language, FINMA-adjacent AI governance pack (via fintech client channel), peer EU AI Act readiness gap analysis
+**C314 cycle target: 30 + 18 = 48 modules by cycle end** (P01 6 + P02 6 + P03 6 + P04 6 + P05 cross-vertical + P06 DigitalCoa — projected)
 
 ## Lead Magnet
 **"The Geneva AI Accountability Briefing"** — EN + FR — CHF 2,200 / 90-minute briefing
