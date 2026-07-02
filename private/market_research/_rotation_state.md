@@ -1,22 +1,34 @@
 # Market Research Rotation State
 
-Last updated: 2026-07-01 (C315 Phase 03 close)
+Last updated: 2026-07-02 (C315 Phase 04 close)
 
 ## Cycle Status
 
-### C315 — EU AI Act Post-Deadline Enforcement Lens — IN PROGRESS (3/6 phases)
+### C315 — EU AI Act Post-Deadline Enforcement Lens — IN PROGRESS (4/6 phases)
 **Timing driver:** EU AI Act high-risk applicability active since late August 2026, ~30 days post-activation
-**Cycle count:** 48 cumulative (C315 P03 = 48th cycle)
+**Cycle count:** 48 cumulative (C315 P04 = 48th cycle)
 **Pivot:** T-minus 30 (C314 readiness) → T-plus 30 (C315 enforcement)
 
 | Phase | Vertical | Git Commit | Date |
 |-------|----------|------------|------|
 | 01 | Geneva Legal — Post-Deadline Enforcement | afeec04 | 2026-07-01 |
 | 02 | Geneva Finance — Post-Deadline FINMA-Article 26 Enforcement | f896904 | 2026-07-01 |
-| 03 | Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement | (pending push) | 2026-07-01 |
-| 04 | Geneva Healthcare — Post-Deadline Physician Article 26 Enforcement | — | — |
+| 03 | Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement | 299a7b4 | 2026-07-01 |
+| 04 | Geneva Healthcare — Post-Deadline Physician Article 26 Enforcement | (this commit) | 2026-07-02 |
 | 05 | Cross-Vertical Synthesis — T-plus 30 Days Universal Condition | — | — |
 | 06 | DigitalCoa Competitive — T-plus 30 Days Category Reaffirmation | — | — |
+
+### C315 P04 NET-NEW Findings (Geneva Healthcare — Post-Deadline Physician Article 26 Enforcement)
+1. First MSA Article 99 procedural letter specifically naming the physician — named-physician + named-AI-scribe + named-encounter + named-EU-patient + named-substitute médecin remplaçant; MSA obtains names from US-hosted AI scribe vendor logs (Article 12 audit), Convention de remplacement registry cross-reference, patient consent form cross-reference, or EMR-AI extension HIN corridor cross-reference; 30-day response window
+2. 2026 mid-year carrier attestation refresh adds four named-physician-specific clauses — named-physician AI scribe inventory clause + named-encounter AI tool usage attestation clause + named-physician Article 4 AI literacy attestation clause + named-physician incident response attestation clause; clauses cite Article 26 + nFADP Art.63 + Article 321 CP by article number (first-time Article 321 CP reference in carrier attestation language); 15-22% premium re-pricing signal
+3. FDPIC Art.63 supervisory letter coordination with MSA Article 99 letter through named-physician triple — FDPIC names physician as data controller responsible person; MSA letter and FDPIC letter refer to same named-AI-scribe + named-encounter + named-EU-patient + named-substitute médecin remplaçant; named-physician must produce single named-physician evidence record referenced in both letters
+4. SSMIG Journée + AMG Geneva + FMH CME + HUG colloques médico-chirurgicaux September 2026 named-physician peer disclosure cycle — first Genevoise peer physician public disclosure of MSA letter + FDPIC letter + carrier clauses + Convention de remplacement addendum + remediation timeline; second-wave pressure active
+5. US CLOUD Act exposure through US-hosted AI scribe vendor — MSA Article 12 audit on US-hosted AI scribe vendor (Microsoft Nuance DAX, Abridge, Suki — ~70% of Geneva market) producing engagement-level logs revealing named-physician triple; vendor cooperation duty with EU MSA under EU market access conditionality; nFADP Art.45(2) cross-border explicit consent gap (US is non-adequate jurisdiction); US CLOUD Act 50 USC §2713 federal subpoena authority exposure
+6. Convention de remplacement named-substitute médecin remplaçant handover-window named-sub-principal discontinuity — per-couverture-period turnover (2-4 weeks per vacation/conference/illness/parental leave) creates Article 26 named-sub-principal attribution gap; named-substitute from carrier attestation + MSA audit response + FDPIC file + Convention de remplacement addendum archive all reference named-substitutes no longer on practice; new named-substitute has signed addendum but is not in enforcement files; discontinuity requires per-couverture-period handover documentation, not annual attestation cadence
+
+### C315 P04 ICP Language Chain
+- Geneva Healthcare Post-Deadline Physician: "My name is in the MSA letter. The AI scribe is named. The encounter is named. The patient is named. The médecin remplaçant who covered that encounter is named. The deadline is past. The first named-physician enforcement letter has been sent. My peer was named at SSMIG. The FDPIC has opened my Art.63 file. My carrier added four physician-specific clauses at the mid-year refresh. The médecin remplaçant named in the attestation handed over three weeks ago. The new médecin remplaçant is on the same EU patient encounter. Will mine be next? Here is what to do this week."
+- Hinge phrases: The MSA named me, the AI scribe, the encounter, the patient, the médecin remplaçant / My carrier added four named-physician-specific clauses citing Article 26, nFADP Art.63, and Article 321 CP / My name is in two letters: the MSA's Article 99 letter and the FDPIC's Art.63 letter / My Genevoise peer physician was named at SSMIG Journée September 2026, the second wave is coming / The MSA audited my US-hosted AI scribe vendor, the vendor disclosed me through vendor cooperation duty / My médecin remplaçant handed over three weeks ago, the new médecin remplaçant is on the same EU patient encounter
 
 ### C315 P03 NET-NEW Findings (Geneva Consulting — Post-Deadline Sub-Consultant Article 26 Enforcement)
 1. Sub-consultant AI authorization roster audit — first MSA Article 99 procedural letter specifically naming the sub-consultant individual (named AI tool, named deliverable, named engagement, named EU client); MSA obtains sub-consultant name from EU client procurement file, senior partner's proposal management vendor logs, or sub-consultant's own AI vendor logs (Article 12 audit); 30-day response window
@@ -39,6 +51,16 @@ Last updated: 2026-07-01 (C315 Phase 03 close)
 - Module 36: Three-regime sub-consultant enforcement coordination architecture
 - **Pricing — C315 P03 Post-Deadline Sub-Consultant Article 26 Enforcement Bundle for Geneva Boutique Consulting: CHF 11,900** (the 6 new C315 P03 modules, delivered T-plus 30 to T-plus 180)
 - **Total cross-cycle architecture: 36 modules. Post-Deadline Cross-Vertical Enforcement Bundle: CHF 17,900** (legal + finance + consulting + healthcare vertical bundles, all 24 C315 modules)
+
+### C315 P04 Service Architecture (42 modules total = 36 from C312-C313-C314-C315 P01-P03 + 6 new in C315 P04)
+- Module 37: Named-physician MSA Article 99 audit response architecture
+- Module 38: Carrier attestation named-physician-clause translation memo (4 named-physician-specific clauses + first-time Article 321 CP reference)
+- Module 39: FDPIC-MSA coordination architecture for named-physicians (named-physician triple + Article 321 CP-compliant pseudonymized abstraction)
+- Module 40: Named-physician proactive disclosure architecture for SSMIG/AMG/FMH/HUG September 2026 conference cycle
+- Module 41: US CLOUD Act MSA-audit exposure map + named-physician audit response architecture (per named-AI-scribe vendor + per named-data-residency + EU-hosted migration architecture)
+- Module 42: Named-substitute médecin remplaçant handover-window named-sub-principal continuity architecture (per-couverture-period cadence)
+- **Pricing — C315 P04 Post-Deadline Physician Article 26 Enforcement Bundle for Geneva Médecin Installé: CHF 11,900** (the 6 new C315 P04 modules, delivered T-plus 30 to T-plus 180)
+- **Total cross-cycle architecture: 42 modules. Post-Deadline Cross-Vertical Enforcement Bundle: CHF 19,900** (legal + finance + consulting + healthcare vertical bundles, all 24 C315 modules)
 
 ---
 
